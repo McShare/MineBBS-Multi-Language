@@ -10,7 +10,7 @@
 
 ## 目前的语言翻译进度：
 
-![github](https://img.shields.io/badge/简体中文-91%25-red)：界面基本翻译完成，可能存在细节错漏，后台部分语言未翻译
+![github](https://img.shields.io/badge/简体中文-89%25-red)：界面基本翻译完成，可能存在细节错漏，后台部分语言未翻译
 
 ![github](https://img.shields.io/badge/繁體中文-68%25-green) ：界面大体翻译完成，可能存在部分漏译，后台语言未翻译
 
