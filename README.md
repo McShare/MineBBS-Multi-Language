@@ -9,14 +9,14 @@
 
 目前的语言翻译进度：
 
-简体中文（zh-CHS）：https://progressed.io/bar/90
+简体中文（zh-CHS）：![Progress](http://progressed.io/bar/90) 
 
-繁體中文（zh-CHT）：https://progressed.io/bar/67
+繁體中文（zh-CHT）：![Progress](http://progressed.io/bar/68)  
 
-English-(EN)：https://progressed.io/bar/96
+English-(EN)：![Progress](http://progressed.io/bar/96)  
 
-العربية（AR）：https://progressed.io/bar/32
+العربية（AR）：![Progress](http://progressed.io/bar/32)  
 
-Русский (RU)：https://progressed.io/bar/31
+Русский (RU)：![Progress](http://progressed.io/bar/28)  
 
 期待你与我们一同翻译！
