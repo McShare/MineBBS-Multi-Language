@@ -7,16 +7,17 @@
 
 你可以在现有语言文件上进行翻译、修正，也可以在issue中提出需要的语言文件（我会创建过来上传）。
 
-目前的语言翻译进度：
 
-简体中文（zh-CHS）：![Progress](http://progressed.io/bar/90) 
+## 目前的语言翻译进度：
 
-繁體中文（zh-CHT）：![Progress](http://progressed.io/bar/68)  
+![github](https://img.shields.io/badge/简体中文-91%25-red)：界面基本翻译完成，可能存在细节错漏，后台部分语言未翻译
 
-English-(EN)：![Progress](http://progressed.io/bar/96)  
+![github](https://img.shields.io/badge/繁體中文-68%25-green) ：界面大体翻译完成，可能存在部分漏译，后台语言未翻译
 
-العربية（AR）：![Progress](http://progressed.io/bar/32)  
+![github](https://img.shields.io/badge/English-97%25-blue)：界面基本完成，可能存在细节漏译，后台语言基本完成
 
-Русский (RU)：![Progress](http://progressed.io/bar/28)  
+![github](https://img.shields.io/badge/العربية-33%25-yellow)：界面部分翻译完成，存在大量漏译，后台语言未翻译 
 
-期待你与我们一同翻译！
+![github](https://img.shields.io/badge/Русский-27%25-white)：界面部分翻译完成，存在大量漏译，后台语言未翻译
+
+期待你的帮助！
