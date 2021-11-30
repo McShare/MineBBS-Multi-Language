@@ -5767,7 +5767,36 @@ If enabled, users will be able to pay with Apple Pay, Android Pay, Google Pay an
   <phrase title="extension_x_already_defined" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[The extension '{name}' has already been defined.]]></phrase>
   <phrase title="extra" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[إضافات]]></phrase>
   <phrase title="extra_attributes" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[خواص إضافية]]></phrase>
-  <phrase title="extra_copyright" addon_id="XF" version_id="1030033" version_string="1.3.0 Beta 3"><![CDATA[]]></phrase>
+  <phrase title="extra_copyright" addon_id="XF" version_id="1030033" version_string="1.3.0 Beta 3"><![CDATA[برنامج من Xenforo |  نمط من Themehouse<br>
+تابعنا ：<a href="https://space.bilibili.com/29023601" rel="nofollow">Bilibili</a> | <a href="https://twitter.com/McShareTeam" rel="nofollow">Twitter</a> | <a href="https://github.com/SuperYYT" rel="nofollow">Github</a> | <a href="http://weibo.com/5679272983/" rel="nofollow">Weibo</a><br>
+<script type="text/javascript">
+    copyright=new Date();
+    update=copyright.getFullYear();
+    document.write("&copy; 2018-"+ update + " MineBBS جميع الحقوق محفوظة");
+</script>
+<script>
+(function(){
+var src = "https://s.ssl.qhres2.com/ssl/ab77b6ea7f3fbf79.js";
+document.write('<script src="' + src + '" id="sozz"><\/script>');
+})();
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-138902227-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-138902227-1');
+</script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?b8de4830f7758e27db7bddfc14d6df4b";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<script data-ad-client="ca-pub-1946589229745980" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>]]></phrase>
   <phrase title="extra_email_footer_html" addon_id="XF" version_id="2000051" version_string="2.0.0 Release Candidate 1"><![CDATA[فوتر إضافي للبريد الإلكتروني (HTML)]]></phrase>
   <phrase title="extra_email_footer_plain_text" addon_id="XF" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[فوتر إضافي للبريد الإلكتروني (نص عادي)]]></phrase>
   <phrase title="extra_footer_copyright" addon_id="XF" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[فوتر حقوق إضافي]]></phrase>
