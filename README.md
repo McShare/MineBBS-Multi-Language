@@ -30,7 +30,7 @@
 
 `<phrase title="3_months_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[3 個月前]]></phrase>`
 
-其中`title`为字段id，`addon_id`为所属组件名称，两个`version`为版本，请不要对这些进行变更。
+其中`title`为字段id，`addon_id`为所属组件名称，两个`version`为版本，请**不要对这些内容进行更改**。
 
 可翻译的部分是`CDATA[3 個月前]`中括号内的内容，在例中即为`3 個月前`。
 
