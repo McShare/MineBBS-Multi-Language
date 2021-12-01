@@ -24,6 +24,8 @@
 
 [![github](https://img.shields.io/badge/Русский-27%25-white)](https://github.com/McShare/MineBBS-Multi-Language/blob/main/language-Russkij-(RU).xml)：界面部分翻译完成，存在大量漏译，后台语言未翻译
 
+[![github](https://img.shields.io/badge/日本語-0%25-orange)](https://github.com/McShare/MineBBS-Multi-Language/blob/main/language-%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%88JP%EF%BC%89.xml)：界面未完成，后台未翻译
+
 ## 翻译建议：
 
 一个完整的字段代码是这样的：
