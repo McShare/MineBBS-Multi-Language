@@ -15,19 +15,19 @@
   <phrase title="3_months_ago" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Три месяца назад]]></phrase>
   <phrase title="6_months_ago" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Шесть месяцев назад]]></phrase>
   <phrase title="9_months_ago" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Девять месяцев назад]]></phrase>
-  <phrase title="CMTV_Code_code_block_highlight" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[突出显示行]]></phrase>
-  <phrase title="CMTV_Code_code_block_highlight_explain" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[可选。要突出显示的行号。例如，“2，4-6”将突出显示第2、4、5和6行。]]></phrase>
-  <phrase title="CMTV_Code_code_block_title" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[代码模块标题]]></phrase>
-  <phrase title="CMTV_Code_code_block_title_explain" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[可选的。 如果指定，默认代码语言名称将替换为代码块标题处的标题文本。 例如，可用于指定文件名。]]></phrase>
-  <phrase title="CMTV_Code_collapse" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[折叠]]></phrase>
-  <phrase title="CMTV_Code_copied" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[代码已复制到剪贴板。]]></phrase>
-  <phrase title="CMTV_Code_copy" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[复制]]></phrase>
-  <phrase title="CMTV_Code_expand" addon_id="CMTV/Code" version_id="2020070" version_string="2.2.0"><![CDATA[扩展]]></phrase>
-  <phrase title="EWRporta_add_author" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Add author]]></phrase>
-  <phrase title="EWRporta_articles" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Articles]]></phrase>
-  <phrase title="EWRporta_authors" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Authors]]></phrase>
-  <phrase title="EWRporta_break_text" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Break text]]></phrase>
-  <phrase title="EWRporta_byline" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Byline]]></phrase>
+  <phrase title="CMTV_Code_code_block_highlight" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[Выделите строку]]></phrase>
+  <phrase title="CMTV_Code_code_block_highlight_explain" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[Дополнительно. Номер строки, которую нужно выделить. Например, "2, 4-6" выделит строки 2, 4, 5 и 6.]]></phrase>
+  <phrase title="CMTV_Code_code_block_title" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[Код Название модуля]]></phrase>
+  <phrase title="CMTV_Code_code_block_title_explain" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[Дополнительно. Если указано, имя языка кода по умолчанию будет заменено текстом заголовка в заголовке блока кода. Это можно использовать, например, для указания имени файла.]]></phrase>
+  <phrase title="CMTV_Code_collapse" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[Сложите]]></phrase>
+  <phrase title="CMTV_Code_copied" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[Код был скопирован в буфер обмена.]]></phrase>
+  <phrase title="CMTV_Code_copy" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[скопировать]]></phrase>
+  <phrase title="CMTV_Code_expand" addon_id="CMTV/Code" version_id="2020070" version_string="2.2.0"><![CDATA[Расширять]]></phrase>
+  <phrase title="EWRporta_add_author" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Добавить автор]]></phrase>
+  <phrase title="EWRporta_articles" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Статьи]]></phrase>
+  <phrase title="EWRporta_authors" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Авторы]]></phrase>
+  <phrase title="EWRporta_break_text" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Перерыв текст]]></phrase>
+  <phrase title="EWRporta_byline" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Подлый]]></phrase>
   <phrase title="EWRporta_category_links" addon_id="EWR/Porta" version_id="1300" version_string="1.3.0.0"><![CDATA[Category links]]></phrase>
   <phrase title="EWRporta_click_here_to_view_article_text" addon_id="EWR/Porta" version_id="2023" version_string="2.0.2.3"><![CDATA[Click here to view article text]]></phrase>
   <phrase title="EWRporta_countdown_active_text" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Active text]]></phrase>
