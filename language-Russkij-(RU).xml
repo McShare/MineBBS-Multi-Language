@@ -28,64 +28,64 @@
   <phrase title="EWRporta_authors" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Авторы]]></phrase>
   <phrase title="EWRporta_break_text" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Перерыв текст]]></phrase>
   <phrase title="EWRporta_byline" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Подлый]]></phrase>
-  <phrase title="EWRporta_category_links" addon_id="EWR/Porta" version_id="1300" version_string="1.3.0.0"><![CDATA[Category links]]></phrase>
-  <phrase title="EWRporta_click_here_to_view_article_text" addon_id="EWR/Porta" version_id="2023" version_string="2.0.2.3"><![CDATA[Click here to view article text]]></phrase>
-  <phrase title="EWRporta_countdown_active_text" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Active text]]></phrase>
-  <phrase title="EWRporta_countdown_inactive_text" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Inactive text]]></phrase>
-  <phrase title="EWRporta_create_articles_from_forum" addon_id="EWR/Porta" version_id="2000" version_string="2.0.0.0"><![CDATA[Automatically create articles from forum threads]]></phrase>
-  <phrase title="EWRporta_discord_server_id" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Server ID]]></phrase>
-  <phrase title="EWRporta_edit_article_promotion" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Edit article promotion]]></phrase>
-  <phrase title="EWRporta_edit_author" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Edit author]]></phrase>
-  <phrase title="EWRporta_edit_feature_promotion" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Edit feature promotion]]></phrase>
-  <phrase title="EWRporta_enable_custom_article_layout" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Enable custom article layout]]></phrase>
-  <phrase title="EWRporta_enable_simple_comments" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Enable simple comments]]></phrase>
-  <phrase title="EWRporta_excerpt" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Excerpt]]></phrase>
-  <phrase title="EWRporta_excerpt_trim" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Excerpt trim]]></phrase>
-  <phrase title="EWRporta_exclude_from_article_index" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Exclude from article index]]></phrase>
-  <phrase title="EWRporta_exclude_from_article_index_hint" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Article will only appear when viewing categories and authors.]]></phrase>
-  <phrase title="EWRporta_facebook_hide_cover" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Hide cover]]></phrase>
-  <phrase title="EWRporta_facebook_hide_cta" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Hide call-to-action]]></phrase>
-  <phrase title="EWRporta_facebook_page_url" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Page URL]]></phrase>
-  <phrase title="EWRporta_facebook_show_facepile" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Show facepile]]></phrase>
-  <phrase title="EWRporta_facebook_small_header" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Small header]]></phrase>
-  <phrase title="EWRporta_features" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Features]]></phrase>
-  <phrase title="EWRporta_features_relocate_slider" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Relocate slider]]></phrase>
-  <phrase title="EWRporta_features_relocate_slider_hint" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[The slider will be detached and inserted before this element.]]></phrase>
-  <phrase title="EWRporta_features_show_on_author_pages" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Show on author pages]]></phrase>
-  <phrase title="EWRporta_features_show_on_category_pages" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Show on category pages]]></phrase>
-  <phrase title="EWRporta_features_show_on_pages_beyond_first" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Show on pages beyond the first]]></phrase>
-  <phrase title="EWRporta_features_show_pager_bullets" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Show pager bullets]]></phrase>
-  <phrase title="EWRporta_features_show_prev_next_controls" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Show prev/next controls]]></phrase>
-  <phrase title="EWRporta_features_show_progress_bar" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Show progress bar]]></phrase>
-  <phrase title="EWRporta_features_show_start_stop_controls" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Show start/stop controls]]></phrase>
-  <phrase title="EWRporta_features_transition_frequency" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Transition frequency]]></phrase>
-  <phrase title="EWRporta_features_transition_mode" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Transition mode]]></phrase>
-  <phrase title="EWRporta_features_transition_speed" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Transition speed]]></phrase>
-  <phrase title="EWRporta_format_thread_as_article" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Format thread as an article]]></phrase>
-  <phrase title="EWRporta_icon" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Icon]]></phrase>
-  <phrase title="EWRporta_load_more" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Load more]]></phrase>
-  <phrase title="EWRporta_media_hint" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Embed a YouTube video directly into the fold by adding the <b>VIDEO ID</b> here.]]></phrase>
-  <phrase title="EWRporta_pin" addon_id="EWR/Porta" version_id="2104" version_string="2.1.0.4"><![CDATA[PIN]]></phrase>
-  <phrase title="EWRporta_please_confirm_that_you_want_to_delete_the_article_promotion_for" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Please confirm that you want to delete the article promotion for]]></phrase>
-  <phrase title="EWRporta_please_confirm_that_you_want_to_delete_the_feature_promotion_for" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Please confirm that you want to delete the feature promotion for]]></phrase>
-  <phrase title="EWRporta_promote_to_article" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Promote to article]]></phrase>
-  <phrase title="EWRporta_promote_to_article_hint" addon_id="EWR/Porta" version_id="1300" version_string="1.3.0.0"><![CDATA[You will be redirected to the article promotion page after posting this thread]]></phrase>
-  <phrase title="EWRporta_promote_to_feature" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Promote to feature]]></phrase>
-  <phrase title="EWRporta_show_attach_gallery" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Show attachment gallery]]></phrase>
-  <phrase title="EWRporta_show_author_byline" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Show author byline block]]></phrase>
-  <phrase title="EWRporta_sticky_to_article_index" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Sticky to article index]]></phrase>
-  <phrase title="EWRporta_twitter_hide_background" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Hide background]]></phrase>
-  <phrase title="EWRporta_twitter_hide_borders" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Hide borders]]></phrase>
-  <phrase title="EWRporta_twitter_hide_footer" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Hide footer]]></phrase>
-  <phrase title="EWRporta_twitter_hide_header" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Hide header]]></phrase>
-  <phrase title="EWRporta_twitter_hide_scrollbar" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Hide scrollbar]]></phrase>
-  <phrase title="EWRporta_twitter_related_users" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Related users]]></phrase>
-  <phrase title="EWRporta_twitter_search_text" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Search text]]></phrase>
-  <phrase title="EWRporta_twitter_widget_id" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Widget ID]]></phrase>
-  <phrase title="EWRporta_use_custom_title_and_excerpt" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Use custom title and excerpt]]></phrase>
-  <phrase title="EWRporta_viewing_article_author" addon_id="EWR/Porta" version_id="2012" version_string="2.0.1.2"><![CDATA[Viewing article author]]></phrase>
-  <phrase title="EWRporta_viewing_article_category" addon_id="EWR/Porta" version_id="2012" version_string="2.0.1.2"><![CDATA[Viewing article category]]></phrase>
-  <phrase title="EWRporta_viewing_the_article_index" addon_id="EWR/Porta" version_id="2012" version_string="2.0.1.2"><![CDATA[Viewing the article index]]></phrase>
+  <phrase title="EWRporta_category_links" addon_id="EWR/Porta" version_id="1300" version_string="1.3.0.0"><![CDATA[Категория Ссылки]]></phrase>
+  <phrase title="EWRporta_click_here_to_view_article_text" addon_id="EWR/Porta" version_id="2023" version_string="2.0.2.3"><![CDATA[Нажмите здесь, чтобы просмотреть текст статьи]]></phrase>
+  <phrase title="EWRporta_countdown_active_text" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Активный текст]]></phrase>
+  <phrase title="EWRporta_countdown_inactive_text" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Неактивный текст]]></phrase>
+  <phrase title="EWRporta_create_articles_from_forum" addon_id="EWR/Porta" version_id="2000" version_string="2.0.0.0"><![CDATA[Автоматически создавать статьи из потоков форума]]></phrase>
+  <phrase title="EWRporta_discord_server_id" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Идентификатор сервера]]></phrase>
+  <phrase title="EWRporta_edit_article_promotion" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Редактировать статью Продвижение]]></phrase>
+  <phrase title="EWRporta_edit_author" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Редактировать автор]]></phrase>
+  <phrase title="EWRporta_edit_feature_promotion" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Редактировать функцию Продвижение]]></phrase>
+  <phrase title="EWRporta_enable_custom_article_layout" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Включить макет пользовательской статьи]]></phrase>
+  <phrase title="EWRporta_enable_simple_comments" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Включить простые комментарии]]></phrase>
+  <phrase title="EWRporta_excerpt" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Выдержка]]></phrase>
+  <phrase title="EWRporta_excerpt_trim" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Отделка отрыва]]></phrase>
+  <phrase title="EWRporta_exclude_from_article_index" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Исключить из индекса статьи]]></phrase>
+  <phrase title="EWRporta_exclude_from_article_index_hint" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Статья появится только при просмотре категорий и авторов.]]></phrase>
+  <phrase title="EWRporta_facebook_hide_cover" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Скрыть крышку]]></phrase>
+  <phrase title="EWRporta_facebook_hide_cta" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Скрыть звонок к действию]]></phrase>
+  <phrase title="EWRporta_facebook_page_url" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[URL страницы]]></phrase>
+  <phrase title="EWRporta_facebook_show_facepile" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Показать рисунку]]></phrase>
+  <phrase title="EWRporta_facebook_small_header" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Маленький заголовок]]></phrase>
+  <phrase title="EWRporta_features" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Особенности]]></phrase>
+  <phrase title="EWRporta_features_relocate_slider" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Переместить ползунок]]></phrase>
+  <phrase title="EWRporta_features_relocate_slider_hint" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Ползунок будет отсоединен и вставлен перед этим элементом.]]></phrase>
+  <phrase title="EWRporta_features_show_on_author_pages" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Показывать на страницах авторов]]></phrase>
+  <phrase title="EWRporta_features_show_on_category_pages" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Показывать на страницах категорий]]></phrase>
+  <phrase title="EWRporta_features_show_on_pages_beyond_first" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Показывать на страницах, выходящих за пределы первой]]></phrase>
+  <phrase title="EWRporta_features_show_pager_bullets" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Показывать пули пейджера]]></phrase>
+  <phrase title="EWRporta_features_show_prev_next_controls" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Показывать предыдущие/следующие элементы управления]]></phrase>
+  <phrase title="EWRporta_features_show_progress_bar" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Показывать индикатор выполнения]]></phrase>
+  <phrase title="EWRporta_features_show_start_stop_controls" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Показывать элементы управления запуском/остановкой]]></phrase>
+  <phrase title="EWRporta_features_transition_frequency" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Частота перехода]]></phrase>
+  <phrase title="EWRporta_features_transition_mode" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Режим перехода]]></phrase>
+  <phrase title="EWRporta_features_transition_speed" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Скорость перехода]]></phrase>
+  <phrase title="EWRporta_format_thread_as_article" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Форматировать тему как статью]]></phrase>
+  <phrase title="EWRporta_icon" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Икона]]></phrase>
+  <phrase title="EWRporta_load_more" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Загружайте больше]]></phrase>
+  <phrase title="EWRporta_media_hint" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Вставьте видео YouTube непосредственно в складку, добавив <b> идентификатор ВИДЕО </b> здесь.]]></phrase>
+  <phrase title="EWRporta_pin" addon_id="EWR/Porta" version_id="2104" version_string="2.1.0.4"><![CDATA[пин]]></phrase>
+  <phrase title="EWRporta_please_confirm_that_you_want_to_delete_the_article_promotion_for" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Пожалуйста, подтвердите, что вы хотите удалить рекламную статью для]]></phrase>
+  <phrase title="EWRporta_please_confirm_that_you_want_to_delete_the_feature_promotion_for" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Пожалуйста, подтвердите, что вы хотите удалить продвижение функции для]]></phrase>
+  <phrase title="EWRporta_promote_to_article" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Продвигать к статье]]></phrase>
+  <phrase title="EWRporta_promote_to_article_hint" addon_id="EWR/Porta" version_id="1300" version_string="1.3.0.0"><![CDATA[Вы будете перенаправлены на страницу продвижения статьи после публикации этой темы]]></phrase>
+  <phrase title="EWRporta_promote_to_feature" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Продвигать, чтобы показать]]></phrase>
+  <phrase title="EWRporta_show_attach_gallery" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Показать галерею вложенийy]]></phrase>
+  <phrase title="EWRporta_show_author_byline" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Показать блок подписи автора]]></phrase>
+  <phrase title="EWRporta_sticky_to_article_index" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Привязка к индексу статей]]></phrase>
+  <phrase title="EWRporta_twitter_hide_background" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Скрыть фон]]></phrase>
+  <phrase title="EWRporta_twitter_hide_borders" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Скрыть границы]]></phrase>
+  <phrase title="EWRporta_twitter_hide_footer" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Скрыть нижний колонтитул]]></phrase>
+  <phrase title="EWRporta_twitter_hide_header" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Скрыть заголовок]]></phrase>
+  <phrase title="EWRporta_twitter_hide_scrollbar" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Скрыть полосу прокрутки]]></phrase>
+  <phrase title="EWRporta_twitter_related_users" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Связанные пользователи]]></phrase>
+  <phrase title="EWRporta_twitter_search_text" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Поиск текста]]></phrase>
+  <phrase title="EWRporta_twitter_widget_id" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Идентификатор виджета]]></phrase>
+  <phrase title="EWRporta_use_custom_title_and_excerpt" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Используйте пользовательский заголовок и выдержку]]></phrase>
+  <phrase title="EWRporta_viewing_article_author" addon_id="EWR/Porta" version_id="2012" version_string="2.0.1.2"><![CDATA[Просмотр автора статьи]]></phrase>
+  <phrase title="EWRporta_viewing_article_category" addon_id="EWR/Porta" version_id="2012" version_string="2.0.1.2"><![CDATA[Просмотр категории статей]]></phrase>
+  <phrase title="EWRporta_viewing_the_article_index" addon_id="EWR/Porta" version_id="2012" version_string="2.0.1.2"><![CDATA[Просмотр индекса статьи]]></phrase>
   <phrase title="a_moment_ago" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Только что]]></phrase>
   <phrase title="a_z_0_9_and_only" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Только A-Z, 0-9 и _]]></phrase>
   <phrase title="a_z_0_9_and_underscore_only" addon_id="XF" version_id="2020070" version_string="2.2.0"><![CDATA[Только A-Z, a-z, 0-9 и и _ (символ подчёркивания)]]></phrase>
@@ -117,12 +117,12 @@
   <phrase title="activity_summary" addon_id="XF" version_id="2020070" version_string="2.2.0"><![CDATA[Сводка активности]]></phrase>
   <phrase title="activity_summary_def.latest_posts" addon_id="XF" version_id="2020070" version_string="2.2.0"><![CDATA[Последнее сообщение]]></phrase>
   <phrase title="activity_summary_def.latest_threads" addon_id="XF" version_id="2020070" version_string="2.2.0"><![CDATA[Последние темы]]></phrase>
-  <phrase title="activity_summary_def.xfrm_latest_resources" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[XFRM: Latest resources]]></phrase>
-  <phrase title="activity_summary_def.xfrm_latest_reviews" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[XFRM: Latest reviews]]></phrase>
+  <phrase title="activity_summary_def.xfrm_latest_resources" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[XFRM: Последние ресурсы]]></phrase>
+  <phrase title="activity_summary_def.xfrm_latest_reviews" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[XFRM: Последние отзывы]]></phrase>
   <phrase title="activity_summary_def_desc.latest_posts" addon_id="XF" version_id="2020070" version_string="2.2.0"><![CDATA[Выводит раздел, отображающий последние сообщения в электронной почте со сводкой активности.]]></phrase>
   <phrase title="activity_summary_def_desc.latest_threads" addon_id="XF" version_id="2020070" version_string="2.2.0"><![CDATA[Выводит раздел, отображающий последние темы в электронной почте со сводкой активности. Темы можно фильтровать по различным критериям.]]></phrase>
-  <phrase title="activity_summary_def_desc.xfrm_latest_resources" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Renders a section displaying the latest resources in the activity summary email. Resources can be filtered on various criteria.]]></phrase>
-  <phrase title="activity_summary_def_desc.xfrm_latest_reviews" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Renders a section displaying the latest reviews in the activity summary email.]]></phrase>
+  <phrase title="activity_summary_def_desc.xfrm_latest_resources" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Отображает раздел, отображающий последние ресурсы в электронном письме с кратким описанием деятельности. Ресурсы могут быть отфильтрованы по различным критериям.]]></phrase>
+  <phrase title="activity_summary_def_desc.xfrm_latest_reviews" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Отображает раздел с последними отзывами в электронном письме с кратким описанием деятельности.]]></phrase>
   <phrase title="activity_summary_definition" addon_id="XF" version_id="2020070" version_string="2.2.0"><![CDATA[Определение сводки активности]]></phrase>
   <phrase title="activity_summary_definitions" addon_id="XF" version_id="2020070" version_string="2.2.0"><![CDATA[Определения сводки активности]]></phrase>
   <phrase title="activity_summary_email" addon_id="XF" version_id="2020070" version_string="2.2.0"><![CDATA[Сводка активности на email]]></phrase>
