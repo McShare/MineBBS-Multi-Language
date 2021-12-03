@@ -536,20 +536,20 @@
   <phrase title="advertising_position_is_active" addon_id="XF" version_id="2000033" version_string="2.0.0 Beta 3"><![CDATA[Рекламная позиция активна]]></phrase>
   <phrase title="advertising_position_keys_must_be_unique" addon_id="XF" version_id="2011072" version_string="2.1.10 Patch 2"><![CDATA[ID рекламных позиций должны быть уникальными. Указанный ID уже используется.]]></phrase>
   <phrase title="advertising_positions" addon_id="XF" version_id="2000033" version_string="2.0.0 Beta 3"><![CDATA[Рекламные позиции]]></phrase>
-  <phrase title="af_as_1_pending_award" addon_id="AddonFlare/AwardSystem" version_id="1000370" version_string="1.0.3"><![CDATA[1 Pending Award]]></phrase>
-  <phrase title="af_as_add_award" addon_id="AddonFlare/AwardSystem" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Add award]]></phrase>
-  <phrase title="af_as_add_category" addon_id="AddonFlare/AwardSystem" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Add category]]></phrase>
-  <phrase title="af_as_add_user_award" addon_id="AddonFlare/AwardSystem" version_id="1000070" version_string="1.0.0"><![CDATA[Add user award]]></phrase>
-  <phrase title="af_as_all_categories" addon_id="AddonFlare/AwardSystem" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[All Categories]]></phrase>
-  <phrase title="af_as_allow_multiple" addon_id="AddonFlare/AwardSystem" version_id="1010070" version_string="1.1.0"><![CDATA[Allow multiple]]></phrase>
-  <phrase title="af_as_allow_multiple_explain" addon_id="AddonFlare/AwardSystem" version_id="1010070" version_string="1.1.0"><![CDATA[Allow users to have more than 1 of this award]]></phrase>
-  <phrase title="af_as_amount_needed_levelup_increasesby" addon_id="AddonFlare/AwardSystem" version_id="1010070" version_string="1.1.0"><![CDATA[ The amount needed to level up increases by]]></phrase>
+  <phrase title="af_as_1_pending_award" addon_id="AddonFlare/AwardSystem" version_id="1000370" version_string="1.0.3"><![CDATA[1 ожидающая награда]]></phrase>
+  <phrase title="af_as_add_award" addon_id="AddonFlare/AwardSystem" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Добавить награду]]></phrase>
+  <phrase title="af_as_add_category" addon_id="AddonFlare/AwardSystem" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Добавить категорию]]></phrase>
+  <phrase title="af_as_add_user_award" addon_id="AddonFlare/AwardSystem" version_id="1000070" version_string="1.0.0"><![CDATA[Добавить награду пользователя]]></phrase>
+  <phrase title="af_as_all_categories" addon_id="AddonFlare/AwardSystem" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Все категории]]></phrase>
+  <phrase title="af_as_allow_multiple" addon_id="AddonFlare/AwardSystem" version_id="1010070" version_string="1.1.0"><![CDATA[Разрешить несколько]]></phrase>
+  <phrase title="af_as_allow_multiple_explain" addon_id="AddonFlare/AwardSystem" version_id="1010070" version_string="1.1.0"><![CDATA[Разрешить пользователям иметь более одной награды]]></phrase>
+  <phrase title="af_as_amount_needed_levelup_increasesby" addon_id="AddonFlare/AwardSystem" version_id="1010070" version_string="1.1.0"><![CDATA[ Сумма, необходимая для повышения уровня, увеличивается на]]></phrase>
   <phrase title="af_as_auto" addon_id="AddonFlare/AwardSystem" version_id="1040070" version_string="1.4.0"><![CDATA[Auto]]></phrase>
-  <phrase title="af_as_auto_award_features" addon_id="AddonFlare/AwardSystem" version_id="1010170" version_string="1.1.1"><![CDATA[Auto award features]]></phrase>
-  <phrase title="af_as_auto_feature_awards" addon_id="AddonFlare/AwardSystem" version_id="1010170" version_string="1.1.1"><![CDATA[Auto feature awards]]></phrase>
+  <phrase title="af_as_auto_award_features" addon_id="AddonFlare/AwardSystem" version_id="1010170" version_string="1.1.1"><![CDATA[Особенности автоматического вознаграждения]]></phrase>
+  <phrase title="af_as_auto_feature_awards" addon_id="AddonFlare/AwardSystem" version_id="1010170" version_string="1.1.1"><![CDATA[Награды за автоматические функции]]></phrase>
   <phrase title="af_as_auto_feature_awards_hint" addon_id="AddonFlare/AwardSystem" version_id="1010170" version_string="1.1.1"><![CDATA[Automatically feature awards when awarded]]></phrase>
-  <phrase title="af_as_automaticaly_awarded" addon_id="AddonFlare/AwardSystem" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Automatically awarded]]></phrase>
-  <phrase title="af_as_availableAwards" addon_id="AddonFlare/AwardSystem" version_id="1010070" version_string="1.1.0"><![CDATA[Available Awards]]></phrase>
+  <phrase title="af_as_automaticaly_awarded" addon_id="AddonFlare/AwardSystem" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Автоматически присуждается]]></phrase>
+  <phrase title="af_as_availableAwards" addon_id="AddonFlare/AwardSystem" version_id="1010070" version_string="1.1.0"><![CDATA[Доступные награды]]></phrase>
   <phrase title="af_as_availableAwards_instructions_limit" addon_id="AddonFlare/AwardSystem" version_id="1010070" version_string="1.1.0"><![CDATA[Click on the arrows to feature. You may select up to <span id="featuredAwardsRemaining">{limit}</span> award(s).]]></phrase>
   <phrase title="af_as_availableAwards_instructions_nolimit" addon_id="AddonFlare/AwardSystem" version_id="1010070" version_string="1.1.0"><![CDATA[Click on the arrows to feature.]]></phrase>
   <phrase title="af_as_award" addon_id="AddonFlare/AwardSystem" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Award]]></phrase>
