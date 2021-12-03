@@ -12343,9 +12343,9 @@ By continuing to use this site, you are consenting to our use of cookies.]]></ph
   <phrase title="thread_field_desc.website" addon_id="" version_id="0" version_string=""><![CDATA[官网网址]]></phrase>
   <phrase title="thread_field_title.seerver_name" addon_id="" version_id="0" version_string=""><![CDATA[服务器名称]]></phrase>
   <phrase title="thread_field_title.server_ip" addon_id="" version_id="0" version_string=""><![CDATA[地址]]></phrase>
-  <phrase title="thread_field_title.server_port" addon_id="" version_id="0" version_string=""><![CDATA[端口]]></phrase>
-  <phrase title="thread_field_title.server_version" addon_id="" version_id="0" version_string=""><![CDATA[版本]]></phrase>
-  <phrase title="thread_field_title.website" addon_id="" version_id="0" version_string=""><![CDATA[官网]]></phrase>
+  <phrase title="thread_field_title.server_port" addon_id="" version_id="0" version_string=""><![CDATA[ぽーと]]></phrase>
+  <phrase title="thread_field_title.server_version" addon_id="" version_id="0" version_string=""><![CDATA[はん]]></phrase>
+  <phrase title="thread_field_title.website" addon_id="" version_id="0" version_string=""><![CDATA[ホームページ]]></phrase>
   <phrase title="thread_has_at_least_x_reaction_score" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Thread has at least X reaction score]]></phrase>
   <phrase title="thread_has_at_least_x_replies" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Thread has at least X replies]]></phrase>
   <phrase title="thread_in_forum" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Thread in forum]]></phrase>
@@ -12357,18 +12357,18 @@ By continuing to use this site, you are consenting to our use of cookies.]]></ph
 <br />
 Please confirm that you are moving the thread to the correct forum.]]></phrase>
   <phrase title="thread_polls" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Thread polls]]></phrase>
-  <phrase title="thread_prefix.13" addon_id="" version_id="0" version_string=""><![CDATA[其他]]></phrase>
-  <phrase title="thread_prefix.20" addon_id="" version_id="0" version_string=""><![CDATA[资源]]></phrase>
+  <phrase title="thread_prefix.13" addon_id="" version_id="0" version_string=""><![CDATA[もう１方]]></phrase>
+  <phrase title="thread_prefix.20" addon_id="" version_id="0" version_string=""><![CDATA[しげん]]></phrase>
   <phrase title="thread_prefix.23" addon_id="" version_id="0" version_string=""><![CDATA[1.1.x]]></phrase>
-  <phrase title="thread_prefix.26" addon_id="" version_id="0" version_string=""><![CDATA[多版本]]></phrase>
+  <phrase title="thread_prefix.26" addon_id="" version_id="0" version_string=""><![CDATA[マルチバージョン]]></phrase>
   <phrase title="thread_prefix.30" addon_id="" version_id="0" version_string=""><![CDATA[1.14.x]]></phrase>
-  <phrase title="thread_prefix.31" addon_id="" version_id="0" version_string=""><![CDATA[更新日志]]></phrase>
-  <phrase title="thread_prefix.32" addon_id="" version_id="0" version_string=""><![CDATA[Bug反馈]]></phrase>
-  <phrase title="thread_prefix.33" addon_id="" version_id="0" version_string=""><![CDATA[资讯]]></phrase>
+  <phrase title="thread_prefix.31" addon_id="" version_id="0" version_string=""><![CDATA[日誌を更新する]]></phrase>
+  <phrase title="thread_prefix.32" addon_id="" version_id="0" version_string=""><![CDATA[Bug はんのう]]></phrase>
+  <phrase title="thread_prefix.33" addon_id="" version_id="0" version_string=""><![CDATA[でーたーつうしん]]></phrase>
   <phrase title="thread_prefix.35" addon_id="" version_id="0" version_string=""><![CDATA[Java服]]></phrase>
-  <phrase title="thread_prefix.36" addon_id="" version_id="0" version_string=""><![CDATA[版规]]></phrase>
-  <phrase title="thread_prefix.37" addon_id="" version_id="0" version_string=""><![CDATA[事项决策]]></phrase>
-  <phrase title="thread_prefix.38" addon_id="" version_id="0" version_string=""><![CDATA[讨论]]></phrase>
+  <phrase title="thread_prefix.36" addon_id="" version_id="0" version_string=""><![CDATA[規則]]></phrase>
+  <phrase title="thread_prefix.37" addon_id="" version_id="0" version_string=""><![CDATA[せいさくけてい]]></phrase>
+  <phrase title="thread_prefix.38" addon_id="" version_id="0" version_string=""><![CDATA[討論]]></phrase>
   <phrase title="thread_prefix.39" addon_id="" version_id="0" version_string=""><![CDATA[1.17.x]]></phrase>
   <phrase title="thread_prefix.40" addon_id="" version_id="0" version_string=""><![CDATA[Multicraft]]></phrase>
   <phrase title="thread_prefix.41" addon_id="" version_id="0" version_string=""><![CDATA[MCSM]]></phrase>
