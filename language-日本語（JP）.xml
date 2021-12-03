@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language title="日本語（JP）" date_format="M j, Y" time_format="g:i A" currency_format="{value}{symbol}" week_start="0" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="..." parenthesis_open="(" parenthesis_close=")" language_code="ja-JP" text_direction="LTR" user_selectable="1" base_version_id="2020770" export_version="2">
-  <phrase title="1_day_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[One day ago]]></phrase>
-  <phrase title="1_month_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[One month ago]]></phrase>
+  <phrase title="1_day_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[一日前]]></phrase>
+  <phrase title="1_month_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[一ヶ月前]]></phrase>
   <phrase title="1_time" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[1 time]]></phrase>
-  <phrase title="1_week_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[One week ago]]></phrase>
+  <phrase title="1_week_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[1週間前]]></phrase>
   <phrase title="1_year" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[1 year]]></phrase>
   <phrase title="1_year_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[One year ago]]></phrase>
   <phrase title="2_weeks_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Two weeks ago]]></phrase>
@@ -17,7 +17,7 @@
   <phrase title="9_months_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Nine months ago]]></phrase>
   <phrase title="CMTV_Code_code_block_highlight" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[突出显示行]]></phrase>
   <phrase title="CMTV_Code_code_block_highlight_explain" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[可选。要突出显示的行号。例如，“2，4-6”将突出显示第2、4、5和6行。]]></phrase>
-  <phrase title="CMTV_Code_code_block_title" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[代码模块标题]]></phrase>
+  <phrase title="CMTV_Code_code_block_title" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[コードモジュールタイトル]]></phrase>
   <phrase title="CMTV_Code_code_block_title_explain" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[可选的。 如果指定，默认代码语言名称将替换为代码块标题处的标题文本。 例如，可用于指定文件名。]]></phrase>
   <phrase title="CMTV_Code_collapse" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[折叠]]></phrase>
   <phrase title="CMTV_Code_copied" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[代码已复制到剪贴板。]]></phrase>
@@ -341,7 +341,7 @@
   <phrase title="admin_navigation.forceAgreementPrivacy" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Force privacy policy agreement]]></phrase>
   <phrase title="admin_navigation.forceAgreementTerms" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Force terms and rules agreement]]></phrase>
   <phrase title="admin_navigation.forumNodePermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Node permissions]]></phrase>
-  <phrase title="admin_navigation.forums" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forums]]></phrase>
+  <phrase title="admin_navigation.forums" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[フォーラム]]></phrase>
   <phrase title="admin_navigation.groupsAndPermissions" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Groups &amp; permissions]]></phrase>
   <phrase title="admin_navigation.help" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Help]]></phrase>
   <phrase title="admin_navigation.helpPages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Help pages]]></phrase>
@@ -473,7 +473,7 @@
   <phrase title="admin_navigation.widgetPositions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Widget positions]]></phrase>
   <phrase title="admin_navigation.widgets" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Widgets]]></phrase>
   <phrase title="admin_navigation.xfes" addon_id="XFES" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enhanced search]]></phrase>
-  <phrase title="admin_navigation.xfrm" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Resources]]></phrase>
+  <phrase title="admin_navigation.xfrm" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[資源]]></phrase>
   <phrase title="admin_navigation.xfrmCategories" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Resource categories]]></phrase>
   <phrase title="admin_navigation.xfrmCategoryPermissions" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Resource category permissions]]></phrase>
   <phrase title="admin_navigation.xfrmFields" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Resource fields]]></phrase>
@@ -540,7 +540,7 @@
   <phrase title="af_as_add_award" addon_id="AddonFlare/AwardSystem" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Add award]]></phrase>
   <phrase title="af_as_add_category" addon_id="AddonFlare/AwardSystem" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Add category]]></phrase>
   <phrase title="af_as_add_user_award" addon_id="AddonFlare/AwardSystem" version_id="1000070" version_string="1.0.0"><![CDATA[Add user award]]></phrase>
-  <phrase title="af_as_all_categories" addon_id="AddonFlare/AwardSystem" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[All Categories]]></phrase>
+  <phrase title="af_as_all_categories" addon_id="AddonFlare/AwardSystem" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[あらゆる分類]]></phrase>
   <phrase title="af_as_allow_multiple" addon_id="AddonFlare/AwardSystem" version_id="1010070" version_string="1.1.0"><![CDATA[Allow multiple]]></phrase>
   <phrase title="af_as_allow_multiple_explain" addon_id="AddonFlare/AwardSystem" version_id="1010070" version_string="1.1.0"><![CDATA[Allow users to have more than 1 of this award]]></phrase>
   <phrase title="af_as_amount_needed_levelup_increasesby" addon_id="AddonFlare/AwardSystem" version_id="1010070" version_string="1.1.0"><![CDATA[ The amount needed to level up increases by]]></phrase>
@@ -1232,7 +1232,7 @@ To support recurring billing and automatically reversing purchases when a paymen
   <phrase title="captcha_questions" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[CAPTCHA questions]]></phrase>
   <phrase title="case_sensitive" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Case sensitive]]></phrase>
   <phrase title="cast_vote" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cast vote]]></phrase>
-  <phrase title="categories" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Categories]]></phrase>
+  <phrase title="categories" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[カテゴリ]]></phrase>
   <phrase title="category" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Category]]></phrase>
   <phrase title="cell_mobile_phone_number" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Cell / mobile phone number]]></phrase>
   <phrase title="certain_events_take_hints_that_can_limit_when_listener_is_run" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[When certain events are triggered, they will be triggered with a hint. This hint can be used to limit your listener to only being executed when it's needed, increasing performance.<br />
@@ -5925,7 +5925,7 @@ Please download this version from the <a href="https://xenforo.com/customers/" t
   <phrase title="forum_watch_notification_limit_desc" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[You can limit the amount of notifications that can be triggered by a user watching a forum here. For example, if you select "new threads", users will only be able to choose between no notifications or notifications when a new thread is posted. This can be used to limit the overhead of the forum watching system in busy forums.]]></phrase>
   <phrase title="forum_watched" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum watched]]></phrase>
   <phrase title="forum_x_marked_as_read" addon_id="XF" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[Forum '{forum}' marked as read.]]></phrase>
-  <phrase title="forums" addon_id="XF" global_cache="1" version_id="0" version_string=""><![CDATA[Forums]]></phrase>
+  <phrase title="forums" addon_id="XF" global_cache="1" version_id="0" version_string=""><![CDATA[フォーラム]]></phrase>
   <phrase title="forums_of_this_type_cannot_be_manually_created" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Forums of this type cannot be manually created.]]></phrase>
   <phrase title="found_contentcheck_tag_without_contentcheck_based_if_tag" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Found a contentcheck tag without a contentcheck-based if tag.]]></phrase>
   <phrase title="freeform_css_code" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Freeform CSS/LESS code]]></phrase>
@@ -7821,10 +7821,10 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="nav.defaultYourAccount" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Your account]]></phrase>
   <phrase title="nav.defaultYourProfile" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Your profile]]></phrase>
   <phrase title="nav.findThreads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Find threads]]></phrase>
-  <phrase title="nav.forumList" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum list]]></phrase>
-  <phrase title="nav.forums" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forums]]></phrase>
-  <phrase title="nav.home" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Home]]></phrase>
-  <phrase title="nav.latestActivity" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Latest activity]]></phrase>
+  <phrase title="nav.forumList" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[フォーラムリスト]]></phrase>
+  <phrase title="nav.forums" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[フォーラム]]></phrase>
+  <phrase title="nav.home" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[キーページ]]></phrase>
+  <phrase title="nav.latestActivity" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[最新情報]]></phrase>
   <phrase title="nav.markForumsRead" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mark forums read]]></phrase>
   <phrase title="nav.mcnav" addon_id="" version_id="0" version_string=""><![CDATA[MCNav]]></phrase>
   <phrase title="nav.members" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Members]]></phrase>
@@ -7848,7 +7848,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="nav.whatsNewPosts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[New posts]]></phrase>
   <phrase title="nav.whatsNewProfilePosts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[New profile posts]]></phrase>
   <phrase title="nav.wiki" addon_id="" version_id="0" version_string=""><![CDATA[MineWiki]]></phrase>
-  <phrase title="nav.xfrm" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Resources]]></phrase>
+  <phrase title="nav.xfrm" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[資源センター]]></phrase>
   <phrase title="nav.xfrmLatestReviews" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Latest reviews]]></phrase>
   <phrase title="nav.xfrmNewResources" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[New resources]]></phrase>
   <phrase title="nav.xfrmSearchResources" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Search resources]]></phrase>
@@ -8514,7 +8514,7 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.xfrmResourceExtensions" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Allowed resource file extensions]]></phrase>
   <phrase title="option.xfrmResourceMaxFileSize" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maximum resource file size (KB)]]></phrase>
   <phrase title="option.xfrmResourceMaxFiles" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maximum number of resource files]]></phrase>
-  <phrase title="option.xfrmResourcesPerPage" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Resources per page]]></phrase>
+  <phrase title="option.xfrmResourcesPerPage" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[資源1件1ページで]]></phrase>
   <phrase title="option.xfrmReviewRequired" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Require a review when rating resources]]></phrase>
   <phrase title="option.xfrmReviewVoting" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Allow review voting]]></phrase>
   <phrase title="option.xfrmReviewsPerPage" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Reviews per page]]></phrase>
@@ -12549,7 +12549,7 @@ Please confirm that you are moving the thread to the correct forum.]]></phrase>
   <phrase title="thread_type_plural.poll" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Polls]]></phrase>
   <phrase title="thread_type_plural.question" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Questions]]></phrase>
   <phrase title="thread_type_plural.redirect" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Redirects]]></phrase>
-  <phrase title="thread_type_plural.resource" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Resources]]></phrase>
+  <phrase title="thread_type_plural.resource" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[資源]]></phrase>
   <phrase title="thread_type_plural.suggestion" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Suggestions]]></phrase>
   <phrase title="thread_type_will_only_be_changed_if_it_is_valid_for_forum" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[The thread type will only be changed if it is valid for the forum the thread is in or is being moved to.]]></phrase>
   <phrase title="thread_url" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Thread URL]]></phrase>
@@ -13814,7 +13814,7 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_above_resource_description" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Above resource description]]></phrase>
   <phrase title="xfrm_above_review" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Above review]]></phrase>
   <phrase title="xfrm_add_members" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Add members]]></phrase>
-  <phrase title="xfrm_add_resource" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add resource]]></phrase>
+  <phrase title="xfrm_add_resource" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[資源を配布する。]]></phrase>
   <phrase title="xfrm_additional_information_url" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Additional information URL]]></phrase>
   <phrase title="xfrm_all_categories_or_contextual_category" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[All categories or contextual category]]></phrase>
   <phrase title="xfrm_all_categories_or_contextual_explain" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[If no categories are explicitly selected, this widget will pull from all categories unless used within a resource category. In this case, the resources will be limited to that category and descendents.]]></phrase>
@@ -14049,15 +14049,15 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_resource_x_posted_in_category_y" addon_id="XFRM" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[<a href="{resourceLink}">{resourceTitle}</a> posted in resource category <a href="{categoryLink}">{categoryTitle}</a>]]></phrase>
   <phrase title="xfrm_resource_x_updated_y" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{resource} updated: {update}]]></phrase>
   <phrase title="xfrm_resource_x_was_reassigned_to_you" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The resource {title} was reassigned to you.]]></phrase>
-  <phrase title="xfrm_resources" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Resources]]></phrase>
+  <phrase title="xfrm_resources" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[資源]]></phrase>
   <phrase title="xfrm_resources_by_x" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Resources by {name}]]></phrase>
   <phrase title="xfrm_response_by" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Response by]]></phrase>
   <phrase title="xfrm_review_for_x" addon_id="XFRM" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Review for '{title}']]></phrase>
   <phrase title="xfrm_review_is_required" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[A review is required.]]></phrase>
-  <phrase title="xfrm_reviews" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Reviews]]></phrase>
+  <phrase title="xfrm_reviews" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[レビュー]]></phrase>
   <phrase title="xfrm_search_child_categories_as_well" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Search child categories as well]]></phrase>
   <phrase title="xfrm_search_in_categories" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Search in categories]]></phrase>
-  <phrase title="xfrm_search_resources" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Search resources]]></phrase>
+  <phrase title="xfrm_search_resources" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[検索資源]]></phrase>
   <phrase title="xfrm_share_this_resource" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Share this resource]]></phrase>
   <phrase title="xfrm_stop_notification_emails_from_all_resources" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Stop notification emails from all resources]]></phrase>
   <phrase title="xfrm_submission_date" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Submission date]]></phrase>
