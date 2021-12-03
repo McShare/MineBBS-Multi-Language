@@ -117,12 +117,12 @@
   <phrase title="activity_summary" addon_id="XF" version_id="2020070" version_string="2.2.0"><![CDATA[Сводка активности]]></phrase>
   <phrase title="activity_summary_def.latest_posts" addon_id="XF" version_id="2020070" version_string="2.2.0"><![CDATA[Последнее сообщение]]></phrase>
   <phrase title="activity_summary_def.latest_threads" addon_id="XF" version_id="2020070" version_string="2.2.0"><![CDATA[Последние темы]]></phrase>
-  <phrase title="activity_summary_def.xfrm_latest_resources" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[XFRM: Последние ресурсы]]></phrase>
-  <phrase title="activity_summary_def.xfrm_latest_reviews" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[XFRM: Последние отзывы]]></phrase>
+  <phrase title="activity_summary_def.xfrm_latest_resources" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[XFRM: Latest resources]]></phrase>
+  <phrase title="activity_summary_def.xfrm_latest_reviews" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[XFRM: Latest reviews]]></phrase>
   <phrase title="activity_summary_def_desc.latest_posts" addon_id="XF" version_id="2020070" version_string="2.2.0"><![CDATA[Выводит раздел, отображающий последние сообщения в электронной почте со сводкой активности.]]></phrase>
   <phrase title="activity_summary_def_desc.latest_threads" addon_id="XF" version_id="2020070" version_string="2.2.0"><![CDATA[Выводит раздел, отображающий последние темы в электронной почте со сводкой активности. Темы можно фильтровать по различным критериям.]]></phrase>
-  <phrase title="activity_summary_def_desc.xfrm_latest_resources" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Отображает раздел, отображающий последние ресурсы в электронном письме с кратким описанием деятельности. Ресурсы могут быть отфильтрованы по различным критериям.]]></phrase>
-  <phrase title="activity_summary_def_desc.xfrm_latest_reviews" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Отображает раздел с последними отзывами в электронном письме с кратким описанием деятельности.]]></phrase>
+  <phrase title="activity_summary_def_desc.xfrm_latest_resources" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Renders a section displaying the latest resources in the activity summary email. Resources can be filtered on various criteria.]]></phrase>
+  <phrase title="activity_summary_def_desc.xfrm_latest_reviews" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Renders a section displaying the latest reviews in the activity summary email.]]></phrase>
   <phrase title="activity_summary_definition" addon_id="XF" version_id="2020070" version_string="2.2.0"><![CDATA[Определение сводки активности]]></phrase>
   <phrase title="activity_summary_definitions" addon_id="XF" version_id="2020070" version_string="2.2.0"><![CDATA[Определения сводки активности]]></phrase>
   <phrase title="activity_summary_email" addon_id="XF" version_id="2020070" version_string="2.2.0"><![CDATA[Сводка активности на email]]></phrase>
@@ -732,11 +732,11 @@ If you have a valid license, please <a href="admin.php?add-ons/" rel="nofollow" 
   <phrase title="alert_opt_out.profile_post_insert" addon_id="XF" version_id="2010571" version_string="2.1.5"><![CDATA[Оставил сообщение в Вашем профиле]]></phrase>
   <phrase title="alert_opt_out.profile_post_mention" addon_id="XF" version_id="2010571" version_string="2.1.5"><![CDATA[Упомянул Вас в сообщении профиля или комментарии]]></phrase>
   <phrase title="alert_opt_out.profile_post_reaction" addon_id="XF" version_id="2010571" version_string="2.1.5"><![CDATA[Отреагировал на сообщение в Вашем профиле]]></phrase>
-  <phrase title="alert_opt_out.resource_rating_reply" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Ответил(а) на Ваш отзыв к ресурсу]]></phrase>
-  <phrase title="alert_opt_out.resource_rating_review" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Оставил(а) отзыв к Вашему ресурсу]]></phrase>
+  <phrase title="alert_opt_out.resource_rating_reply" addon_id="XFRM" version_id="2010470" version_string="2.1.4"><![CDATA[Ответил на Ваш отзыв к ресурсу]]></phrase>
+  <phrase title="alert_opt_out.resource_rating_review" addon_id="XFRM" version_id="2010470" version_string="2.1.4"><![CDATA[Оставил отзыв к Вашему ресурсу]]></phrase>
   <phrase title="alert_opt_out.resource_update_insert" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Обновления отслеживаемых ресурсов]]></phrase>
-  <phrase title="alert_opt_out.resource_update_mention" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Упомянул(а) Вас в ресурсе]]></phrase>
-  <phrase title="alert_opt_out.resource_update_reaction" addon_id="XFRM" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Reacts to your resource]]></phrase>
+  <phrase title="alert_opt_out.resource_update_mention" addon_id="XFRM" version_id="2010470" version_string="2.1.4"><![CDATA[Упомянул Вас в ресурсе]]></phrase>
+  <phrase title="alert_opt_out.resource_update_reaction" addon_id="XFRM" version_id="2010470" version_string="2.1.4"><![CDATA[Отреагировал на Ваш ресурс]]></phrase>
   <phrase title="alert_opt_out.trophy_award" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Вы получаете новый трофей]]></phrase>
   <phrase title="alert_opt_out.user_following" addon_id="XF" version_id="2010571" version_string="2.1.5"><![CDATA[Стал Вашим подписчиком]]></phrase>
   <phrase title="alert_profile_post_insert" addon_id="XF" version_id="2010571" version_string="2.1.5"><![CDATA[{username} написал(а) сообщение в <a {profilePageLinkAttributes}>Вашем профиле</a>.]]></phrase>
@@ -852,15 +852,15 @@ If you have a valid license, please <a href="admin.php?add-ons/" rel="nofollow" 
   <phrase title="api_scope.profile_post_delete_hard" addon_id="XF" version_id="2010051" version_string="2.1.0 Release Candidate 1"><![CDATA[Охватывает физическое удаление сообщений в профиле и комментариев к ним.]]></phrase>
   <phrase title="api_scope.profile_post_read" addon_id="XF" version_id="2010051" version_string="2.1.0 Release Candidate 1"><![CDATA[Охватывает просмотр сообщений в профиле и комментариев к ним.]]></phrase>
   <phrase title="api_scope.profile_post_write" addon_id="XF" version_id="2010051" version_string="2.1.0 Release Candidate 1"><![CDATA[Охватывает создание, обновление и скрытие сообщений в профиле и комментариев к ним.]]></phrase>
-  <phrase title="api_scope.resource_category_delete" addon_id="XFRM" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Covers deleting a resource category.]]></phrase>
-  <phrase title="api_scope.resource_category_read" addon_id="XFRM" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Covers viewing resource categories or the list of categories.]]></phrase>
-  <phrase title="api_scope.resource_category_write" addon_id="XFRM" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Covers updating or creating a resource category.]]></phrase>
-  <phrase title="api_scope.resource_delete_hard" addon_id="XFRM" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Covers hard-deleting resources.]]></phrase>
-  <phrase title="api_scope.resource_rating_delete_hard" addon_id="XFRM" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Covers hard-deleting resource ratings/reviews.]]></phrase>
-  <phrase title="api_scope.resource_rating_read" addon_id="XFRM" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Covers viewing resource ratings/reviews.]]></phrase>
-  <phrase title="api_scope.resource_rating_write" addon_id="XFRM" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Covers creating, updating and soft-deleting resource ratings/reviews.]]></phrase>
-  <phrase title="api_scope.resource_read" addon_id="XFRM" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Covers viewing resources and their content.]]></phrase>
-  <phrase title="api_scope.resource_write" addon_id="XFRM" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Covers creating, updating and soft-deleting resources and their content.]]></phrase>
+  <phrase title="api_scope.resource_category_delete" addon_id="XFRM" version_id="2010031" version_string="2.1.0 Beta 1"><![CDATA[Охватывает удаление категории ресурса.]]></phrase>
+  <phrase title="api_scope.resource_category_read" addon_id="XFRM" version_id="2010031" version_string="2.1.0 Beta 1"><![CDATA[Охватывает просмотр категорий ресурсов или списка категорий.]]></phrase>
+  <phrase title="api_scope.resource_category_write" addon_id="XFRM" version_id="2010031" version_string="2.1.0 Beta 1"><![CDATA[Охватывает обновление или создание категории ресурсов.]]></phrase>
+  <phrase title="api_scope.resource_delete_hard" addon_id="XFRM" version_id="2010031" version_string="2.1.0 Beta 1"><![CDATA[Охватывает физическое удаление ресурсов.]]></phrase>
+  <phrase title="api_scope.resource_rating_delete_hard" addon_id="XFRM" version_id="2010031" version_string="2.1.0 Beta 1"><![CDATA[Охватывает физическое удаление рейтингов/отзывов к ресурсу.]]></phrase>
+  <phrase title="api_scope.resource_rating_read" addon_id="XFRM" version_id="2010031" version_string="2.1.0 Beta 1"><![CDATA[Охватывает просмотр рейтингов/отзывов к ресурсу.]]></phrase>
+  <phrase title="api_scope.resource_rating_write" addon_id="XFRM" version_id="2010031" version_string="2.1.0 Beta 1"><![CDATA[Охватывает создание, обновление и скрытие рейтингов/отзывов к ресурсу.]]></phrase>
+  <phrase title="api_scope.resource_read" addon_id="XFRM" version_id="2010031" version_string="2.1.0 Beta 1"><![CDATA[Охватывает просмотр ресурсов и их содержимого.]]></phrase>
+  <phrase title="api_scope.resource_write" addon_id="XFRM" version_id="2010031" version_string="2.1.0 Beta 1"><![CDATA[Охватывает создание, обновление и скрытие ресурсов и их содержимого.]]></phrase>
   <phrase title="api_scope.thcover_delete" addon_id="ThemeHouse/Covers" version_id="1000370" version_string="1.0.3"><![CDATA[Delete Covers]]></phrase>
   <phrase title="api_scope.thcover_get" addon_id="ThemeHouse/Covers" version_id="1000370" version_string="1.0.3"><![CDATA[Get covers]]></phrase>
   <phrase title="api_scope.thread_delete_hard" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[Охватывает физическое удаление тем и сообщений.]]></phrase>
@@ -1553,7 +1553,7 @@ JS-код:
   <phrase title="cron_entry.warningExpiry" addon_id="XF" version_id="2010770" version_string="2.1.7"><![CDATA[Обработка истёкших предупреждений]]></phrase>
   <phrase title="cron_entry.xfesReindex" addon_id="XFES" version_id="2010270" version_string="2.1.2"><![CDATA[XFES: Reindex]]></phrase>
   <phrase title="cron_entry.xfesSimilarThreads" addon_id="XFES" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[XFES: Update similar threads caches]]></phrase>
-  <phrase title="cron_entry.xfrmViews" addon_id="XFRM" version_id="2010013" version_string="2.1.0 Preview 3"><![CDATA[XFRM: Update view counters]]></phrase>
+  <phrase title="cron_entry.xfrmViews" addon_id="XFRM" version_id="2010570" version_string="2.1.5"><![CDATA[Ресурсы: обновление счётчиков просмотров]]></phrase>
   <phrase title="cron_entry_associated_with_inactive_add_on_cannot_run" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Это задание планировщика связано с неактивным плагином. Оно не может быть выполнено, пока плагин не будет активирован.]]></phrase>
   <phrase title="cron_entry_id" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[ID задания]]></phrase>
   <phrase title="cron_entry_ids_must_be_unique" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[ID задания планировщика должен быть уникальным. Указанный ID уже используется.]]></phrase>
@@ -7634,14 +7634,14 @@ Multiple styles can be combined.
   <phrase title="mod_log.resource_unfeature" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Ресурс более не рекомендован]]></phrase>
   <phrase title="mod_log.resource_unstick" addon_id="CnXFans/StickyResources" version_id="1000070" version_string="1.0.0"><![CDATA[取消置顶资源]]></phrase>
   <phrase title="mod_log.resource_update_approve" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Обновление ресурса одобрено]]></phrase>
-  <phrase title="mod_log.resource_update_attachment_deleted" addon_id="XFRM" version_id="2010670" version_string="2.1.6"><![CDATA[Resource update attachment deleted]]></phrase>
+  <phrase title="mod_log.resource_update_attachment_deleted" addon_id="XFRM" version_id="2010670" version_string="2.1.6"><![CDATA[Удалено вложение обновления ресурса]]></phrase>
   <phrase title="mod_log.resource_update_delete_hard" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Обновление ресурса удалено физически]]></phrase>
   <phrase title="mod_log.resource_update_delete_soft" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Обновление ресурса скрыто от публичного просмотра (причина: {reason})]]></phrase>
   <phrase title="mod_log.resource_update_edit" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Обновление ресурса отредактировано]]></phrase>
   <phrase title="mod_log.resource_update_unapprove" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Обновление ресурса отклонено]]></phrase>
   <phrase title="mod_log.resource_update_undelete" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Обновление ресурса восстановлено]]></phrase>
   <phrase title="mod_log.resource_version_approve" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Версия ресурса одобрена]]></phrase>
-  <phrase title="mod_log.resource_version_attachment_deleted" addon_id="XFRM" version_id="2010670" version_string="2.1.6"><![CDATA[Resource version attachment deleted]]></phrase>
+  <phrase title="mod_log.resource_version_attachment_deleted" addon_id="XFRM" version_id="2010670" version_string="2.1.6"><![CDATA[Удалено вложение версии ресурса]]></phrase>
   <phrase title="mod_log.resource_version_delete_hard" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Версия ресурса удалена физически]]></phrase>
   <phrase title="mod_log.resource_version_delete_soft" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Версия ресурса скрыта от публичного просмотра (причина: {reason})]]></phrase>
   <phrase title="mod_log.resource_version_edit" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Версия ресурса отредактирована]]></phrase>
@@ -8976,13 +8976,13 @@ $(this).closest('dd').find('input').val(d.getTime() / 1000|0);
   <phrase title="option_explain.xfrmFilelessViewFull" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Если выбрано, пользователи, которым не разрешено скачивать ресурсы, увидят только это количество символов из описания ресурса без файла.]]></phrase>
   <phrase title="option_explain.xfrmListDefaultOrder" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Сортировка по умолчанию при просмотре главной страницы ресурсов или страницы категорий.]]></phrase>
   <phrase title="option_explain.xfrmMinimumReviewLength" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Отзыв не будет принят до тех пор, пока его длина не будет соответствовать минимальному значению, указанному здесь. Если отзыв не обязателен и поле пусто, то эта настройка будет проигнорирована.]]></phrase>
-  <phrase title="option_explain.xfrmPaidResourceThreadTitleTemplate" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Обычно, при автоматическом создании тем для обсуждения ресурсов, заголовок темы полностью соответствует названию ресурса. Данная опция позволяет Вам определить формат заголовка тем для платных ресурсов. Используйте {title} для подстановки названия ресурса.]]></phrase>
+  <phrase title="option_explain.xfrmPaidResourceThreadTitleTemplate" addon_id="XFRM" version_id="2010470" version_string="2.1.4"><![CDATA[Обычно, при автоматическом создании тем для обсуждения ресурсов, заголовок темы полностью соответствует названию ресурса. Данная опция позволяет Вам определить формат заголовка тем для платных ресурсов. Используйте {title} для подстановки названия ресурса.]]></phrase>
   <phrase title="option_explain.xfrmRecentReviewsCount" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Максимальное количество новых отзывов для отображения на главной странице списка ресурсов. Используйте 0 для отключения этого блока.]]></phrase>
   <phrase title="option_explain.xfrmRecentUpdatesCount" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Максимальное количество последних обновлений для отображения на главной странице списка ресурсов. Используйте 0 для отключения этого блока.]]></phrase>
   <phrase title="option_explain.xfrmRequireDownloadToRate" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Если выбрано, пользователи смогут оценить ресурс только после его скачивания.]]></phrase>
   <phrase title="option_explain.xfrmResourceCurrencies" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Управление валютой, которую пользователь может выбрать для своего платного ресурса. Разделяйте валюту новой строкой. Каждая валюта должна состоять из трех символов (RUB, USD, GBP и т.п.). Название валюты будет автоматически отображено заглавными буквами.]]></phrase>
   <phrase title="option_explain.xfrmResourceDeleteThreadAction" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Это действие будет применено к автоматически созданной теме обсуждения при удалении ресурса.]]></phrase>
-  <phrase title="option_explain.xfrmResourceExtensions" addon_id="XFRM" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Перечислите расширения файлов, разрешённые для вложений. Разделяйте пробелами или новой строкой.]]></phrase>
+  <phrase title="option_explain.xfrmResourceExtensions" addon_id="XFRM" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Перечислите расширения файлов, разрешенные для вложений. Разделяйте пробелами или новой строкой.]]></phrase>
   <phrase title="option_explain.xfrmResourceMaxFileSize" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Максимальный размер файла ресурса в килобайтах (КБ). Ресурсы, превышающий данный лимит, будут отклонены.]]></phrase>
   <phrase title="option_explain.xfrmResourceMaxFiles" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Максимальное количество файлов, которое может быть прикреплено к одной версии ресурса.]]></phrase>
   <phrase title="option_explain.xfrmResourcesPerPage" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Количество ресурсов, которые будут показаны на странице, включая страницы списка и категорий ресурсов.]]></phrase>
@@ -9037,7 +9037,7 @@ $(this).closest('dd').find('input').val(d.getTime() / 1000|0);
   <phrase title="option_group.users" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Настройки пользователя]]></phrase>
   <phrase title="option_group.usersAndRegistration" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Регистрация пользователей]]></phrase>
   <phrase title="option_group.view_thread" addon_id="CnXFans/ViewThread" version_id="1000000" version_string="1.0.0"><![CDATA[用户阅读主题权限]]></phrase>
-  <phrase title="option_group.xfrm" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Менеджер ресурсов]]></phrase>
+  <phrase title="option_group.xfrm" addon_id="XFRM" version_id="2000270" version_string="2.0.2"><![CDATA[Менеджер ресурсов]]></phrase>
   <phrase title="option_group_belongs_to_disabled_addon" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Плагин <em>{addon}</em>, которому принадлежит эта группа опций, в настоящее время отключён.<br />
 <br />
 Вы можете включить плагин <em>{addon}</em> на странице <a href="{link}">списка установленных плагинов</a>.]]></phrase>
@@ -9368,7 +9368,7 @@ $(this).closest('dd').find('input').val(d.getTime() / 1000|0);
   <phrase title="permission.resource_mjrcpBypassPurchase" addon_id="MJ/ResourceCreditsPayment" version_id="1000131" version_string="1.0.1"><![CDATA[免费下载付费资源]]></phrase>
   <phrase title="permission.resource_mjrcpSellResource" addon_id="MJ/ResourceCreditsPayment" version_id="1000131" version_string="1.0.1"><![CDATA[使用积分出售资源]]></phrase>
   <phrase title="permission.resource_rate" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Оценка ресурсов]]></phrase>
-  <phrase title="permission.resource_react" addon_id="XFRM" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[React to resources/updates]]></phrase>
+  <phrase title="permission.resource_react" addon_id="XFRM" version_id="2010031" version_string="2.1.0 Beta 1"><![CDATA[Реакции на ресурсы и их обновления]]></phrase>
   <phrase title="permission.resource_reassign" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Смена автора ресурса]]></phrase>
   <phrase title="permission.resource_reviewReply" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Ответ на отзывы к своим ресурсам]]></phrase>
   <phrase title="permission.resource_stickUnstickResource" addon_id="CnXFans/StickyResources" version_id="1000070" version_string="1.0.0"><![CDATA[置顶/取消置顶资源]]></phrase>
@@ -9377,7 +9377,7 @@ $(this).closest('dd').find('input').val(d.getTime() / 1000|0);
   <phrase title="permission.resource_undelete" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Восстановление ресурсов]]></phrase>
   <phrase title="permission.resource_updateOwn" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Обновление/редактирование своих ресурсов]]></phrase>
   <phrase title="permission.resource_uploadUpdateAttach" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Загрузка изображений для ресурсов/обновлениий]]></phrase>
-  <phrase title="permission.resource_uploadUpdateVideo" addon_id="XFRM" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Upload video/audio with updates/resources]]></phrase>
+  <phrase title="permission.resource_uploadUpdateVideo" addon_id="XFRM" version_id="2010031" version_string="2.1.0 Beta 1"><![CDATA[Загрузка видео к ресурсам/обновлениям]]></phrase>
   <phrase title="permission.resource_view" addon_id="XFRM" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Просмотр ресурсов]]></phrase>
   <phrase title="permission.resource_viewDeleted" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Просмотр удаленных ресурсов]]></phrase>
   <phrase title="permission.resource_viewModerated" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Просмотр ресурсов на модераци]]></phrase>
@@ -10909,7 +10909,7 @@ $(this).closest('dd').find('input').val(d.getTime() / 1000|0);
   <phrase title="stop_trusting_this_device" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Удалить это устройство из доверенных]]></phrase>
   <phrase title="stop_watching" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Перестать отслеживать]]></phrase>
   <phrase title="stop_watching_forums" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Перестать отслеживать разделы]]></phrase>
-  <phrase title="stop_watching_resources" addon_id="XFRM" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Прекратить отслеживание ресурсов]]></phrase>
+  <phrase title="stop_watching_resources" addon_id="XFRM" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Перестать отслеживать ресурсы]]></phrase>
   <phrase title="stop_watching_threads" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Перестать отслеживать темы]]></phrase>
   <phrase title="stopforumspam_enable_registration_check" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Проверять новые регистрации по базе сервиса StopForumSpam.]]></phrase>
   <phrase title="stopforumspam_enable_registration_check_explain" addon_id="XF" version_id="2020070" version_string="2.2.0"><![CDATA[StopForumSpam анализирует данные, собранные с зарегистрированных пользователей и пытается определить, являются ли они спамерами. При этом учитываются предупреждающие флаги, генерируемые пользователем. Флаги включают имя пользователя, email и IP-адрес.]]></phrase>
@@ -12444,6 +12444,7 @@ For example: if you set "orange" as a class on a category, each forum within tha
   <phrase title="thread_prefix.79" addon_id="" version_id="0" version_string=""><![CDATA[我和MC那点事]]></phrase>
   <phrase title="thread_prefix.8" addon_id="" version_id="0" version_string=""><![CDATA[教程]]></phrase>
   <phrase title="thread_prefix.80" addon_id="" version_id="0" version_string=""><![CDATA[闲聊]]></phrase>
+  <phrase title="thread_prefix.81" addon_id="" version_id="0" version_string=""><![CDATA[1.18.x]]></phrase>
   <phrase title="thread_prefix_desc.13" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_desc.20" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_desc.23" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -12497,6 +12498,7 @@ For example: if you set "orange" as a class on a category, each forum within tha
   <phrase title="thread_prefix_desc.79" addon_id="" version_id="0" version_string=""><![CDATA[2021年MineBBS暑假活动投稿内容]]></phrase>
   <phrase title="thread_prefix_desc.8" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_desc.80" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="thread_prefix_desc.81" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_group.10" addon_id="" version_id="0" version_string=""><![CDATA[编程]]></phrase>
   <phrase title="thread_prefix_group.11" addon_id="" version_id="0" version_string=""><![CDATA[建站]]></phrase>
   <phrase title="thread_prefix_group.12" addon_id="" version_id="0" version_string=""><![CDATA[互通]]></phrase>
@@ -12559,6 +12561,7 @@ For example: if you set "orange" as a class on a category, each forum within tha
   <phrase title="thread_prefix_help.79" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_help.8" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_help.80" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="thread_prefix_help.81" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefixes" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Префиксы тем]]></phrase>
   <phrase title="thread_prompt.1" addon_id="" version_id="0" version_string=""><![CDATA[请输入标题以发布服务器]]></phrase>
   <phrase title="thread_prompt.default" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Заголовок темы]]></phrase>
@@ -13654,9 +13657,9 @@ Your account's access may be limited based on these actions. Please keep this in
   <phrase title="widget_pos_desc.whats_new_overview" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Позиция внутри шаблона whats_new для отображения новых и недавних событий. Это занимает основную колонку, поэтому может поддерживать более большие виджеты.]]></phrase>
   <phrase title="widget_pos_desc.whats_new_sidenav" addon_id="XF" version_id="2010052" version_string="2.1.0 Release Candidate 2"><![CDATA[Позиция внутри боковой навигации, на странице "Что нового", под блоком навигации. Виджеты здесь будут появляться в мобильном меню (off-canvas) на узких дисплеях.]]></phrase>
   <phrase title="widget_pos_desc.xfrm_category_above_resources" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Displays above the resource list on the resource category pages. Widget templates rendered in this position can use the current category entity in the <code>{$context.category}</code> param.]]></phrase>
-  <phrase title="widget_pos_desc.xfrm_category_sidenav" addon_id="XFRM" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Отображается внутри боковой навигации на страницах категорий ресурсов. Шаблон виджта может получать текущий объект <code>{$context.category}</code> в качестве контекста.]]></phrase>
+  <phrase title="widget_pos_desc.xfrm_category_sidenav" addon_id="XFRM" version_id="2010051" version_string="2.1.0 Release Candidate 1"><![CDATA[Позиция внутри боковой навигации на страницах категорий ресурсов. Шаблон виджта может получать текущий объект <code>{$context.category}</code> в качестве контекста.]]></phrase>
   <phrase title="widget_pos_desc.xfrm_overview_above_resources" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Displays above the resource list on the resource overview page.]]></phrase>
-  <phrase title="widget_pos_desc.xfrm_overview_sidenav" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Отображается внутри боковой навигации на странице обзора ресурса.]]></phrase>
+  <phrase title="widget_pos_desc.xfrm_overview_sidenav" addon_id="XFRM" version_id="2010051" version_string="2.1.0 Release Candidate 1"><![CDATA[Позиция внутри боковой навигации на странице обзора ресурса.]]></phrase>
   <phrase title="widget_position_is_active" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Позиция виджета активна]]></phrase>
   <phrase title="widget_position_keys_must_be_unique" addon_id="XF" version_id="2010770" version_string="2.1.7"><![CDATA[Ключи позиций виджета должны быть уникальными. Указанный ключ уже используется.]]></phrase>
   <phrase title="widget_positions" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Позиции виджета]]></phrase>
@@ -13873,9 +13876,9 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_carousel_view_displaying_resources_in_slider" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[A carousel view, displaying the resources in a slider. This display is not designed for sidebar positions.]]></phrase>
   <phrase title="xfrm_category_limit" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Ограничение категории]]></phrase>
   <phrase title="xfrm_category_not_allow_new_resources" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[В этой категории нельзя создавать новые ресурсы.]]></phrase>
-  <phrase title="xfrm_category_permissions" addon_id="XFRM" version_id="2010131" version_string="2.1.1 Beta 1"><![CDATA[Category permissions]]></phrase>
+  <phrase title="xfrm_category_permissions" addon_id="XFRM" version_id="2010170" version_string="2.1.1"><![CDATA[Права категории]]></phrase>
   <phrase title="xfrm_category_watched" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Отслеживаемая категория]]></phrase>
-  <phrase title="xfrm_change_discussion_thread" addon_id="XFRM" version_id="2010013" version_string="2.1.0 Preview 3"><![CDATA[Change discussion thread]]></phrase>
+  <phrase title="xfrm_change_discussion_thread" addon_id="XFRM" version_id="2010031" version_string="2.1.0 Beta 1"><![CDATA[Изменить тему обсуждения]]></phrase>
   <phrase title="xfrm_change_resource_type" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Изменить тип ресурса]]></phrase>
   <phrase title="xfrm_choose_file" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Выберите файл]]></phrase>
   <phrase title="xfrm_creation_date" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Дата создания]]></phrase>
@@ -13889,19 +13892,19 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_delete_version" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Удалить версию]]></phrase>
   <phrase title="xfrm_description_will_contain_contents_of_this_resource" addon_id="XFRM" version_id="2000033" version_string="2.0.0 Beta 3"><![CDATA[Описание будет включать в себя содержимое этого ресурса.]]></phrase>
   <phrase title="xfrm_destination_category" addon_id="XFRM" version_id="2000037" version_string="2.0.0 Beta 7"><![CDATA[Целевая категория]]></phrase>
-  <phrase title="xfrm_disconnect_existing_discussion" addon_id="XFRM" version_id="2010013" version_string="2.1.0 Preview 3"><![CDATA[Disconnect existing discussion]]></phrase>
+  <phrase title="xfrm_disconnect_existing_discussion" addon_id="XFRM" version_id="2010031" version_string="2.1.0 Beta 1"><![CDATA[Отключить существующее обсуждение]]></phrase>
   <phrase title="xfrm_discussion" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Обсуждение]]></phrase>
-  <phrase title="xfrm_discussion_thread_url" addon_id="XFRM" version_id="2010013" version_string="2.1.0 Preview 3"><![CDATA[Discussion thread URL]]></phrase>
-  <phrase title="xfrm_do_not_have_permission_to_view_full_content_of_this_resource" addon_id="XFRM" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[У Вас недостаточно прав для просмотра полного содержимого этого ресурса.]]></phrase>
+  <phrase title="xfrm_discussion_thread_url" addon_id="XFRM" version_id="2010031" version_string="2.1.0 Beta 1"><![CDATA[URL темы обсуждения]]></phrase>
+  <phrase title="xfrm_do_not_have_permission_to_view_full_content_of_this_resource" addon_id="XFRM" version_id="2010470" version_string="2.1.4"><![CDATA[У Вас недостаточно прав для просмотра всего контента этого ресурса.]]></phrase>
   <phrase title="xfrm_does_not_have_file" addon_id="XFRM" version_id="2000033" version_string="2.0.0 Beta 3"><![CDATA[Без файла]]></phrase>
   <phrase title="xfrm_download_is_not_available_try_another" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Этот файл недоступен. Пожалуйста, попробуйте другой.]]></phrase>
   <phrase title="xfrm_downloads" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Скачиваний]]></phrase>
   <phrase title="xfrm_edit_resource" addon_id="XFRM" version_id="2000033" version_string="2.0.0 Beta 3"><![CDATA[Редактировать ресурс]]></phrase>
   <phrase title="xfrm_edit_resource_icon" addon_id="XFRM" version_id="2000033" version_string="2.0.0 Beta 3"><![CDATA[Редактировать иконку ресурса]]></phrase>
   <phrase title="xfrm_edit_update" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Редактировать обновление]]></phrase>
-  <phrase title="xfrm_enable_support_url" addon_id="XFRM" version_id="2010013" version_string="2.1.0 Preview 3"><![CDATA[Enable support URL]]></phrase>
+  <phrase title="xfrm_enable_support_url" addon_id="XFRM" version_id="2010031" version_string="2.1.0 Beta 1"><![CDATA[Включить URL поддержки]]></phrase>
   <phrase title="xfrm_enable_versioning" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Включить управление версиями]]></phrase>
-  <phrase title="xfrm_explain_why_youre_giving_this_rating" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Уточните, почему Вы оценили ресурс именно так. Неконструктивные отзывы могут быть удалены без объяснения причин.]]></phrase>
+  <phrase title="xfrm_explain_why_youre_giving_this_rating" addon_id="XFRM" version_id="2010470" version_string="2.1.4"><![CDATA[Уточните, почему Вы оценили ресурс именно так. Неконструктивные отзывы могут быть удалены без объяснения причин.]]></phrase>
   <phrase title="xfrm_external_download" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Скачивание на внешнем сайте]]></phrase>
   <phrase title="xfrm_external_download_url" addon_id="XFRM" version_id="2000033" version_string="2.0.0 Beta 3"><![CDATA[Внешний URL для скачивания]]></phrase>
   <phrase title="xfrm_external_purchase" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Покупка на внешнем сайте]]></phrase>
@@ -13917,16 +13920,16 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_free" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Бесплатные]]></phrase>
   <phrase title="xfrm_full_size_view_displaying_as_standard_resource_list" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Полноразмерный вид, отображаемый в виде стандартного списка ресурсов.]]></phrase>
   <phrase title="xfrm_get_support" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Получить поддержку]]></phrase>
-  <phrase title="xfrm_go_to_download" addon_id="XFRM" version_id="2010013" version_string="2.1.0 Preview 3"><![CDATA[Go to download]]></phrase>
-  <phrase title="xfrm_if_enabled_users_given_option_enter_support_url" addon_id="XFRM" version_id="2010013" version_string="2.1.0 Preview 3"><![CDATA[If enabled, users will be given an option to enter a URL where their resource will be supported.]]></phrase>
+  <phrase title="xfrm_go_to_download" addon_id="XFRM" version_id="2010031" version_string="2.1.0 Beta 1"><![CDATA[Перейти к загрузке]]></phrase>
+  <phrase title="xfrm_if_enabled_users_given_option_enter_support_url" addon_id="XFRM" version_id="2010051" version_string="2.1.0 Release Candidate 1"><![CDATA[Если включено, пользователи смогут указывать ссылки на сайты поддержки их ресурсов.]]></phrase>
   <phrase title="xfrm_if_enabled_users_prompted_enter_version_history_displayed" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Если включено, то пользователям будет предложено указать номер версии и будет отображена история предыдущих версий.]]></phrase>
-  <phrase title="xfrm_if_need_new_version_post_update" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Если Вы хотите добавить новую версию этого ресурса, то Вам необходимо <a href="{link}">добавить обновление</a>.]]></phrase>
+  <phrase title="xfrm_if_need_new_version_post_update" addon_id="XFRM" version_id="2010470" version_string="2.1.4"><![CDATA[Если Вы хотите добавить новую версию этого ресурса, то Вам необходимо <a href="{link}">добавить обновление</a>.]]></phrase>
   <phrase title="xfrm_if_no_resource_types_selected_category_maintain_hierarchy" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Если не выбран ни один тип ресурса, данная категория будет использоваться только для формирования структуры категорий.]]></phrase>
   <phrase title="xfrm_if_selected_only_staff_will_be_able_to_see_who_wrote_this_review" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Если выбрано, то только члены команды смогут увидеть, кто написал этот отзыв.]]></phrase>
   <phrase title="xfrm_if_selected_post_made_automatically_explaining_resource_unavailable" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Если выбрано, то в теме обсуждения ресурса будет добавлено новое сообщение (от имени автора ресурса) об удалении ресурс.]]></phrase>
   <phrase title="xfrm_if_selected_resource_in_category_created_thread_posted_forum" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Если выбрано, то в указанном разделе будет автоматически создаваться тема при размещении ресурса в этой категории.]]></phrase>
   <phrase title="xfrm_if_selected_users_required_select_prefix_when_creating_editing" addon_id="XFRM" version_id="2000052" version_string="2.0.0 Release Candidate 2"><![CDATA[Если включено, то пользователи должны будут выбрать префикс при создании или редактировании ресурса. Это не будет иметь силы для модераторов.]]></phrase>
-  <phrase title="xfrm_if_you_have_specific_location_where_you_will_be_providing_support_or" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Если у Вас есть страница, где Вы будете оказывать поддержку или отвечать на вопросы, пожалуйста, укажите здесь ссылку на нее.]]></phrase>
+  <phrase title="xfrm_if_you_have_specific_location_where_you_will_be_providing_support_or" addon_id="XFRM" version_id="2010470" version_string="2.1.4"><![CDATA[Если у Вас есть страница, где Вы будете оказывать поддержку или отвечать на вопросы, пожалуйста, укажите здесь ссылку на нее.]]></phrase>
   <phrase title="xfrm_include_resource_updates" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Включить обновления ресурса]]></phrase>
   <phrase title="xfrm_include_resources" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Include resources]]></phrase>
   <phrase title="xfrm_join_discussion" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Обсудить ресурс]]></phrase>
@@ -13937,7 +13940,7 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_leave_resource_team" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Leave resource team]]></phrase>
   <phrase title="xfrm_manage_resource_team" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Manage resource team]]></phrase>
   <phrase title="xfrm_more_information" addon_id="XFRM" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Подробная информация]]></phrase>
-  <phrase title="xfrm_more_resources_from_x" addon_id="XFRM" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Еще ресурсы от {name}]]></phrase>
+  <phrase title="xfrm_more_resources_from_x" addon_id="XFRM" version_id="2010470" version_string="2.1.4"><![CDATA[Ещё ресурсы от {name}]]></phrase>
   <phrase title="xfrm_most_helpful" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Most helpful]]></phrase>
   <phrase title="xfrm_move_resource" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Переместить ресурс]]></phrase>
   <phrase title="xfrm_move_resources" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Переместить ресурсы]]></phrase>
@@ -13945,12 +13948,12 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_new_icon_could_not_be_applied_try_later" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Не удалось установить новую иконку. Пожалуйста, попробуйте позже.]]></phrase>
   <phrase title="xfrm_new_owner" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Новый автор]]></phrase>
   <phrase title="xfrm_new_owner_must_be_able_to_view_this_resource" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Новый автор должен иметь возможность просматривать этот ресурс.]]></phrase>
-  <phrase title="xfrm_new_resource_discussion_thread_must_be_standard_thread" addon_id="XFRM" version_id="2010013" version_string="2.1.0 Preview 3"><![CDATA[The new resource discussion thread must be a standard discussion thread.]]></phrase>
+  <phrase title="xfrm_new_resource_discussion_thread_must_be_standard_thread" addon_id="XFRM" version_id="2010051" version_string="2.1.0 Release Candidate 1"><![CDATA[Новая тема для обсуждения ресурса должна быть стандартной/обычной темой.]]></phrase>
   <phrase title="xfrm_new_resources" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Новые ресурсы]]></phrase>
   <phrase title="xfrm_new_resources_and_updates" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Новые ресурсы и обновления]]></phrase>
   <phrase title="xfrm_new_resources_only" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Только новые ресурсы]]></phrase>
   <phrase title="xfrm_new_version_number" addon_id="XFRM" version_id="2000033" version_string="2.0.0 Beta 3"><![CDATA[Номер новой версии]]></phrase>
-  <phrase title="xfrm_new_version_resource_x" addon_id="XFRM" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Version {version} of <a href="{resourceLink}">{resourceTitle}</a> posted in resource category <a href="{categoryLink}">{categoryTitle}</a>]]></phrase>
+  <phrase title="xfrm_new_version_resource_x" addon_id="XFRM" version_id="2010051" version_string="2.1.0 Release Candidate 1"><![CDATA[Версия {version} ресурса <a href="{resourceLink}">{resourceTitle}</a> размещена в категории <a href="{categoryLink}">{categoryTitle}</a>]]></phrase>
   <phrase title="xfrm_no_change" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Не изменять]]></phrase>
   <phrase title="xfrm_no_permission_to_buy_price_x" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Нет прав для покупки ({price})]]></phrase>
   <phrase title="xfrm_no_permission_to_download" addon_id="XFRM" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Нет прав для скачивания]]></phrase>
@@ -13965,7 +13968,7 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_notify_members_watching_destination_category" addon_id="XFRM" version_id="2000037" version_string="2.0.0 Beta 7"><![CDATA[Оповестить пользователей, отслеживающих целевую категорию]]></phrase>
   <phrase title="xfrm_only_include_resources_with" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Only include resources with]]></phrase>
   <phrase title="xfrm_own_tab" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Отдельная вкладка]]></phrase>
-  <phrase title="xfrm_page_is_within_resource_categories" addon_id="XFRM" version_id="2010013" version_string="2.1.0 Preview 3"><![CDATA[Page is within resource categories]]></phrase>
+  <phrase title="xfrm_page_is_within_resource_categories" addon_id="XFRM" version_id="2010051" version_string="2.1.0 Release Candidate 1"><![CDATA[Страница находится в категориях ресурсов]]></phrase>
   <phrase title="xfrm_paid" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Платные]]></phrase>
   <phrase title="xfrm_please_choose_valid_type_for_this_resource" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Пожалуйста, выберите корректный тип для этого ресурса.]]></phrase>
   <phrase title="xfrm_please_complete_all_commercial_resource_related_fields" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Пожалуйста, заполните все поля, связанные с коммерческим ресурсом.]]></phrase>
@@ -13977,11 +13980,11 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_post_resource_in" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Добавить ресурс в]]></phrase>
   <phrase title="xfrm_post_update" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Добавить обновление]]></phrase>
   <phrase title="xfrm_provide_very_brief_one_line_description_of_your_resource" addon_id="XFRM" version_id="2000033" version_string="2.0.0 Beta 3"><![CDATA[Предоставьте короткое, однострочное описание своего ресурса.]]></phrase>
-  <phrase title="xfrm_public_deletion_reason" addon_id="XFRM" version_id="2010013" version_string="2.1.0 Preview 3"><![CDATA[Public deletion reason]]></phrase>
-  <phrase title="xfrm_public_deletion_reason_explain" addon_id="XFRM" version_id="2010013" version_string="2.1.0 Preview 3"><![CDATA[Any reason provided here will be included in the message that is automatically posted in the resource discussion thread explaining that the resource is no longer available.]]></phrase>
+  <phrase title="xfrm_public_deletion_reason" addon_id="XFRM" version_id="2010051" version_string="2.1.0 Release Candidate 1"><![CDATA[Причина удаления]]></phrase>
+  <phrase title="xfrm_public_deletion_reason_explain" addon_id="XFRM" version_id="2010051" version_string="2.1.0 Release Candidate 1"><![CDATA[Указанная здесь причина будет включена в сообщение, которое автоматически размещается в теме обсуждения ресурса при его удалении.]]></phrase>
   <phrase title="xfrm_rate_this_resource" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Оценить этот ресурс]]></phrase>
-  <phrase title="xfrm_ratings" addon_id="XFRM" version_id="2010131" version_string="2.1.1 Beta 1"><![CDATA[Ratings]]></phrase>
-  <phrase title="xfrm_read_more" addon_id="XFRM" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Смотреть еще]]></phrase>
+  <phrase title="xfrm_ratings" addon_id="XFRM" version_id="2010170" version_string="2.1.1"><![CDATA[Рейтинги]]></phrase>
+  <phrase title="xfrm_read_more" addon_id="XFRM" version_id="2010470" version_string="2.1.4"><![CDATA[Смотреть ещё]]></phrase>
   <phrase title="xfrm_reassign_resource" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Сменить автора ресурса]]></phrase>
   <phrase title="xfrm_reassign_resources" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Сменить автора ресурсов]]></phrase>
   <phrase title="xfrm_rebuild_resource_categories" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Перестроение категорий ресурсов]]></phrase>
@@ -13992,7 +13995,7 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_release_new_version" addon_id="XFRM" version_id="2000033" version_string="2.0.0 Beta 3"><![CDATA[Загрузить новую версию]]></phrase>
   <phrase title="xfrm_remove_members" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Remove members]]></phrase>
   <phrase title="xfrm_replace_download" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Заменить файл]]></phrase>
-  <phrase title="xfrm_requested_resource_not_found" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Запрашиваемый ресурс не найден.]]></phrase>
+  <phrase title="xfrm_requested_resource_not_found" addon_id="XFRM" version_id="2010070" version_string="2.1.0"><![CDATA[<!-- .j. .u. .m. --> Запрашиваемый ресурс не найден.]]></phrase>
   <phrase title="xfrm_requested_review_not_found" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Запрашиваемый отзыв не найден.]]></phrase>
   <phrase title="xfrm_requested_update_not_found" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Запрашиваемое обновление не найдено]]></phrase>
   <phrase title="xfrm_requested_version_not_found" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Запрашиваемая версия не найдена.]]></phrase>
@@ -14003,7 +14006,7 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_resource_category_x" addon_id="XFRM" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Resource category '{title}']]></phrase>
   <phrase title="xfrm_resource_count" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Количество ресурсов]]></phrase>
   <phrase title="xfrm_resource_counts" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Количество ресурсов]]></phrase>
-  <phrase title="xfrm_resource_features" addon_id="XFRM" version_id="2010013" version_string="2.1.0 Preview 3"><![CDATA[Resource features]]></phrase>
+  <phrase title="xfrm_resource_features" addon_id="XFRM" version_id="2010051" version_string="2.1.0 Release Candidate 1"><![CDATA[Особенности ресурсов]]></phrase>
   <phrase title="xfrm_resource_field_choice.language_1" addon_id="" version_id="0" version_string=""><![CDATA[中文（简体）]]></phrase>
   <phrase title="xfrm_resource_field_choice.language_2" addon_id="" version_id="0" version_string=""><![CDATA[中文（繁体）]]></phrase>
   <phrase title="xfrm_resource_field_choice.language_3" addon_id="" version_id="0" version_string=""><![CDATA[English]]></phrase>
@@ -14046,11 +14049,11 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_resource_fields" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Дополнительные поля ресурса]]></phrase>
   <phrase title="xfrm_resource_icon" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Иконка ресурса]]></phrase>
   <phrase title="xfrm_resource_prefixes" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Префиксы ресурса]]></phrase>
-  <phrase title="xfrm_resource_quick_feature" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Ресурс рекомендован]]></phrase>
-  <phrase title="xfrm_resource_quick_unfeature" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Ресурс более не рекомендован]]></phrase>
+  <phrase title="xfrm_resource_quick_feature" addon_id="XFRM" version_id="2000370" version_string="2.0.3"><![CDATA[Рекомендовать ресурс]]></phrase>
+  <phrase title="xfrm_resource_quick_unfeature" addon_id="XFRM" version_id="2000470" version_string="2.0.4"><![CDATA[Отменить рекомендацию]]></phrase>
   <phrase title="xfrm_resource_rating" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Рейтинг ресурса]]></phrase>
   <phrase title="xfrm_resource_ratings" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Рейтинг ресурса]]></phrase>
-  <phrase title="xfrm_resource_reactions" addon_id="XFRM" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Resource reactions]]></phrase>
+  <phrase title="xfrm_resource_reactions" addon_id="XFRM" version_id="2010051" version_string="2.1.0 Release Candidate 1"><![CDATA[Реакции на ресурс]]></phrase>
   <phrase title="xfrm_resource_review_fields" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Resource review fields]]></phrase>
   <phrase title="xfrm_resource_review_in_x" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Отзыв к ресурсу '{title}']]></phrase>
   <phrase title="xfrm_resource_team" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Resource team]]></phrase>
@@ -14061,9 +14064,8 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
 [quote]{snippet}[/quote]
 
 [url={resource_link}]Посмотреть страницу этого ресурса...[/url]]]></phrase>
-  <phrase title="xfrm_resource_thread_delete" addon_id="XFRM" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Этот ресурс был удален и более недоступен для скачивания.]]></phrase>
-  <phrase title="xfrm_resource_thread_delete_reason_x" addon_id="XFRM" version_id="2010013" version_string="2.1.0 Preview 3"><![CDATA[This resource has been removed and is no longer available. The following reason was provided:
-[quote][plain]{reason}[/plain][/quote]]]></phrase>
+  <phrase title="xfrm_resource_thread_delete" addon_id="XFRM" version_id="2010051" version_string="2.1.0 Release Candidate 1"><![CDATA[Этот ресурс был удален и он более недоступен.]]></phrase>
+  <phrase title="xfrm_resource_thread_delete_reason_x" addon_id="XFRM" version_id="2010051" version_string="2.1.0 Release Candidate 1"><![CDATA[Этот ресурс удален и больше недоступен. Причина удаления: [quote][plain]{reason}[/plain][/quote]]]></phrase>
   <phrase title="xfrm_resource_thread_update" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[{username} обновил ресурс [url={resource_link}][plain]{resource_title}[/plain][/url] новой записью:
 
 [url={update_link}][plain]{title}[/plain][/url]
@@ -14077,11 +14079,11 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_resource_version" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Версия ресурса]]></phrase>
   <phrase title="xfrm_resource_version_in_x" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Версия ресурса '{title}']]></phrase>
   <phrase title="xfrm_resource_watched" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Отслеживаемый ресурс]]></phrase>
-  <phrase title="xfrm_resource_x" addon_id="XFRM" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Resource '{title}']]></phrase>
+  <phrase title="xfrm_resource_x" addon_id="XFRM" version_id="2010031" version_string="2.1.0 Beta 1"><![CDATA[Ресурс '{title}']]></phrase>
   <phrase title="xfrm_resource_x_new_watched_category" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[{resource} - новый ресурс в отслеживаемой категории]]></phrase>
-  <phrase title="xfrm_resource_x_posted_in_category_y" addon_id="XFRM" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[<a href="{resourceLink}">{resourceTitle}</a> posted in resource category <a href="{categoryLink}">{categoryTitle}</a>]]></phrase>
+  <phrase title="xfrm_resource_x_posted_in_category_y" addon_id="XFRM" version_id="2010470" version_string="2.1.4"><![CDATA[Ресурс <a href="{resourceLink}">{resourceTitle}</a> размещён в категории <a href="{categoryLink}">{categoryTitle}</a>]]></phrase>
   <phrase title="xfrm_resource_x_updated_y" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[{resource} обновлен: {update}]]></phrase>
-  <phrase title="xfrm_resource_x_was_reassigned_to_you" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Теперь Вы являетесь автором ресурса '{title}'.]]></phrase>
+  <phrase title="xfrm_resource_x_was_reassigned_to_you" addon_id="XFRM" version_id="2010470" version_string="2.1.4"><![CDATA[Теперь Вы являетесь автором ресурса '{title}'.]]></phrase>
   <phrase title="xfrm_resources" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Ресурсы]]></phrase>
   <phrase title="xfrm_resources_by_x" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Ресурсы пользователя {name}]]></phrase>
   <phrase title="xfrm_response_by" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Response by]]></phrase>
@@ -14095,7 +14097,7 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_stop_notification_emails_from_all_resources" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Отключить уведомления по электронной почте для всех ресурсов]]></phrase>
   <phrase title="xfrm_submission_date" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Дата добавления]]></phrase>
   <phrase title="xfrm_submit_review_anonymously" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Оставить отзыв анонимно]]></phrase>
-  <phrase title="xfrm_tag_line" addon_id="XFRM" version_id="2000033" version_string="2.0.0 Beta 3"><![CDATA[Описание]]></phrase>
+  <phrase title="xfrm_tag_line" addon_id="XFRM" version_id="2010070" version_string="2.1.0"><![CDATA[Краткое описание]]></phrase>
   <phrase title="xfrm_team_member" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Team member]]></phrase>
   <phrase title="xfrm_team_members_not_displayed_publicly" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Team members are not displayed publicly, except to moderators and team members themselves.]]></phrase>
   <phrase title="xfrm_team_resources" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Team resources]]></phrase>
@@ -14103,18 +14105,18 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_there_no_resources_matching_your_filters" addon_id="XFRM" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Нет ресурсов, соответствующих условиям фильтрации.]]></phrase>
   <phrase title="xfrm_there_no_reviews_matching_your_filters" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[There are no reviews matching your filters.]]></phrase>
   <phrase title="xfrm_this_category" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Эта категория]]></phrase>
-  <phrase title="xfrm_this_resource_is_not_versioned" addon_id="XFRM" version_id="2010013" version_string="2.1.0 Preview 3"><![CDATA[This resource is not versioned.]]></phrase>
+  <phrase title="xfrm_this_resource_is_not_versioned" addon_id="XFRM" version_id="2010031" version_string="2.1.0 Beta 1"><![CDATA[Этот ресурс не поддерживает версии.]]></phrase>
   <phrase title="xfrm_top_resources" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Топ-ресурсов]]></phrase>
   <phrase title="xfrm_unapprove_resources" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Отклонить ресурсы]]></phrase>
   <phrase title="xfrm_undelete_resources" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Восстановить ресурсы]]></phrase>
   <phrase title="xfrm_unfeature_resources" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Ресурсы более не рекомендованы]]></phrase>
   <phrase title="xfrm_unwatch_resource" addon_id="XFRM" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Перестать отслеживать ресурс]]></phrase>
-  <phrase title="xfrm_update_discussion_thread" addon_id="XFRM" version_id="2010013" version_string="2.1.0 Preview 3"><![CDATA[Update discussion thread]]></phrase>
+  <phrase title="xfrm_update_discussion_thread" addon_id="XFRM" version_id="2010031" version_string="2.1.0 Beta 1"><![CDATA[Обновить тему обсуждения]]></phrase>
   <phrase title="xfrm_update_message" addon_id="XFRM" version_id="2000033" version_string="2.0.0 Beta 3"><![CDATA[Описание обновления]]></phrase>
   <phrase title="xfrm_update_resource" addon_id="XFRM" version_id="2000033" version_string="2.0.0 Beta 3"><![CDATA[Обновить ресурс]]></phrase>
   <phrase title="xfrm_update_thread_title_on_resource_deletion" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Обновлять заголовок темы при удалении ресурса на]]></phrase>
   <phrase title="xfrm_update_title" addon_id="XFRM" version_id="2000033" version_string="2.0.0 Beta 3"><![CDATA[Заголовок обновления]]></phrase>
-  <phrase title="xfrm_update_to_resource_x" addon_id="XFRM" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Update to <a href="{resourceLink}">{resourceTitle}</a> in resource category <a href="{categoryLink}">{categoryTitle}</a>]]></phrase>
+  <phrase title="xfrm_update_to_resource_x" addon_id="XFRM" version_id="2010051" version_string="2.1.0 Release Candidate 1"><![CDATA[Обновление ресурса <a href="{resourceLink}">{resourceTitle}</a> в категории <a href="{categoryLink}">{categoryTitle}</a>]]></phrase>
   <phrase title="xfrm_update_x_in_resource_y" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Обновление '{title}' ресурса '{resource}']]></phrase>
   <phrase title="xfrm_updates" addon_id="XFRM" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Обновления]]></phrase>
   <phrase title="xfrm_upload_custom_icon" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Загрузить собственную иконку]]></phrase>
@@ -14131,19 +14133,19 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_viewing_resources" addon_id="XFRM" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Смотрит ресурсы]]></phrase>
   <phrase title="xfrm_watch_resource" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Отслеживать ресурс]]></phrase>
   <phrase title="xfrm_watch_this_resource" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Отслеживать этот ресурс]]></phrase>
-  <phrase title="xfrm_watched_category_email_html_footer" addon_id="XFRM" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[<p class="minorText">Пожалуйста, не отвечайте на это сообщение. Вы должны посетить форум, чтобы ответить.</p>
+  <phrase title="xfrm_watched_category_email_html_footer" addon_id="XFRM" version_id="2010470" version_string="2.1.4"><![CDATA[<p class="minorText">Пожалуйста, не отвечайте на это сообщение. Вы должны посетить форум, чтобы ответить.</p>
 
 <p class="minorText">Это сообщение было отправлено Вам с сайта {board}, так как Вы подписаны на получение уведомлений о новых ответах в категории "{category}" с помощью электронной почты. Вы больше не будете получать уведомления до тех пор, пока не прочитаете новые сообщения.</p>
 
 <p class="minorText">Если Вы больше не хотите получать эти уведомления, Вы можете <a href="{disable_this_link}">отключить их для этой категории</a> или <a href="{disable_all_link}">отключить все уведомления на электронную почту</a>.</p>]]></phrase>
-  <phrase title="xfrm_watched_category_resource_email_html" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[<p>{author} добавил(а) новый ресурс в категорию, которую Вы отслеживаете на сайте {board}.</p>]]></phrase>
-  <phrase title="xfrm_watched_category_update_email_html" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[<p>{author} обновил(а) ресурс в категории, которую Вы отслеживаете на сайте {board}.</p>]]></phrase>
-  <phrase title="xfrm_watched_resource_email_html_footer" addon_id="XFRM" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[<p class="minorText">Пожалуйста, не отвечайте на это сообщение. Вы должны посетить форум, чтобы ответить.</p>
+  <phrase title="xfrm_watched_category_resource_email_html" addon_id="XFRM" version_id="2010470" version_string="2.1.4"><![CDATA[<p>{author} добавил(а) новый ресурс в категорию, которую Вы отслеживаете на сайте {board}.</p>]]></phrase>
+  <phrase title="xfrm_watched_category_update_email_html" addon_id="XFRM" version_id="2010470" version_string="2.1.4"><![CDATA[<p>{author} обновил(а) ресурс в категории, которую Вы отслеживаете на сайте {board}.</p>]]></phrase>
+  <phrase title="xfrm_watched_resource_email_html_footer" addon_id="XFRM" version_id="2010470" version_string="2.1.4"><![CDATA[<p class="minorText">Пожалуйста, не отвечайте на это сообщение. Вы должны посетить форум, чтобы ответить.</p>
 
 <p class="minorText">Это сообщение было отправлено Вам с сайта {board}, так как Вы подписаны на получение уведомлений об обновлениях ресурса "{resource}" с помощью электронной почты. Вы больше не будете получать уведомления до тех пор, пока не прочитаете новые сообщения.</p>
 
 <p class="minorText">Если Вы больше не хотите получать эти уведомления, Вы можете <a href="{disable_this_link}">отключить их для этого ресурса</a> или <a href="{disable_all_link}">отключить все уведомления на электронную почту</a>.</p>]]></phrase>
-  <phrase title="xfrm_watched_resource_update_email_html" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[<p>{author} обновил(а) ресурс, который Вы отслеживаете на сайте {board}.</p>]]></phrase>
+  <phrase title="xfrm_watched_resource_update_email_html" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[<p>{author} обновил(а) ресурс, который вы отслеживаете на сайте {board}.</p>]]></phrase>
   <phrase title="xfrm_watched_resources" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Отслеживаемые ресурсы]]></phrase>
   <phrase title="xfrm_will_require_users_provide_at_least_tags_when_creating_resource" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Позволит требовать от пользователей ввода, как минимум, следующего количества тегов при создании ресурса.]]></phrase>
   <phrase title="xfrm_x_added_you_as_team_member_for_resource_y" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[{name} added you as a team member for the resource {title}.]]></phrase>
@@ -14151,23 +14153,23 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_x_created_resource_y_in_category_z" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[{username} разместил(а) ресурс {title} в {category}.]]></phrase>
   <phrase title="xfrm_x_has_not_posted_any_resources_yet" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[{name} пока не добавил(а) ни одного ресурса.]]></phrase>
   <phrase title="xfrm_x_left_resource_team_for_resource_y" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[{name} left the resource team for the resource {title}.]]></phrase>
-  <phrase title="xfrm_x_mentioned_you_in_resource_y" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[{name} упомянул(а) Вас в ресурсе {title}.]]></phrase>
-  <phrase title="xfrm_x_mentioned_you_in_update_resource_y" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[{name} упомянул(а) Вас в обновлении ресурса {title}.]]></phrase>
-  <phrase title="xfrm_x_reacted_to_your_resource_y" addon_id="XFRM" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name} reacted to your resource {title} with {reaction}.]]></phrase>
-  <phrase title="xfrm_x_reacted_to_your_update_resource_y" addon_id="XFRM" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name} reacted to your update for resource {title} with {reaction}.]]></phrase>
-  <phrase title="xfrm_x_reacted_to_ys_resource_z" addon_id="XFRM" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name} reacted to {author}'s resource {title} with {reaction}.]]></phrase>
-  <phrase title="xfrm_x_reacted_to_ys_update_for_resource_z" addon_id="XFRM" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name} reacted to {author}'s update for resource {title} with {reaction}.]]></phrase>
-  <phrase title="xfrm_x_replied_review_resource_y" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[{name} ответил(а) на Ваш отзыв к ресурсу {title}.]]></phrase>
+  <phrase title="xfrm_x_mentioned_you_in_resource_y" addon_id="XFRM" version_id="2010470" version_string="2.1.4"><![CDATA[{name} упомянул(а) Вас в ресурсе {title}.]]></phrase>
+  <phrase title="xfrm_x_mentioned_you_in_update_resource_y" addon_id="XFRM" version_id="2010470" version_string="2.1.4"><![CDATA[{name} упомянул(а) Вас в обновлении ресурса {title}.]]></phrase>
+  <phrase title="xfrm_x_reacted_to_your_resource_y" addon_id="XFRM" version_id="2010470" version_string="2.1.4"><![CDATA[{name} отреагировал(а) на Ваш ресурс {title}. Реакция: {reaction}]]></phrase>
+  <phrase title="xfrm_x_reacted_to_your_update_resource_y" addon_id="XFRM" version_id="2010470" version_string="2.1.4"><![CDATA[{name} отреагировал(а) на Ваше обновление ресурса {title}. Реакция: {reaction}]]></phrase>
+  <phrase title="xfrm_x_reacted_to_ys_resource_z" addon_id="XFRM" version_id="2010051" version_string="2.1.0 Release Candidate 1"><![CDATA[{name} отреагировал(а) на ресурс {author}. Ресурс: {title}. Реакция: {reaction}]]></phrase>
+  <phrase title="xfrm_x_reacted_to_ys_update_for_resource_z" addon_id="XFRM" version_id="2010051" version_string="2.1.0 Release Candidate 1"><![CDATA[{name} отреагировал(а) на обновление ресурса {author}. Ресурс: {title}. Реакция: {reaction}]]></phrase>
+  <phrase title="xfrm_x_replied_review_resource_y" addon_id="XFRM" version_id="2010470" version_string="2.1.4"><![CDATA[{name} ответил(а) на Ваш отзыв к ресурсу {title}.]]></phrase>
   <phrase title="xfrm_x_reviewed_resource_y" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[{username} оставил(а) отзыв к ресурсу {title}.]]></phrase>
   <phrase title="xfrm_x_updated_resource_y" addon_id="XFRM" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[{name} обновил(а) ресурс {title}.]]></phrase>
   <phrase title="xfrm_x_updated_resource_y_with_update_z" addon_id="XFRM" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[{username} обновил(а) ресурс {title} записью {update}.]]></phrase>
   <phrase title="xfrm_you_have_already_rated_this_version_rerating_remove_existing" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Вы уже оценили эту версию. Повторная оценка приведет к удалению текущего рейтинга или отзыва.]]></phrase>
-  <phrase title="xfrm_you_have_not_posted_any_resources_yet" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Вы еще не разместили ни одного ресурса.]]></phrase>
+  <phrase title="xfrm_you_have_not_posted_any_resources_yet" addon_id="XFRM" version_id="2010470" version_string="2.1.4"><![CDATA[Вы ещё не разместили ни одного ресурса.]]></phrase>
   <phrase title="xfrm_you_may_have_up_to_x_team_members" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[You may have up to {number} team member(s).]]></phrase>
   <phrase title="xfrm_you_may_not_add_following_team_members_to_this_resource_x" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[You may not add the following team members to this resource: {names}]]></phrase>
   <phrase title="xfrm_you_may_not_add_resources_to_this_category" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Вы не можете добавлять ресурсы в эту категорию.]]></phrase>
   <phrase title="xfrm_you_may_only_add_x_team_members_to_this_resource" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[You may only add {count} team members to this resource.]]></phrase>
-  <phrase title="xfrm_you_may_only_import_from_xenforo_resource_manager_x" addon_id="XFRM" version_id="2010131" version_string="2.1.1 Beta 1"><![CDATA[You may only import from XenForo Resource Manager {version}.]]></phrase>
+  <phrase title="xfrm_you_may_only_import_from_xenforo_resource_manager_x" addon_id="XFRM" version_id="2010170" version_string="2.1.1"><![CDATA[Импорт возможен только из XenForo Resource Manager версии {version}.]]></phrase>
   <phrase title="xfrm_you_must_upload_file_or_provide_external_download_url" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Вам необходимо загрузить файл или указать внешнюю ссылку для скачивания.]]></phrase>
   <phrase title="xfrm_you_not_member_of_any_resource_teams" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[You are not a member of any resource teams.]]></phrase>
   <phrase title="xfrm_you_not_watching_any_resources" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Вы не отслеживаете ни одного ресурса.]]></phrase>
@@ -14183,7 +14185,7 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_your_resource_x_was_deleted" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Ваш ресурс {title} был удален.]]></phrase>
   <phrase title="xfrm_your_resource_x_was_edited" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Ваш ресурс {title} был отредактирован.]]></phrase>
   <phrase title="xfrm_your_resource_x_was_moved" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Ваш ресурс {title} был перемещен в другую категорию.]]></phrase>
-  <phrase title="xfrm_your_resource_x_was_reassigned_to_y" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Автором Вашего ресурса {title} теперь является {to}.]]></phrase>
+  <phrase title="xfrm_your_resource_x_was_reassigned_to_y" addon_id="XFRM" version_id="2010470" version_string="2.1.4"><![CDATA[Автором Вашего ресурса {title} теперь является {to}.]]></phrase>
   <phrase title="xfrm_your_resources" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Your resources]]></phrase>
   <phrase title="xfrm_your_review_for_x_was_deleted" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Ваш отзыв к ресурсу {title} был удален.]]></phrase>
   <phrase title="xfrm_your_review_must_be_at_least_x_characters" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Ваш отзыв должна содержать минимум {min} символов.]]></phrase>
