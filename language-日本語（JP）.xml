@@ -744,7 +744,7 @@ If you have a valid license, please <a href="admin.php?add-ons/" rel="nofollow" 
   <phrase title="alert_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Alert users]]></phrase>
   <phrase title="alert_users_description" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[You can use this form to send an alert to the users which match the criteria specified below.]]></phrase>
   <phrase title="alerting" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Alerting]]></phrase>
-  <phrase title="alerts" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Alerts]]></phrase>
+  <phrase title="alerts" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[報]]></phrase>
   <phrase title="align_center" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Align center]]></phrase>
   <phrase title="align_left" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Align left]]></phrase>
   <phrase title="align_right" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Align right]]></phrase>
@@ -1184,7 +1184,7 @@ To support recurring billing and automatically reversing purchases when a paymen
   <phrase title="button.preview" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Preview]]></phrase>
   <phrase title="button.purchase" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Purchase]]></phrase>
   <phrase title="button.save" addon_id="XF" global_cache="1" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Save]]></phrase>
-  <phrase title="button.search" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Search]]></phrase>
+  <phrase title="button.search" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[検索]]></phrase>
   <phrase title="button.show" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Show]]></phrase>
   <phrase title="button.sort" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sort]]></phrase>
   <phrase title="button.submit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Submit]]></phrase>
@@ -5827,9 +5827,9 @@ If enabled, users will be able to pay with Apple Pay, Android Pay, Google Pay an
   <phrase title="filter_unanswered" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unanswered]]></phrase>
   <phrase title="filter_unread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unread]]></phrase>
   <phrase title="filter_watched" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Watched]]></phrase>
-  <phrase title="filters" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Filters]]></phrase>
+  <phrase title="filters" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[フィルタ]]></phrase>
   <phrase title="finalize_import" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Finalize import]]></phrase>
-  <phrase title="finalizing" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Finalizing]]></phrase>
+  <phrase title="finalizing" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[確定し]]></phrase>
   <phrase title="find" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Find]]></phrase>
   <phrase title="find_all_content_by_x" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Find all content by {name}]]></phrase>
   <phrase title="find_all_threads_by_x" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Find all threads by {name}]]></phrase>
@@ -5900,7 +5900,7 @@ Please download this version from the <a href="https://xenforo.com/customers/" t
   <phrase title="forum_is_already_that_type" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[The forum is already that type.]]></phrase>
   <phrase title="forum_is_currently_closed_only_admins_may_access" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[The forum is currently closed. Only administrators may access the forum.]]></phrase>
   <phrase title="forum_limit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum limit]]></phrase>
-  <phrase title="forum_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum list]]></phrase>
+  <phrase title="forum_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[フォーラムの一覧]]></phrase>
   <phrase title="forum_min_tags_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This will require users to provide at least this many tags when creating a thread.]]></phrase>
   <phrase title="forum_moderator" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum moderator]]></phrase>
   <phrase title="forum_sort.first_post_reaction_score" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[First message reaction score]]></phrase>
@@ -6808,7 +6808,7 @@ Multiple styles can be combined.
   <phrase title="lightbox_error" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[The requested content cannot be loaded. Please try again later.]]></phrase>
   <phrase title="lightbox_full_screen" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Full screen]]></phrase>
   <phrase title="lightbox_new_window" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[New window]]></phrase>
-  <phrase title="lightbox_next" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Next]]></phrase>
+  <phrase title="lightbox_next" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[次]]></phrase>
   <phrase title="lightbox_previous" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Previous]]></phrase>
   <phrase title="lightbox_share" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Share]]></phrase>
   <phrase title="lightbox_start_slideshow" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Start slideshow]]></phrase>
@@ -6865,7 +6865,7 @@ Callback arguments:
   <phrase title="listed_below_node" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Listed below node]]></phrase>
   <phrase title="listen_to_event" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Listen to event]]></phrase>
   <phrase title="live_payments_have_been_disabled" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Live payments have been disabled so, where available, purchase requests will be made to sandbox/test endpoints. To rectify this, please edit config.php.]]></phrase>
-  <phrase title="loading" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Loading]]></phrase>
+  <phrase title="loading" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[加载中]]></phrase>
   <phrase title="loading_image" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Loading image]]></phrase>
   <phrase title="locale" addon_id="XF" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[Locale]]></phrase>
   <phrase title="locale_of_language_importing_differs_overwriting_is_correct" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[The locale of the language you're importing differs from the language you're overwriting. Is this the correct language?]]></phrase>
@@ -7042,7 +7042,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="message_template" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Message template]]></phrase>
   <phrase title="message_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Message users]]></phrase>
   <phrase title="message_users_description" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[You can use this form to start a conversation with the users which match the criteria specified below.]]></phrase>
-  <phrase title="messages" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Messages]]></phrase>
+  <phrase title="messages" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[消息]]></phrase>
   <phrase title="messages_have_been_posted_since_you_loaded_this_page" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Messages have been posted since you loaded this page.]]></phrase>
   <phrase title="messaging" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Messaging]]></phrase>
   <phrase title="method" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Method]]></phrase>
@@ -7918,7 +7918,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="news_feed_profile_post_insert" addon_id="XF" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[{usernamePoster} left a message on {usernameReceiver}'s profile.]]></phrase>
   <phrase title="news_feed_profile_post_insert_status" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{username} updated their <a href="{href}">status</a>.]]></phrase>
   <phrase title="news_feed_thread_insert" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{username} posted the thread {threadTitle} in {forumTitle}.]]></phrase>
-  <phrase title="next" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Next]]></phrase>
+  <phrase title="next" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[次]]></phrase>
   <phrase title="next_allowed_username_change" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Next allowed username change]]></phrase>
   <phrase title="next_allowed_username_change_message" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[If you decide to change your username now you will not be able to again until {date}.]]></phrase>
   <phrase title="next_run" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Next run]]></phrase>
@@ -8332,7 +8332,7 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.messageMaxImages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maximum images per message]]></phrase>
   <phrase title="option.messageMaxLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maximum message length]]></phrase>
   <phrase title="option.messageMaxMedia" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maximum media embeds per message]]></phrase>
-  <phrase title="option.messagesPerPage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Messages per page]]></phrase>
+  <phrase title="option.messagesPerPage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[各ページのメッセージ]]></phrase>
   <phrase title="option.mjcTransactionsPerPage" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[每页交易次数]]></phrase>
   <phrase title="option.mjc_credits_event_content_currency" addon_id="MJ/Credits" version_id="1000400" version_string="1.0.4"><![CDATA[内容收费：货币]]></phrase>
   <phrase title="option.mjc_credits_event_trigger_content_bbcode" addon_id="MJ/Credits" version_id="1020600" version_string="1.2.6"><![CDATA[付费]]></phrase>
@@ -9269,7 +9269,7 @@ Callback arguments:
   <phrase title="permission.general_maxMentionedUsers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maximum mention alerts]]></phrase>
   <phrase title="permission.general_report" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Report content]]></phrase>
   <phrase title="permission.general_requireTfa" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Require two-step verification]]></phrase>
-  <phrase title="permission.general_search" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Search]]></phrase>
+  <phrase title="permission.general_search" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[検索]]></phrase>
   <phrase title="permission.general_submitWithoutApproval" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Submit content without approval]]></phrase>
   <phrase title="permission.general_useContactForm" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Use contact form]]></phrase>
   <phrase title="permission.general_usePush" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Use push notifications]]></phrase>
@@ -9723,7 +9723,7 @@ Callback arguments:
   <phrase title="post_public_warning" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Post a public warning]]></phrase>
   <phrase title="post_reactions" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Post reactions]]></phrase>
   <phrase title="post_reply" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Post reply]]></phrase>
-  <phrase title="post_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Post thread]]></phrase>
+  <phrase title="post_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[ポスト糸]]></phrase>
   <phrase title="post_thread_in" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Post thread in...]]></phrase>
   <phrase title="post_verb" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Post]]></phrase>
   <phrase title="post_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Post #{position}]]></phrase>
@@ -9923,7 +9923,7 @@ Before your content can be posted, please take a few moments to register a free 
   <phrase title="reaction_definitions" addon_id="XF" version_id="2010053" version_string="2.1.0 Release Candidate 3"><![CDATA[Reaction definitions]]></phrase>
   <phrase title="reaction_is_active" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Reaction is active]]></phrase>
   <phrase title="reaction_message_ratio_explanation" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[A user with 10 messages and reaction score of 5 will have a ratio of 0.5.]]></phrase>
-  <phrase title="reaction_score" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Reaction score]]></phrase>
+  <phrase title="reaction_score" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[反応点数]]></phrase>
   <phrase title="reaction_score.negative" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Negative]]></phrase>
   <phrase title="reaction_score.neutral" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Neutral]]></phrase>
   <phrase title="reaction_score.positive" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Positive]]></phrase>
@@ -10486,10 +10486,10 @@ Content being reported:
   <phrase title="set_security_lock" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Set security lock]]></phrase>
   <phrase title="set_thread_status" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Set thread status]]></phrase>
   <phrase title="set_user_state" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Set user state]]></phrase>
-  <phrase title="settings" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Settings]]></phrase>
+  <phrase title="settings" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[設定]]></phrase>
   <phrase title="setup" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Setup]]></phrase>
   <phrase title="sfs_matched_x" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[StopForumSpam matched ({matches})]]></phrase>
-  <phrase title="share" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Share]]></phrase>
+  <phrase title="share" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[共有]]></phrase>
   <phrase title="share_this_content" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Share this content]]></phrase>
   <phrase title="share_this_post" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Share this post]]></phrase>
   <phrase title="share_this_thread" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Share this thread]]></phrase>
@@ -10827,7 +10827,7 @@ Content being reported:
   <phrase title="staff_member" addon_id="XF" global_cache="1" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Staff member]]></phrase>
   <phrase title="staff_members_cannot_be_reply_banned" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Staff members cannot be banned from replying.]]></phrase>
   <phrase title="staff_members_may_not_be_ignored" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Staff members may not be ignored.]]></phrase>
-  <phrase title="staff_online" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Staff online]]></phrase>
+  <phrase title="staff_online" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[オンライン管理者]]></phrase>
   <phrase title="staff_state" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Staff state]]></phrase>
   <phrase title="standard" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Standard]]></phrase>
   <phrase title="standard_search" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Standard search]]></phrase>
@@ -11657,7 +11657,7 @@ Use the following code in your "message_macros" template:<br>
   <phrase title="style_prop_group.input" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inputs]]></phrase>
   <phrase title="style_prop_group.member" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Member profiles]]></phrase>
   <phrase title="style_prop_group.menu" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Popup menus]]></phrase>
-  <phrase title="style_prop_group.message" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Messages]]></phrase>
+  <phrase title="style_prop_group.message" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[消息]]></phrase>
   <phrase title="style_prop_group.misc" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Miscellaneous]]></phrase>
   <phrase title="style_prop_group.nodeList" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Node/forum list]]></phrase>
   <phrase title="style_prop_group.overlay" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Overlays]]></phrase>
@@ -11992,8 +11992,8 @@ For example: if you set "orange" as a class on a category, each forum within tha
   <phrase title="th_normal_threads" addon_id="ThemeHouse/UIX" version_id="2000892" version_string="2.0.8 Patch Level 2"><![CDATA[Normal threads]]></phrase>
   <phrase title="th_original_poster" addon_id="ThemeHouse/UIX" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[Original poster]]></phrase>
   <phrase title="th_page_icon_class_nodes" addon_id="ThemeHouse/Nodes" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Page icon class]]></phrase>
-  <phrase title="th_page_width_uix" addon_id="ThemeHouse/UIX" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Page width]]></phrase>
-  <phrase title="th_profile_uix" addon_id="ThemeHouse/UIX" version_id="2000591" version_string="2.0.5 Patch Level 1"><![CDATA[Profile]]></phrase>
+  <phrase title="th_page_width_uix" addon_id="ThemeHouse/UIX" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[ページ幅]]></phrase>
+  <phrase title="th_profile_uix" addon_id="ThemeHouse/UIX" version_id="2000591" version_string="2.0.5 Patch Level 1"><![CDATA[プロファイル]]></phrase>
   <phrase title="th_rebuild_cache_nodes" addon_id="ThemeHouse/Nodes" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Rebuild cache]]></phrase>
   <phrase title="th_retain_text_styling_nodes" addon_id="ThemeHouse/Nodes" version_id="1000211" version_string="1.0.2 Alpha 1"><![CDATA[Retain text styling]]></phrase>
   <phrase title="th_search_forum_icon_class_nodes" addon_id="ThemeHouse/Nodes" version_id="1010094" version_string="1.1.0 Patch Level 4"><![CDATA[Search forum icon class]]></phrase>
@@ -13401,10 +13401,10 @@ Your account's access may be limited based on these actions. Please keep this in
   <phrase title="widget.adsense_resource_top" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.adv" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.adv1" addon_id="" version_id="0" version_string=""><![CDATA[推广内容]]></phrase>
-  <phrase title="widget.adv2" addon_id="" version_id="0" version_string=""><![CDATA[友情链接]]></phrase>
+  <phrase title="widget.adv2" addon_id="" version_id="0" version_string=""><![CDATA[ホットリンク]]></phrase>
   <phrase title="widget.fhb" addon_id="" version_id="0" version_string=""><![CDATA[财富榜]]></phrase>
   <phrase title="widget.forum_overview_new_profile_posts" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="widget.friend_links" addon_id="" version_id="0" version_string=""><![CDATA[友情链接]]></phrase>
+  <phrase title="widget.friend_links" addon_id="" version_id="0" version_string=""><![CDATA[ホットリンク]]></phrase>
   <phrase title="widget.good_resources" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.google_adsense" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.google_adsense_bottom" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -13442,7 +13442,7 @@ Your account's access may be limited based on these actions. Please keep this in
   <phrase title="widget.xfrm_list_top_resources" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.xfrm_overview_latest_reviews" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.xfrm_overview_top_authors" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="widget.zhenghe" addon_id="" version_id="0" version_string=""><![CDATA[最新内容]]></phrase>
+  <phrase title="widget.zhenghe" addon_id="" version_id="0" version_string=""><![CDATA[最新の内容]]></phrase>
   <phrase title="widget_def.EWRporta_articles" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[XenPorta > Articles]]></phrase>
   <phrase title="widget_def.EWRporta_categories" addon_id="EWR/Porta" version_id="2016" version_string="2.0.1.6"><![CDATA[XenPorta > Categories]]></phrase>
   <phrase title="widget_def.EWRporta_countdown" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[XenPorta > Countdown]]></phrase>
@@ -13691,7 +13691,7 @@ Callback arguments:
   <phrase title="x_per_y_years" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{cost} per {length} years]]></phrase>
   <phrase title="x_per_year" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{cost} per year]]></phrase>
   <phrase title="x_quoted_your_post_in_thread_y" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[{name} quoted your post in the thread {title}.]]></phrase>
-  <phrase title="x_ratings" addon_id="XF" version_id="2000052" version_string="2.0.0 Release Candidate 2"><![CDATA[{count} ratings]]></phrase>
+  <phrase title="x_ratings" addon_id="XF" version_id="2000052" version_string="2.0.0 Release Candidate 2"><![CDATA[{count} 評点]]></phrase>
   <phrase title="x_reacted_to_your_comment_on_your_profile_post" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name} reacted to <a {post_attributes}>your comment</a> on your profile post with {reaction}.]]></phrase>
   <phrase title="x_reacted_to_your_comment_on_ys_profile_post" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name} reacted to <a {post_attributes}>your comment</a> on {poster}'s profile post with {reaction}.]]></phrase>
   <phrase title="x_reacted_to_your_message_in_the_conversation_y" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name} reacted to your message in the conversation {title} with {reaction}.]]></phrase>
@@ -14071,14 +14071,14 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_there_no_reviews_matching_your_filters" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[There are no reviews matching your filters.]]></phrase>
   <phrase title="xfrm_this_category" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This category]]></phrase>
   <phrase title="xfrm_this_resource_is_not_versioned" addon_id="XFRM" version_id="2010013" version_string="2.1.0 Preview 3"><![CDATA[This resource is not versioned.]]></phrase>
-  <phrase title="xfrm_top_resources" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Top resources]]></phrase>
+  <phrase title="xfrm_top_resources" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[人気のある資源]]></phrase>
   <phrase title="xfrm_unapprove_resources" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unapprove resources]]></phrase>
   <phrase title="xfrm_undelete_resources" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Undelete resources]]></phrase>
   <phrase title="xfrm_unfeature_resources" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unfeature resources]]></phrase>
   <phrase title="xfrm_unwatch_resource" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unwatch resource]]></phrase>
   <phrase title="xfrm_update_discussion_thread" addon_id="XFRM" version_id="2010013" version_string="2.1.0 Preview 3"><![CDATA[Update discussion thread]]></phrase>
   <phrase title="xfrm_update_message" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Update message]]></phrase>
-  <phrase title="xfrm_update_resource" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Update resource]]></phrase>
+  <phrase title="xfrm_update_resource" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[更新リソース]]></phrase>
   <phrase title="xfrm_update_thread_title_on_resource_deletion" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Update thread title on resource deletion]]></phrase>
   <phrase title="xfrm_update_title" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Update title]]></phrase>
   <phrase title="xfrm_update_to_resource_x" addon_id="XFRM" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Update to <a href="{resourceLink}">{resourceTitle}</a> in resource category <a href="{categoryLink}">{categoryTitle}</a>]]></phrase>
