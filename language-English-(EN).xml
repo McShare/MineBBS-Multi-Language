@@ -7486,13 +7486,13 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_specific_forums_this_event_can_trigger_in" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[此事件可以触发的特定版面]]></phrase>
   <phrase title="mjc_spend" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[Spend]]></phrase>
   <phrase title="mjc_status" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[Status]]></phrase>
-  <phrase title="mjc_suffix" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[后缀]]></phrase>
-  <phrase title="mjc_suffix_explain" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[后缀解释]]></phrase>
+  <phrase title="mjc_suffix" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Suffix]]></phrase>
+  <phrase title="mjc_suffix_explain" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Explanation of suffixes]]></phrase>
   <phrase title="mjc_summary" addon_id="MJ/Credits" version_id="1010700" version_string="1.1.7"><![CDATA[Summary]]></phrase>
   <phrase title="mjc_sure_you_want_to_clear_all_transactions" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[您确定要清除所有交易吗？]]></phrase>
   <phrase title="mjc_sure_you_want_to_clear_all_user_credits" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[您确定要清除所有用户的积分吗？]]></phrase>
   <phrase title="mjc_system" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[System]]></phrase>
-  <phrase title="mjc_target_currency" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[目标货币]]></phrase>
+  <phrase title="mjc_target_currency" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Target currency]]></phrase>
   <phrase title="mjc_target_user_cannot_use_this_event" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[目标用户无法使用此事件]]></phrase>
   <phrase title="mjc_tax" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[Tax]]></phrase>
   <phrase title="mjc_there_no_transactions_matching_your_filters" addon_id="MJ/Credits" version_id="1000200" version_string="1.0.2"><![CDATA[没有符合您过滤条件的交易。]]></phrase>
@@ -7511,7 +7511,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_transaction_x_of_y" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[{user} 的交易 {event}]]></phrase>
   <phrase title="mjc_transactions" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[Transactions]]></phrase>
   <phrase title="mjc_trigger_credit_event_x" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[触发积分事件 {event}]]></phrase>
-  <phrase title="mjc_trigger_date" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[触发日期]]></phrase>
+  <phrase title="mjc_trigger_date" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Trigger date]]></phrase>
   <phrase title="mjc_trigger_user" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[Trigger user]]></phrase>
   <phrase title="mjc_user" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[User]]></phrase>
   <phrase title="mjc_view_content" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[View content]]></phrase>
@@ -7865,7 +7865,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="nav.mcnav" addon_id="" version_id="0" version_string=""><![CDATA[MCNav]]></phrase>
   <phrase title="nav.members" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Members]]></phrase>
   <phrase title="nav.mjcCredits" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[Credits]]></phrase>
-  <phrase title="nav.mjcCreditsTransactions" addon_id="MJ/Credits" version_id="1020501" version_string="1.2.5"><![CDATA[交易大厅]]></phrase>
+  <phrase title="nav.mjcCreditsTransactions" addon_id="MJ/Credits" version_id="1020501" version_string="1.2.5"><![CDATA[Trading lobby]]></phrase>
   <phrase title="nav.mjrcpPurchasedResources" addon_id="MJ/ResourceCreditsPayment" version_id="1000701" version_string="1.0.7"><![CDATA[Purchased resources]]></phrase>
   <phrase title="nav.more" addon_id="" version_id="0" version_string=""><![CDATA[More]]></phrase>
   <phrase title="nav.newPosts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[New posts]]></phrase>
@@ -8178,11 +8178,11 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="optgroup_tags_cannot_be_nested" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Optgroup tags cannot be nested.]]></phrase>
   <phrase title="option.CMTV_Code_backComp" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[代码插件兼容性]]></phrase>
   <phrase title="option.CMTV_Code_commonLanguages" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[通用代码语言]]></phrase>
-  <phrase title="option.CMTV_Code_defaultCodeLanguage" addon_id="CMTV/Code" version_id="2020070" version_string="2.2.0"><![CDATA[默认代码语言]]></phrase>
-  <phrase title="option.CMTV_Code_defaultInsertCodeLanguage" addon_id="CMTV/Code" version_id="2020070" version_string="2.2.0"><![CDATA[默认“插入代码”语言]]></phrase>
-  <phrase title="option.CMTV_Code_langOptions" addon_id="CMTV/Code" version_id="2010270" version_string="2.1.2"><![CDATA[代码语言选项]]></phrase>
-  <phrase title="option.CMTV_Code_lineHighlight_enabled" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[行突出显示]]></phrase>
-  <phrase title="option.CMTV_Code_lineNumbers_enabled" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[代码行序号]]></phrase>
+  <phrase title="option.CMTV_Code_defaultCodeLanguage" addon_id="CMTV/Code" version_id="2020070" version_string="2.2.0"><![CDATA[Default code language]]></phrase>
+  <phrase title="option.CMTV_Code_defaultInsertCodeLanguage" addon_id="CMTV/Code" version_id="2020070" version_string="2.2.0"><![CDATA[Default "Insert code" language]]></phrase>
+  <phrase title="option.CMTV_Code_langOptions" addon_id="CMTV/Code" version_id="2010270" version_string="2.1.2"><![CDATA[Code language option]]></phrase>
+  <phrase title="option.CMTV_Code_lineHighlight_enabled" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[Highlight line]]></phrase>
+  <phrase title="option.CMTV_Code_lineNumbers_enabled" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[Code line number]]></phrase>
   <phrase title="option.EWRporta_article_format" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Article Format]]></phrase>
   <phrase title="option.EWRporta_article_forums" addon_id="EWR/Porta" version_id="1300" version_string="1.3.0.0"><![CDATA[Auto-promote forums]]></phrase>
   <phrase title="option.EWRporta_articles_permission" addon_id="EWR/Porta" version_id="2014" version_string="2.0.1.4"><![CDATA[Ignore thread view permissions]]></phrase>
@@ -8252,8 +8252,8 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.censorCharacter" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Censor character]]></phrase>
   <phrase title="option.censorWords" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Words to censor]]></phrase>
   <phrase title="option.changeLogLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Change log length]]></phrase>
-  <phrase title="option.cnxfans_global_stickies_blacklist_nodes" addon_id="CnXFans/GlobalStickies" version_id="1000070" version_string="1.0.0"><![CDATA[黑名单节点]]></phrase>
-  <phrase title="option.cnxfans_global_stickies_master_nodes" addon_id="CnXFans/GlobalStickies" version_id="1000070" version_string="1.0.0"><![CDATA[主节点]]></phrase>
+  <phrase title="option.cnxfans_global_stickies_blacklist_nodes" addon_id="CnXFans/GlobalStickies" version_id="1000070" version_string="1.0.0"><![CDATA[Nodes in blacklist]]></phrase>
+  <phrase title="option.cnxfans_global_stickies_master_nodes" addon_id="CnXFans/GlobalStickies" version_id="1000070" version_string="1.0.0"><![CDATA[Main node]]></phrase>
   <phrase title="option.collectServerStats" addon_id="XF" version_id="2011070" version_string="2.1.10"><![CDATA[Send anonymous usage statistics]]></phrase>
   <phrase title="option.contactEmailAddress" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Contact email address]]></phrase>
   <phrase title="option.contactEmailSenderHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sender info in from header on contact emails]]></phrase>
@@ -8304,7 +8304,7 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.facebookLike" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Enable Facebook share button]]></phrase>
   <phrase title="option.floodCheckLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Minimum time between messages]]></phrase>
   <phrase title="option.floodCheckLengthDiscussion" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[Minimum time between discussions]]></phrase>
-  <phrase title="option.forceThreadType" addon_id="CnXFans/QuickPrefixChange" version_id="1000000" version_string="1.0.0"><![CDATA[强制主题类型为问题主题]]></phrase>
+  <phrase title="option.forceThreadType" addon_id="CnXFans/QuickPrefixChange" version_id="1000000" version_string="1.0.0"><![CDATA[Forced theme type as issue theme]]></phrase>
   <phrase title="option.forumsDefaultPage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forums default page]]></phrase>
   <phrase title="option.geoLocationUrl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Location information URL]]></phrase>
   <phrase title="option.giphy" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Enable GIPHY support]]></phrase>
@@ -10236,22 +10236,22 @@ Content being reported:
   <phrase title="resource_prefix.34" addon_id="" version_id="0" version_string=""><![CDATA[DLL Plugins]]></phrase>
   <phrase title="resource_prefix.35" addon_id="" version_id="0" version_string=""><![CDATA[JS Plugins]]></phrase>
   <phrase title="resource_prefix.36" addon_id="" version_id="0" version_string=""><![CDATA[Other]]></phrase>
-  <phrase title="resource_prefix.37" addon_id="" version_id="0" version_string=""><![CDATA[源码]]></phrase>
+  <phrase title="resource_prefix.37" addon_id="" version_id="0" version_string=""><![CDATA[Source Code]]></phrase>
   <phrase title="resource_prefix.38" addon_id="" version_id="0" version_string=""><![CDATA[Texture Pack]]></phrase>
   <phrase title="resource_prefix.39" addon_id="" version_id="0" version_string=""><![CDATA[Shader]]></phrase>
   <phrase title="resource_prefix.40" addon_id="" version_id="0" version_string=""><![CDATA[Skin]]></phrase>
   <phrase title="resource_prefix.41" addon_id="" version_id="0" version_string=""><![CDATA[Add-on]]></phrase>
-  <phrase title="resource_prefix.42" addon_id="" version_id="0" version_string=""><![CDATA[单机JS]]></phrase>
+  <phrase title="resource_prefix.42" addon_id="" version_id="0" version_string=""><![CDATA[Stand-alone JS]]></phrase>
   <phrase title="resource_prefix.43" addon_id="" version_id="0" version_string=""><![CDATA[ModPE]]></phrase>
-  <phrase title="resource_prefix.44" addon_id="" version_id="0" version_string=""><![CDATA[JE插件]]></phrase>
+  <phrase title="resource_prefix.44" addon_id="" version_id="0" version_string=""><![CDATA[JE Plugins]]></phrase>
   <phrase title="resource_prefix.46" addon_id="" version_id="0" version_string=""><![CDATA[CSR]]></phrase>
-  <phrase title="resource_prefix.47" addon_id="" version_id="0" version_string=""><![CDATA[JE材质]]></phrase>
-  <phrase title="resource_prefix.48" addon_id="" version_id="0" version_string=""><![CDATA[JE光影]]></phrase>
-  <phrase title="resource_prefix.49" addon_id="" version_id="0" version_string=""><![CDATA[JE存档]]></phrase>
+  <phrase title="resource_prefix.47" addon_id="" version_id="0" version_string=""><![CDATA[JE Texture]]></phrase>
+  <phrase title="resource_prefix.48" addon_id="" version_id="0" version_string=""><![CDATA[JE Shader]]></phrase>
+  <phrase title="resource_prefix.49" addon_id="" version_id="0" version_string=""><![CDATA[JE World]]></phrase>
   <phrase title="resource_prefix.50" addon_id="" version_id="0" version_string=""><![CDATA[JE Mod]]></phrase>
   <phrase title="resource_prefix.51" addon_id="" version_id="0" version_string=""><![CDATA[Integrate]]></phrase>
-  <phrase title="resource_prefix.52" addon_id="" version_id="0" version_string=""><![CDATA[JE核心]]></phrase>
-  <phrase title="resource_prefix.54" addon_id="" version_id="0" version_string=""><![CDATA[未分类]]></phrase>
+  <phrase title="resource_prefix.52" addon_id="" version_id="0" version_string=""><![CDATA[JE Core]]></phrase>
+  <phrase title="resource_prefix.54" addon_id="" version_id="0" version_string=""><![CDATA[Uncategorized]]></phrase>
   <phrase title="resource_prefix.55" addon_id="" version_id="0" version_string=""><![CDATA[PYR]]></phrase>
   <phrase title="resource_prefix.56" addon_id="" version_id="0" version_string=""><![CDATA[Multipurpose]]></phrase>
   <phrase title="resource_prefix.57" addon_id="" version_id="0" version_string=""><![CDATA[JSR]]></phrase>
@@ -10267,7 +10267,7 @@ Content being reported:
   <phrase title="resource_prefix.67" addon_id="" version_id="0" version_string=""><![CDATA[LXL]]></phrase>
   <phrase title="resource_prefix.68" addon_id="" version_id="0" version_string=""><![CDATA[Integrate]]></phrase>
   <phrase title="resource_prefix.69" addon_id="" version_id="0" version_string=""><![CDATA[Integrate]]></phrase>
-  <phrase title="resource_prefix.70" addon_id="" version_id="0" version_string=""><![CDATA[单机资源]]></phrase>
+  <phrase title="resource_prefix.70" addon_id="" version_id="0" version_string=""><![CDATA[Stand-alone resource]]></phrase>
   <phrase title="resource_prefix.71" addon_id="" version_id="0" version_string=""><![CDATA[Yuuka]]></phrase>
   <phrase title="resource_prefix_desc.22" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_desc.23" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -10316,11 +10316,11 @@ Content being reported:
   <phrase title="resource_prefix_desc.70" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_desc.71" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_group.10" addon_id="" version_id="0" version_string=""><![CDATA[Texture/Skin]]></phrase>
-  <phrase title="resource_prefix_group.11" addon_id="" version_id="0" version_string=""><![CDATA[MC插件]]></phrase>
+  <phrase title="resource_prefix_group.11" addon_id="" version_id="0" version_string=""><![CDATA[MC Plugins]]></phrase>
   <phrase title="resource_prefix_group.12" addon_id="" version_id="0" version_string=""><![CDATA[BDS]]></phrase>
   <phrase title="resource_prefix_group.13" addon_id="" version_id="0" version_string=""><![CDATA[Java]]></phrase>
-  <phrase title="resource_prefix_group.14" addon_id="" version_id="0" version_string=""><![CDATA[Java服]]></phrase>
-  <phrase title="resource_prefix_group.7" addon_id="" version_id="0" version_string=""><![CDATA[服务端]]></phrase>
+  <phrase title="resource_prefix_group.14" addon_id="" version_id="0" version_string=""><![CDATA[Java Server]]></phrase>
+  <phrase title="resource_prefix_group.7" addon_id="" version_id="0" version_string=""><![CDATA[Server]]></phrase>
   <phrase title="resource_prefix_group.8" addon_id="" version_id="0" version_string=""><![CDATA[Minecraft]]></phrase>
   <phrase title="resource_prefix_group.9" addon_id="" version_id="0" version_string=""><![CDATA[Server panel]]></phrase>
   <phrase title="resource_prefix_help.22" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -10793,9 +10793,9 @@ Content being reported:
   <phrase title="small_toolbar_desc" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Used when the editor is {min}px to {max}px wide.]]></phrase>
   <phrase title="smilie_category" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Smilie category]]></phrase>
   <phrase title="smilie_category_ids_must_be_unique" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Smilie category IDs must be unique]]></phrase>
-  <phrase title="smilie_category_title.2" addon_id="" version_id="0" version_string=""><![CDATA[贴吧]]></phrase>
-  <phrase title="smilie_category_title.6" addon_id="" version_id="0" version_string=""><![CDATA[史蒂夫]]></phrase>
-  <phrase title="smilie_category_title.7" addon_id="" version_id="0" version_string=""><![CDATA[小人头]]></phrase>
+  <phrase title="smilie_category_title.2" addon_id="" version_id="0" version_string=""><![CDATA[Baidu Tieba]]></phrase>
+  <phrase title="smilie_category_title.6" addon_id="" version_id="0" version_string=""><![CDATA[Steve]]></phrase>
+  <phrase title="smilie_category_title.7" addon_id="" version_id="0" version_string=""><![CDATA[Little man's head]]></phrase>
   <phrase title="smilie_category_title.uncategorized" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Uncategorized smilies]]></phrase>
   <phrase title="smilie_pre_import_directory_explain" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Use this option to scan a web-accessible directory containing smilie images and then manually enter configuration data for each smilie to be imported. Ensure that the smilie images are uploaded before proceeding with this step.]]></phrase>
   <phrase title="smilie_pre_import_explain" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Use this option to import an XML file containing smilie definitions. Before proceding to the next step, you should ensure that you have manually uploaded all necessary smilie images to your server in the appropriate locations.]]></phrase>
@@ -10965,7 +10965,7 @@ Content being reported:
   <phrase title="style_chooser" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Style chooser]]></phrase>
   <phrase title="style_contains_no_customized_templates_or_style_properties" addon_id="XF" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[This style contains no customized templates or style properties.]]></phrase>
   <phrase title="style_designer_mode_ids_must_be_unique" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Style designer mode IDs must be unique. The specified ID is already in use.]]></phrase>
-  <phrase title="style_prop.CMTV_Code_code_block_max_height" addon_id="CMTV/Code" version_id="2020070" version_string="2.2.0"><![CDATA[代码模块最大高度]]></phrase>
+  <phrase title="style_prop.CMTV_Code_code_block_max_height" addon_id="CMTV/Code" version_id="2020070" version_string="2.2.0"><![CDATA[Max height of code module]]></phrase>
   <phrase title="style_prop.EWRporta_dateblock" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Enable offset date block]]></phrase>
   <phrase title="style_prop.EWRporta_dateblock_margin" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Date block margin]]></phrase>
   <phrase title="style_prop.EWRporta_feature_height" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Slider height]]></phrase>
@@ -12084,10 +12084,10 @@ For example: if you set "orange" as a class on a category, each forum within tha
   <phrase title="th_unco_user_name_style.1" addon_id="" version_id="0" version_string=""><![CDATA[Blod font]]></phrase>
   <phrase title="th_unco_user_name_style.2" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Red]]></phrase>
   <phrase title="th_unco_user_name_style.3" addon_id="ThemeHouse/UserNameColor" version_id="1000070" version_string="1.0.0"><![CDATA[Gold]]></phrase>
-  <phrase title="th_unco_user_name_style.4" addon_id="" version_id="0" version_string=""><![CDATA[炫彩]]></phrase>
-  <phrase title="th_unco_user_name_style.5" addon_id="" version_id="0" version_string=""><![CDATA[影]]></phrase>
-  <phrase title="th_unco_user_name_style.6" addon_id="" version_id="0" version_string=""><![CDATA[金]]></phrase>
-  <phrase title="th_unco_user_name_style.7" addon_id="" version_id="0" version_string=""><![CDATA[霓虹]]></phrase>
+  <phrase title="th_unco_user_name_style.4" addon_id="" version_id="0" version_string=""><![CDATA[Colorful]]></phrase>
+  <phrase title="th_unco_user_name_style.5" addon_id="" version_id="0" version_string=""><![CDATA[Shadow]]></phrase>
+  <phrase title="th_unco_user_name_style.6" addon_id="" version_id="0" version_string=""><![CDATA[Gold]]></phrase>
+  <phrase title="th_unco_user_name_style.7" addon_id="" version_id="0" version_string=""><![CDATA[Neon]]></phrase>
   <phrase title="th_unco_user_name_style_options" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[User name style options]]></phrase>
   <phrase title="th_unco_user_name_styles" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[User name styles]]></phrase>
   <phrase title="th_unco_user_name_styling" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[User name styling]]></phrase>
@@ -12374,15 +12374,15 @@ By continuing to use this site, you are consenting to our use of cookies.]]></ph
   <phrase title="thread_creator_not_in_user_groups" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Thread creator not in user groups]]></phrase>
   <phrase title="thread_criteria" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Thread criteria]]></phrase>
   <phrase title="thread_field_desc.seerver_name" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="thread_field_desc.server_ip" addon_id="" version_id="0" version_string=""><![CDATA[服务器的IP地址或域名（推荐使用域名），使用域名请务必做好到服务器的解析。]]></phrase>
+  <phrase title="thread_field_desc.server_ip" addon_id="" version_id="0" version_string=""><![CDATA[Server IP address or domain name(Better domain name). If use domain name, please make sure you do the domain name resolution.]]></phrase>
   <phrase title="thread_field_desc.server_port" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_field_desc.server_version" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="thread_field_desc.website" addon_id="" version_id="0" version_string=""><![CDATA[官网网址]]></phrase>
-  <phrase title="thread_field_title.seerver_name" addon_id="" version_id="0" version_string=""><![CDATA[服务器名称]]></phrase>
-  <phrase title="thread_field_title.server_ip" addon_id="" version_id="0" version_string=""><![CDATA[地址]]></phrase>
-  <phrase title="thread_field_title.server_port" addon_id="" version_id="0" version_string=""><![CDATA[端口]]></phrase>
-  <phrase title="thread_field_title.server_version" addon_id="" version_id="0" version_string=""><![CDATA[版本]]></phrase>
-  <phrase title="thread_field_title.website" addon_id="" version_id="0" version_string=""><![CDATA[官网]]></phrase>
+  <phrase title="thread_field_desc.website" addon_id="" version_id="0" version_string=""><![CDATA[Official website uri]]></phrase>
+  <phrase title="thread_field_title.seerver_name" addon_id="" version_id="0" version_string=""><![CDATA[Server name]]></phrase>
+  <phrase title="thread_field_title.server_ip" addon_id="" version_id="0" version_string=""><![CDATA[Network address]]></phrase>
+  <phrase title="thread_field_title.server_port" addon_id="" version_id="0" version_string=""><![CDATA[Network port]]></phrase>
+  <phrase title="thread_field_title.server_version" addon_id="" version_id="0" version_string=""><![CDATA[Version]]></phrase>
+  <phrase title="thread_field_title.website" addon_id="" version_id="0" version_string=""><![CDATA[Official website]]></phrase>
   <phrase title="thread_has_at_least_x_reaction_score" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Thread has at least X reaction score]]></phrase>
   <phrase title="thread_has_at_least_x_replies" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Thread has at least X replies]]></phrase>
   <phrase title="thread_in_forum" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Thread in forum]]></phrase>
@@ -12421,32 +12421,32 @@ Please confirm that you are moving the thread to the correct forum.]]></phrase>
   <phrase title="thread_prefix.52" addon_id="" version_id="0" version_string=""><![CDATA[PHP]]></phrase>
   <phrase title="thread_prefix.53" addon_id="" version_id="0" version_string=""><![CDATA[C language]]></phrase>
   <phrase title="thread_prefix.54" addon_id="" version_id="0" version_string=""><![CDATA[JavaScript]]></phrase>
-  <phrase title="thread_prefix.55" addon_id="" version_id="0" version_string=""><![CDATA[前端设计]]></phrase>
-  <phrase title="thread_prefix.56" addon_id="" version_id="0" version_string=""><![CDATA[运营维护]]></phrase>
-  <phrase title="thread_prefix.57" addon_id="" version_id="0" version_string=""><![CDATA[主机交流]]></phrase>
+  <phrase title="thread_prefix.55" addon_id="" version_id="0" version_string=""><![CDATA[Front-end design]]></phrase>
+  <phrase title="thread_prefix.56" addon_id="" version_id="0" version_string=""><![CDATA[Operations and maintenance]]></phrase>
+  <phrase title="thread_prefix.57" addon_id="" version_id="0" version_string=""><![CDATA[Mainframe communication]]></phrase>
   <phrase title="thread_prefix.58" addon_id="" version_id="0" version_string=""><![CDATA[Python]]></phrase>
   <phrase title="thread_prefix.59" addon_id="" version_id="0" version_string=""><![CDATA[Geyser]]></phrase>
   <phrase title="thread_prefix.60" addon_id="" version_id="0" version_string=""><![CDATA[DragonProxy]]></phrase>
   <phrase title="thread_prefix.61" addon_id="" version_id="0" version_string=""><![CDATA[WaterDog]]></phrase>
   <phrase title="thread_prefix.62" addon_id="" version_id="0" version_string=""><![CDATA[Notice]]></phrase>
-  <phrase title="thread_prefix.63" addon_id="" version_id="0" version_string=""><![CDATA[导航]]></phrase>
+  <phrase title="thread_prefix.63" addon_id="" version_id="0" version_string=""><![CDATA[Navigation]]></phrase>
   <phrase title="thread_prefix.64" addon_id="" version_id="0" version_string=""><![CDATA[1.16.x]]></phrase>
-  <phrase title="thread_prefix.65" addon_id="" version_id="0" version_string=""><![CDATA[核心]]></phrase>
-  <phrase title="thread_prefix.66" addon_id="" version_id="0" version_string=""><![CDATA[插件]]></phrase>
+  <phrase title="thread_prefix.65" addon_id="" version_id="0" version_string=""><![CDATA[Core]]></phrase>
+  <phrase title="thread_prefix.66" addon_id="" version_id="0" version_string=""><![CDATA[Plugin]]></phrase>
   <phrase title="thread_prefix.67" addon_id="" version_id="0" version_string=""><![CDATA[Integrate]]></phrase>
   <phrase title="thread_prefix.68" addon_id="" version_id="0" version_string=""><![CDATA[Software]]></phrase>
-  <phrase title="thread_prefix.69" addon_id="" version_id="0" version_string=""><![CDATA[存档]]></phrase>
-  <phrase title="thread_prefix.70" addon_id="" version_id="0" version_string=""><![CDATA[光影材质]]></phrase>
+  <phrase title="thread_prefix.69" addon_id="" version_id="0" version_string=""><![CDATA[World]]></phrase>
+  <phrase title="thread_prefix.70" addon_id="" version_id="0" version_string=""><![CDATA[Shader and texture]]></phrase>
   <phrase title="thread_prefix.71" addon_id="" version_id="0" version_string=""><![CDATA[Mod/Integrate]]></phrase>
   <phrase title="thread_prefix.72" addon_id="" version_id="0" version_string=""><![CDATA[Software]]></phrase>
-  <phrase title="thread_prefix.73" addon_id="" version_id="0" version_string=""><![CDATA[存档]]></phrase>
+  <phrase title="thread_prefix.73" addon_id="" version_id="0" version_string=""><![CDATA[World]]></phrase>
   <phrase title="thread_prefix.74" addon_id="" version_id="0" version_string=""><![CDATA[Texture/Skin]]></phrase>
-  <phrase title="thread_prefix.75" addon_id="" version_id="0" version_string=""><![CDATA[Mod模组]]></phrase>
+  <phrase title="thread_prefix.75" addon_id="" version_id="0" version_string=""><![CDATA[Mod]]></phrase>
   <phrase title="thread_prefix.76" addon_id="" version_id="0" version_string=""><![CDATA[Resolved]]></phrase>
   <phrase title="thread_prefix.77" addon_id="" version_id="0" version_string=""><![CDATA[Suggestion]]></phrase>
-  <phrase title="thread_prefix.79" addon_id="" version_id="0" version_string=""><![CDATA[我和MC那点事]]></phrase>
+  <phrase title="thread_prefix.79" addon_id="" version_id="0" version_string=""><![CDATA[Some things about me and mc]]></phrase>
   <phrase title="thread_prefix.8" addon_id="" version_id="0" version_string=""><![CDATA[Tutorial]]></phrase>
-  <phrase title="thread_prefix.80" addon_id="" version_id="0" version_string=""><![CDATA[闲聊]]></phrase>
+  <phrase title="thread_prefix.80" addon_id="" version_id="0" version_string=""><![CDATA[Chat]]></phrase>
   <phrase title="thread_prefix_desc.13" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_desc.20" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_desc.23" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -12500,15 +12500,15 @@ Please confirm that you are moving the thread to the correct forum.]]></phrase>
   <phrase title="thread_prefix_desc.79" addon_id="" version_id="0" version_string=""><![CDATA[2021年MineBBS暑假活动投稿内容]]></phrase>
   <phrase title="thread_prefix_desc.8" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_desc.80" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="thread_prefix_group.10" addon_id="" version_id="0" version_string=""><![CDATA[编程]]></phrase>
-  <phrase title="thread_prefix_group.11" addon_id="" version_id="0" version_string=""><![CDATA[建站]]></phrase>
+  <phrase title="thread_prefix_group.10" addon_id="" version_id="0" version_string=""><![CDATA[Programming]]></phrase>
+  <phrase title="thread_prefix_group.11" addon_id="" version_id="0" version_string=""><![CDATA[Setting up website]]></phrase>
   <phrase title="thread_prefix_group.12" addon_id="" version_id="0" version_string=""><![CDATA[Interflow]]></phrase>
   <phrase title="thread_prefix_group.14" addon_id="" version_id="0" version_string=""><![CDATA[Java Resource]]></phrase>
   <phrase title="thread_prefix_group.15" addon_id="" version_id="0" version_string=""><![CDATA[Bedrock Resource]]></phrase>
-  <phrase title="thread_prefix_group.6" addon_id="" version_id="0" version_string=""><![CDATA[通用前缀]]></phrase>
-  <phrase title="thread_prefix_group.7" addon_id="" version_id="0" version_string=""><![CDATA[管理区]]></phrase>
+  <phrase title="thread_prefix_group.6" addon_id="" version_id="0" version_string=""><![CDATA[General prefix]]></phrase>
+  <phrase title="thread_prefix_group.7" addon_id="" version_id="0" version_string=""><![CDATA[Management area]]></phrase>
   <phrase title="thread_prefix_group.8" addon_id="" version_id="0" version_string=""><![CDATA[Server]]></phrase>
-  <phrase title="thread_prefix_group.9" addon_id="" version_id="0" version_string=""><![CDATA[面板]]></phrase>
+  <phrase title="thread_prefix_group.9" addon_id="" version_id="0" version_string=""><![CDATA[Panel]]></phrase>
   <phrase title="thread_prefix_help.13" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_help.20" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_help.23" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -12674,9 +12674,9 @@ Please confirm that you are moving the thread to the correct forum.]]></phrase>
   <phrase title="tlg_member_role_id_desc_admin" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="tlg_member_role_id_desc_member" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="tlg_member_role_id_desc_moderator" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="tlg_member_role_id_title_admin" addon_id="" version_id="0" version_string=""><![CDATA[组长]]></phrase>
-  <phrase title="tlg_member_role_id_title_member" addon_id="" version_id="0" version_string=""><![CDATA[成员]]></phrase>
-  <phrase title="tlg_member_role_id_title_moderator" addon_id="" version_id="0" version_string=""><![CDATA[副组长]]></phrase>
+  <phrase title="tlg_member_role_id_title_admin" addon_id="" version_id="0" version_string=""><![CDATA[Group Leader]]></phrase>
+  <phrase title="tlg_member_role_id_title_member" addon_id="" version_id="0" version_string=""><![CDATA[Member]]></phrase>
+  <phrase title="tlg_member_role_id_title_moderator" addon_id="" version_id="0" version_string=""><![CDATA[Deputy Team Leader]]></phrase>
   <phrase title="to_access_this_page_you_must_first_confirm_your_password" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[To access this page, you must first confirm your password.]]></phrase>
   <phrase title="to_associate_existing_account_first_log_in" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[To associate with an existing account, you must first log into that account.]]></phrase>
   <phrase title="to_associate_existing_account_first_log_in_start_via_connected_accounts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[To associate with an existing account, you must first log into that account and then start the association via the <a href="{link}">connected accounts area</a>.]]></phrase>
@@ -12732,55 +12732,55 @@ Please confirm that you are moving the thread to the correct forum.]]></phrase>
   <phrase title="trim_line_breaks_after" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Trim line breaks after]]></phrase>
   <phrase title="trophies" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Trophies]]></phrase>
   <phrase title="trophies_awarded_to_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Trophies awarded to {name}]]></phrase>
-  <phrase title="trophy_description.1" addon_id="" version_id="0" version_string=""><![CDATA[发布了第一条消息。]]></phrase>
-  <phrase title="trophy_description.10" addon_id="" version_id="0" version_string=""><![CDATA[绑定你的Github帐号]]></phrase>
-  <phrase title="trophy_description.11" addon_id="" version_id="0" version_string=""><![CDATA[设置属于自己的头像~]]></phrase>
-  <phrase title="trophy_description.13" addon_id="" version_id="0" version_string=""><![CDATA[Publish the first resource on this site]]></phrase>
-  <phrase title="trophy_description.15" addon_id="" version_id="0" version_string=""><![CDATA[You have published 10 resources on this site ~]]></phrase>
-  <phrase title="trophy_description.17" addon_id="" version_id="0" version_string=""><![CDATA[您已经注册本站满一年了！]]></phrase>
-  <phrase title="trophy_description.18" addon_id="" version_id="0" version_string=""><![CDATA[你已经发送超过了100条消息]]></phrase>
-  <phrase title="trophy_description.19" addon_id="" version_id="0" version_string=""><![CDATA[你已经发送超过了500个消息！]]></phrase>
-  <phrase title="trophy_description.2" addon_id="" version_id="0" version_string=""><![CDATA[发送了20条信息，开始喜欢上这里了吗~]]></phrase>
-  <phrase title="trophy_description.20" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS祝你生日快乐吖~]]></phrase>
-  <phrase title="trophy_description.21" addon_id="" version_id="0" version_string=""><![CDATA[注册本站时间达到两年]]></phrase>
-  <phrase title="trophy_description.23" addon_id="" version_id="0" version_string=""><![CDATA[累积获得10次点赞]]></phrase>
-  <phrase title="trophy_description.24" addon_id="" version_id="0" version_string=""><![CDATA[累计发布超过1000条消息]]></phrase>
-  <phrase title="trophy_description.25" addon_id="" version_id="0" version_string=""><![CDATA[注册本站时间达到三年啦~]]></phrase>
+  <phrase title="trophy_description.1" addon_id="" version_id="0" version_string=""><![CDATA[Posted the first message]]></phrase>
+  <phrase title="trophy_description.10" addon_id="" version_id="0" version_string=""><![CDATA[Bind your GitHub account]]></phrase>
+  <phrase title="trophy_description.11" addon_id="" version_id="0" version_string=""><![CDATA[Set your own avatar~]]></phrase>
+  <phrase title="trophy_description.13" addon_id="" version_id="0" version_string=""><![CDATA[Publish the first resource on MineBBS]]></phrase>
+  <phrase title="trophy_description.15" addon_id="" version_id="0" version_string=""><![CDATA[You have published 10 resources on MineBBS~]]></phrase>
+  <phrase title="trophy_description.17" addon_id="" version_id="0" version_string=""><![CDATA[You have been registered on MineBBS for one year!]]></phrase>
+  <phrase title="trophy_description.18" addon_id="" version_id="0" version_string=""><![CDATA[You have sent more than 100 messages!]]></phrase>
+  <phrase title="trophy_description.19" addon_id="" version_id="0" version_string=""><![CDATA[You have sent more than 500 messages]]></phrase>
+  <phrase title="trophy_description.2" addon_id="" version_id="0" version_string=""><![CDATA[You have sent 20 messages. Are you starting to like it here? ~]]></phrase>
+  <phrase title="trophy_description.20" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS wishes you a happy birthday~]]></phrase>
+  <phrase title="trophy_description.21" addon_id="" version_id="0" version_string=""><![CDATA[You have been registered on MineBBS for two year!]]></phrase>
+  <phrase title="trophy_description.23" addon_id="" version_id="0" version_string=""><![CDATA[Accumulate 20 likes]]></phrase>
+  <phrase title="trophy_description.24" addon_id="" version_id="0" version_string=""><![CDATA[You have sent over 1,000 messages!]]></phrase>
+  <phrase title="trophy_description.25" addon_id="" version_id="0" version_string=""><![CDATA[WOW~ You have been registered on MineBBS for THREE year!]]></phrase>
   <phrase title="trophy_description.26" addon_id="" version_id="0" version_string=""><![CDATA[Become a member of VIP user group]]></phrase>
   <phrase title="trophy_description.27" addon_id="" version_id="0" version_string=""><![CDATA[A total of 30 resources have been published]]></phrase>
-  <phrase title="trophy_description.28" addon_id="" version_id="0" version_string=""><![CDATA[你超过一年没访问MineBBS啦QAQ]]></phrase>
-  <phrase title="trophy_description.29" addon_id="" version_id="0" version_string=""><![CDATA[获得了1000+支持！]]></phrase>
-  <phrase title="trophy_description.3" addon_id="" version_id="0" version_string=""><![CDATA[你已经发布了100条消息。这可能花了你超过一天的时间!]]></phrase>
-  <phrase title="trophy_description.6" addon_id="" version_id="0" version_string=""><![CDATA[你的信息已经被人赞了50次。]]></phrase>
-  <phrase title="trophy_description.7" addon_id="" version_id="0" version_string=""><![CDATA[你发布的内容吸引了100个赞。]]></phrase>
-  <phrase title="trophy_description.8" addon_id="" version_id="0" version_string=""><![CDATA[你的内容已经被喜欢250次了。]]></phrase>
-  <phrase title="trophy_description.9" addon_id="" version_id="0" version_string=""><![CDATA[你发布的内容吸引了500个赞。]]></phrase>
+  <phrase title="trophy_description.28" addon_id="" version_id="0" version_string=""><![CDATA[You haven't visited MineBBS for over a year,welcome back!QAQ]]></phrase>
+  <phrase title="trophy_description.29" addon_id="" version_id="0" version_string=""><![CDATA[Received 1,000+ likes！]]></phrase>
+  <phrase title="trophy_description.3" addon_id="" version_id="0" version_string=""><![CDATA[You have sent 100 messages. This might take you over a day!]]></phrase>
+  <phrase title="trophy_description.6" addon_id="" version_id="0" version_string=""><![CDATA[Your message has been liked 50 times.]]></phrase>
+  <phrase title="trophy_description.7" addon_id="" version_id="0" version_string=""><![CDATA[You have posted content that has attracted 100 likes.]]></phrase>
+  <phrase title="trophy_description.8" addon_id="" version_id="0" version_string=""><![CDATA[Your content has been liked 250 times.]]></phrase>
+  <phrase title="trophy_description.9" addon_id="" version_id="0" version_string=""><![CDATA[You have posted content that has attracted 500 likes.]]></phrase>
   <phrase title="trophy_options" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Trophy options]]></phrase>
   <phrase title="trophy_points" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Trophy points]]></phrase>
   <phrase title="trophy_points_between" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Trophy points between]]></phrase>
-  <phrase title="trophy_title.1" addon_id="" version_id="0" version_string=""><![CDATA[发帖初体验！]]></phrase>
-  <phrase title="trophy_title.10" addon_id="" version_id="0" version_string=""><![CDATA[你……是开发者！？]]></phrase>
-  <phrase title="trophy_title.11" addon_id="" version_id="0" version_string=""><![CDATA[有头有脸的人物]]></phrase>
+  <phrase title="trophy_title.1" addon_id="" version_id="0" version_string=""><![CDATA[First experience of posting]]></phrase>
+  <phrase title="trophy_title.10" addon_id="" version_id="0" version_string=""><![CDATA[You...you are developer!?]]></phrase>
+  <phrase title="trophy_title.11" addon_id="" version_id="0" version_string=""><![CDATA[Your profile have been completed]]></phrase>
   <phrase title="trophy_title.13" addon_id="" version_id="0" version_string=""><![CDATA[First resource!]]></phrase>
-  <phrase title="trophy_title.15" addon_id="" version_id="0" version_string=""><![CDATA[迷你搬运工]]></phrase>
+  <phrase title="trophy_title.15" addon_id="" version_id="0" version_string=""><![CDATA[Mini Porter]]></phrase>
   <phrase title="trophy_title.17" addon_id="" version_id="0" version_string=""><![CDATA[One year old user!]]></phrase>
-  <phrase title="trophy_title.18" addon_id="" version_id="0" version_string=""><![CDATA[小水怡情]]></phrase>
+  <phrase title="trophy_title.18" addon_id="" version_id="0" version_string=""><![CDATA[A little water post for pleasure]]></phrase>
   <phrase title="trophy_title.19" addon_id="" version_id="0" version_string=""><![CDATA[大水伤身]]></phrase>
-  <phrase title="trophy_title.2" addon_id="" version_id="0" version_string=""><![CDATA[保持活跃！]]></phrase>
-  <phrase title="trophy_title.20" addon_id="" version_id="0" version_string=""><![CDATA[生日快乐！]]></phrase>
+  <phrase title="trophy_title.2" addon_id="" version_id="0" version_string=""><![CDATA[Keep active!]]></phrase>
+  <phrase title="trophy_title.20" addon_id="" version_id="0" version_string=""><![CDATA[Happy birthday!]]></phrase>
   <phrase title="trophy_title.21" addon_id="" version_id="0" version_string=""><![CDATA[Registered for two years!]]></phrase>
-  <phrase title="trophy_title.23" addon_id="" version_id="0" version_string=""><![CDATA[收到赞了！]]></phrase>
+  <phrase title="trophy_title.23" addon_id="" version_id="0" version_string=""><![CDATA[Received like!]]></phrase>
   <phrase title="trophy_title.24" addon_id="" version_id="0" version_string=""><![CDATA[强水灰飞烟灭！]]></phrase>
   <phrase title="trophy_title.25" addon_id="" version_id="0" version_string=""><![CDATA[Registered for three years!]]></phrase>
-  <phrase title="trophy_title.26" addon_id="" version_id="0" version_string=""><![CDATA[成为VIP了！]]></phrase>
+  <phrase title="trophy_title.26" addon_id="" version_id="0" version_string=""><![CDATA[Became VIP!]]></phrase>
   <phrase title="trophy_title.27" addon_id="" version_id="0" version_string=""><![CDATA[Resource producer]]></phrase>
-  <phrase title="trophy_title.28" addon_id="" version_id="0" version_string=""><![CDATA[好久不见！]]></phrase>
-  <phrase title="trophy_title.29" addon_id="" version_id="0" version_string=""><![CDATA[人气明星！]]></phrase>
+  <phrase title="trophy_title.28" addon_id="" version_id="0" version_string=""><![CDATA[Long time no see]]></phrase>
+  <phrase title="trophy_title.29" addon_id="" version_id="0" version_string=""><![CDATA[Popular star]]></phrase>
   <phrase title="trophy_title.3" addon_id="" version_id="0" version_string=""><![CDATA[停不下来了！]]></phrase>
-  <phrase title="trophy_title.6" addon_id="" version_id="0" version_string=""><![CDATA[很喜欢你~]]></phrase>
-  <phrase title="trophy_title.7" addon_id="" version_id="0" version_string=""><![CDATA[超级受欢迎！]]></phrase>
-  <phrase title="trophy_title.8" addon_id="" version_id="0" version_string=""><![CDATA[人气明星~]]></phrase>
-  <phrase title="trophy_title.9" addon_id="" version_id="0" version_string=""><![CDATA[太喜欢这里了~！]]></phrase>
+  <phrase title="trophy_title.6" addon_id="" version_id="0" version_string=""><![CDATA[Like you very much~]]></phrase>
+  <phrase title="trophy_title.7" addon_id="" version_id="0" version_string=""><![CDATA[Quite popular!]]></phrase>
+  <phrase title="trophy_title.8" addon_id="" version_id="0" version_string=""><![CDATA[Popular star~]]></phrase>
+  <phrase title="trophy_title.9" addon_id="" version_id="0" version_string=""><![CDATA[I love here!~]]></phrase>
   <phrase title="true_if_thread_creator_is_in_one_or_more_of_selected_groups" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[True if the thread creator is in one or more of the selected groups.]]></phrase>
   <phrase title="true_if_thread_creator_is_not_in_any_of_selected_groups" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[True if the thread creator is not in any of the selected groups.]]></phrase>
   <phrase title="trust_device_desc" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[If selected, you will not need to complete two-step verification from this device for the next 30 days.]]></phrase>
@@ -13378,10 +13378,10 @@ Your account's access may be limited based on these actions. Please keep this in
   <phrase title="warning_for_x" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Warning for {name}]]></phrase>
   <phrase title="warning_not_filled_try_again" addon_id="XF" version_id="1040770" version_string="1.4.7"><![CDATA[The warning details were not filled as expected. Please try again.]]></phrase>
   <phrase title="warning_points" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Warning points]]></phrase>
-  <phrase title="warning_title.1" addon_id="" version_id="0" version_string=""><![CDATA[不当内容]]></phrase>
-  <phrase title="warning_title.2" addon_id="" version_id="0" version_string=""><![CDATA[不当行为]]></phrase>
-  <phrase title="warning_title.3" addon_id="" version_id="0" version_string=""><![CDATA[不当语言]]></phrase>
-  <phrase title="warning_title.4" addon_id="" version_id="0" version_string=""><![CDATA[不当广告 / 垃圾邮件]]></phrase>
+  <phrase title="warning_title.1" addon_id="" version_id="0" version_string=""><![CDATA[Inappropriate content]]></phrase>
+  <phrase title="warning_title.2" addon_id="" version_id="0" version_string=""><![CDATA[Misconduct]]></phrase>
+  <phrase title="warning_title.3" addon_id="" version_id="0" version_string=""><![CDATA[Inappropriate terminology]]></phrase>
+  <phrase title="warning_title.4" addon_id="" version_id="0" version_string=""><![CDATA[Inappropriate advertising / Spam]]></phrase>
   <phrase title="warning_type" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Warning type]]></phrase>
   <phrase title="warnings" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Warnings]]></phrase>
   <phrase title="watch" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Watch]]></phrase>
@@ -13438,11 +13438,11 @@ Your account's access may be limited based on these actions. Please keep this in
   <phrase title="widget.adsense_resource_side" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.adsense_resource_top" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.adv" addon_id="" version_id="0" version_string=""><![CDATA[Advertise]]></phrase>
-  <phrase title="widget.adv1" addon_id="" version_id="0" version_string=""><![CDATA[推广内容]]></phrase>
+  <phrase title="widget.adv1" addon_id="" version_id="0" version_string=""><![CDATA[Promotion]]></phrase>
   <phrase title="widget.adv2" addon_id="" version_id="0" version_string=""><![CDATA[Friend links]]></phrase>
   <phrase title="widget.fhb" addon_id="" version_id="0" version_string=""><![CDATA[Rich list]]></phrase>
   <phrase title="widget.forum_overview_new_profile_posts" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="widget.friend_links" addon_id="" version_id="0" version_string=""><![CDATA[友情链接]]></phrase>
+  <phrase title="widget.friend_links" addon_id="" version_id="0" version_string=""><![CDATA[Links]]></phrase>
   <phrase title="widget.good_resources" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.google_adsense" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.google_adsense_bottom" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -13463,14 +13463,14 @@ Your account's access may be limited based on these actions. Please keep this in
   <phrase title="widget.onlineuser" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.portanewthread" addon_id="" version_id="0" version_string=""><![CDATA[New thread]]></phrase>
   <phrase title="widget.post" addon_id="" version_id="0" version_string=""><![CDATA[New post]]></phrase>
-  <phrase title="widget.similar" addon_id="" version_id="0" version_string=""><![CDATA[相似主题]]></phrase>
+  <phrase title="widget.similar" addon_id="" version_id="0" version_string=""><![CDATA[Similar themes]]></phrase>
   <phrase title="widget.siropu_referral_contests" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.siropu_referral_invitations" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.siropu_referral_link" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.siropu_referral_top_referrers" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.thread" addon_id="" version_id="0" version_string=""><![CDATA[New thread]]></phrase>
   <phrase title="widget.unread_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unread posts]]></phrase>
-  <phrase title="widget.xenporta_1" addon_id="" version_id="0" version_string=""><![CDATA[专题推荐]]></phrase>
+  <phrase title="widget.xenporta_1" addon_id="" version_id="0" version_string=""><![CDATA[Featured themes]]></phrase>
   <phrase title="widget.xenporta_articles" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.xenporta_more" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.xenporta_side" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -13480,7 +13480,7 @@ Your account's access may be limited based on these actions. Please keep this in
   <phrase title="widget.xfrm_list_top_resources" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.xfrm_overview_latest_reviews" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.xfrm_overview_top_authors" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="widget.zhenghe" addon_id="" version_id="0" version_string=""><![CDATA[最新内容]]></phrase>
+  <phrase title="widget.zhenghe" addon_id="" version_id="0" version_string=""><![CDATA[The latest contents]]></phrase>
   <phrase title="widget_def.EWRporta_articles" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[XenPorta > Articles]]></phrase>
   <phrase title="widget_def.EWRporta_categories" addon_id="EWR/Porta" version_id="2016" version_string="2.0.1.6"><![CDATA[XenPorta > Categories]]></phrase>
   <phrase title="widget_def.EWRporta_countdown" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[XenPorta > Countdown]]></phrase>
@@ -13495,7 +13495,7 @@ Your account's access may be limited based on these actions. Please keep this in
   <phrase title="widget_def.member_stat" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Member stat]]></phrase>
   <phrase title="widget_def.members_online" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Members online]]></phrase>
   <phrase title="widget_def.mjc_balance" addon_id="MJ/Credits" version_id="1010700" version_string="1.1.7"><![CDATA[积分余额]]></phrase>
-  <phrase title="widget_def.mjc_richest" addon_id="MJ/Credits" version_id="1000200" version_string="1.0.2"><![CDATA[积分排行]]></phrase>
+  <phrase title="widget_def.mjc_richest" addon_id="MJ/Credits" version_id="1000200" version_string="1.0.2"><![CDATA[积分Ranking]]></phrase>
   <phrase title="widget_def.new_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[New posts]]></phrase>
   <phrase title="widget_def.new_profile_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[New profile posts]]></phrase>
   <phrase title="widget_def.new_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[New threads]]></phrase>
@@ -14021,7 +14021,7 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_resource_field_choice.versions_0" addon_id="" version_id="0" version_string=""><![CDATA[Earlier version]]></phrase>
   <phrase title="xfrm_resource_field_choice.versions_10" addon_id="" version_id="0" version_string=""><![CDATA[1.15 (RTX)]]></phrase>
   <phrase title="xfrm_resource_field_choice.versions_11" addon_id="" version_id="0" version_string=""><![CDATA[1.16]]></phrase>
-  <phrase title="xfrm_resource_field_choice.versions_13" addon_id="" version_id="0" version_string=""><![CDATA[全版本]]></phrase>
+  <phrase title="xfrm_resource_field_choice.versions_13" addon_id="" version_id="0" version_string=""><![CDATA[All the versions]]></phrase>
   <phrase title="xfrm_resource_field_choice.versions_14" addon_id="" version_id="0" version_string=""><![CDATA[1.17]]></phrase>
   <phrase title="xfrm_resource_field_choice.versions_2" addon_id="" version_id="0" version_string=""><![CDATA[1.7]]></phrase>
   <phrase title="xfrm_resource_field_choice.versions_3" addon_id="" version_id="0" version_string=""><![CDATA[1.8]]></phrase>
@@ -14031,7 +14031,7 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_resource_field_choice.versions_7" addon_id="" version_id="0" version_string=""><![CDATA[1.12]]></phrase>
   <phrase title="xfrm_resource_field_choice.versions_8" addon_id="" version_id="0" version_string=""><![CDATA[1.13]]></phrase>
   <phrase title="xfrm_resource_field_choice.versions_9" addon_id="" version_id="0" version_string=""><![CDATA[1.14]]></phrase>
-  <phrase title="xfrm_resource_field_choice.versions_a" addon_id="" version_id="0" version_string=""><![CDATA[Newest version]]></phrase>
+  <phrase title="xfrm_resource_field_choice.versions_a" addon_id="" version_id="0" version_string=""><![CDATA[The latest version]]></phrase>
   <phrase title="xfrm_resource_field_desc.api" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="xfrm_resource_field_desc.language" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="xfrm_resource_field_desc.link" addon_id="" version_id="0" version_string=""><![CDATA[Source of resources, fill in "#" if it is original or authorized forwarding.]]></phrase>
@@ -14043,10 +14043,10 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_resource_field_title.api" addon_id="" version_id="0" version_string=""><![CDATA[API]]></phrase>
   <phrase title="xfrm_resource_field_title.language" addon_id="" version_id="0" version_string=""><![CDATA[Language]]></phrase>
   <phrase title="xfrm_resource_field_title.link" addon_id="" version_id="0" version_string=""><![CDATA[Copyright link]]></phrase>
-  <phrase title="xfrm_resource_field_title.platform" addon_id="" version_id="0" version_string=""><![CDATA[适用平台]]></phrase>
+  <phrase title="xfrm_resource_field_title.platform" addon_id="" version_id="0" version_string=""><![CDATA[Applicable platforms]]></phrase>
   <phrase title="xfrm_resource_field_title.rely" addon_id="" version_id="0" version_string=""><![CDATA[Dependence]]></phrase>
   <phrase title="xfrm_resource_field_title.source" addon_id="" version_id="0" version_string=""><![CDATA[Source of resources]]></phrase>
-  <phrase title="xfrm_resource_field_title.version_java" addon_id="" version_id="0" version_string=""><![CDATA[适配版本]]></phrase>
+  <phrase title="xfrm_resource_field_title.version_java" addon_id="" version_id="0" version_string=""><![CDATA[Applicable versions]]></phrase>
   <phrase title="xfrm_resource_field_title.versions" addon_id="" version_id="0" version_string=""><![CDATA[Supported version]]></phrase>
   <phrase title="xfrm_resource_fields" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Resource fields]]></phrase>
   <phrase title="xfrm_resource_icon" addon_id="XFRM" global_cache="1" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Resource icon]]></phrase>
