@@ -15,14 +15,14 @@
   <phrase title="3_months_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Three months ago]]></phrase>
   <phrase title="6_months_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Six months ago]]></phrase>
   <phrase title="9_months_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Nine months ago]]></phrase>
-  <phrase title="CMTV_Code_code_block_highlight" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[突出显示行]]></phrase>
-  <phrase title="CMTV_Code_code_block_highlight_explain" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[可选。要突出显示的行号。例如，“2，4-6”将突出显示第2、4、5和6行。]]></phrase>
-  <phrase title="CMTV_Code_code_block_title" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[代码模块标题]]></phrase>
-  <phrase title="CMTV_Code_code_block_title_explain" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[可选的。 如果指定，默认代码语言名称将替换为代码块标题处的标题文本。 例如，可用于指定文件名。]]></phrase>
-  <phrase title="CMTV_Code_collapse" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[折叠]]></phrase>
-  <phrase title="CMTV_Code_copied" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[代码已复制到剪贴板。]]></phrase>
-  <phrase title="CMTV_Code_copy" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[复制]]></phrase>
-  <phrase title="CMTV_Code_expand" addon_id="CMTV/Code" version_id="2020070" version_string="2.2.0"><![CDATA[扩展]]></phrase>
+  <phrase title="CMTV_Code_code_block_highlight" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[Highlight lines]]></phrase>
+  <phrase title="CMTV_Code_code_block_highlight_explain" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[Optional.The line nubmers of lines which you want to highlight.For example, enter “2,4-6” and Line 2,4,5,6 will be highlighted.]]></phrase>
+  <phrase title="CMTV_Code_code_block_title" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[Code block title]]></phrase>
+  <phrase title="CMTV_Code_code_block_title_explain" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[Optional.If specified, the default code language name will be replaced with the title text at the title of the code block. For example, it can be used to specify the file name.]]></phrase>
+  <phrase title="CMTV_Code_collapse" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[Collapse]]></phrase>
+  <phrase title="CMTV_Code_copied" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[The code has been copied to the clipboard.]]></phrase>
+  <phrase title="CMTV_Code_copy" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[Copy]]></phrase>
+  <phrase title="CMTV_Code_expand" addon_id="CMTV/Code" version_id="2020070" version_string="2.2.0"><![CDATA[Expand]]></phrase>
   <phrase title="EWRporta_add_author" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Add author]]></phrase>
   <phrase title="EWRporta_articles" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Articles]]></phrase>
   <phrase title="EWRporta_authors" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Authors]]></phrase>
@@ -371,14 +371,14 @@
   <phrase title="admin_navigation.mjcCredits" addon_id="MJ/Credits" version_id="1000400" version_string="1.0.4"><![CDATA[Credits]]></phrase>
   <phrase title="admin_navigation.mjcCurrencies" addon_id="MJ/Credits" version_id="1000400" version_string="1.0.4"><![CDATA[Currencies]]></phrase>
   <phrase title="admin_navigation.mjcDevCredits" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[Credits]]></phrase>
-  <phrase title="admin_navigation.mjcEventDefinitions" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[事件定义]]></phrase>
-  <phrase title="admin_navigation.mjcEvents" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[事件]]></phrase>
+  <phrase title="admin_navigation.mjcEventDefinitions" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Event Definitions]]></phrase>
+  <phrase title="admin_navigation.mjcEvents" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Events]]></phrase>
   <phrase title="admin_navigation.mjcImport" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[导入积分]]></phrase>
-  <phrase title="admin_navigation.mjcListAllEvents" addon_id="MJ/Credits" version_id="1001000" version_string="1.1.0"><![CDATA[全部事件列表]]></phrase>
-  <phrase title="admin_navigation.mjcListAllTransactions" addon_id="MJ/Credits" version_id="1001000" version_string="1.1.0"><![CDATA[全部事务列表]]></phrase>
+  <phrase title="admin_navigation.mjcListAllEvents" addon_id="MJ/Credits" version_id="1001000" version_string="1.1.0"><![CDATA[All events]]></phrase>
+  <phrase title="admin_navigation.mjcListAllTransactions" addon_id="MJ/Credits" version_id="1001000" version_string="1.1.0"><![CDATA[All transactions]]></phrase>
   <phrase title="admin_navigation.mjcReset" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[重置积分]]></phrase>
-  <phrase title="admin_navigation.mjcStats" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[统计]]></phrase>
-  <phrase title="admin_navigation.mjcTools" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[工具]]></phrase>
+  <phrase title="admin_navigation.mjcStats" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Statistics]]></phrase>
+  <phrase title="admin_navigation.mjcTools" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Tool]]></phrase>
   <phrase title="admin_navigation.mjcTransactions" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[交易]]></phrase>
   <phrase title="admin_navigation.mjcTransfer" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[积分转账]]></phrase>
   <phrase title="admin_navigation.mjcUserList" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[List of credits for all users]]></phrase>
@@ -565,46 +565,46 @@
   <phrase title="af_as_award_cat_title.4" addon_id="" version_id="0" version_string=""><![CDATA[Identity award]]></phrase>
   <phrase title="af_as_award_cat_title.uncategorized" addon_id="AddonFlare/AwardSystem" version_id="1000070" version_string="1.0.0"><![CDATA[Uncategorized awards]]></phrase>
   <phrase title="af_as_award_category" addon_id="AddonFlare/AwardSystem" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Award category]]></phrase>
-  <phrase title="af_as_award_desc.1" addon_id="" version_id="0" version_string=""><![CDATA[经本站检验认证的MC正版玩家！]]></phrase>
+  <phrase title="af_as_award_desc.1" addon_id="" version_id="0" version_string=""><![CDATA[Genuine MC players who have been certified by MineBBS!]]></phrase>
   <phrase title="af_as_award_desc.10" addon_id="" version_id="0" version_string=""><![CDATA[Second anniversary of MineBBS]]></phrase>
-  <phrase title="af_as_award_desc.11" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS社区认证汉化组]]></phrase>
-  <phrase title="af_as_award_desc.12" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS社区认证开发者]]></phrase>
-  <phrase title="af_as_award_desc.13" addon_id="" version_id="0" version_string=""><![CDATA[对不起，有钱是真的可以为所欲为的]]></phrase>
-  <phrase title="af_as_award_desc.14" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS has more than 10,000 members]]></phrase>
-  <phrase title="af_as_award_desc.15" addon_id="" version_id="0" version_string=""><![CDATA[2021年人气服务器评比活动获奖者]]></phrase>
+  <phrase title="af_as_award_desc.11" addon_id="" version_id="0" version_string=""><![CDATA[The certified member of MineBBS Chinese Localization Group]]></phrase>
+  <phrase title="af_as_award_desc.12" addon_id="" version_id="0" version_string=""><![CDATA[The certified developer of MineBBS]]></phrase>
+  <phrase title="af_as_award_desc.13" addon_id="" version_id="0" version_string=""><![CDATA[The certified rich man in MineBBS]]></phrase>
+  <phrase title="af_as_award_desc.14" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS 10,000 User Memorial]]></phrase>
+  <phrase title="af_as_award_desc.15" addon_id="" version_id="0" version_string=""><![CDATA[Winners of Popular Server Competition in 2021]]></phrase>
   <phrase title="af_as_award_desc.16" addon_id="" version_id="0" version_string=""><![CDATA[Third anniversary of MineBBS]]></phrase>
   <phrase title="af_as_award_desc.17" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="af_as_award_desc.18" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS has more than 20000 members]]></phrase>
-  <phrase title="af_as_award_desc.19" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS社区认证新闻小组]]></phrase>
-  <phrase title="af_as_award_desc.2" addon_id="" version_id="0" version_string=""><![CDATA[对本站的建设发展作出重大贡献]]></phrase>
-  <phrase title="af_as_award_desc.3" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS社区认证搬运组]]></phrase>
-  <phrase title="af_as_award_desc.4" addon_id="" version_id="0" version_string=""><![CDATA[在材质领域有优秀精华的原创作品或卓有名誉]]></phrase>
-  <phrase title="af_as_award_desc.5" addon_id="" version_id="0" version_string=""><![CDATA[A long-time active member of the forum]]></phrase>
-  <phrase title="af_as_award_desc.6" addon_id="" version_id="0" version_string=""><![CDATA[论坛中工作得力有成效的优秀版主]]></phrase>
-  <phrase title="af_as_award_desc.7" addon_id="" version_id="0" version_string=""><![CDATA[从论坛建立以来一直陪伴着我们的人~]]></phrase>
-  <phrase title="af_as_award_desc.8" addon_id="" version_id="0" version_string=""><![CDATA[大家所公认的技术大佬]]></phrase>
+  <phrase title="af_as_award_desc.18" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS 20,000 User Memorial]]></phrase>
+  <phrase title="af_as_award_desc.19" addon_id="" version_id="0" version_string=""><![CDATA[The certified member of MineBBS News Group]]></phrase>
+  <phrase title="af_as_award_desc.2" addon_id="" version_id="0" version_string=""><![CDATA[The person who made a significant contribution to MineBBS]]></phrase>
+  <phrase title="af_as_award_desc.3" addon_id="" version_id="0" version_string=""><![CDATA[The certified member of MineBBS Republishing Group]]></phrase>
+  <phrase title="af_as_award_desc.4" addon_id="" version_id="0" version_string=""><![CDATA[The person who has excellent original work or outstanding reputation in the field of texture pack]]></phrase>
+  <phrase title="af_as_award_desc.5" addon_id="" version_id="0" version_string=""><![CDATA[A long-time active member of MineBBS]]></phrase>
+  <phrase title="af_as_award_desc.6" addon_id="" version_id="0" version_string=""><![CDATA[Excellent moderators who have worked effectively and efficiently in MineBBS]]></phrase>
+  <phrase title="af_as_award_desc.7" addon_id="" version_id="0" version_string=""><![CDATA[The person who has been with us since the forum's inception~]]></phrase>
+  <phrase title="af_as_award_desc.8" addon_id="" version_id="0" version_string=""><![CDATA[A recognised technology guru]]></phrase>
   <phrase title="af_as_award_desc.9" addon_id="" version_id="0" version_string=""><![CDATA[The first anniversary of MineBBS]]></phrase>
   <phrase title="af_as_award_points" addon_id="AddonFlare/AwardSystem" version_id="1010070" version_string="1.1.0"><![CDATA[Award points]]></phrase>
   <phrase title="af_as_award_recommend_not_allowed" addon_id="AddonFlare/AwardSystem" version_id="1010070" version_string="1.1.0"><![CDATA[This award is not allowed to be recommended]]></phrase>
   <phrase title="af_as_award_request_not_allowed" addon_id="AddonFlare/AwardSystem" version_id="1010070" version_string="1.1.0"><![CDATA[This award is not allowed to be requested]]></phrase>
   <phrase title="af_as_award_title.1" addon_id="" version_id="0" version_string=""><![CDATA[Genuine players]]></phrase>
   <phrase title="af_as_award_title.10" addon_id="" version_id="0" version_string=""><![CDATA[Second anniversary]]></phrase>
-  <phrase title="af_as_award_title.11" addon_id="" version_id="0" version_string=""><![CDATA[汉化组]]></phrase>
-  <phrase title="af_as_award_title.12" addon_id="" version_id="0" version_string=""><![CDATA[开发者]]></phrase>
-  <phrase title="af_as_award_title.13" addon_id="" version_id="0" version_string=""><![CDATA[人民富豪]]></phrase>
-  <phrase title="af_as_award_title.14" addon_id="" version_id="0" version_string=""><![CDATA[1W Members memorial]]></phrase>
-  <phrase title="af_as_award_title.15" addon_id="" version_id="0" version_string=""><![CDATA[人气服主]]></phrase>
+  <phrase title="af_as_award_title.11" addon_id="" version_id="0" version_string=""><![CDATA[Chinese Localization Group Member]]></phrase>
+  <phrase title="af_as_award_title.12" addon_id="" version_id="0" version_string=""><![CDATA[Developer]]></phrase>
+  <phrase title="af_as_award_title.13" addon_id="" version_id="0" version_string=""><![CDATA[People's rich man]]></phrase>
+  <phrase title="af_as_award_title.14" addon_id="" version_id="0" version_string=""><![CDATA[10,000 Members memorial]]></phrase>
+  <phrase title="af_as_award_title.15" addon_id="" version_id="0" version_string=""><![CDATA[Owner of a popular server]]></phrase>
   <phrase title="af_as_award_title.16" addon_id="" version_id="0" version_string=""><![CDATA[Third anniversary]]></phrase>
   <phrase title="af_as_award_title.17" addon_id="" version_id="0" version_string=""><![CDATA[First Bedrock Development Competition]]></phrase>
-  <phrase title="af_as_award_title.18" addon_id="" version_id="0" version_string=""><![CDATA[2W Members memorial]]></phrase>
-  <phrase title="af_as_award_title.19" addon_id="" version_id="0" version_string=""><![CDATA[新闻组]]></phrase>
-  <phrase title="af_as_award_title.2" addon_id="" version_id="0" version_string=""><![CDATA[突出贡献]]></phrase>
-  <phrase title="af_as_award_title.3" addon_id="" version_id="0" version_string=""><![CDATA[搬运组]]></phrase>
-  <phrase title="af_as_award_title.4" addon_id="" version_id="0" version_string=""><![CDATA[材质专家]]></phrase>
-  <phrase title="af_as_award_title.5" addon_id="" version_id="0" version_string=""><![CDATA[积极分子]]></phrase>
-  <phrase title="af_as_award_title.6" addon_id="" version_id="0" version_string=""><![CDATA[荣誉版主]]></phrase>
-  <phrase title="af_as_award_title.7" addon_id="" version_id="0" version_string=""><![CDATA[论坛元老]]></phrase>
-  <phrase title="af_as_award_title.8" addon_id="" version_id="0" version_string=""><![CDATA[技术大咖]]></phrase>
+  <phrase title="af_as_award_title.18" addon_id="" version_id="0" version_string=""><![CDATA[20,000 Members memorial]]></phrase>
+  <phrase title="af_as_award_title.19" addon_id="" version_id="0" version_string=""><![CDATA[News Group Member]]></phrase>
+  <phrase title="af_as_award_title.2" addon_id="" version_id="0" version_string=""><![CDATA[Significant contribution]]></phrase>
+  <phrase title="af_as_award_title.3" addon_id="" version_id="0" version_string=""><![CDATA[Republishing Group]]></phrase>
+  <phrase title="af_as_award_title.4" addon_id="" version_id="0" version_string=""><![CDATA[Texture specialists]]></phrase>
+  <phrase title="af_as_award_title.5" addon_id="" version_id="0" version_string=""><![CDATA[Activists]]></phrase>
+  <phrase title="af_as_award_title.6" addon_id="" version_id="0" version_string=""><![CDATA[Honorary Moderator]]></phrase>
+  <phrase title="af_as_award_title.7" addon_id="" version_id="0" version_string=""><![CDATA[Patriarchs of MineBBS]]></phrase>
+  <phrase title="af_as_award_title.8" addon_id="" version_id="0" version_string=""><![CDATA[Technology Guru]]></phrase>
   <phrase title="af_as_award_title.9" addon_id="" version_id="0" version_string=""><![CDATA[First anniversary]]></phrase>
   <phrase title="af_as_awarded" addon_id="AddonFlare/AwardSystem" version_id="1010070" version_string="1.1.0"><![CDATA[Awarded]]></phrase>
   <phrase title="af_as_awards" addon_id="AddonFlare/AwardSystem" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Awards]]></phrase>
@@ -1568,8 +1568,8 @@ Write the details of the resource in the resource description.</p>
   <phrase title="cron_entry.forumStatistics" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rebuild forum statistics]]></phrase>
   <phrase title="cron_entry.kl_em_gfonts" addon_id="KL/EditorManager" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[[KL] Editor Manager: Update Google Fonts]]></phrase>
   <phrase title="cron_entry.memberStatsCache" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rebuild member stats cache]]></phrase>
-  <phrase title="cron_entry.mjcBirthday" addon_id="MJ/Credits" version_id="1001000" version_string="1.1.0"><![CDATA[[BRC] 触发生日事件]]></phrase>
-  <phrase title="cron_entry.mjcCounters" addon_id="MJ/Credits" version_id="1000200" version_string="1.0.2"><![CDATA[[BRC] 记录每日统计数据]]></phrase>
+  <phrase title="cron_entry.mjcBirthday" addon_id="MJ/Credits" version_id="1001000" version_string="1.1.0"><![CDATA[[BRC] Trigger birthday event]]></phrase>
+  <phrase title="cron_entry.mjcCounters" addon_id="MJ/Credits" version_id="1000200" version_string="1.0.2"><![CDATA[[BRC] Record everyday's statistics]]></phrase>
   <phrase title="cron_entry.rebuildSearchForumCache" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Rebuild expired search forum caches]]></phrase>
   <phrase title="cron_entry.referralsrcContest" addon_id="CnXFans/ReferralContestsReward" version_id="1000000" version_string="1.0.0"><![CDATA[推荐竞赛积分奖励]]></phrase>
   <phrase title="cron_entry.run_successfully" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cron entry was run successfully.]]></phrase>
@@ -1729,11 +1729,11 @@ Write the details of the resource in the resource description.</p>
   <phrase title="current_version" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Current version]]></phrase>
   <phrase title="current_visitors" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Current visitors]]></phrase>
   <phrase title="custom_bb_code_callback_will_receive_parameters" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This callback will receive these parameters: $tagChildren, $tagOption, $tag,  array $options, \XF\BbCode\Renderer\AbstractRenderer $renderer.]]></phrase>
-  <phrase title="custom_bb_code_desc.anchor" addon_id="" version_id="0" version_string=""><![CDATA[设置一个锚点]]></phrase>
+  <phrase title="custom_bb_code_desc.anchor" addon_id="" version_id="0" version_string=""><![CDATA[Set an anchor point]]></phrase>
   <phrase title="custom_bb_code_desc.charge" addon_id="" version_id="0" version_string=""><![CDATA[Paid to see the content]]></phrase>
   <phrase title="custom_bb_code_desc.fees" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[Charge users to view your content.]]></phrase>
-  <phrase title="custom_bb_code_desc.line" addon_id="" version_id="0" version_string=""><![CDATA[分隔线]]></phrase>
-  <phrase title="custom_bb_code_desc.md" addon_id="" version_id="0" version_string=""><![CDATA[插入markdown的识别标签]]></phrase>
+  <phrase title="custom_bb_code_desc.line" addon_id="" version_id="0" version_string=""><![CDATA[Divider]]></phrase>
+  <phrase title="custom_bb_code_desc.md" addon_id="" version_id="0" version_string=""><![CDATA[Insert the identification labels of Markdown texts]]></phrase>
   <phrase title="custom_bb_code_desc.prbreak" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[]]></phrase>
   <phrase title="custom_bb_code_desc.prebreak" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[]]></phrase>
   <phrase title="custom_bb_code_desc.table2" addon_id="" version_id="0" version_string=""><![CDATA[mcplus专属多彩表格]]></phrase>
@@ -1766,11 +1766,11 @@ Write the details of the resource in the resource description.</p>
   <phrase title="custom_bb_code_output.tr2" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="custom_bb_code_title.anchor" addon_id="" version_id="0" version_string=""><![CDATA[锚点]]></phrase>
   <phrase title="custom_bb_code_title.fees" addon_id="MJ/Credits" version_id="1020502" version_string="1.2.5"><![CDATA[内容收费]]></phrase>
-  <phrase title="custom_bb_code_title.line" addon_id="" version_id="0" version_string=""><![CDATA[分隔线]]></phrase>
+  <phrase title="custom_bb_code_title.line" addon_id="" version_id="0" version_string=""><![CDATA[Divider]]></phrase>
   <phrase title="custom_bb_code_title.md" addon_id="" version_id="0" version_string=""><![CDATA[Markdown]]></phrase>
   <phrase title="custom_bb_code_title.prbreak" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[[8WR] XenPorta Prbreak]]></phrase>
   <phrase title="custom_bb_code_title.prebreak" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[[8WR] XenPorta Prebreak]]></phrase>
-  <phrase title="custom_bb_code_title.table2" addon_id="" version_id="0" version_string=""><![CDATA[表格]]></phrase>
+  <phrase title="custom_bb_code_title.table2" addon_id="" version_id="0" version_string=""><![CDATA[Table]]></phrase>
   <phrase title="custom_bb_code_title.td2" addon_id="" version_id="0" version_string=""><![CDATA[td2]]></phrase>
   <phrase title="custom_bb_code_title.toanchor" addon_id="" version_id="0" version_string=""><![CDATA[前往锚点]]></phrase>
   <phrase title="custom_bb_code_title.tr2" addon_id="" version_id="0" version_string=""><![CDATA[tr2]]></phrase>
@@ -7171,7 +7171,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_currency_title.2" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[Diamond]]></phrase>
   <phrase title="mjc_currency_title.3" addon_id="" version_id="0" version_string=""><![CDATA[Gold]]></phrase>
   <phrase title="mjc_currency_title.4" addon_id="" version_id="0" version_string=""><![CDATA[Diamond]]></phrase>
-  <phrase title="mjc_currency_title.5" addon_id="" version_id="0" version_string=""><![CDATA[测试]]></phrase>
+  <phrase title="mjc_currency_title.5" addon_id="" version_id="0" version_string=""><![CDATA[test]]></phrase>
   <phrase title="mjc_daily_statistics" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[每日统计]]></phrase>
   <phrase title="mjc_decimal_places" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[小数位]]></phrase>
   <phrase title="mjc_decimal_places_explain" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[数字值描述小数点右边的位数。]]></phrase>
@@ -7207,29 +7207,29 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_event.41" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event.42" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event.43" addon_id="" version_id="0" version_string=""><![CDATA[顶宣传贴]]></phrase>
-  <phrase title="mjc_event.45" addon_id="" version_id="0" version_string=""><![CDATA[收到回帖]]></phrase>
+  <phrase title="mjc_event.45" addon_id="" version_id="0" version_string=""><![CDATA[Receive a reply]]></phrase>
   <phrase title="mjc_event.46" addon_id="" version_id="0" version_string=""><![CDATA[失去回帖]]></phrase>
   <phrase title="mjc_event.47" addon_id="" version_id="0" version_string=""><![CDATA[Transfer]]></phrase>
-  <phrase title="mjc_event.48" addon_id="" version_id="0" version_string=""><![CDATA[发红包]]></phrase>
-  <phrase title="mjc_event.49" addon_id="" version_id="0" version_string=""><![CDATA[领红包]]></phrase>
-  <phrase title="mjc_event.5" addon_id="" version_id="0" version_string=""><![CDATA[初始资金]]></phrase>
-  <phrase title="mjc_event.50" addon_id="" version_id="0" version_string=""><![CDATA[小水贴]]></phrase>
-  <phrase title="mjc_event.51" addon_id="" version_id="0" version_string=""><![CDATA[大水贴]]></phrase>
+  <phrase title="mjc_event.48" addon_id="" version_id="0" version_string=""><![CDATA[Send red packets]]></phrase>
+  <phrase title="mjc_event.49" addon_id="" version_id="0" version_string=""><![CDATA[Receive a red packet]]></phrase>
+  <phrase title="mjc_event.5" addon_id="" version_id="0" version_string=""><![CDATA[Initial funding]]></phrase>
+  <phrase title="mjc_event.50" addon_id="" version_id="0" version_string=""><![CDATA[Small water post]]></phrase>
+  <phrase title="mjc_event.51" addon_id="" version_id="0" version_string=""><![CDATA[Big water post]]></phrase>
   <phrase title="mjc_event.52" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event.53" addon_id="" version_id="0" version_string=""><![CDATA[推广奖励]]></phrase>
   <phrase title="mjc_event.54" addon_id="" version_id="0" version_string=""><![CDATA[新动态]]></phrase>
-  <phrase title="mjc_event.55" addon_id="" version_id="0" version_string=""><![CDATA[发布新闻]]></phrase>
-  <phrase title="mjc_event.57" addon_id="" version_id="0" version_string=""><![CDATA[新闻被删除]]></phrase>
-  <phrase title="mjc_event.6" addon_id="" version_id="0" version_string=""><![CDATA[收到支持]]></phrase>
-  <phrase title="mjc_event.7" addon_id="" version_id="0" version_string=""><![CDATA[失去支持]]></phrase>
+  <phrase title="mjc_event.55" addon_id="" version_id="0" version_string=""><![CDATA[Publish news]]></phrase>
+  <phrase title="mjc_event.57" addon_id="" version_id="0" version_string=""><![CDATA[News has been deleted]]></phrase>
+  <phrase title="mjc_event.6" addon_id="" version_id="0" version_string=""><![CDATA[Receive support]]></phrase>
+  <phrase title="mjc_event.7" addon_id="" version_id="0" version_string=""><![CDATA[Lose support]]></phrase>
   <phrase title="mjc_event.9" addon_id="" version_id="0" version_string=""><![CDATA[New thread]]></phrase>
   <phrase title="mjc_event_attachment_extension_explain" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[列出允许应用于此事件的文件扩展名。在扩展之间使用空格或分行符。]]></phrase>
   <phrase title="mjc_event_def_desc.attachment_delete" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_event_def_desc.attachment_download" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_event_def_desc.attachment_download_receive" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_event_def_desc.attachment_upload" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
-  <phrase title="mjc_event_def_desc.avatar_delete" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[删除头像。]]></phrase>
-  <phrase title="mjc_event_def_desc.avatar_upload" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[上传一个新的头像。]]></phrase>
+  <phrase title="mjc_event_def_desc.avatar_delete" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Remove avatar]]></phrase>
+  <phrase title="mjc_event_def_desc.avatar_upload" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Upload a new avatar]]></phrase>
   <phrase title="mjc_event_def_desc.birthday" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_event_def_desc.bonus" addon_id="MJ/Credits" version_id="1010300" version_string="1.1.3"><![CDATA[]]></phrase>
   <phrase title="mjc_event_def_desc.buy_user_group" addon_id="MJ/Credits" version_id="1010600" version_string="1.1.6"><![CDATA[用于用户购买]]></phrase>
@@ -7271,14 +7271,14 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_event_def_desc.profile_post_new" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[Post on others profile]]></phrase>
   <phrase title="mjc_event_def_desc.profile_post_receive" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_event_def_desc.profile_post_unlike" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
-  <phrase title="mjc_event_def_desc.red_envelope" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[发红包]]></phrase>
+  <phrase title="mjc_event_def_desc.red_envelope" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[Send red packet]]></phrase>
   <phrase title="mjc_event_def_desc.referral_contest_credit_reward" addon_id="CnXFans/ReferralContestsReward" version_id="1000000" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_event_def_desc.register" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_event_def_desc.reward" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[Reward users in their posts]]></phrase>
   <phrase title="mjc_event_def_desc.thread_delete" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_event_def_desc.thread_new" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_event_def_desc.thread_reply_lose" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
-  <phrase title="mjc_event_def_desc.thread_reply_receive" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[有人回复了他们的帖子]]></phrase>
+  <phrase title="mjc_event_def_desc.thread_reply_receive" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Someone reply to their post]]></phrase>
   <phrase title="mjc_event_def_desc.thread_sticky" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_event_def_desc.thread_unsticky" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_event_def_desc.thread_unwatch" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
@@ -7290,19 +7290,19 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_event_def_desc.transfer" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[转账/收款 积分]]></phrase>
   <phrase title="mjc_event_def_desc.unfollow" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[会员取消关注某人。]]></phrase>
   <phrase title="mjc_event_def_desc.update_status" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
-  <phrase title="mjc_event_def_title.attachment_delete" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[删除附件]]></phrase>
-  <phrase title="mjc_event_def_title.attachment_download" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[下载附件]]></phrase>
+  <phrase title="mjc_event_def_title.attachment_delete" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Delete annex]]></phrase>
+  <phrase title="mjc_event_def_title.attachment_download" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Download annex]]></phrase>
   <phrase title="mjc_event_def_title.attachment_download_receive" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[获取附件下载]]></phrase>
-  <phrase title="mjc_event_def_title.attachment_upload" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[上传附件]]></phrase>
-  <phrase title="mjc_event_def_title.avatar_delete" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[删除头像]]></phrase>
-  <phrase title="mjc_event_def_title.avatar_upload" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[上传头像]]></phrase>
-  <phrase title="mjc_event_def_title.birthday" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[生日]]></phrase>
-  <phrase title="mjc_event_def_title.bonus" addon_id="MJ/Credits" version_id="1010300" version_string="1.1.3"><![CDATA[抢红包]]></phrase>
-  <phrase title="mjc_event_def_title.buy_user_group" addon_id="MJ/Credits" version_id="1001300" version_string="1.1.3"><![CDATA[购买用户组]]></phrase>
+  <phrase title="mjc_event_def_title.attachment_upload" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Upload annex]]></phrase>
+  <phrase title="mjc_event_def_title.avatar_delete" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Delete the avatar]]></phrase>
+  <phrase title="mjc_event_def_title.avatar_upload" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Upload a avatar]]></phrase>
+  <phrase title="mjc_event_def_title.birthday" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Birthday]]></phrase>
+  <phrase title="mjc_event_def_title.bonus" addon_id="MJ/Credits" version_id="1010300" version_string="1.1.3"><![CDATA[Grab a Red Packet]]></phrase>
+  <phrase title="mjc_event_def_title.buy_user_group" addon_id="MJ/Credits" version_id="1001300" version_string="1.1.3"><![CDATA[Buy user groups]]></phrase>
   <phrase title="mjc_event_def_title.content" addon_id="MJ/Credits" version_id="1000500" version_string="1.0.5"><![CDATA[内容收费]]></phrase>
-  <phrase title="mjc_event_def_title.conversation_leave" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[离开会话]]></phrase>
-  <phrase title="mjc_event_def_title.conversation_new" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[创建会话]]></phrase>
-  <phrase title="mjc_event_def_title.conversation_receive" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[加入会话]]></phrase>
+  <phrase title="mjc_event_def_title.conversation_leave" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[left the conversation]]></phrase>
+  <phrase title="mjc_event_def_title.conversation_new" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Creat a conversation]]></phrase>
+  <phrase title="mjc_event_def_title.conversation_receive" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[join the conversation]]></phrase>
   <phrase title="mjc_event_def_title.conversation_reply_delete" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[会话回复被删除]]></phrase>
   <phrase title="mjc_event_def_title.conversation_reply_lose" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[失去会话回复]]></phrase>
   <phrase title="mjc_event_def_title.conversation_reply_new" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[回复会话]]></phrase>
