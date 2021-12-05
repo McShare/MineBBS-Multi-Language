@@ -3974,31 +3974,31 @@ Message: {message}]]></phrase>
   <phrase title="dbtech_shop_item" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item]]></phrase>
   <phrase title="dbtech_shop_item_asterisk_fields_required_explain" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[* Starred fields are required for new items when created. Other fields are optional.]]></phrase>
   <phrase title="dbtech_shop_item_auto_discard" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Automatically discard after configuration]]></phrase>
-  <phrase title="dbtech_shop_item_auto_discard_expiry" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Automatically discard after expiry]]></phrase>
-  <phrase title="dbtech_shop_item_auto_discard_expiry_hint" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[If ticked, this item will automatically be discarded after it has expired.]]></phrase>
+  <phrase title="dbtech_shop_item_auto_discard_expiry" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[过期后自动丢弃]]></phrase>
+  <phrase title="dbtech_shop_item_auto_discard_expiry_hint" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[如果勾选，该项目将在过期后自动丢弃。]]></phrase>
   <phrase title="dbtech_shop_item_auto_discard_hint" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[This has no effect if "Allow re-configuration" is ticked.]]></phrase>
   <phrase title="dbtech_shop_item_bought_x" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[You Last Purchased at: {param1}]]></phrase>
   <phrase title="dbtech_shop_item_buyback_currency" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Buyback Currency
 <dfn>Controls what currency the buyback price is listed in.</dfn>]]></phrase>
-  <phrase title="dbtech_shop_item_buyback_price" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Sell-back price]]></phrase>
+  <phrase title="dbtech_shop_item_buyback_price" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[回收价]]></phrase>
   <phrase title="dbtech_shop_item_buyback_price_descr" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Sets the amount the shop is willing to pay to buy back the item.<br />
 0 = Store will not buy back the item.]]></phrase>
-  <phrase title="dbtech_shop_item_buyback_price_explain" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Sets the amount the user will receive for selling the item back.<br />
-0 = Sell-back is unavailable.]]></phrase>
+  <phrase title="dbtech_shop_item_buyback_price_explain" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[设置用户回收该商品将收到的金额。<br />
+0 = 回收被禁用]]></phrase>
   <phrase title="dbtech_shop_item_buyback_price_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item Buyback Price]]></phrase>
-  <phrase title="dbtech_shop_item_buyback_replenish" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Sell-back replenishes available stock]]></phrase>
+  <phrase title="dbtech_shop_item_buyback_replenish" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[回收补给存货]]></phrase>
   <phrase title="dbtech_shop_item_buyback_replenish_descr" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Whether an item sold back to the store re-adds the item to stock.]]></phrase>
   <phrase title="dbtech_shop_item_buyback_replenish_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Buyback Replenishes Stock]]></phrase>
-  <phrase title="dbtech_shop_item_buyback_time" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Sell-back time limit]]></phrase>
-  <phrase title="dbtech_shop_item_buyback_time_explain" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Sets the amount of time until the item can no longer be sold back.<br />
-0 = Item can always be sold back.]]></phrase>
+  <phrase title="dbtech_shop_item_buyback_time" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[回收时间限制]]></phrase>
+  <phrase title="dbtech_shop_item_buyback_time_explain" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[设置商品不可再被回收的时间限制<br />
+0 = 商品永远可回收]]></phrase>
   <phrase title="dbtech_shop_item_buyback_time_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Buyback Time]]></phrase>
   <phrase title="dbtech_shop_item_buybackcurrency_descr" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Controls what currency the buyback price is listed in.]]></phrase>
   <phrase title="dbtech_shop_item_buybackcurrency_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Buyback Currency]]></phrase>
   <phrase title="dbtech_shop_item_can_reconfigure" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Allow re-configuration]]></phrase>
   <phrase title="dbtech_shop_item_can_reconfigure_hint" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[If ticked, this will allow buyers of items like "Username Change" to repeatedly change their user names, or Custom items to edit the contents of their custom fields.]]></phrase>
-  <phrase title="dbtech_shop_item_can_regift" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Can "re-gift"]]></phrase>
-  <phrase title="dbtech_shop_item_can_regift_hint" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[If ticked, this will allow members who receive an item as a gift to in turn give this item as a gift to someone else.]]></phrase>
+  <phrase title="dbtech_shop_item_can_regift" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[可“转赠”]]></phrase>
+  <phrase title="dbtech_shop_item_can_regift_hint" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[如果勾选，这将允许收到商品作为赠礼的成员可以将该物品作为礼物转送给其他人。]]></phrase>
   <phrase title="dbtech_shop_item_configured" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item configured.]]></phrase>
   <phrase title="dbtech_shop_item_cost" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item Cost]]></phrase>
   <phrase title="dbtech_shop_item_cost_x" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item Cost: <b>{param1} {param2}</b>]]></phrase>
@@ -4007,45 +4007,45 @@ Message: {message}]]></phrase>
   <phrase title="dbtech_shop_item_currency" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item Currency
 <dfn>Controls what currency the sale price is listed in.</dfn>]]></phrase>
   <phrase title="dbtech_shop_item_currency_descr" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Controls what currency the below prices are listed in.]]></phrase>
-  <phrase title="dbtech_shop_item_currency_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item Currency]]></phrase>
-  <phrase title="dbtech_shop_item_deleted" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item deleted successfully!]]></phrase>
-  <phrase title="dbtech_shop_item_discarded" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item discarded successfully!]]></phrase>
+  <phrase title="dbtech_shop_item_currency_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[商品货币]]></phrase>
+  <phrase title="dbtech_shop_item_deleted" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[成功删除商品！]]></phrase>
+  <phrase title="dbtech_shop_item_discarded" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[成功丢弃商品！]]></phrase>
   <phrase title="dbtech_shop_item_display_in_list" addon_id="DBTech/Shop" version_id="906010033" version_string="6.1.0 Beta 3"><![CDATA[在列表中展示]]></phrase>
   <phrase title="dbtech_shop_item_display_in_list_hint" addon_id="DBTech/Shop" version_id="906010033" version_string="6.1.0 Beta 3"><![CDATA[如果禁用，当浏览主页或分类时，该商品将不会显示在商品列表中。]]></phrase>
-  <phrase title="dbtech_shop_item_duration" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[商品持续时间]]></phrase>
+  <phrase title="dbtech_shop_item_duration" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[商品有效期]]></phrase>
   <phrase title="dbtech_shop_item_duration_explain" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Set how long (in days) the item lasts before it expires and its effects (if any) is removed.]]></phrase>
-  <phrase title="dbtech_shop_item_duration_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item Duration]]></phrase>
-  <phrase title="dbtech_shop_item_exclusive_descr" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Prevents buying this item if the user already owns an item of the same Item Type.]]></phrase>
-  <phrase title="dbtech_shop_item_exclusive_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Exclusive]]></phrase>
-  <phrase title="dbtech_shop_item_fields" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item fields]]></phrase>
-  <phrase title="dbtech_shop_item_giftable_descr" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Whether this item can be granted to someone else.]]></phrase>
+  <phrase title="dbtech_shop_item_duration_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[商品有效期]]></phrase>
+  <phrase title="dbtech_shop_item_exclusive_descr" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[如果用户已经拥有相同类型的商品，则阻止购买此商品。]]></phrase>
+  <phrase title="dbtech_shop_item_exclusive_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[排他]]></phrase>
+  <phrase title="dbtech_shop_item_fields" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[商品字段]]></phrase>
+  <phrase title="dbtech_shop_item_giftable_descr" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[该物品是否可以授予他人。]]></phrase>
   <phrase title="dbtech_shop_item_giftable_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[可赠送]]></phrase>
-  <phrase title="dbtech_shop_item_gifted" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item gifted successfully.]]></phrase>
-  <phrase title="dbtech_shop_item_icon" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item icon]]></phrase>
+  <phrase title="dbtech_shop_item_gifted" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[商品成功被赠送]]></phrase>
+  <phrase title="dbtech_shop_item_icon" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[商品图标]]></phrase>
   <phrase title="dbtech_shop_item_in_x" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item in '{title}']]></phrase>
-  <phrase title="dbtech_shop_item_information" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item Information]]></phrase>
-  <phrase title="dbtech_shop_item_is_active" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item is active]]></phrase>
-  <phrase title="dbtech_shop_item_is_always_hidden" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item is always hidden]]></phrase>
-  <phrase title="dbtech_shop_item_is_always_hidden_hint" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[If ticked, this item will never be displayed regardless of the user's "Hidden" toggle.]]></phrase>
+  <phrase title="dbtech_shop_item_information" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[商品信息]]></phrase>
+  <phrase title="dbtech_shop_item_is_active" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[启用商品]]></phrase>
+  <phrase title="dbtech_shop_item_is_always_hidden" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[永远隐藏]]></phrase>
+  <phrase title="dbtech_shop_item_is_always_hidden_hint" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[如果勾选，该项目将永远不会显示，无论用户是否选择“隐藏商品”。]]></phrase>
   <phrase title="dbtech_shop_item_is_exclusive" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Exclusive item]]></phrase>
-  <phrase title="dbtech_shop_item_is_exclusive_hint" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Prevents buying this item if the user already owns an item of the same item type.]]></phrase>
-  <phrase title="dbtech_shop_item_is_giftable" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Giftable]]></phrase>
+  <phrase title="dbtech_shop_item_is_exclusive_hint" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[如果用户已经拥有相同商品类型的商品，则阻止购买此商品。.]]></phrase>
+  <phrase title="dbtech_shop_item_is_giftable" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[可赠送]]></phrase>
   <phrase title="dbtech_shop_item_is_only_giftable" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[仅用于赠送]]></phrase>
   <phrase title="dbtech_shop_item_is_only_giftable_hint" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[如果勾选，这个商品只能被送给其他人，而不可为买家自己购买。]]></phrase>
-  <phrase title="dbtech_shop_item_is_stealth_item" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Stealth item]]></phrase>
-  <phrase title="dbtech_shop_item_is_stealth_item_hint" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[If ticked, this item will not show up in a user's inventory, in the postbit nor in their profiles.<br />
-Be careful when using this setting, as it will mean an item cannot be configured under any circumstances.]]></phrase>
-  <phrase title="dbtech_shop_item_is_unique" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Unique item]]></phrase>
-  <phrase title="dbtech_shop_item_is_unique_hint" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Whether this item can only be purchased once.]]></phrase>
-  <phrase title="dbtech_shop_item_management" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item Management]]></phrase>
-  <phrase title="dbtech_shop_item_management_descr" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Below, you can manage all the items you have created for purchase in shop.]]></phrase>
-  <phrase title="dbtech_shop_item_maxstock" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Maximum Stock
-<dfn>The maximum amount of items that can be in stock, even with buyback enabled.<br />
-Must be greater or equal to currently remaining stock.<br />
-If the remaining stock is -1 (Unlimited), this setting will automatically change to -1 upon saving.</dfn>]]></phrase>
-  <phrase title="dbtech_shop_item_maxstock_descr" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[The maximum amount of items that can be in stock, even with buyback enabled.<br />
-Must be greater or equal to currently remaining stock.<br />
-If the remaining stock is -1 (Unlimited), this setting will automatically change to -1 upon saving.]]></phrase>
+  <phrase title="dbtech_shop_item_is_stealth_item" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[隐藏商品]]></phrase>
+  <phrase title="dbtech_shop_item_is_stealth_item_hint" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[如果勾选，该商品将不会出现在用户的库存中，在postbit或他们的个人信息中。<br/>
+使用此设置时要小心，因为这意味着在任何情况下都不能配置该商品.]]></phrase>
+  <phrase title="dbtech_shop_item_is_unique" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[限定商品]]></phrase>
+  <phrase title="dbtech_shop_item_is_unique_hint" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[该商品是否仅可购买一次。]]></phrase>
+  <phrase title="dbtech_shop_item_management" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[商品管理]]></phrase>
+  <phrase title="dbtech_shop_item_management_descr" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[下面，您可以管理您创建的所有商品，以便在商店中购买。]]></phrase>
+  <phrase title="dbtech_shop_item_maxstock" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[最大库存
+<dfn>库存中物品的最大数量，即使启用了回购。<br />
+必须大于或等于当前剩余库存。<br />
+如果剩余库存为-1(无限)，此设置将在保存时自动更改为-1。</dfn>]]></phrase>
+  <phrase title="dbtech_shop_item_maxstock_descr" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[库存中物品的最大数量，即使启用了回购。<br />
+必须大于或等于当前剩余库存。<br />
+如果剩余库存为-1(无限)，此设置将在保存时自动更改为-1。]]></phrase>
   <phrase title="dbtech_shop_item_maxstock_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Maximum Stock]]></phrase>
   <phrase title="dbtech_shop_item_moderation" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item Moderation]]></phrase>
   <phrase title="dbtech_shop_item_nodisplay" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Force Hidden
@@ -4072,64 +4072,65 @@ If the remaining stock is -1 (Unlimited), this setting will automatically change
   <phrase title="dbtech_shop_item_owner_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item Owner]]></phrase>
   <phrase title="dbtech_shop_item_permissions" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item permissions]]></phrase>
   <phrase title="dbtech_shop_item_prefixes" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item prefixes]]></phrase>
-  <phrase title="dbtech_shop_item_price" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item price]]></phrase>
+  <phrase title="dbtech_shop_item_price" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[商品价格]]></phrase>
   <phrase title="dbtech_shop_item_purchased_x" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item purchased at {param1}]]></phrase>
-  <phrase title="dbtech_shop_item_ratings" addon_id="DBTech/Shop" version_id="906010012" version_string="6.1.0 Alpha 2"><![CDATA[Item ratings]]></phrase>
-  <phrase title="dbtech_shop_item_reactions" addon_id="DBTech/Shop" version_id="906010012" version_string="6.1.0 Alpha 2"><![CDATA[Item reactions]]></phrase>
-  <phrase title="dbtech_shop_item_reconfigure_descr" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[If yes, this will allow buyers of items like "Username Change" to repeatedly change their user names, or Custom items to edit the contents of their custom fields.]]></phrase>
-  <phrase title="dbtech_shop_item_reconfigure_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Allow Re-Configuration]]></phrase>
-  <phrase title="dbtech_shop_item_refill_time" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Refill interval]]></phrase>
-  <phrase title="dbtech_shop_item_refill_time_explain" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[The time between each stock replenishment. The stock will automatically replenish to the value of the maximum stock.<br />
-0 = Item does not automatically replenish stock.]]></phrase>
+  <phrase title="dbtech_shop_item_ratings" addon_id="DBTech/Shop" version_id="906010012" version_string="6.1.0 Alpha 2"><![CDATA[商品评分]]></phrase>
+  <phrase title="dbtech_shop_item_reactions" addon_id="DBTech/Shop" version_id="906010012" version_string="6.1.0 Alpha 2"><![CDATA[商品反馈]]></phrase>
+  <phrase title="dbtech_shop_item_reconfigure_descr" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[如果是，这将允许像“用户名更改”这样商品的买家反复更改他们的用户名，或自定义商品编辑他们的自定义字段的内容。]]></phrase>
+  <phrase title="dbtech_shop_item_reconfigure_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[允许再配置]]></phrase>
+  <phrase title="dbtech_shop_item_refill_time" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[补货间隔]]></phrase>
+  <phrase title="dbtech_shop_item_refill_time_explain" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[每次补充库存的时间间隔。库存将自动补充到最大库存的价值。<br />
+0 = 商品不自动补货]]></phrase>
   <phrase title="dbtech_shop_item_refilltime_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Refill Time (Days)]]></phrase>
   <phrase title="dbtech_shop_item_regift_descr" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[If yes, this will allow members who receive an item as a gift to in turn give this item as a gift to someone else.]]></phrase>
   <phrase title="dbtech_shop_item_regift_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Allow Re-Gift]]></phrase>
   <phrase title="dbtech_shop_item_review_in_x" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item review in '{title}']]></phrase>
   <phrase title="dbtech_shop_item_send_gift_pm" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[赠礼时开启会话]]></phrase>
-  <phrase title="dbtech_shop_item_send_gift_pm_hint" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[If ticked, a conversation will be started when this item is gifted.]]></phrase>
-  <phrase title="dbtech_shop_item_settings" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item Settings]]></phrase>
+  <phrase title="dbtech_shop_item_send_gift_pm_hint" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[如果勾选，当这个商品被赠与时，会话将开启。]]></phrase>
+  <phrase title="dbtech_shop_item_settings" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[商品设置]]></phrase>
   <phrase title="dbtech_shop_item_sold" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item Sold]]></phrase>
-  <phrase title="dbtech_shop_item_sold_back" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item sold back.]]></phrase>
-  <phrase title="dbtech_shop_item_sort_optiona" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item Sort Options]]></phrase>
-  <phrase title="dbtech_shop_item_sort_options" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item Display Options]]></phrase>
-  <phrase title="dbtech_shop_item_status" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item status]]></phrase>
-  <phrase title="dbtech_shop_item_stock" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Stock]]></phrase>
-  <phrase title="dbtech_shop_item_stock_explain" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[How many copies of this item is available for purchase.<br />
--1 = Unlimited<br />
-0 = Out of stock<br />
+  <phrase title="dbtech_shop_item_sold_back" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[商品回收]]></phrase>
+  <phrase title="dbtech_shop_item_sort_optiona" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[商品排序设置]]></phrase>
+  <phrase title="dbtech_shop_item_sort_options" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[商品展示设置]]></phrase>
+  <phrase title="dbtech_shop_item_status" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[商品状态]]></phrase>
+  <phrase title="dbtech_shop_item_stock" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[库存]]></phrase>
+  <phrase title="dbtech_shop_item_stock_explain" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[这种商品可供购买的数量是多少？<br />
+-1 = 无限<br />
+0 = 售罄<br />
 <br />
-Maximum stock must be greater or equal to currently remaining stock.
-If the remaining stock is -1 (Unlimited), the maximum stock will automatically change to -1 upon saving.]]></phrase>
-  <phrase title="dbtech_shop_item_stock_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Stock]]></phrase>
+最大库存必须大于或等于当前剩余库存。
+如果剩余的库存是-1（无限），最大库存将自动更改为-1保存。]]></phrase>
+  <phrase title="dbtech_shop_item_stock_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[库存]]></phrase>
+  <phrase title="dbtech_shop_item_tag.1" addon_id="" version_id="0" version_string=""><![CDATA[测试]]></phrase>
   <phrase title="dbtech_shop_item_tagline" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[商品标语]]></phrase>
   <phrase title="dbtech_shop_item_tagline_explain" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[一个简短的标语（140个字符左右），简要解释商品。这将显示在商品列表中。]]></phrase>
-  <phrase title="dbtech_shop_item_thread_create" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[A new item is available: [url={item_link}][plain]{title}[/plain][/url] - [plain]{tag_line}[/plain]
+  <phrase title="dbtech_shop_item_thread_create" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[一个新商品上架了： [url={item_link}][plain]{title}[/plain][/url] - [plain]{tag_line}[/plain]
 
 
 [SIZE=7][B]{title}[/B][/SIZE]
 
-[SIZE=6]Description[/SIZE]
+[SIZE=6]描述[/SIZE]
 
 {description}
 
 
-[url={item_link}]Read more about this item...[/url]]]></phrase>
+[url={item_link}]查看更多商品信息……[/url]]]></phrase>
   <phrase title="dbtech_shop_item_threadcreation" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Purchasable On Thread Creation
 <dfn>If yes, this item will be purchasable on thread creation, and automatically configured with the Thread ID of the new thread.<br />
 <strong>Note:</strong> Be careful with mixing this and the "Can Re-Configure" flag, as it may lead to the item only being partially configured.</dfn>]]></phrase>
   <phrase title="dbtech_shop_item_threadpage" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Purchasable On Thread Page
 <dfn>If yes, this item will be purchasable on the thread page, and automatically configured with the Thread ID of the current thread.<br />
 <strong>Note:</strong> Be careful with mixing this and the "Can Re-Configure" flag, as it may lead to the item only being partially configured.</dfn>]]></phrase>
-  <phrase title="dbtech_shop_item_title" addon_id="DBTech/Shop" version_id="906040032" version_string="6.4.0 Beta 2"><![CDATA[Item title]]></phrase>
+  <phrase title="dbtech_shop_item_title" addon_id="DBTech/Shop" version_id="906040032" version_string="6.4.0 Beta 2"><![CDATA[商品标题]]></phrase>
   <phrase title="dbtech_shop_item_type" addon_id="DBTech/Shop" version_id="906020031" version_string="6.2.0 Beta 1"><![CDATA[商品类型]]></phrase>
   <phrase title="dbtech_shop_item_type_options" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[商品类型选项]]></phrase>
-  <phrase title="dbtech_shop_item_unique_descr" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Whether this item can only be purchased once.]]></phrase>
-  <phrase title="dbtech_shop_item_unique_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Unique]]></phrase>
-  <phrase title="dbtech_shop_item_update_notifications" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item update notifications]]></phrase>
-  <phrase title="dbtech_shop_item_update_notifications_explain" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[When an item is updated, the system can either start a new thread or reply to the existing item's thread.]]></phrase>
-  <phrase title="dbtech_shop_item_updated" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item updated successfully!]]></phrase>
-  <phrase title="dbtech_shop_item_watched" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item watched]]></phrase>
-  <phrase title="dbtech_shop_item_x" addon_id="DBTech/Shop" version_id="906010012" version_string="6.1.0 Alpha 2"><![CDATA[Item '{title}']]></phrase>
+  <phrase title="dbtech_shop_item_unique_descr" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[此物品是否只能购买一次。]]></phrase>
+  <phrase title="dbtech_shop_item_unique_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[唯一]]></phrase>
+  <phrase title="dbtech_shop_item_update_notifications" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[商品更新通知]]></phrase>
+  <phrase title="dbtech_shop_item_update_notifications_explain" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[当一个商品被更新时，系统可以发布一个新的主题或者回复现有商品的主题。]]></phrase>
+  <phrase title="dbtech_shop_item_updated" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[成功更新商品]]></phrase>
+  <phrase title="dbtech_shop_item_watched" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[关注商品]]></phrase>
+  <phrase title="dbtech_shop_item_x" addon_id="DBTech/Shop" version_id="906010012" version_string="6.1.0 Alpha 2"><![CDATA[商品 '{title}']]></phrase>
   <phrase title="dbtech_shop_item_x_in_category_y" addon_id="DBTech/Shop" version_id="906010053" version_string="6.1.0 Release Candidate 3"><![CDATA[Item '{title}' in category '{category}']]></phrase>
   <phrase title="dbtech_shop_item_x_purchased_for_y" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[<b>{param1}</b> purchased for <b>{param2}</b> on <b>{param3}</b>]]></phrase>
   <phrase title="dbtech_shop_item_x_purchased_y" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[<b>{param1}</b> was purchased at <b>{param2}</b>]]></phrase>
@@ -9735,8 +9736,8 @@ Multiple styles can be combined.
   <phrase title="kl_em_centered" addon_id="KL/EditorManager" version_id="2000070" version_string="2.0.0"><![CDATA[居中]]></phrase>
   <phrase title="kl_em_change_size" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Change Size]]></phrase>
   <phrase title="kl_em_characters" addon_id="KL/EditorManager" version_id="2000070" version_string="2.0.0"><![CDATA[字符]]></phrase>
-  <phrase title="kl_em_charcount_mode" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Editor character counter]]></phrase>
-  <phrase title="kl_em_charcount_mode_explain" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[This option allows you to select what the editor character counter should count.]]></phrase>
+  <phrase title="kl_em_charcount_mode" addon_id="KL/EditorManager" version_id="2000070" version_string="2.0.0"><![CDATA[编辑器字数统计器]]></phrase>
+  <phrase title="kl_em_charcount_mode_explain" addon_id="KL/EditorManager" version_id="2000070" version_string="2.0.0"><![CDATA[此选项允许您选择编辑器字符计数器应该计数的内容。]]></phrase>
   <phrase title="kl_em_chose_file" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[-Chose file-]]></phrase>
   <phrase title="kl_em_client" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Clientside]]></phrase>
   <phrase title="kl_em_client_explanation" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Clientside fonts are fonts, that are already available on your users devices. The advantage is clearly, that they do not need to be downloaded to the device, when the page is loaded. However, this brings a severe disadvantage: If a user does not already have the font, it cannot be rendered for him. If none of the fonts in the font stack is available to him, his system will use the default font instead. It is recommended to carefully consider the font collection before chosing this option.]]></phrase>
@@ -9757,7 +9758,7 @@ Multiple styles can be combined.
   <phrase title="kl_em_editor_templates" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[Editor templates]]></phrase>
   <phrase title="kl_em_emote_prefix_already_taken" addon_id="KL/EditorManager" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[This emote prefix is already taken by another user.]]></phrase>
   <phrase title="kl_em_emote_upload_failed" addon_id="KL/EditorManager" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[Emote upload failed, please try again later.]]></phrase>
-  <phrase title="kl_em_enable_charcounter" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Enable character counter]]></phrase>
+  <phrase title="kl_em_enable_charcounter" addon_id="KL/EditorManager" version_id="2000070" version_string="2.0.0"><![CDATA[启用字符计数器]]></phrase>
   <phrase title="kl_em_enable_emoji_autocomplete" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Enable emoji autocomplete]]></phrase>
   <phrase title="kl_em_export_special_chars" addon_id="KL/EditorManager" version_id="1010070" version_string="1.1.0"><![CDATA[Export special characters]]></phrase>
   <phrase title="kl_em_external_fonts" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[External fonts]]></phrase>
@@ -11877,7 +11878,7 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.klEMAudioCacheTTL" addon_id="KL/EditorManager" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[Audio cache lifetime]]></phrase>
   <phrase title="option.klEMAudioProxyMaxSize" addon_id="KL/EditorManager" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[Audio cache max size]]></phrase>
   <phrase title="option.klEMBGColors" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Available background colors]]></phrase>
-  <phrase title="option.klEMCharCounter" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Character counter]]></phrase>
+  <phrase title="option.klEMCharCounter" addon_id="KL/EditorManager" version_id="2000070" version_string="2.0.0"><![CDATA[字符计数器]]></phrase>
   <phrase title="option.klEMColorStep" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Colors per row]]></phrase>
   <phrase title="option.klEMColors" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Available text colors]]></phrase>
   <phrase title="option.klEMDefaultHide" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Default hide version]]></phrase>
@@ -15001,7 +15002,7 @@ JS最近更新（Unix时间），更改后强制刷新 JS缓存，即使不更�
   <phrase title="style_prop.inputFocusBgColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[聚焦文本框背景色]]></phrase>
   <phrase title="style_prop.inputTextColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[文本输入框文本颜色]]></phrase>
   <phrase title="style_prop.klEMAudioControls" addon_id="KL/EditorManager" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[BB code block - audio controls]]></phrase>
-  <phrase title="style_prop.klEMCharCounter" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Editor Manager - Character Counter]]></phrase>
+  <phrase title="style_prop.klEMCharCounter" addon_id="KL/EditorManager" version_id="2000070" version_string="2.0.0"><![CDATA[Editor Manager - 字符计数器]]></phrase>
   <phrase title="style_prop.klEMHide" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[BB code block - Hide]]></phrase>
   <phrase title="style_prop.klEMHideHidden" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[BB code block - Hide (hidden)]]></phrase>
   <phrase title="style_prop.klEMHideShown" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[BB code block - Hide (visible)]]></phrase>
