@@ -336,7 +336,7 @@
   <phrase title="admin_navigation.dbtechEcomCouponLog" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[优惠券日志]]></phrase>
   <phrase title="admin_navigation.dbtechEcomCoupons" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[优惠券]]></phrase>
   <phrase title="admin_navigation.dbtechEcomDigital" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[数字产品]]></phrase>
-  <phrase title="admin_navigation.dbtechEcomDiscounts" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[自动折扣]]></phrase>
+  <phrase title="admin_navigation.dbtechEcomDiscounts" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[满减]]></phrase>
   <phrase title="admin_navigation.dbtechEcomDistributorLog" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[经销商日志]]></phrase>
   <phrase title="admin_navigation.dbtechEcomDistributors" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[经销商]]></phrase>
   <phrase title="admin_navigation.dbtechEcomDownloadLog" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[下载日志]]></phrase>
@@ -2195,7 +2195,7 @@ JS代码:
   <phrase title="dbtech_ecommerce_always_show_coupon_discount_row" addon_id="DBTech/eCommerce" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[始终在小计中显示优惠券折扣]]></phrase>
   <phrase title="dbtech_ecommerce_always_show_coupon_discount_row_explain" addon_id="DBTech/eCommerce" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[是否总是在小计中显示"优惠券折扣"，即使没有使用优惠券。]]></phrase>
   <phrase title="dbtech_ecommerce_always_show_sale_discount_row" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[总是在小计中显示促销折扣]]></phrase>
-  <phrase title="dbtech_ecommerce_always_show_sale_discount_row_explain" addon_id="DBTech/eCommerce" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[是否始终在小计中始终显示"销售折扣"，即使未应用任意销售折扣也是如此。]]></phrase>
+  <phrase title="dbtech_ecommerce_always_show_sale_discount_row_explain" addon_id="DBTech/eCommerce" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[是否始终在小计中始终显示"促销折扣"，即使未应用任意促销折扣也是如此。]]></phrase>
   <phrase title="dbtech_ecommerce_amount" addon_id="DBTech/eCommerce" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[数量]]></phrase>
   <phrase title="dbtech_ecommerce_amount_owed" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[欠款]]></phrase>
   <phrase title="dbtech_ecommerce_amount_owed_x" addon_id="DBTech/eCommerce" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[欠款：{amount}]]></phrase>
@@ -2219,8 +2219,8 @@ JS代码:
   <phrase title="dbtech_ecommerce_are_you_sure_remove_cart" addon_id="DBTech/eCommerce" version_id="1000170" version_string="1.0.1"><![CDATA[请确认要从购物车中删除此产品？]]></phrase>
   <phrase title="dbtech_ecommerce_attached_download_demo" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[附加下载（演示版）]]></phrase>
   <phrase title="dbtech_ecommerce_attached_download_full" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[附加下载（完整版）]]></phrase>
-  <phrase title="dbtech_ecommerce_automated_discounts" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[自动折扣]]></phrase>
-  <phrase title="dbtech_ecommerce_automatic_discounts" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[自动折扣]]></phrase>
+  <phrase title="dbtech_ecommerce_automated_discounts" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[满减]]></phrase>
+  <phrase title="dbtech_ecommerce_automatic_discounts" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[满减]]></phrase>
   <phrase title="dbtech_ecommerce_automatically_adjusted" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[自动调整：{reason}]]></phrase>
   <phrase title="dbtech_ecommerce_automatically_create_news_thread_in_forum" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[在论坛中自动创建新主题]]></phrase>
   <phrase title="dbtech_ecommerce_automatically_create_purchase_thread_in_forum" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[论坛自动创建购买主题]]></phrase>
@@ -2331,8 +2331,8 @@ JS代码:
   <phrase title="dbtech_ecommerce_country" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[国家]]></phrase>
   <phrase title="dbtech_ecommerce_country_validation_server_error_checkout" addon_id="DBTech/eCommerce" version_id="2000370" version_string="2.0.3"><![CDATA[在国家/地区验证期间发生服务器错误。请与管理员联系以获得帮助。]]></phrase>
   <phrase title="dbtech_ecommerce_coupon" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[优惠券]]></phrase>
-  <phrase title="dbtech_ecommerce_coupon_allow_automatic_discount" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[允许自动折扣]]></phrase>
-  <phrase title="dbtech_ecommerce_coupon_allow_automatic_discount_explain" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[如果未启用，则应用此优惠券的产品不会受到自动折扣的影响。]]></phrase>
+  <phrase title="dbtech_ecommerce_coupon_allow_automatic_discount" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[允许满减]]></phrase>
+  <phrase title="dbtech_ecommerce_coupon_allow_automatic_discount_explain" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[如果未启用，则应用此优惠券的产品不会受到满减的影响。]]></phrase>
   <phrase title="dbtech_ecommerce_coupon_already_added" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[此订单已添加了优惠券。]]></phrase>
   <phrase title="dbtech_ecommerce_coupon_applicable_products" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[适用产品]]></phrase>
   <phrase title="dbtech_ecommerce_coupon_applicable_products_explain" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[将值字段保留为空白将使用上面选择的"优惠券类型"值。<br />
@@ -2391,6 +2391,7 @@ JS代码:
   <phrase title="dbtech_ecommerce_discount_percent_explain" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[客户购物车的折扣百分比。]]></phrase>
   <phrase title="dbtech_ecommerce_discount_threshold" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[折扣门槛]]></phrase>
   <phrase title="dbtech_ecommerce_discount_threshold_explain" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[这是客户的购物车需要包含的最低金额（以{currency}），才能应用此折扣。]]></phrase>
+  <phrase title="dbtech_ecommerce_discount_title.1" addon_id="" version_id="0" version_string=""><![CDATA[测试]]></phrase>
   <phrase title="dbtech_ecommerce_discounts" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[折扣]]></phrase>
   <phrase title="dbtech_ecommerce_discussion" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[讨论区]]></phrase>
   <phrase title="dbtech_ecommerce_discussion_thread_url" addon_id="DBTech/eCommerce" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Discussion thread URL]]></phrase>
@@ -2469,7 +2470,7 @@ JS代码:
   <phrase title="dbtech_ecommerce_ecommerce_products" addon_id="DBTech/eCommerce" version_id="1000030" version_string="1.0.0 Beta"><![CDATA[电商产品]]></phrase>
   <phrase title="dbtech_ecommerce_ecommerce_sale" addon_id="DBTech/eCommerce" version_id="1000030" version_string="1.0.0 Beta"><![CDATA[电商销售]]></phrase>
   <phrase title="dbtech_ecommerce_ecommerce_sale_notifications" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[电商销售通知]]></phrase>
-  <phrase title="dbtech_ecommerce_ecommerce_sales" addon_id="DBTech/eCommerce" version_id="1000030" version_string="1.0.0 Beta"><![CDATA[电商销售]]></phrase>
+  <phrase title="dbtech_ecommerce_ecommerce_sales" addon_id="DBTech/eCommerce" version_id="1000030" version_string="1.0.0 Beta"><![CDATA[电商促销]]></phrase>
   <phrase title="dbtech_ecommerce_ecommerce_shipping_zones" addon_id="DBTech/eCommerce" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[电商配送区]]></phrase>
   <phrase title="dbtech_ecommerce_ecommerce_version" addon_id="DBTech/eCommerce" version_id="1000030" version_string="1.0.0 Beta"><![CDATA[电商版本]]></phrase>
   <phrase title="dbtech_ecommerce_edit_address" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[编辑地址]]></phrase>
@@ -2486,7 +2487,7 @@ JS代码:
   <phrase title="dbtech_ecommerce_edit_order_id_x" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[修改订单＃{orderId}]]></phrase>
   <phrase title="dbtech_ecommerce_edit_product" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[编辑产品]]></phrase>
   <phrase title="dbtech_ecommerce_edit_product_icon" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[编辑产品图标]]></phrase>
-  <phrase title="dbtech_ecommerce_edit_sale" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[修改销售]]></phrase>
+  <phrase title="dbtech_ecommerce_edit_sale" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[修改促销]]></phrase>
   <phrase title="dbtech_ecommerce_edit_sales_tax_rate" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[修改营业税率]]></phrase>
   <phrase title="dbtech_ecommerce_edit_shipping_method" addon_id="DBTech/eCommerce" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[编辑配送方式]]></phrase>
   <phrase title="dbtech_ecommerce_edit_shipping_zone" addon_id="DBTech/eCommerce" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[编辑配送区域]]></phrase>
@@ -2494,7 +2495,7 @@ JS代码:
   <phrase title="dbtech_ecommerce_enable_global_default_sales_tax_this_amount" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[为此金额启用全局默认销售税]]></phrase>
   <phrase title="dbtech_ecommerce_enable_navbar_default_explain" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[此设置使用导航管理器的位置。]]></phrase>
   <phrase title="dbtech_ecommerce_enable_navbar_right_explain" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[这将启用右侧的导航栏选项卡（"提醒"和"收件箱"选项卡所在的位置）。]]></phrase>
-  <phrase title="dbtech_ecommerce_enable_sales" addon_id="DBTech/eCommerce" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[启用销售]]></phrase>
+  <phrase title="dbtech_ecommerce_enable_sales" addon_id="DBTech/eCommerce" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[启用促销]]></phrase>
   <phrase title="dbtech_ecommerce_enable_sales_tax" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[启用增值税]]></phrase>
   <phrase title="dbtech_ecommerce_enable_vat" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[启用 VAT]]></phrase>
   <phrase title="dbtech_ecommerce_enable_vat_explain" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[如果您需要对来自欧盟国家的购买收取增值税，您可以在这里启用。<br />
@@ -2591,8 +2592,8 @@ JS代码:
   <phrase title="dbtech_ecommerce_invoice_options" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[发票选项]]></phrase>
   <phrase title="dbtech_ecommerce_invoice_paid" addon_id="DBTech/eCommerce" version_id="1040170" version_string="1.4.1"><![CDATA[已付费]]></phrase>
   <phrase title="dbtech_ecommerce_is_discountable" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[可打折]]></phrase>
-  <phrase title="dbtech_ecommerce_is_discountable_explain" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[如果没有，则无法通过自动折扣降低该产品的价格。<br />
-无论此设置如何，仍可能为此产品创建优惠券和销售。]]></phrase>
+  <phrase title="dbtech_ecommerce_is_discountable_explain" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[如果没有，则无法通过满减降低该产品的价格。<br />
+无论此设置如何，仍可能为此产品创建优惠券和促销。]]></phrase>
   <phrase title="dbtech_ecommerce_is_distributor" addon_id="DBTech/eCommerce" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[许可证经销商]]></phrase>
   <phrase title="dbtech_ecommerce_is_featured" addon_id="DBTech/eCommerce" version_id="1040032" version_string="1.4.0 Beta 2"><![CDATA[推荐]]></phrase>
   <phrase title="dbtech_ecommerce_is_featured_explain" addon_id="DBTech/eCommerce" version_id="1040032" version_string="1.4.0 Beta 2"><![CDATA[推荐产品出现在产品列表的首位，并带有单独的标语以表明它是推荐。]]></phrase>
@@ -2683,15 +2684,15 @@ JS代码:
   <phrase title="dbtech_ecommerce_new_sale_at_x" addon_id="DBTech/eCommerce" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[{board_title}的新交易]]></phrase>
   <phrase title="dbtech_ecommerce_new_upcoming_sale_x_body" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[<p>您好{name}！</p>
 
-<p>只是以为我们会让您知道； 销售<b>{sale_title}</b>计划从<b>{sale_start}</b>开始，并将一直持续到<b>{sale_end}</b>！</p>！
+<p>只是以为我们会让您知道； 促销<b>{sale_title}</b>计划从<b>{sale_start}</b>开始，并将一直持续到<b>{sale_end}</b>！</p>！
 
 <p>{sale_description}</p>
 
 <p>
-以下产品正在销售：
+以下产品正在促销：
 {sale_products}
 </p>
-<div class ="minorText" align ="center"> <a href="{unsub}">退订有关销售的电子邮件</a> </div>]]></phrase>
+<div class ="minorText" align ="center"> <a href="{unsub}">退订有关促销的电子邮件</a> </div>]]></phrase>
   <phrase title="dbtech_ecommerce_new_upcoming_sale_x_title" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[新的即将发售的产品：{sale_title}]]></phrase>
   <phrase title="dbtech_ecommerce_no_available_downloads_found" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[没有可用的下载，抱歉。]]></phrase>
   <phrase title="dbtech_ecommerce_no_change" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[没有变化]]></phrase>
@@ -2720,12 +2721,12 @@ JS代码:
 <p>{sale_description}</p>
 
 <p>
-以下产品正在销售：
+以下产品正在促销：
 {sale_products}
 </p>
 
-<div class ="minorText" align ="center"> <a href="{unsub}">退订有关销售的电子邮件</a> </div>]]></phrase>
-  <phrase title="dbtech_ecommerce_ongoing_sale_x_title" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[正在进行的销售：{sale_title}]]></phrase>
+<div class ="minorText" align ="center"> <a href="{unsub}">退订有关促销的电子邮件</a> </div>]]></phrase>
+  <phrase title="dbtech_ecommerce_ongoing_sale_x_title" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[正在进行的促销：{sale_title}]]></phrase>
   <phrase title="dbtech_ecommerce_only_paid_orders" addon_id="DBTech/eCommerce" version_id="1060070" version_string="1.6.0"><![CDATA[仅针对已付款的订单]]></phrase>
   <phrase title="dbtech_ecommerce_only_paid_orders_explain" addon_id="DBTech/eCommerce" version_id="1060070" version_string="1.6.0"><![CDATA[如果禁用，则仅包含免费产品的订单将不需要地址。]]></phrase>
   <phrase title="dbtech_ecommerce_optional_extras" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[可选附加]]></phrase>
@@ -2737,7 +2738,7 @@ JS代码:
   <phrase title="dbtech_ecommerce_options_for_physical_products" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[实物产品的选择]]></phrase>
   <phrase title="dbtech_ecommerce_order" addon_id="DBTech/eCommerce" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[订单]]></phrase>
   <phrase title="dbtech_ecommerce_order_already_completed" addon_id="DBTech/eCommerce" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[此订单已完成。]]></phrase>
-  <phrase title="dbtech_ecommerce_order_automatic_discounts_between" addon_id="DBTech/eCommerce" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[自动折扣介于]]></phrase>
+  <phrase title="dbtech_ecommerce_order_automatic_discounts_between" addon_id="DBTech/eCommerce" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[满减介于]]></phrase>
   <phrase title="dbtech_ecommerce_order_completed" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[订单已完成。]]></phrase>
   <phrase title="dbtech_ecommerce_order_coupon_discounts_between" addon_id="DBTech/eCommerce" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[优惠券折扣介于]]></phrase>
   <phrase title="dbtech_ecommerce_order_date" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[订单日期]]></phrase>
@@ -2753,7 +2754,7 @@ JS代码:
   <phrase title="dbtech_ecommerce_order_item_id_x" addon_id="DBTech/eCommerce" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[订购项目 #{orderItemId}]]></phrase>
   <phrase title="dbtech_ecommerce_order_items" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[订购项目]]></phrase>
   <phrase title="dbtech_ecommerce_order_log_ip_search_explain" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[输入一个IP地址，以查看所有记录为源自该IP的订单的列表。 您可以输入部分IP地址，例如192.168.*, 192.168.0.0/16, 或 2001:db8::/32.]]></phrase>
-  <phrase title="dbtech_ecommerce_order_sale_discounts_between" addon_id="DBTech/eCommerce" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[销售折扣介于]]></phrase>
+  <phrase title="dbtech_ecommerce_order_sale_discounts_between" addon_id="DBTech/eCommerce" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[促销折扣介于]]></phrase>
   <phrase title="dbtech_ecommerce_order_sales_tax_between" addon_id="DBTech/eCommerce" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[营业税介于]]></phrase>
   <phrase title="dbtech_ecommerce_order_state" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[订单状态]]></phrase>
   <phrase title="dbtech_ecommerce_order_sub_total_between" addon_id="DBTech/eCommerce" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[小计介于]]></phrase>
@@ -2932,7 +2933,7 @@ JS代码:
   <phrase title="dbtech_ecommerce_purchase_log_entry" addon_id="DBTech/eCommerce" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[购买日志]]></phrase>
   <phrase title="dbtech_ecommerce_purchase_log_ip_search_explain" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[输入一个IP地址以查看记录为源自该IP的所有购买的列表。您可以输入部分IP地址，例如192.168.*, 192.168.0.0/16, 或 2001:db8::/32.]]></phrase>
   <phrase title="dbtech_ecommerce_purchase_log_search" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[搜索购买日志]]></phrase>
-  <phrase title="dbtech_ecommerce_purchase_log_type.new" addon_id="DBTech/eCommerce" version_id="1040170" version_string="1.4.1"><![CDATA[新销售]]></phrase>
+  <phrase title="dbtech_ecommerce_purchase_log_type.new" addon_id="DBTech/eCommerce" version_id="1040170" version_string="1.4.1"><![CDATA[新促销]]></phrase>
   <phrase title="dbtech_ecommerce_purchase_log_type.refunded" addon_id="DBTech/eCommerce" version_id="1040170" version_string="1.4.1"><![CDATA[退款]]></phrase>
   <phrase title="dbtech_ecommerce_purchase_log_type.renew" addon_id="DBTech/eCommerce" version_id="1040170" version_string="1.4.1"><![CDATA[更新]]></phrase>
   <phrase title="dbtech_ecommerce_purchase_log_type.reversal" addon_id="DBTech/eCommerce" version_id="1040170" version_string="1.4.1"><![CDATA[交易已撤消]]></phrase>
@@ -2967,7 +2968,7 @@ JS代码:
   <phrase title="dbtech_ecommerce_rebuild_user_license_counts" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[重建用户许可证计数]]></phrase>
   <phrase title="dbtech_ecommerce_rebuild_user_product_counts" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[重建用户产品计数]]></phrase>
   <phrase title="dbtech_ecommerce_receipt_for_your_purchase_at_x" addon_id="DBTech/eCommerce" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[您在{board_title}购买的收据]]></phrase>
-  <phrase title="dbtech_ecommerce_receive_email_for_product_sales" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[接收产品销售电子邮件]]></phrase>
+  <phrase title="dbtech_ecommerce_receive_email_for_product_sales" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[接收产品促销电子邮件]]></phrase>
   <phrase title="dbtech_ecommerce_receive_license_expiry_reminder_emails" addon_id="DBTech/eCommerce" version_id="1030033" version_string="1.3.0 Beta 3"><![CDATA[接收许可证到期提醒电子邮件]]></phrase>
   <phrase title="dbtech_ecommerce_receive_order_reminder_emails" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[接收订单提醒电子邮件]]></phrase>
   <phrase title="dbtech_ecommerce_receive_updates_for" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[接收有关的更新]]></phrase>
@@ -3058,33 +3059,33 @@ JS代码:
   <phrase title="dbtech_ecommerce_review_for_x" addon_id="DBTech/eCommerce" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[eCommerce review for: {title}]]></phrase>
   <phrase title="dbtech_ecommerce_review_is_required" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[必须进行审核。]]></phrase>
   <phrase title="dbtech_ecommerce_reviews" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[评论]]></phrase>
-  <phrase title="dbtech_ecommerce_run_sale_for" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[进行销售]]></phrase>
-  <phrase title="dbtech_ecommerce_sale" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[销售]]></phrase>
-  <phrase title="dbtech_ecommerce_sale_allow_automatic_discount" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[允许自动折扣]]></phrase>
-  <phrase title="dbtech_ecommerce_sale_allow_automatic_discount_explain" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[如果未启用，则应用此销售的产品不会受到自动折扣的影响]]></phrase>
+  <phrase title="dbtech_ecommerce_run_sale_for" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[进行促销]]></phrase>
+  <phrase title="dbtech_ecommerce_sale" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[促销]]></phrase>
+  <phrase title="dbtech_ecommerce_sale_allow_automatic_discount" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[允许满减]]></phrase>
+  <phrase title="dbtech_ecommerce_sale_allow_automatic_discount_explain" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[如果未启用，则应用此促销的产品不会受到满减的影响]]></phrase>
   <phrase title="dbtech_ecommerce_sale_applicable_products" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[适用产品]]></phrase>
-  <phrase title="dbtech_ecommerce_sale_applicable_products_explain" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[将值字段保留为空白将使用上面选择的"销售类型"值。<br />
+  <phrase title="dbtech_ecommerce_sale_applicable_products_explain" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[将值字段保留为空白将使用上面选择的"促销类型"值。<br />
 将产品设置为"无"以在保存时删除行。<br />
-如果未选择任何产品，则此销售适用于<b>所有</b>产品。]]></phrase>
-  <phrase title="dbtech_ecommerce_sale_discount_excluded_from_maximum" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[折扣不包括在内]]></phrase>
-  <phrase title="dbtech_ecommerce_sale_discount_excluded_from_maximum_explain" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[如果启用，此销售提供的折扣将不计入用户的最大折扣。]]></phrase>
-  <phrase title="dbtech_ecommerce_sale_discounts" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[销售折扣]]></phrase>
+如果未选择任何产品，则此促销适用于<b>所有</b>产品。]]></phrase>
+  <phrase title="dbtech_ecommerce_sale_discount_excluded_from_maximum" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[满减不包括在内]]></phrase>
+  <phrase title="dbtech_ecommerce_sale_discount_excluded_from_maximum_explain" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[如果启用，此促销提供的折扣将不计入用户的最大折扣。]]></phrase>
+  <phrase title="dbtech_ecommerce_sale_discounts" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[促销折扣]]></phrase>
   <phrase title="dbtech_ecommerce_sale_feature_products" addon_id="DBTech/eCommerce" version_id="1040032" version_string="1.4.0 Beta 2"><![CDATA[促销期间的推荐产品]]></phrase>
-  <phrase title="dbtech_ecommerce_sale_feature_products_explain" addon_id="DBTech/eCommerce" version_id="1040032" version_string="1.4.0 Beta 2"><![CDATA[这将使产品在此次销售中升至列表顶部。<br />
-请注意，这将覆盖产品中的任何手动"功能"切换，在此销售结束时它们将自动取消功能。]]></phrase>
-  <phrase title="dbtech_ecommerce_sale_is_recurring" addon_id="DBTech/eCommerce" version_id="1040033" version_string="1.4.0 Beta 3"><![CDATA[定期销售]]></phrase>
-  <phrase title="dbtech_ecommerce_sale_is_recurring_explain" addon_id="DBTech/eCommerce" version_id="1040033" version_string="1.4.0 Beta 3"><![CDATA[这将在指定的时间间隔自动重置销售。]]></phrase>
+  <phrase title="dbtech_ecommerce_sale_feature_products_explain" addon_id="DBTech/eCommerce" version_id="1040032" version_string="1.4.0 Beta 2"><![CDATA[这将使产品在此次促销中升至列表顶部。<br />
+请注意，这将覆盖产品中的任何手动"功能"切换，在此促销结束时它们将自动取消功能。]]></phrase>
+  <phrase title="dbtech_ecommerce_sale_is_recurring" addon_id="DBTech/eCommerce" version_id="1040033" version_string="1.4.0 Beta 3"><![CDATA[定期促销]]></phrase>
+  <phrase title="dbtech_ecommerce_sale_is_recurring_explain" addon_id="DBTech/eCommerce" version_id="1040033" version_string="1.4.0 Beta 3"><![CDATA[这将在指定的时间间隔自动重置促销。]]></phrase>
   <phrase title="dbtech_ecommerce_sale_list_item" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[<b>{title}:</b>{discount} 关闭]]></phrase>
   <phrase title="dbtech_ecommerce_sale_other_dates" addon_id="DBTech/eCommerce" version_id="1040033" version_string="1.4.0 Beta 3"><![CDATA[其它日期]]></phrase>
-  <phrase title="dbtech_ecommerce_sale_other_dates_explain" addon_id="DBTech/eCommerce" version_id="1040034" version_string="1.4.0 Beta 4"><![CDATA[如果无法将销售设置为定期重复，则可以在此处设置自己的自定义日期。<br />
+  <phrase title="dbtech_ecommerce_sale_other_dates_explain" addon_id="DBTech/eCommerce" version_id="1040034" version_string="1.4.0 Beta 4"><![CDATA[如果无法将促销设置为定期重复，则可以在此处设置自己的自定义日期。<br />
 任何无效的日期范围（例如结束日期早于开始日期）都将被静默丢弃。<br />
 <br />
 <strong>注意</strong>：如果在此处添加任何日期，则会禁用"定期"功能。]]></phrase>
   <phrase title="dbtech_ecommerce_sale_price" addon_id="DBTech/eCommerce" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[{salePrice} (保存{saved})]]></phrase>
-  <phrase title="dbtech_ecommerce_sale_type" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[销售类型]]></phrase>
-  <phrase title="dbtech_ecommerce_sale_type_explain" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[确定将哪种折扣应用于客户的购物车； 所销售产品的折价百分比或固定折扣。]]></phrase>
+  <phrase title="dbtech_ecommerce_sale_type" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[促销类型]]></phrase>
+  <phrase title="dbtech_ecommerce_sale_type_explain" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[确定将哪种满减应用于客户的购物车； 所促销产品的折价百分比或固定满减。]]></phrase>
   <phrase title="dbtech_ecommerce_sales" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[营业额]]></phrase>
-  <phrase title="dbtech_ecommerce_sales_disabled_cant_add_sales_wont_run" addon_id="DBTech/eCommerce" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[销售目前在全局范围内被禁用。 您不能添加或编辑销售，并且任何当前销售均不适用。]]></phrase>
+  <phrase title="dbtech_ecommerce_sales_disabled_cant_add_sales_wont_run" addon_id="DBTech/eCommerce" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[促销目前在全局范围内被禁用。 您不能添加或编辑促销，并且任何当前促销均不适用。]]></phrase>
   <phrase title="dbtech_ecommerce_sales_tax" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[营业税]]></phrase>
   <phrase title="dbtech_ecommerce_sales_tax_base_explain" addon_id="DBTech/eCommerce" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[以上设置控制应如何计算增值税。买家所在国家根据结账时输入的国家的税率计算税款。卖方国家/地区根据您在业务设置中选择的国家/地区的税率计算税款。]]></phrase>
   <phrase title="dbtech_ecommerce_sales_tax_id" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[营业税ID]]></phrase>
@@ -3105,7 +3106,7 @@ JS代码:
   <phrase title="dbtech_ecommerce_selected_variation_out_of_stock" addon_id="DBTech/eCommerce" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[所选产品的型号缺货。]]></phrase>
   <phrase title="dbtech_ecommerce_seller" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[卖方]]></phrase>
   <phrase title="dbtech_ecommerce_sellers_country" addon_id="DBTech/eCommerce" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[卖方所在国家]]></phrase>
-  <phrase title="dbtech_ecommerce_send_email_when_sale_starts" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[销售开始时发送电子邮件]]></phrase>
+  <phrase title="dbtech_ecommerce_send_email_when_sale_starts" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[促销开始时发送电子邮件]]></phrase>
   <phrase title="dbtech_ecommerce_service" addon_id="DBTech/eCommerce" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[服务]]></phrase>
   <phrase title="dbtech_ecommerce_set_as_default_address" addon_id="DBTech/eCommerce" version_id="1050370" version_string="1.5.3"><![CDATA[设置为默认地址]]></phrase>
   <phrase title="dbtech_ecommerce_setup_missing_business_details" addon_id="DBTech/eCommerce" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[管理员尚未完成电商系统的设置。 论坛的业务详细信息必须在"发票选项"下的管理员选项中填写。]]></phrase>
@@ -3123,7 +3124,7 @@ JS代码:
   <phrase title="dbtech_ecommerce_shipping_zones" addon_id="DBTech/eCommerce" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[出货区]]></phrase>
   <phrase title="dbtech_ecommerce_ships_to" addon_id="DBTech/eCommerce" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[运送至]]></phrase>
   <phrase title="dbtech_ecommerce_short_description_explain" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[简短说明将显示在主要产品信息上方。]]></phrase>
-  <phrase title="dbtech_ecommerce_short_sale_description_explain" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[有关此销售的电子邮件通知中将包含简短说明。<br />
+  <phrase title="dbtech_ecommerce_short_sale_description_explain" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[有关此促销的电子邮件通知中将包含简短说明。<br />
 不需要包括开始/结束信息，因为它将自动添加到电子邮件中。]]></phrase>
   <phrase title="dbtech_ecommerce_show_in_filters" addon_id="DBTech/eCommerce" version_id="1030051" version_string="1.3.0 Release Candidate 1"><![CDATA[在过滤器中显示]]></phrase>
   <phrase title="dbtech_ecommerce_show_in_filters_hint" addon_id="DBTech/eCommerce" version_id="1030051" version_string="1.3.0 Release Candidate 1"><![CDATA[是否可以在"过滤器"下拉列表中搜索此字段。]]></phrase>
@@ -3137,7 +3138,7 @@ JS代码:
   <phrase title="dbtech_ecommerce_stop_license_expiry_reminder_emails" addon_id="DBTech/eCommerce" version_id="1030033" version_string="1.3.0 Beta 3"><![CDATA[停止通知邮件的许可证到期]]></phrase>
   <phrase title="dbtech_ecommerce_stop_notification_emails_from_all_products" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[停止所有产品的通知电子邮件]]></phrase>
   <phrase title="dbtech_ecommerce_stop_order_reminder_emails" addon_id="DBTech/eCommerce" version_id="1010270" version_string="1.1.2"><![CDATA[停止所有产品的通知电子邮件]]></phrase>
-  <phrase title="dbtech_ecommerce_stop_sale_notification_emails" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[停止销售通知电子邮件]]></phrase>
+  <phrase title="dbtech_ecommerce_stop_sale_notification_emails" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[停止促销通知电子邮件]]></phrase>
   <phrase title="dbtech_ecommerce_stop_watching_products" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[停止关注产品]]></phrase>
   <phrase title="dbtech_ecommerce_store" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[钻石福利商城]]></phrase>
   <phrase title="dbtech_ecommerce_store_credit" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[商店信用积分]]></phrase>
@@ -11742,7 +11743,7 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.dbtechEcommerceInvoiceOverrideStyle" addon_id="DBTech/eCommerce" version_id="1050270" version_string="1.5.2"><![CDATA[覆盖默认样式]]></phrase>
   <phrase title="option.dbtechEcommerceListDefaultOrder" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[默认产品列表顺序]]></phrase>
   <phrase title="option.dbtechEcommerceLogEntriesPerPage" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[每页日志数]]></phrase>
-  <phrase title="option.dbtechEcommerceMaxDiscount" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[最高折扣]]></phrase>
+  <phrase title="option.dbtechEcommerceMaxDiscount" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[最高满减]]></phrase>
   <phrase title="option.dbtechEcommerceMaxMindApiKey" addon_id="DBTech/eCommerce" version_id="1050470" version_string="1.5.4"><![CDATA[MaxMind GeoIP许可证密钥]]></phrase>
   <phrase title="option.dbtechEcommerceMinimumReviewLength" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[最小产品评论长度]]></phrase>
   <phrase title="option.dbtechEcommerceOrderCleanUp" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[删除早于的订单...]]></phrase>
@@ -11760,7 +11761,7 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.dbtechEcommerceReviewRequired" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[对产品进行评分时需要评论]]></phrase>
   <phrase title="option.dbtechEcommerceReviewVoting" addon_id="DBTech/eCommerce" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[允许评论投票]]></phrase>
   <phrase title="option.dbtechEcommerceReviewsPerPage" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[每页评论]]></phrase>
-  <phrase title="option.dbtechEcommerceSales" addon_id="DBTech/eCommerce" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[销售]]></phrase>
+  <phrase title="option.dbtechEcommerceSales" addon_id="DBTech/eCommerce" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[促销]]></phrase>
   <phrase title="option.dbtechEcommerceSalesTax" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[营业税]]></phrase>
   <phrase title="option.dbtechEcommerceSeparateRefundPolicy" addon_id="DBTech/eCommerce" version_id="1000370" version_string="1.0.3"><![CDATA[启用单独的"数字下载退款政策"复选框]]></phrase>
   <phrase title="option.dbtechEcommerceShippingAlert" addon_id="DBTech/eCommerce" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[配送重量提醒目的地]]></phrase>
@@ -12268,7 +12269,7 @@ API密钥将自动生成，允许用户查看产品、下载和自己的许可�
   <phrase title="option_explain.dbtechEcommerceInvoiceOverrideStyle" addon_id="DBTech/eCommerce" version_id="1050270" version_string="1.5.2"><![CDATA[此处选择的样式将用于提供给所有发票，而不是默认样式。]]></phrase>
   <phrase title="option_explain.dbtechEcommerceListDefaultOrder" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[在查看产品索引或分类概述页面时，这将是产品的默认订单。]]></phrase>
   <phrase title="option_explain.dbtechEcommerceLogEntriesPerPage" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[存储区中每页将列出的日志数。]]></phrase>
-  <phrase title="option_explain.dbtechEcommerceMaxDiscount" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[可以应用于产品的最大折扣（百分比）。<br />
+  <phrase title="option_explain.dbtechEcommerceMaxDiscount" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[可以应用于产品的最大满减（百分比）。<br />
 100 =无限制]]></phrase>
   <phrase title="option_explain.dbtechEcommerceMaxMindApiKey" addon_id="DBTech/eCommerce" version_id="1050470" version_string="1.5.4"><![CDATA[为了使您的地理位置数据库保持最新状态，您需要<a href="https://www.maxmind.com/en/geolite2/signup" target="_blank">注册帐户</a> 并设置密码，然后<a href="https://www.maxmind.com/en/accounts/current/license-key" target="_blank">生成许可证密钥</a>，并在此处填写 。<br />
 如果客户使用帐单地址填写增值税ID，则地理定位可用于验证客户的位置。]]></phrase>
