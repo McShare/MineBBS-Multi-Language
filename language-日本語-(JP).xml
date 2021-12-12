@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<language title="日本語（JP）" date_format="M j, Y" time_format="g:i A" currency_format="{value}{symbol}" week_start="0" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="..." parenthesis_open="(" parenthesis_close=")" language_code="ja-JP" text_direction="LTR" user_selectable="" base_version_id="2020770" export_version="2">
+<language title="日本語 (JP)" date_format="M j, Y" time_format="g:i A" currency_format="{value}{symbol}" week_start="0" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="..." parenthesis_open="(" parenthesis_close=")" language_code="ja-JP" text_direction="LTR" user_selectable="1" base_version_id="2020770" export_version="2">
   <phrase title="1_day_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[一日前]]></phrase>
   <phrase title="1_month_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[一ヶ月前]]></phrase>
   <phrase title="1_time" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[1 time]]></phrase>
   <phrase title="1_week_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[1週間前]]></phrase>
-  <phrase title="1_year" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[1 year]]></phrase>
+  <phrase title="1_year" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[1 年]]></phrase>
   <phrase title="1_year_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[One year ago]]></phrase>
   <phrase title="2_weeks_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Two weeks ago]]></phrase>
   <phrase title="2_years_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Two years ago]]></phrase>
@@ -89,7 +89,7 @@
   <phrase title="a_moment_ago" addon_id="XF" global_cache="1" version_id="0" version_string=""><![CDATA[A moment ago]]></phrase>
   <phrase title="a_z_0_9_and_only" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[A-Z, 0-9, and _ only]]></phrase>
   <phrase title="a_z_0_9_and_underscore_only" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[A-Z, a-z, 0-9, and _ only]]></phrase>
-  <phrase title="about" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[About]]></phrase>
+  <phrase title="about" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[について]]></phrase>
   <phrase title="about_you" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[About you]]></phrase>
   <phrase title="accent" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Accent]]></phrase>
   <phrase title="accept" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Accept]]></phrase>
@@ -459,7 +459,7 @@
   <phrase title="admin_navigation.routes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Routes]]></phrase>
   <phrase title="admin_navigation.rssFeedImporter" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[RSS feed importer]]></phrase>
   <phrase title="admin_navigation.searchForUsers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Search for users]]></phrase>
-  <phrase title="admin_navigation.searchPhrases" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Search phrases]]></phrase>
+  <phrase title="admin_navigation.searchPhrases" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[フレーズを検索する]]></phrase>
   <phrase title="admin_navigation.searchTemplates" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Search templates]]></phrase>
   <phrase title="admin_navigation.serverErrorLog" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Server error log]]></phrase>
   <phrase title="admin_navigation.serviceProviders" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Service providers]]></phrase>
@@ -524,7 +524,7 @@
   <phrase title="admin_navigation.widgetDefinitions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Widget definitions]]></phrase>
   <phrase title="admin_navigation.widgetPositions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Widget positions]]></phrase>
   <phrase title="admin_navigation.widgets" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Widgets]]></phrase>
-  <phrase title="admin_navigation.xfes" addon_id="XFES" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enhanced search]]></phrase>
+  <phrase title="admin_navigation.xfes" addon_id="XFES" version_id="2020170" version_string="2.2.1"><![CDATA[強化検索]]></phrase>
   <phrase title="admin_navigation.xfrm" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[資源]]></phrase>
   <phrase title="admin_navigation.xfrmCategories" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Resource categories]]></phrase>
   <phrase title="admin_navigation.xfrmCategoryPermissions" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Resource category permissions]]></phrase>
@@ -2257,6 +2257,7 @@ If no products are chosen, this coupon applies to <b>all</b> products.]]></phras
   <phrase title="dbtech_ecommerce_discount_percent_explain" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[The percent the customer's cart will be discounted by.]]></phrase>
   <phrase title="dbtech_ecommerce_discount_threshold" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[Discount threshold]]></phrase>
   <phrase title="dbtech_ecommerce_discount_threshold_explain" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[This is the minimum amount (in {currency}) a customer's cart needs to contain in order for this discount to apply.]]></phrase>
+  <phrase title="dbtech_ecommerce_discount_title.1" addon_id="" version_id="0" version_string=""><![CDATA[测试]]></phrase>
   <phrase title="dbtech_ecommerce_discounts" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[Discounts]]></phrase>
   <phrase title="dbtech_ecommerce_discussion" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[Discussion]]></phrase>
   <phrase title="dbtech_ecommerce_discussion_thread_url" addon_id="DBTech/eCommerce" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Discussion thread URL]]></phrase>
@@ -3890,6 +3891,8 @@ Message: {message}]]></phrase>
   <phrase title="dbtech_shop_item_duration_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item Duration]]></phrase>
   <phrase title="dbtech_shop_item_exclusive_descr" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Prevents buying this item if the user already owns an item of the same Item Type.]]></phrase>
   <phrase title="dbtech_shop_item_exclusive_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Exclusive]]></phrase>
+  <phrase title="dbtech_shop_item_field_desc.period_of_validity" addon_id="" version_id="0" version_string=""><![CDATA[道具购买后有效的期限，请在此期限内使用！]]></phrase>
+  <phrase title="dbtech_shop_item_field_title.period_of_validity" addon_id="" version_id="0" version_string=""><![CDATA[有效期]]></phrase>
   <phrase title="dbtech_shop_item_fields" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item fields]]></phrase>
   <phrase title="dbtech_shop_item_giftable_descr" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Whether this item can be granted to someone else.]]></phrase>
   <phrase title="dbtech_shop_item_giftable_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Giftable]]></phrase>
@@ -3974,7 +3977,11 @@ If the remaining stock is -1 (Unlimited), this setting will automatically change
 Maximum stock must be greater or equal to currently remaining stock.
 If the remaining stock is -1 (Unlimited), the maximum stock will automatically change to -1 upon saving.]]></phrase>
   <phrase title="dbtech_shop_item_stock_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Stock]]></phrase>
-  <phrase title="dbtech_shop_item_tag.1" addon_id="" version_id="0" version_string=""><![CDATA[测试]]></phrase>
+  <phrase title="dbtech_shop_item_tag.1" addon_id="" version_id="0" version_string=""><![CDATA[在你的个人空间播放你喜欢的BGM！]]></phrase>
+  <phrase title="dbtech_shop_item_tag.2" addon_id="" version_id="0" version_string=""><![CDATA[置顶你的服务器宣传贴！]]></phrase>
+  <phrase title="dbtech_shop_item_tag.3" addon_id="" version_id="0" version_string=""><![CDATA[自动顶贴神奇！不用怕沉贴啦！]]></phrase>
+  <phrase title="dbtech_shop_item_tag.4" addon_id="" version_id="0" version_string=""><![CDATA[不用充VIP也可以更改用户名？来看看！]]></phrase>
+  <phrase title="dbtech_shop_item_tag.6" addon_id="" version_id="0" version_string=""><![CDATA[创建属于自己的兴趣版块！]]></phrase>
   <phrase title="dbtech_shop_item_tagline" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item tagline]]></phrase>
   <phrase title="dbtech_shop_item_tagline_explain" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[A short blob (around 140 characters) that briefly explains the item. This will be displayed in the item list.]]></phrase>
   <phrase title="dbtech_shop_item_thread_create" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[A new item is available: [url={item_link}][plain]{title}[/plain][/url] - [plain]{tag_line}[/plain]
@@ -10182,7 +10189,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="member_x" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Member '{username}']]></phrase>
   <phrase title="members" addon_id="XF" global_cache="1" version_id="0" version_string=""><![CDATA[Members]]></phrase>
   <phrase title="members_following_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Members following {name}]]></phrase>
-  <phrase title="members_online" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Members online]]></phrase>
+  <phrase title="members_online" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[オンラインユーザー]]></phrase>
   <phrase title="members_only" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Members only]]></phrase>
   <phrase title="members_who_liked_message_by_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Members who liked message by {user}]]></phrase>
   <phrase title="members_who_liked_message_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Members who liked message #{position}]]></phrase>
@@ -10352,6 +10359,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_event.54" addon_id="" version_id="0" version_string=""><![CDATA[新动态]]></phrase>
   <phrase title="mjc_event.55" addon_id="" version_id="0" version_string=""><![CDATA[发布新闻]]></phrase>
   <phrase title="mjc_event.57" addon_id="" version_id="0" version_string=""><![CDATA[新闻被删除]]></phrase>
+  <phrase title="mjc_event.58" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event.6" addon_id="" version_id="0" version_string=""><![CDATA[收到支持]]></phrase>
   <phrase title="mjc_event.7" addon_id="" version_id="0" version_string=""><![CDATA[失去支持]]></phrase>
   <phrase title="mjc_event.9" addon_id="" version_id="0" version_string=""><![CDATA[发布新主题]]></phrase>
@@ -10524,6 +10532,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_event_desc.54" addon_id="" version_id="0" version_string=""><![CDATA[发布了一条新空间动态]]></phrase>
   <phrase title="mjc_event_desc.55" addon_id="" version_id="0" version_string=""><![CDATA[在新闻资讯板块发布了一条新闻贴]]></phrase>
   <phrase title="mjc_event_desc.57" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="mjc_event_desc.58" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_desc.6" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_desc.7" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_desc.9" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -11059,17 +11068,17 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="nav.latestActivity" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[最新情報]]></phrase>
   <phrase title="nav.markForumsRead" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mark forums read]]></phrase>
   <phrase title="nav.mcnav" addon_id="" version_id="0" version_string=""><![CDATA[MCNav]]></phrase>
-  <phrase title="nav.members" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Members]]></phrase>
+  <phrase title="nav.members" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[名人]]></phrase>
   <phrase title="nav.mjcCredits" addon_id="MJ/Credits" version_id="1020501" version_string="1.2.5"><![CDATA[积分]]></phrase>
   <phrase title="nav.mjcCreditsTransactions" addon_id="MJ/Credits" version_id="1020501" version_string="1.2.5"><![CDATA[交易大厅]]></phrase>
   <phrase title="nav.mjrcpPurchasedResources" addon_id="MJ/ResourceCreditsPayment" version_id="1000131" version_string="1.0.1"><![CDATA[购买的资源]]></phrase>
   <phrase title="nav.newPosts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[New posts]]></phrase>
   <phrase title="nav.newProfilePosts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[New profile posts]]></phrase>
   <phrase title="nav.news" addon_id="" version_id="0" version_string=""><![CDATA[资讯]]></phrase>
-  <phrase title="nav.registeredMembers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Registered members]]></phrase>
+  <phrase title="nav.registeredMembers" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[登録メンバー]]></phrase>
   <phrase title="nav.searchForums" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Search forums]]></phrase>
   <phrase title="nav.searchProfilePosts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Search profile posts]]></phrase>
-  <phrase title="nav.servers" addon_id="" version_id="0" version_string=""><![CDATA[服务器]]></phrase>
+  <phrase title="nav.servers" addon_id="" version_id="0" version_string=""><![CDATA[サーバー]]></phrase>
   <phrase title="nav.siropuReferralContests" addon_id="Siropu/ReferralContests" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Referral Contests]]></phrase>
   <phrase title="nav.unansweredThreads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unanswered threads]]></phrase>
   <phrase title="nav.watched" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Watched]]></phrase>
@@ -11187,7 +11196,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="no_items_to_display" addon_id="XF" global_cache="1" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[No items to display]]></phrase>
   <phrase title="no_matching_users_were_found" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[No matching users were found.]]></phrase>
   <phrase title="no_member_stat_could_be_found_for_id_provided" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[No Member stat could be found for the ID provided.]]></phrase>
-  <phrase title="no_members_online_now" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[No members online now.]]></phrase>
+  <phrase title="no_members_online_now" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[現在、オンライン会員はいません。]]></phrase>
   <phrase title="no_messages_selected" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[No messages were selected.]]></phrase>
   <phrase title="no_moderator_actions_have_been_logged" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[No moderator actions have been logged.]]></phrase>
   <phrase title="no_new_votes_allowed_but_existing_votes_displayed_suggestion" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[No new votes will be allowed, but existing votes will be displayed. Note that implemented and closed suggestions never allow new votes.]]></phrase>
@@ -11345,7 +11354,7 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="one_or_more_files_not_permitted_as_they_belong_to_xenforo_or_add_on" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[One or more files are not permitted as they belong to XenForo or an add-on.]]></phrase>
   <phrase title="one_or_more_of_add_ons_in_this_batch_failed_to_install_upgrade" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[One or more of the add-ons in this batch failed to install/upgrade. Click or hover over the error icon to view details of the error.]]></phrase>
   <phrase title="online_now" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Online now]]></phrase>
-  <phrase title="online_now_x_members_y_guests_z" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Total:&nbsp;{total} (members:&nbsp;{members}, guests:&nbsp;{guests})]]></phrase>
+  <phrase title="online_now_x_members_y_guests_z" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[計：&nbsp;{total}（会員：&nbsp;{members}，観光客：&nbsp;{guests})]]></phrase>
   <phrase title="only_display_within_selected_categories_no_children" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[Only display within selected categories (rather than including child categories)]]></phrase>
   <phrase title="only_display_within_selected_nodes_no_children" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Only display within selected nodes (rather than including child nodes)]]></phrase>
   <phrase title="only_edits_within_last_x_days_will_be_reverted" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Only edits within the last {count} days will be reverted.]]></phrase>
@@ -13631,7 +13640,7 @@ Note: You must choose "reCAPTCHA v2" as the type when creating the key. If you w
   <phrase title="redo" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Redo]]></phrase>
   <phrase title="referrer" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Referrer]]></phrase>
   <phrase title="refine_and_translate" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Refine and translate]]></phrase>
-  <phrase title="refine_search" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Refine search]]></phrase>
+  <phrase title="refine_search" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[検索洗練さ]]></phrase>
   <phrase title="regenerate_key" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Regenerate key]]></phrase>
   <phrase title="regenerate_secret_for_new_device" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Regenerate secret for a new device]]></phrase>
   <phrase title="register" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Register]]></phrase>
@@ -13992,7 +14001,7 @@ Content being reported:
   <phrase title="scroll_buttons_when_scrolling_up" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[When scrolling up]]></phrase>
   <phrase title="scroll_buttons_when_scrolling_up_or_down" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[When scrolling up or down]]></phrase>
   <phrase title="scrolling" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Scrolling]]></phrase>
-  <phrase title="search" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Search]]></phrase>
+  <phrase title="search" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[検索]]></phrase>
   <phrase title="search_by_ip_address" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Search by IP address]]></phrase>
   <phrase title="search_could_not_be_completed_because_number_of_keywords_exceeds_limit_x" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[The search could not be completed because the number of keywords exceeds the allowed keyword limit of {maxKeywords}.]]></phrase>
   <phrase title="search_could_not_be_completed_because_search_keywords_were_too" addon_id="XF" version_id="0" version_string=""><![CDATA[The search could not be completed because the search keywords were too short, too long, or too common.]]></phrase>
@@ -14020,7 +14029,7 @@ Content being reported:
   <phrase title="search_type" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Search type]]></phrase>
   <phrase title="search_within" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Search within]]></phrase>
   <phrase title="searcher_criteria" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Searcher criteria]]></phrase>
-  <phrase title="searching" addon_id="XF" version_id="0" version_string=""><![CDATA[Searching]]></phrase>
+  <phrase title="searching" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[検索している]]></phrase>
   <phrase title="second_row_opposite_side" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Second row, opposite side]]></phrase>
   <phrase title="secondary_user_groups" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Secondary user groups]]></phrase>
   <phrase title="seconds" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Seconds]]></phrase>
@@ -17082,6 +17091,7 @@ Your account's access may be limited based on these actions. Please keep this in
   <phrase title="widget.dbtech_shop_whats_new_overview_new_items" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.fhb" addon_id="" version_id="0" version_string=""><![CDATA[财富榜]]></phrase>
   <phrase title="widget.forum_overview_new_profile_posts" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="widget.forum_statistics" addon_id="" version_id="0" version_string=""><![CDATA[フォーラム統計]]></phrase>
   <phrase title="widget.friend_links" addon_id="" version_id="0" version_string=""><![CDATA[ホットリンク]]></phrase>
   <phrase title="widget.good_resources" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.google_adsense" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -17143,7 +17153,7 @@ Your account's access may be limited based on these actions. Please keep this in
   <phrase title="widget_def.forum_statistics" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum statistics]]></phrase>
   <phrase title="widget_def.html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[HTML]]></phrase>
   <phrase title="widget_def.member_stat" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Member stat]]></phrase>
-  <phrase title="widget_def.members_online" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Members online]]></phrase>
+  <phrase title="widget_def.members_online" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[オンラインユーザー]]></phrase>
   <phrase title="widget_def.mjc_balance" addon_id="MJ/Credits" version_id="1010700" version_string="1.1.7"><![CDATA[积分余额]]></phrase>
   <phrase title="widget_def.mjc_richest" addon_id="MJ/Credits" version_id="1000200" version_string="1.0.2"><![CDATA[积分排行]]></phrase>
   <phrase title="widget_def.new_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[New posts]]></phrase>
@@ -18120,6 +18130,8 @@ Two-step verification increases the security of your account by requiring you to
   <phrase title="your_vote_will_be_publicly_visible" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Your vote will be publicly visible.]]></phrase>
   <phrase title="your_votes" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Your votes]]></phrase>
   <phrase title="youre_ready_start_import_will_run_browser_window_open" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[You're now ready to start the import. Once started, the import will continue to run while this browser window is open. Once all data has been imported, further instructions will be displayed.]]></phrase>
+  <phrase title="zhenghe.post" addon_id="" version_id="0" version_string=""><![CDATA[ポスト]]></phrase>
+  <phrase title="zhenghe.xfrm" addon_id="" version_id="0" version_string=""><![CDATA[資源]]></phrase>
   <phrase title="ziparchive_support" addon_id="XF" version_id="2010037" version_string="2.1.0 Beta 7"><![CDATA[<code>ZipArchive</code> support]]></phrase>
   <phrase title="zoom" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Zoom]]></phrase>
 </language>
