@@ -28,7 +28,7 @@
 
 [![github](https://img.shields.io/badge/日本語-2%25-pink)](https://github.com/McShare/MineBBS-Multi-Language/blob/main/language-%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%88JP%EF%BC%89.xml)：界面少量翻译，大量未完成，后台未翻译
 
-[![github](https://img.shields.io/badge/Tiếng-Việt-24%25-yellow)](https://github.com/McShare/MineBBS-Multi-Language/blob/main/language-Ti%E1%BA%BFng-Vi%E1%BB%87t-(VI).xml)：界面部分完成，后台未翻译
+[![github](https://img.shields.io/badge/Ti%E1%BA%BFng--Vi%E1%BB%87t-24%25-yellow)](https://github.com/McShare/MineBBS-Multi-Language/blob/main/language-Ti%E1%BA%BFng-Vi%E1%BB%87t-(VI).xml)：界面部分完成，后台未翻译
 
 ## 翻译建议：
 
