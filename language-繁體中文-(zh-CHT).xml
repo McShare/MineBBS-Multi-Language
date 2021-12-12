@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<language title="繁體中文（zh-CHT）" date_format="Y/m/d" time_format="A g:i" currency_format="{symbol}{value}" week_start="0" decimal_point="." thousands_separator="," label_separator="：" comma_separator="、" ellipsis="……" parenthesis_open="（" parenthesis_close="）" language_code="zh-Hant" text_direction="LTR" user_selectable="1" base_version_id="2020770" export_version="2">
+<language title="繁體中文 (zh-CHT)" date_format="Y/m/d" time_format="A g:i" currency_format="{symbol}{value}" week_start="0" decimal_point="." thousands_separator="," label_separator="：" comma_separator="、" ellipsis="……" parenthesis_open="（" parenthesis_close="）" language_code="zh-Hant" text_direction="LTR" user_selectable="1" base_version_id="2020770" export_version="2">
   <phrase title="1_day_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[1 天前]]></phrase>
   <phrase title="1_month_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[1 個月前]]></phrase>
   <phrase title="1_time" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[1 次]]></phrase>
@@ -2252,6 +2252,7 @@ If no products are chosen, this coupon applies to <b>all</b> products.]]></phras
   <phrase title="dbtech_ecommerce_discount_percent_explain" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[The percent the customer's cart will be discounted by.]]></phrase>
   <phrase title="dbtech_ecommerce_discount_threshold" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[Discount threshold]]></phrase>
   <phrase title="dbtech_ecommerce_discount_threshold_explain" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[This is the minimum amount (in {currency}) a customer's cart needs to contain in order for this discount to apply.]]></phrase>
+  <phrase title="dbtech_ecommerce_discount_title.1" addon_id="" version_id="0" version_string=""><![CDATA[测试]]></phrase>
   <phrase title="dbtech_ecommerce_discounts" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[Discounts]]></phrase>
   <phrase title="dbtech_ecommerce_discussion" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[Discussion]]></phrase>
   <phrase title="dbtech_ecommerce_discussion_thread_url" addon_id="DBTech/eCommerce" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Discussion thread URL]]></phrase>
@@ -3885,6 +3886,8 @@ Message: {message}]]></phrase>
   <phrase title="dbtech_shop_item_duration_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item Duration]]></phrase>
   <phrase title="dbtech_shop_item_exclusive_descr" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Prevents buying this item if the user already owns an item of the same Item Type.]]></phrase>
   <phrase title="dbtech_shop_item_exclusive_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Exclusive]]></phrase>
+  <phrase title="dbtech_shop_item_field_desc.period_of_validity" addon_id="" version_id="0" version_string=""><![CDATA[道具购买后有效的期限，请在此期限内使用！]]></phrase>
+  <phrase title="dbtech_shop_item_field_title.period_of_validity" addon_id="" version_id="0" version_string=""><![CDATA[有效期]]></phrase>
   <phrase title="dbtech_shop_item_fields" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item fields]]></phrase>
   <phrase title="dbtech_shop_item_giftable_descr" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Whether this item can be granted to someone else.]]></phrase>
   <phrase title="dbtech_shop_item_giftable_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Giftable]]></phrase>
@@ -3969,7 +3972,11 @@ If the remaining stock is -1 (Unlimited), this setting will automatically change
 Maximum stock must be greater or equal to currently remaining stock.
 If the remaining stock is -1 (Unlimited), the maximum stock will automatically change to -1 upon saving.]]></phrase>
   <phrase title="dbtech_shop_item_stock_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Stock]]></phrase>
-  <phrase title="dbtech_shop_item_tag.1" addon_id="" version_id="0" version_string=""><![CDATA[测试]]></phrase>
+  <phrase title="dbtech_shop_item_tag.1" addon_id="" version_id="0" version_string=""><![CDATA[在你的个人空间播放你喜欢的BGM！]]></phrase>
+  <phrase title="dbtech_shop_item_tag.2" addon_id="" version_id="0" version_string=""><![CDATA[置顶你的服务器宣传贴！]]></phrase>
+  <phrase title="dbtech_shop_item_tag.3" addon_id="" version_id="0" version_string=""><![CDATA[自动顶贴神奇！不用怕沉贴啦！]]></phrase>
+  <phrase title="dbtech_shop_item_tag.4" addon_id="" version_id="0" version_string=""><![CDATA[不用充VIP也可以更改用户名？来看看！]]></phrase>
+  <phrase title="dbtech_shop_item_tag.6" addon_id="" version_id="0" version_string=""><![CDATA[创建属于自己的兴趣版块！]]></phrase>
   <phrase title="dbtech_shop_item_tagline" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item tagline]]></phrase>
   <phrase title="dbtech_shop_item_tagline_explain" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[A short blob (around 140 characters) that briefly explains the item. This will be displayed in the item list.]]></phrase>
   <phrase title="dbtech_shop_item_thread_create" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[A new item is available: [url={item_link}][plain]{title}[/plain][/url] - [plain]{tag_line}[/plain]
@@ -10313,6 +10320,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_event.54" addon_id="" version_id="0" version_string=""><![CDATA[新动态]]></phrase>
   <phrase title="mjc_event.55" addon_id="" version_id="0" version_string=""><![CDATA[发布新闻]]></phrase>
   <phrase title="mjc_event.57" addon_id="" version_id="0" version_string=""><![CDATA[新闻被删除]]></phrase>
+  <phrase title="mjc_event.58" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event.6" addon_id="" version_id="0" version_string=""><![CDATA[收到支持]]></phrase>
   <phrase title="mjc_event.7" addon_id="" version_id="0" version_string=""><![CDATA[失去支持]]></phrase>
   <phrase title="mjc_event.9" addon_id="" version_id="0" version_string=""><![CDATA[发布新主题]]></phrase>
@@ -10485,6 +10493,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_event_desc.54" addon_id="" version_id="0" version_string=""><![CDATA[发布了一条新空间动态]]></phrase>
   <phrase title="mjc_event_desc.55" addon_id="" version_id="0" version_string=""><![CDATA[在新闻资讯板块发布了一条新闻贴]]></phrase>
   <phrase title="mjc_event_desc.57" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="mjc_event_desc.58" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_desc.6" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_desc.7" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_desc.9" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -17054,6 +17063,7 @@ Select the updates you want to install below. The selected updates will be downl
   <phrase title="widget.forum_overview_new_posts" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.forum_overview_new_profile_posts" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.forum_overview_share_page" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="widget.forum_statistics" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.friend_links" addon_id="" version_id="0" version_string=""><![CDATA[友情链接]]></phrase>
   <phrase title="widget.good_resources" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.google_adsense" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>

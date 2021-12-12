@@ -3882,6 +3882,8 @@ Message: {message}]]></phrase>
   <phrase title="dbtech_shop_item_duration_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item Duration]]></phrase>
   <phrase title="dbtech_shop_item_exclusive_descr" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Prevents buying this item if the user already owns an item of the same Item Type.]]></phrase>
   <phrase title="dbtech_shop_item_exclusive_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Exclusive]]></phrase>
+  <phrase title="dbtech_shop_item_field_desc.period_of_validity" addon_id="" version_id="0" version_string=""><![CDATA[道具购买后有效的期限，请在此期限内使用！]]></phrase>
+  <phrase title="dbtech_shop_item_field_title.period_of_validity" addon_id="" version_id="0" version_string=""><![CDATA[有效期]]></phrase>
   <phrase title="dbtech_shop_item_fields" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item fields]]></phrase>
   <phrase title="dbtech_shop_item_giftable_descr" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Whether this item can be granted to someone else.]]></phrase>
   <phrase title="dbtech_shop_item_giftable_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Giftable]]></phrase>
@@ -3969,7 +3971,7 @@ If the remaining stock is -1 (Unlimited), the maximum stock will automatically c
   <phrase title="dbtech_shop_item_tag.1" addon_id="" version_id="0" version_string=""><![CDATA[在你的个人空间播放你喜欢的BGM！]]></phrase>
   <phrase title="dbtech_shop_item_tag.2" addon_id="" version_id="0" version_string=""><![CDATA[置顶你的服务器宣传贴！]]></phrase>
   <phrase title="dbtech_shop_item_tag.3" addon_id="" version_id="0" version_string=""><![CDATA[自动顶贴神奇！不用怕沉贴啦！]]></phrase>
-  <phrase title="dbtech_shop_item_tag.4" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="dbtech_shop_item_tag.4" addon_id="" version_id="0" version_string=""><![CDATA[不用充VIP也可以更改用户名？来看看！]]></phrase>
   <phrase title="dbtech_shop_item_tag.6" addon_id="" version_id="0" version_string=""><![CDATA[创建属于自己的兴趣版块！]]></phrase>
   <phrase title="dbtech_shop_item_tagline" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item tagline]]></phrase>
   <phrase title="dbtech_shop_item_tagline_explain" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[A short blob (around 140 characters) that briefly explains the item. This will be displayed in the item list.]]></phrase>
@@ -10312,6 +10314,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_event.54" addon_id="" version_id="0" version_string=""><![CDATA[新动态]]></phrase>
   <phrase title="mjc_event.55" addon_id="" version_id="0" version_string=""><![CDATA[发布新闻]]></phrase>
   <phrase title="mjc_event.57" addon_id="" version_id="0" version_string=""><![CDATA[新闻被删除]]></phrase>
+  <phrase title="mjc_event.58" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event.6" addon_id="" version_id="0" version_string=""><![CDATA[收到支持]]></phrase>
   <phrase title="mjc_event.7" addon_id="" version_id="0" version_string=""><![CDATA[失去支持]]></phrase>
   <phrase title="mjc_event.9" addon_id="" version_id="0" version_string=""><![CDATA[发布新主题]]></phrase>
@@ -10484,6 +10487,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_event_desc.54" addon_id="" version_id="0" version_string=""><![CDATA[发布了一条新空间动态]]></phrase>
   <phrase title="mjc_event_desc.55" addon_id="" version_id="0" version_string=""><![CDATA[在新闻资讯板块发布了一条新闻贴]]></phrase>
   <phrase title="mjc_event_desc.57" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="mjc_event_desc.58" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_desc.6" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_desc.7" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_desc.9" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -11797,8 +11801,6 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.watchAlertActiveOnly" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Only send watched content alerts/emails to users active in last:]]></phrase>
   <phrase title="option.webShare" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Enable web share button]]></phrase>
   <phrase title="option.whatsAppShare" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable WhatsApp share button]]></phrase>
-  <phrase title="option.xfa_md_debug_mode" addon_id="XFA/ModeDebug" version_id="901000090" version_string="1.0.0"><![CDATA[Enable debug mode]]></phrase>
-  <phrase title="option.xfa_md_dev_mode" addon_id="XFA/ModeDebug" version_id="901000090" version_string="1.0.0"><![CDATA[Enable development mode]]></phrase>
   <phrase title="option.xfesConfig" addon_id="XFES" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enhanced search config]]></phrase>
   <phrase title="option.xfesEnabled" addon_id="XFES" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enhanced search enabled]]></phrase>
   <phrase title="option.xfesRecencyRelevance" addon_id="XFES" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enhanced search recency relevance]]></phrase>
@@ -12391,8 +12393,6 @@ Use the textbox above to specify a format. <b>{title}</b> will be replaced with 
   <phrase title="option_explain.watchAlertActiveOnly" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[If enabled, watched content alerts and emails will only be sent to users that have visited within the specified number of days. This can improve performance on large or very active installations.]]></phrase>
   <phrase title="option_explain.webShare" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[On supported devices, this button will open the browser's web share prompt, allowing users to share the current page to other applications.]]></phrase>
   <phrase title="option_explain.whatsAppShare" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[If a user clicks this button WhatsApp will open a list of users with whom to share the current page URL and title.]]></phrase>
-  <phrase title="option_explain.xfa_md_debug_mode" addon_id="XFA/ModeDebug" version_id="901000090" version_string="1.0.0"><![CDATA[]]></phrase>
-  <phrase title="option_explain.xfa_md_dev_mode" addon_id="XFA/ModeDebug" version_id="901000090" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="option_explain.xfesConfig" addon_id="XFES" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Please edit this via the "Enhanced search" section.]]></phrase>
   <phrase title="option_explain.xfesEnabled" addon_id="XFES" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="option_explain.xfesRecencyRelevance" addon_id="XFES" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Please edit this via the "Enhanced search" section.]]></phrase>
@@ -12469,7 +12469,6 @@ Use the textbox above to specify a format. <b>{title}</b> will be replaced with 
   <phrase title="option_group.users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User options]]></phrase>
   <phrase title="option_group.usersAndRegistration" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User registration]]></phrase>
   <phrase title="option_group.view_thread" addon_id="CnXFans/ViewThread" version_id="1000000" version_string="1.0.0"><![CDATA[用户阅读主题权限]]></phrase>
-  <phrase title="option_group.xfa_md" addon_id="XFA/ModeDebug" version_id="901000090" version_string="1.0.0"><![CDATA[[XFA] Mode Debug]]></phrase>
   <phrase title="option_group.xfrm" addon_id="XFRM" version_id="2000270" version_string="2.0.2"><![CDATA[XenForo Resource Manager]]></phrase>
   <phrase title="option_group_belongs_to_disabled_addon" addon_id="XF" version_id="1000053" version_string="1.0.0 Release Candidate 3"><![CDATA[The add-on <em>{addon}</em>, to which this option group belongs, is currently disabled.<br />
 <br />
@@ -12527,7 +12526,6 @@ It is possible to filter the news feed down to just users you follow, or a singl
   <phrase title="option_group_description.users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="option_group_description.usersAndRegistration" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="option_group_description.view_thread" addon_id="CnXFans/ViewThread" version_id="1000000" version_string="1.0.0"><![CDATA[设置用户阅读主题权限使用的用户项目。]]></phrase>
-  <phrase title="option_group_description.xfa_md" addon_id="XFA/ModeDebug" version_id="901000090" version_string="1.0.0"><![CDATA[Allow to enable debug mode from admincp]]></phrase>
   <phrase title="option_group_description.xfrm" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Options that control the resource manager add-on.]]></phrase>
   <phrase title="option_group_ids_must_be_unique" addon_id="XF" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Option group IDs must be unique. The specified ID is already in use.]]></phrase>
   <phrase title="option_id" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Option ID]]></phrase>
