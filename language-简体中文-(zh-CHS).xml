@@ -363,7 +363,7 @@
   <phrase title="admin_navigation.dbtechEcomStoreCreditLog" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[商店积分记录]]></phrase>
   <phrase title="admin_navigation.dbtechEcomTransactions" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[交易日志]]></phrase>
   <phrase title="admin_navigation.dbtechEcommerce" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[DB电商]]></phrase>
-  <phrase title="admin_navigation.dbtechShop" addon_id="DBTech/Shop" version_id="906040570" version_string="6.4.5"><![CDATA[DragonByte 商店]]></phrase>
+  <phrase title="admin_navigation.dbtechShop" addon_id="DBTech/Shop" version_id="906040970" version_string="6.4.9"><![CDATA[DB 商店]]></phrase>
   <phrase title="admin_navigation.dbtechShopCategory" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[分类]]></phrase>
   <phrase title="admin_navigation.dbtechShopCurrency" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[货币]]></phrase>
   <phrase title="admin_navigation.dbtechShopItem" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[道具]]></phrase>
@@ -2239,7 +2239,7 @@ JS代码:
   <phrase title="dbtech_ecommerce_below_review" addon_id="DBTech/eCommerce" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[评论下方]]></phrase>
   <phrase title="dbtech_ecommerce_beta" addon_id="DBTech/eCommerce" version_id="1010070" version_string="1.1.0"><![CDATA[Beta版]]></phrase>
   <phrase title="dbtech_ecommerce_billing_address" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[帐单地址]]></phrase>
-  <phrase title="dbtech_ecommerce_billing_address_explain" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[此地址将用于您的发票，发票将自动发送给您。]]></phrase>
+  <phrase title="dbtech_ecommerce_billing_address_explain" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[]]></phrase>
   <phrase title="dbtech_ecommerce_billing_country_ip_mismatch" addon_id="DBTech/eCommerce" version_id="1010034" version_string="1.1.0 Beta 4"><![CDATA[您的帐单地址所在的国家/地区与您当前所在的国家/地区不匹配。不幸的是，根据规定，这意味着您的增值税号码不能适用于此订单。<br/>
 <br />
 我们对造成的不便向您道歉。]]></phrase>
@@ -2304,7 +2304,7 @@ JS代码:
   <phrase title="dbtech_ecommerce_complete_order" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[完成订单]]></phrase>
   <phrase title="dbtech_ecommerce_complete_order_creates_licenses" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[完成此订单将授予用户产品，而无需付款。]]></phrase>
   <phrase title="dbtech_ecommerce_complete_purchase" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[完成购买]]></phrase>
-  <phrase title="dbtech_ecommerce_completed" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[已完成]]></phrase>
+  <phrase title="dbtech_ecommerce_completed" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[已付款]]></phrase>
   <phrase title="dbtech_ecommerce_completed_date_between" addon_id="DBTech/eCommerce" version_id="2020033" version_string="2.2.0 Beta 3"><![CDATA[Completed date is between]]></phrase>
   <phrase title="dbtech_ecommerce_confirm_retry_order_x" addon_id="DBTech/eCommerce" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[确认操作：重试订单号 #{orderId}的付款]]></phrase>
   <phrase title="dbtech_ecommerce_copy_product_bb_code" addon_id="DBTech/eCommerce" version_id="1040070" version_string="1.4.0"><![CDATA[复制产品BB代码]]></phrase>
@@ -2357,6 +2357,7 @@ JS代码:
   <phrase title="dbtech_ecommerce_coupon_remaining_uses" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[剩余使用]]></phrase>
   <phrase title="dbtech_ecommerce_coupon_remaining_uses_explain" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[此设置确定该优惠券在不再可用之前剩余的使用次数。<br />
 -1 =无限使用]]></phrase>
+  <phrase title="dbtech_ecommerce_coupon_title.1" addon_id="" version_id="0" version_string=""><![CDATA[测试券]]></phrase>
   <phrase title="dbtech_ecommerce_coupon_type" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[优惠券类型]]></phrase>
   <phrase title="dbtech_ecommerce_coupon_type_explain" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[确定将哪种折扣应用于客户的购物车； 他们的总价的百分之一或一定的折扣。]]></phrase>
   <phrase title="dbtech_ecommerce_coupon_used_between" addon_id="DBTech/eCommerce" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[优惠券使用介于]]></phrase>
@@ -2832,8 +2833,16 @@ JS代码:
   <phrase title="dbtech_ecommerce_product_count_between" addon_id="DBTech/eCommerce" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[产品数量介于]]></phrase>
   <phrase title="dbtech_ecommerce_product_desc.1" addon_id="" version_id="0" version_string=""><![CDATA[由夏五郎先生友情赞助的免费Minecraft服务器/云主机]]></phrase>
   <phrase title="dbtech_ecommerce_product_desc.2" addon_id="" version_id="0" version_string=""><![CDATA[不是多好的东西，代表一份心意~]]></phrase>
+  <phrase title="dbtech_ecommerce_product_desc.3" addon_id="" version_id="0" version_string=""><![CDATA[玩家可以定制自己的皮肤，
+获取一个属于自己的实木手办模型，
+底部会附带MineBBS的标记~]]></phrase>
+  <phrase title="dbtech_ecommerce_product_desc.5" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="dbtech_ecommerce_product_desc.6" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="dbtech_ecommerce_product_desc.7" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="dbtech_ecommerce_product_description" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[产品描述]]></phrase>
   <phrase title="dbtech_ecommerce_product_downloadable_versions" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[可下载的版本]]></phrase>
+  <phrase title="dbtech_ecommerce_product_field_desc.phone_number" addon_id="" version_id="0" version_string=""><![CDATA[该信息仅用于发货，不会泄露。]]></phrase>
+  <phrase title="dbtech_ecommerce_product_field_title.phone_number" addon_id="" version_id="0" version_string=""><![CDATA[手机号码]]></phrase>
   <phrase title="dbtech_ecommerce_product_field_values" addon_id="DBTech/eCommerce" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[产品字段值]]></phrase>
   <phrase title="dbtech_ecommerce_product_fields" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[产品领域]]></phrase>
   <phrase title="dbtech_ecommerce_product_filters" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[产品过滤器]]></phrase>
@@ -2862,6 +2871,10 @@ JS代码:
   <phrase title="dbtech_ecommerce_product_specifications" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[产品规格]]></phrase>
   <phrase title="dbtech_ecommerce_product_tag.1" addon_id="" version_id="0" version_string=""><![CDATA[五郎赞助免费服务器]]></phrase>
   <phrase title="dbtech_ecommerce_product_tag.2" addon_id="" version_id="0" version_string=""><![CDATA[定制32G纪念U盘]]></phrase>
+  <phrase title="dbtech_ecommerce_product_tag.3" addon_id="" version_id="0" version_string=""><![CDATA[玩家可以定制自己的皮肤，获取一个属于自己的实木手办模型]]></phrase>
+  <phrase title="dbtech_ecommerce_product_tag.5" addon_id="" version_id="0" version_string=""><![CDATA[感谢五郎，老板大气]]></phrase>
+  <phrase title="dbtech_ecommerce_product_tag.6" addon_id="" version_id="0" version_string=""><![CDATA[物美价廉五郎云赞助的VPS独立云主机服务器]]></phrase>
+  <phrase title="dbtech_ecommerce_product_tag.7" addon_id="" version_id="0" version_string=""><![CDATA[高性价比面板服务器储值券，直接充入余额！]]></phrase>
   <phrase title="dbtech_ecommerce_product_tagline" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[产品标签]]></phrase>
   <phrase title="dbtech_ecommerce_product_tagline_explain" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[简短的Blob（大约140个字符），简要说明了产品。 这将显示在产品列表中。]]></phrase>
   <phrase title="dbtech_ecommerce_product_temporary_additional_user_groups" addon_id="DBTech/eCommerce" version_id="1010054" version_string="1.1.0 Release Candidate 4"><![CDATA[临时附加用户组]]></phrase>
@@ -2905,7 +2918,6 @@ JS代码:
   <phrase title="dbtech_ecommerce_product_variation" addon_id="DBTech/eCommerce" version_id="1030170" version_string="1.3.1"><![CDATA[产品变化]]></phrase>
   <phrase title="dbtech_ecommerce_product_variations" addon_id="DBTech/eCommerce" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[产品变化]]></phrase>
   <phrase title="dbtech_ecommerce_product_version" addon_id="DBTech/eCommerce" version_id="1000030" version_string="1.0.0 Beta"><![CDATA[产品版本]]></phrase>
-  <phrase title="dbtech_ecommerce_product_version.1_001" addon_id="" version_id="0" version_string=""><![CDATA[1H2G]]></phrase>
   <phrase title="dbtech_ecommerce_product_watch" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[产品关注]]></phrase>
   <phrase title="dbtech_ecommerce_product_watched" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[产品已关注]]></phrase>
   <phrase title="dbtech_ecommerce_product_x" addon_id="DBTech/eCommerce" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[产品"{title}"]]></phrase>
@@ -3111,7 +3123,7 @@ JS代码:
   <phrase title="dbtech_ecommerce_set_as_default_address" addon_id="DBTech/eCommerce" version_id="1050370" version_string="1.5.3"><![CDATA[设置为默认地址]]></phrase>
   <phrase title="dbtech_ecommerce_setup_missing_business_details" addon_id="DBTech/eCommerce" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[管理员尚未完成电商系统的设置。 论坛的业务详细信息必须在"发票选项"下的管理员选项中填写。]]></phrase>
   <phrase title="dbtech_ecommerce_share_this_product" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[分享这个产品]]></phrase>
-  <phrase title="dbtech_ecommerce_shipped" addon_id="DBTech/eCommerce" version_id="1010070" version_string="1.1.0"><![CDATA[已出货]]></phrase>
+  <phrase title="dbtech_ecommerce_shipped" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[已发货]]></phrase>
   <phrase title="dbtech_ecommerce_shipping_address" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[配送地址]]></phrase>
   <phrase title="dbtech_ecommerce_shipping_address_country" addon_id="DBTech/eCommerce" version_id="1000030" version_string="1.0.0 Beta"><![CDATA[配送地址国家]]></phrase>
   <phrase title="dbtech_ecommerce_shipping_cost" addon_id="DBTech/eCommerce" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[运输费]]></phrase>
@@ -3146,13 +3158,13 @@ JS代码:
   <phrase title="dbtech_ecommerce_store_credit_admin_user_explain" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[如果未记录任何用户，则应被记录为商店信用执行者的用户名。]]></phrase>
   <phrase title="dbtech_ecommerce_store_credit_amount" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[商店积分数量]]></phrase>
   <phrase title="dbtech_ecommerce_store_credit_amount_between" addon_id="DBTech/eCommerce" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[商店信用额介于]]></phrase>
-  <phrase title="dbtech_ecommerce_store_credit_amount_between_descr" addon_id="DBTech/eCommerce" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[为使用的商店信用使用负值，或为获得的商店信用使用正值。]]></phrase>
+  <phrase title="dbtech_ecommerce_store_credit_amount_between_descr" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[使用负值作为已使用的商店积分，或使用正值作为已赚取的商店积分。]]></phrase>
   <phrase title="dbtech_ecommerce_store_credit_amount_used" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[商店使用的信用额度]]></phrase>
   <phrase title="dbtech_ecommerce_store_credit_log" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[商店信用记录]]></phrase>
   <phrase title="dbtech_ecommerce_store_credit_log_entries" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[商店信用日志]]></phrase>
   <phrase title="dbtech_ecommerce_store_credit_log_ip_search_explain" addon_id="DBTech/eCommerce" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[输入IP地址以查看记录为源自该IP的所有商店信用用法的列表。 您可以输入部分IP地址，例如192.168.*, 192.168.0.0/16, 或 2001:db8::/32.]]></phrase>
   <phrase title="dbtech_ecommerce_store_credit_log_search" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[搜索商店信用记录]]></phrase>
-  <phrase title="dbtech_ecommerce_store_credit_used" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[使用的商店信用额度]]></phrase>
+  <phrase title="dbtech_ecommerce_store_credit_used" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[使用的商店积分]]></phrase>
   <phrase title="dbtech_ecommerce_sub_total" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[小计]]></phrase>
   <phrase title="dbtech_ecommerce_sub_total_excl_tax" addon_id="DBTech/eCommerce" version_id="1040035" version_string="1.4.0 Beta 5"><![CDATA[小计<br />
 (不包括 税)]]></phrase>
@@ -3483,7 +3495,7 @@ Requires the <i>Can Upload Custom Avatar</i> Usergroup Permission enabled for al
   <phrase title="dbtech_shop_bulk_purchase_discount" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Bulk Purchase Discounts]]></phrase>
   <phrase title="dbtech_shop_buy_ticket" addon_id="DBTech/Shop" version_id="906040970" version_string="6.4.9"><![CDATA[购买彩票]]></phrase>
   <phrase title="dbtech_shop_buyback" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Buyback]]></phrase>
-  <phrase title="dbtech_shop_buyback_price" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Sell-back value]]></phrase>
+  <phrase title="dbtech_shop_buyback_price" addon_id="DBTech/Shop" version_id="906040970" version_string="6.4.9"><![CDATA[回收价格]]></phrase>
   <phrase title="dbtech_shop_buyback_time" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Sell-back limit]]></phrase>
   <phrase title="dbtech_shop_buyer" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Buyer]]></phrase>
   <phrase title="dbtech_shop_buyer_rating" addon_id="DBTech/Shop" version_id="906040970" version_string="6.4.9"><![CDATA[卖家评分]]></phrase>
@@ -4026,8 +4038,6 @@ Message: {message}]]></phrase>
   <phrase title="dbtech_shop_item_duration_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[道具有效期]]></phrase>
   <phrase title="dbtech_shop_item_exclusive_descr" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[如果用户已经拥有相同类型的道具，则阻止购买此道具。]]></phrase>
   <phrase title="dbtech_shop_item_exclusive_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[排他]]></phrase>
-  <phrase title="dbtech_shop_item_field_desc.period_of_validity" addon_id="" version_id="0" version_string=""><![CDATA[道具购买后有效的期限，请在此期限内使用！]]></phrase>
-  <phrase title="dbtech_shop_item_field_title.period_of_validity" addon_id="" version_id="0" version_string=""><![CDATA[有效期]]></phrase>
   <phrase title="dbtech_shop_item_fields" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[道具字段]]></phrase>
   <phrase title="dbtech_shop_item_giftable_descr" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[该物品是否可以授予他人。]]></phrase>
   <phrase title="dbtech_shop_item_giftable_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[可赠送]]></phrase>
@@ -4117,6 +4127,9 @@ Message: {message}]]></phrase>
   <phrase title="dbtech_shop_item_tag.3" addon_id="" version_id="0" version_string=""><![CDATA[自动顶贴神奇！不用怕沉贴啦！]]></phrase>
   <phrase title="dbtech_shop_item_tag.4" addon_id="" version_id="0" version_string=""><![CDATA[不用充VIP也可以更改用户名？来看看！]]></phrase>
   <phrase title="dbtech_shop_item_tag.6" addon_id="" version_id="0" version_string=""><![CDATA[创建属于自己的兴趣版块！]]></phrase>
+  <phrase title="dbtech_shop_item_tag.7" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="dbtech_shop_item_tag.8" addon_id="" version_id="0" version_string=""><![CDATA[手动顶贴]]></phrase>
+  <phrase title="dbtech_shop_item_tag.9" addon_id="" version_id="0" version_string=""><![CDATA[为你的主题添加一个高亮效果]]></phrase>
   <phrase title="dbtech_shop_item_tagline" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[道具标语]]></phrase>
   <phrase title="dbtech_shop_item_tagline_explain" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[一个简短的标语（140个字符左右），简要解释道具。这将显示在道具列表中。]]></phrase>
   <phrase title="dbtech_shop_item_thread_create" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[一个新道具上架了： [url={item_link}][plain]{title}[/plain][/url] - [plain]{tag_line}[/plain]
@@ -14097,6 +14110,7 @@ JS最近更新（Unix时间），更改后强制刷新 JS缓存，即使不更�
   <phrase title="resource_prefix.69" addon_id="" version_id="0" version_string=""><![CDATA[整合包]]></phrase>
   <phrase title="resource_prefix.70" addon_id="" version_id="0" version_string=""><![CDATA[单机资源]]></phrase>
   <phrase title="resource_prefix.71" addon_id="" version_id="0" version_string=""><![CDATA[Yuuka]]></phrase>
+  <phrase title="resource_prefix.72" addon_id="" version_id="0" version_string=""><![CDATA[Skript]]></phrase>
   <phrase title="resource_prefix_desc.22" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_desc.23" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_desc.24" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -14143,6 +14157,7 @@ JS最近更新（Unix时间），更改后强制刷新 JS缓存，即使不更�
   <phrase title="resource_prefix_desc.69" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_desc.70" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_desc.71" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="resource_prefix_desc.72" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_group.10" addon_id="" version_id="0" version_string=""><![CDATA[材质皮肤]]></phrase>
   <phrase title="resource_prefix_group.11" addon_id="" version_id="0" version_string=""><![CDATA[MC插件]]></phrase>
   <phrase title="resource_prefix_group.12" addon_id="" version_id="0" version_string=""><![CDATA[BDS]]></phrase>
@@ -14197,6 +14212,7 @@ JS最近更新（Unix时间），更改后强制刷新 JS缓存，即使不更�
   <phrase title="resource_prefix_help.69" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_help.70" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_help.71" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="resource_prefix_help.72" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="responsive_width" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[响应式宽度]]></phrase>
   <phrase title="restart_import" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[重启导入]]></phrase>
   <phrase title="restore" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[还原]]></phrase>
@@ -14625,6 +14641,7 @@ JS最近更新（Unix时间），更改后强制刷新 JS缓存，即使不更�
   <phrase title="smilie_category_title.2" addon_id="" version_id="0" version_string=""><![CDATA[贴吧]]></phrase>
   <phrase title="smilie_category_title.6" addon_id="" version_id="0" version_string=""><![CDATA[史蒂夫]]></phrase>
   <phrase title="smilie_category_title.7" addon_id="" version_id="0" version_string=""><![CDATA[小人头]]></phrase>
+  <phrase title="smilie_category_title.8" addon_id="" version_id="0" version_string=""><![CDATA[花]]></phrase>
   <phrase title="smilie_category_title.uncategorized" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[未分类表情符号]]></phrase>
   <phrase title="smilie_pre_import_directory_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[使用此项扫描可存取的目录下所有的表情符号并为每个表情汇入的符号手动输入资料。确保每个表情符号上传执行这步骤。]]></phrase>
   <phrase title="smilie_pre_import_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[使用此项汇入包含表情符号设定的XML。进行下一步之前。应该先上传所有表情符号图片到服务器上。]]></phrase>
@@ -18373,7 +18390,7 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="your_existing_password_is_not_correct" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[当前输入的密码不正确。]]></phrase>
   <phrase title="your_full_account_details_not_currently_editable" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[您的帐户详细信息当前不可编辑。]]></phrase>
   <phrase title="your_import_has_been_completed_successfully" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[您的导入已成功完成。]]></phrase>
-  <phrase title="your_import_is_now_complete_and_necessary_caches_have_been_rebuilt" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[您的导入现在已完成, 并且已重建必要的缓存。]]></phrase>
+  <phrase title="your_import_is_now_complete_and_necessary_caches_have_been_rebuilt" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[您的导入现在已完成，并且已重建必要的缓存。]]></phrase>
   <phrase title="your_ip_address_has_been_banned" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[您的 IP 地址已被封禁。]]></phrase>
   <phrase title="your_license_has_now_expired_explain" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[您的许可证现已过期。 您将无法访问新版本或支持。 要继续获取最新更新并获得支持，您应<a href="https://xenforo.com/customers" target="_blank">立即续订</a>。]]></phrase>
   <phrase title="your_message_has_been_posted" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[帖子发布成功！]]></phrase>
