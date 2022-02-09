@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<language title="繁體中文 (zh-CHT)" date_format="Y/m/d" time_format="A g:i" currency_format="{symbol}{value}" week_start="0" decimal_point="." thousands_separator="," label_separator="：" comma_separator="、" ellipsis="……" parenthesis_open="（" parenthesis_close="）" language_code="zh-Hant" text_direction="LTR" user_selectable="1" base_version_id="2020770" export_version="2">
+<language title="繁體中文 (zh-CHT)" date_format="Y/m/d" time_format="A g:i" currency_format="{symbol}{value}" week_start="0" decimal_point="." thousands_separator="," label_separator="：" comma_separator="、" ellipsis="……" parenthesis_open="（" parenthesis_close="）" language_code="zh-Hant" text_direction="LTR" user_selectable="1" base_version_id="2020870" export_version="2">
   <phrase title="1_day_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[1 天前]]></phrase>
   <phrase title="1_month_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[1 個月前]]></phrase>
   <phrase title="1_time" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[1 次]]></phrase>
@@ -15,14 +15,6 @@
   <phrase title="3_months_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[3 個月前]]></phrase>
   <phrase title="6_months_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[半年前]]></phrase>
   <phrase title="9_months_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[9 個月前]]></phrase>
-  <phrase title="CMTV_Code_code_block_highlight" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[突出显示行]]></phrase>
-  <phrase title="CMTV_Code_code_block_highlight_explain" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[可选。要突出显示的行号。例如，“2，4-6”将突出显示第2、4、5和6行。]]></phrase>
-  <phrase title="CMTV_Code_code_block_title" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[代码模块标题]]></phrase>
-  <phrase title="CMTV_Code_code_block_title_explain" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[可选的。 如果指定，默认代码语言名称将替换为代码块标题处的标题文本。 例如，可用于指定文件名。]]></phrase>
-  <phrase title="CMTV_Code_collapse" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[折叠]]></phrase>
-  <phrase title="CMTV_Code_copied" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[代码已复制到剪贴板。]]></phrase>
-  <phrase title="CMTV_Code_copy" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[复制]]></phrase>
-  <phrase title="CMTV_Code_expand" addon_id="CMTV/Code" version_id="2020070" version_string="2.2.0"><![CDATA[扩展]]></phrase>
   <phrase title="EWRporta_add_author" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Add author]]></phrase>
   <phrase title="EWRporta_articles" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Articles]]></phrase>
   <phrase title="EWRporta_authors" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Authors]]></phrase>
@@ -623,13 +615,15 @@
   <phrase title="af_as_award_cat_desc.2" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="af_as_award_cat_desc.3" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="af_as_award_cat_desc.4" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="af_as_award_cat_desc.5" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="af_as_award_cat_desc.uncategorized" addon_id="AddonFlare/AwardSystem" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="af_as_award_cat_display_mode_hidden" addon_id="AddonFlare/AwardSystem" version_id="1010070" version_string="1.1.0"><![CDATA[Hidden]]></phrase>
   <phrase title="af_as_award_cat_display_mode_step" addon_id="AddonFlare/AwardSystem" version_id="1010070" version_string="1.1.0"><![CDATA[Step by step]]></phrase>
   <phrase title="af_as_award_cat_display_mode_visible" addon_id="AddonFlare/AwardSystem" version_id="1010070" version_string="1.1.0"><![CDATA[Visible]]></phrase>
-  <phrase title="af_as_award_cat_title.2" addon_id="" version_id="0" version_string=""><![CDATA[特别奖章]]></phrase>
+  <phrase title="af_as_award_cat_title.2" addon_id="" version_id="0" version_string=""><![CDATA[纪念勋章]]></phrase>
   <phrase title="af_as_award_cat_title.3" addon_id="" version_id="0" version_string=""><![CDATA[贡献勋章]]></phrase>
   <phrase title="af_as_award_cat_title.4" addon_id="" version_id="0" version_string=""><![CDATA[身份勋章]]></phrase>
+  <phrase title="af_as_award_cat_title.5" addon_id="" version_id="0" version_string=""><![CDATA[活动奖章]]></phrase>
   <phrase title="af_as_award_cat_title.uncategorized" addon_id="AddonFlare/AwardSystem" version_id="1000070" version_string="1.0.0"><![CDATA[Uncategorized awards]]></phrase>
   <phrase title="af_as_award_category" addon_id="AddonFlare/AwardSystem" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Award category]]></phrase>
   <phrase title="af_as_award_desc.1" addon_id="" version_id="0" version_string=""><![CDATA[经本站检验认证的MC正版玩家！]]></phrase>
@@ -641,9 +635,10 @@
   <phrase title="af_as_award_desc.15" addon_id="" version_id="0" version_string=""><![CDATA[2021年人气服务器评比活动获奖者]]></phrase>
   <phrase title="af_as_award_desc.16" addon_id="" version_id="0" version_string=""><![CDATA[陪伴三年，共同走过]]></phrase>
   <phrase title="af_as_award_desc.17" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="af_as_award_desc.18" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS会员数破2W纪念]]></phrase>
+  <phrase title="af_as_award_desc.18" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS会员数破两万纪念]]></phrase>
   <phrase title="af_as_award_desc.19" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS社区认证新闻小组]]></phrase>
   <phrase title="af_as_award_desc.2" addon_id="" version_id="0" version_string=""><![CDATA[对本站的建设发展作出重大贡献]]></phrase>
+  <phrase title="af_as_award_desc.20" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS会员数破三万纪念]]></phrase>
   <phrase title="af_as_award_desc.3" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS社区认证搬运组]]></phrase>
   <phrase title="af_as_award_desc.4" addon_id="" version_id="0" version_string=""><![CDATA[在材质领域有优秀精华的原创作品或卓有名誉]]></phrase>
   <phrase title="af_as_award_desc.5" addon_id="" version_id="0" version_string=""><![CDATA[长期活跃在论坛中的积极分子]]></phrase>
@@ -666,6 +661,7 @@
   <phrase title="af_as_award_title.18" addon_id="" version_id="0" version_string=""><![CDATA[2W纪念]]></phrase>
   <phrase title="af_as_award_title.19" addon_id="" version_id="0" version_string=""><![CDATA[新闻组]]></phrase>
   <phrase title="af_as_award_title.2" addon_id="" version_id="0" version_string=""><![CDATA[突出贡献]]></phrase>
+  <phrase title="af_as_award_title.20" addon_id="" version_id="0" version_string=""><![CDATA[3W纪念]]></phrase>
   <phrase title="af_as_award_title.3" addon_id="" version_id="0" version_string=""><![CDATA[搬运组]]></phrase>
   <phrase title="af_as_award_title.4" addon_id="" version_id="0" version_string=""><![CDATA[材质专家]]></phrase>
   <phrase title="af_as_award_title.5" addon_id="" version_id="0" version_string=""><![CDATA[积极分子]]></phrase>
@@ -1864,11 +1860,12 @@ To support recurring billing and automatically reversing purchases when a paymen
   <phrase title="custom_bb_code_desc.prbreak" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[]]></phrase>
   <phrase title="custom_bb_code_desc.prebreak" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[]]></phrase>
   <phrase title="custom_bb_code_desc.product" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[BB code for displaying products.]]></phrase>
+  <phrase title="custom_bb_code_desc.status" addon_id="" version_id="0" version_string=""><![CDATA[内容填写服务器地址:端口，如果是Java服则在等号后填入java]]></phrase>
   <phrase title="custom_bb_code_desc.table2" addon_id="" version_id="0" version_string=""><![CDATA[mcplus专属多彩表格]]></phrase>
   <phrase title="custom_bb_code_desc.td2" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="custom_bb_code_desc.toanchor" addon_id="" version_id="0" version_string=""><![CDATA[前往指定锚点]]></phrase>
   <phrase title="custom_bb_code_desc.tr2" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="custom_bb_code_example.anchor" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="custom_bb_code_example.anchor" addon_id="" version_id="0" version_string=""><![CDATA[[ANCHOR=aboutus]关于我们[/ANCHOR]]]></phrase>
   <phrase title="custom_bb_code_example.fees" addon_id="MJ/Credits" version_id="1020502" version_string="1.2.5"><![CDATA[[FEES=5]查看内容需要花费5积分。[/FEES]]]></phrase>
   <phrase title="custom_bb_code_example.line" addon_id="" version_id="0" version_string=""><![CDATA[这是划分线上方
 [LINE][/LINE]
@@ -1877,11 +1874,13 @@ To support recurring billing and automatically reversing purchases when a paymen
   <phrase title="custom_bb_code_example.prbreak" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[]]></phrase>
   <phrase title="custom_bb_code_example.prebreak" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[]]></phrase>
   <phrase title="custom_bb_code_example.product" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[[PRODUCT=product, X]Product BB Code[/PRODUCT]]]></phrase>
+  <phrase title="custom_bb_code_example.status" addon_id="" version_id="0" version_string=""><![CDATA[[STATUS=]play.imc.re:19132[/STATUS]
+[STATUS=java]play.imc.re:19132[/STATUS]]]></phrase>
   <phrase title="custom_bb_code_example.table2" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="custom_bb_code_example.td2" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="custom_bb_code_example.toanchor" addon_id="" version_id="0" version_string=""><![CDATA[[TOANCHOR=233] 链接到本网页里name=233的锚点[/TOANCHOR]]]></phrase>
+  <phrase title="custom_bb_code_example.toanchor" addon_id="" version_id="0" version_string=""><![CDATA[[TOANCHOR=aboutus]关于我们[/TOANCHOR]]]></phrase>
   <phrase title="custom_bb_code_example.tr2" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="custom_bb_code_output.anchor" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="custom_bb_code_output.anchor" addon_id="" version_id="0" version_string=""><![CDATA[<a id="aboutus">关于我们</a>]]></phrase>
   <phrase title="custom_bb_code_output.fees" addon_id="MJ/Credits" version_id="1020502" version_string="1.2.5"><![CDATA[]]></phrase>
   <phrase title="custom_bb_code_output.line" addon_id="" version_id="0" version_string=""><![CDATA[这是划分线上方
 <hr />
@@ -1890,17 +1889,19 @@ To support recurring billing and automatically reversing purchases when a paymen
   <phrase title="custom_bb_code_output.prbreak" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[]]></phrase>
   <phrase title="custom_bb_code_output.prebreak" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[]]></phrase>
   <phrase title="custom_bb_code_output.product" addon_id="DBTech/eCommerce" version_id="1040070" version_string="1.4.0"><![CDATA[]]></phrase>
+  <phrase title="custom_bb_code_output.status" addon_id="" version_id="0" version_string=""><![CDATA[<img src="https://motdbe.blackbe.xyz/status_img/?host=play.imc.re:19132" alt="MOTD"/>]]></phrase>
   <phrase title="custom_bb_code_output.table2" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="custom_bb_code_output.td2" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="custom_bb_code_output.toanchor" addon_id="" version_id="0" version_string=""><![CDATA[<a href= "#233"> 链接到本网页里name=233的锚点 </a>]]></phrase>
+  <phrase title="custom_bb_code_output.toanchor" addon_id="" version_id="0" version_string=""><![CDATA[<a href="#aboutus">关于我们</a>]]></phrase>
   <phrase title="custom_bb_code_output.tr2" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="custom_bb_code_title.anchor" addon_id="" version_id="0" version_string=""><![CDATA[锚点]]></phrase>
+  <phrase title="custom_bb_code_title.anchor" addon_id="" version_id="0" version_string=""><![CDATA[设置锚点]]></phrase>
   <phrase title="custom_bb_code_title.fees" addon_id="MJ/Credits" version_id="1020502" version_string="1.2.5"><![CDATA[内容收费]]></phrase>
   <phrase title="custom_bb_code_title.line" addon_id="" version_id="0" version_string=""><![CDATA[分隔线]]></phrase>
   <phrase title="custom_bb_code_title.md" addon_id="" version_id="0" version_string=""><![CDATA[Markdown]]></phrase>
   <phrase title="custom_bb_code_title.prbreak" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[[8WR] XenPorta Prbreak]]></phrase>
   <phrase title="custom_bb_code_title.prebreak" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[[8WR] XenPorta Prebreak]]></phrase>
   <phrase title="custom_bb_code_title.product" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[Product embed]]></phrase>
+  <phrase title="custom_bb_code_title.status" addon_id="" version_id="0" version_string=""><![CDATA[服务器状态]]></phrase>
   <phrase title="custom_bb_code_title.table2" addon_id="" version_id="0" version_string=""><![CDATA[表格]]></phrase>
   <phrase title="custom_bb_code_title.td2" addon_id="" version_id="0" version_string=""><![CDATA[td2]]></phrase>
   <phrase title="custom_bb_code_title.toanchor" addon_id="" version_id="0" version_string=""><![CDATA[前往锚点]]></phrase>
@@ -2218,6 +2219,7 @@ If no products are chosen, this coupon applies to <b>all</b> products.]]></phras
   <phrase title="dbtech_ecommerce_coupon_remaining_uses" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[Remaining uses]]></phrase>
   <phrase title="dbtech_ecommerce_coupon_remaining_uses_explain" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[This setting determines how many uses this coupon has remaining before it is no longer available for use.<br />
 -1 = Unlimited uses]]></phrase>
+  <phrase title="dbtech_ecommerce_coupon_title.1" addon_id="" version_id="0" version_string=""><![CDATA[测试券]]></phrase>
   <phrase title="dbtech_ecommerce_coupon_type" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[Coupon type]]></phrase>
   <phrase title="dbtech_ecommerce_coupon_type_explain" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[Determines what sort of discount is applied to the customer's cart; a percent off their total, or a set discount.]]></phrase>
   <phrase title="dbtech_ecommerce_coupon_used_between" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[Coupon used between]]></phrase>
@@ -2693,10 +2695,19 @@ If you want to download the latest version, please renew your license.]]></phras
   <phrase title="dbtech_ecommerce_product_copyright_info_explain" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[If this product has any copyright information and/or visible branding, you can disclose that here.]]></phrase>
   <phrase title="dbtech_ecommerce_product_count" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[Product count]]></phrase>
   <phrase title="dbtech_ecommerce_product_count_between" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[Product count is between]]></phrase>
-  <phrase title="dbtech_ecommerce_product_desc.1" addon_id="" version_id="0" version_string=""><![CDATA[由夏五郎先生友情赞助的免费Minecraft服务器/云主机]]></phrase>
   <phrase title="dbtech_ecommerce_product_desc.2" addon_id="" version_id="0" version_string=""><![CDATA[不是多好的东西，代表一份心意~]]></phrase>
+  <phrase title="dbtech_ecommerce_product_desc.3" addon_id="" version_id="0" version_string=""><![CDATA[玩家可以定制自己的皮肤，
+获取一个属于自己的实木手办模型，
+底部会附带MineBBS的标记~]]></phrase>
+  <phrase title="dbtech_ecommerce_product_desc.5" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="dbtech_ecommerce_product_desc.6" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="dbtech_ecommerce_product_desc.7" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="dbtech_ecommerce_product_desc.8" addon_id="" version_id="0" version_string=""><![CDATA[简单实用的MC火把灯，突破次元壁吧！
+安装在家中的墙壁上，仿佛进入了真实的MC世界！]]></phrase>
   <phrase title="dbtech_ecommerce_product_description" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[Product description]]></phrase>
   <phrase title="dbtech_ecommerce_product_downloadable_versions" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[Downloadable versions]]></phrase>
+  <phrase title="dbtech_ecommerce_product_field_desc.phone_number" addon_id="" version_id="0" version_string=""><![CDATA[该信息仅用于发货，不会泄露。]]></phrase>
+  <phrase title="dbtech_ecommerce_product_field_title.phone_number" addon_id="" version_id="0" version_string=""><![CDATA[手机号码]]></phrase>
   <phrase title="dbtech_ecommerce_product_field_values" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[Product field values]]></phrase>
   <phrase title="dbtech_ecommerce_product_fields" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[Product fields]]></phrase>
   <phrase title="dbtech_ecommerce_product_filters" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[Product filters]]></phrase>
@@ -2723,8 +2734,12 @@ If you want to download the latest version, please renew your license.]]></phras
   <phrase title="dbtech_ecommerce_product_screenshots" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[Product screenshots]]></phrase>
   <phrase title="dbtech_ecommerce_product_specification_explain" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[You can provide a list of all the specifications of this product. This will be displayed in a separate tab on the product information page.]]></phrase>
   <phrase title="dbtech_ecommerce_product_specifications" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[Product specifications]]></phrase>
-  <phrase title="dbtech_ecommerce_product_tag.1" addon_id="" version_id="0" version_string=""><![CDATA[五郎赞助免费服务器]]></phrase>
   <phrase title="dbtech_ecommerce_product_tag.2" addon_id="" version_id="0" version_string=""><![CDATA[定制32G纪念U盘]]></phrase>
+  <phrase title="dbtech_ecommerce_product_tag.3" addon_id="" version_id="0" version_string=""><![CDATA[玩家可以定制自己的皮肤，获取一个属于自己的实木手办模型]]></phrase>
+  <phrase title="dbtech_ecommerce_product_tag.5" addon_id="" version_id="0" version_string=""><![CDATA[感谢五郎，老板大气]]></phrase>
+  <phrase title="dbtech_ecommerce_product_tag.6" addon_id="" version_id="0" version_string=""><![CDATA[物美价廉五郎云赞助的VPS独立云主机服务器]]></phrase>
+  <phrase title="dbtech_ecommerce_product_tag.7" addon_id="" version_id="0" version_string=""><![CDATA[高性价比面板服务器储值券，直接充入余额！]]></phrase>
+  <phrase title="dbtech_ecommerce_product_tag.8" addon_id="" version_id="0" version_string=""><![CDATA[简单实用的MC火把灯，突破次元壁吧！]]></phrase>
   <phrase title="dbtech_ecommerce_product_tagline" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[Product tagline]]></phrase>
   <phrase title="dbtech_ecommerce_product_tagline_explain" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[A short blob (around 140 characters) that briefly explains the product. This will be displayed in the product list.]]></phrase>
   <phrase title="dbtech_ecommerce_product_temporary_additional_user_groups" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[Temporary additional user groups]]></phrase>
@@ -2768,7 +2783,6 @@ If you want to download the latest version, please renew your license.]]></phras
   <phrase title="dbtech_ecommerce_product_variation" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[Product variation]]></phrase>
   <phrase title="dbtech_ecommerce_product_variations" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[Product variations]]></phrase>
   <phrase title="dbtech_ecommerce_product_version" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[Product version]]></phrase>
-  <phrase title="dbtech_ecommerce_product_version.1_001" addon_id="" version_id="0" version_string=""><![CDATA[1H2G]]></phrase>
   <phrase title="dbtech_ecommerce_product_watch" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[Product watch]]></phrase>
   <phrase title="dbtech_ecommerce_product_watched" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[Product watched]]></phrase>
   <phrase title="dbtech_ecommerce_product_x" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[Product '{title}']]></phrase>
@@ -3886,8 +3900,6 @@ Message: {message}]]></phrase>
   <phrase title="dbtech_shop_item_duration_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item Duration]]></phrase>
   <phrase title="dbtech_shop_item_exclusive_descr" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Prevents buying this item if the user already owns an item of the same Item Type.]]></phrase>
   <phrase title="dbtech_shop_item_exclusive_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Exclusive]]></phrase>
-  <phrase title="dbtech_shop_item_field_desc.period_of_validity" addon_id="" version_id="0" version_string=""><![CDATA[道具购买后有效的期限，请在此期限内使用！]]></phrase>
-  <phrase title="dbtech_shop_item_field_title.period_of_validity" addon_id="" version_id="0" version_string=""><![CDATA[有效期]]></phrase>
   <phrase title="dbtech_shop_item_fields" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item fields]]></phrase>
   <phrase title="dbtech_shop_item_giftable_descr" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Whether this item can be granted to someone else.]]></phrase>
   <phrase title="dbtech_shop_item_giftable_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Giftable]]></phrase>
@@ -3973,10 +3985,14 @@ Maximum stock must be greater or equal to currently remaining stock.
 If the remaining stock is -1 (Unlimited), the maximum stock will automatically change to -1 upon saving.]]></phrase>
   <phrase title="dbtech_shop_item_stock_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Stock]]></phrase>
   <phrase title="dbtech_shop_item_tag.1" addon_id="" version_id="0" version_string=""><![CDATA[在你的个人空间播放你喜欢的BGM！]]></phrase>
+  <phrase title="dbtech_shop_item_tag.10" addon_id="" version_id="0" version_string=""><![CDATA[让你的主题亮起来！]]></phrase>
   <phrase title="dbtech_shop_item_tag.2" addon_id="" version_id="0" version_string=""><![CDATA[置顶你的服务器宣传贴！]]></phrase>
   <phrase title="dbtech_shop_item_tag.3" addon_id="" version_id="0" version_string=""><![CDATA[自动顶贴神奇！不用怕沉贴啦！]]></phrase>
   <phrase title="dbtech_shop_item_tag.4" addon_id="" version_id="0" version_string=""><![CDATA[不用充VIP也可以更改用户名？来看看！]]></phrase>
   <phrase title="dbtech_shop_item_tag.6" addon_id="" version_id="0" version_string=""><![CDATA[创建属于自己的兴趣版块！]]></phrase>
+  <phrase title="dbtech_shop_item_tag.7" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="dbtech_shop_item_tag.8" addon_id="" version_id="0" version_string=""><![CDATA[手动顶贴]]></phrase>
+  <phrase title="dbtech_shop_item_tag.9" addon_id="" version_id="0" version_string=""><![CDATA[为你的主题添加一个高亮效果]]></phrase>
   <phrase title="dbtech_shop_item_tagline" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item tagline]]></phrase>
   <phrase title="dbtech_shop_item_tagline_explain" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[A short blob (around 140 characters) that briefly explains the item. This will be displayed in the item list.]]></phrase>
   <phrase title="dbtech_shop_item_thread_create" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[A new item is available: [url={item_link}][plain]{title}[/plain][/url] - [plain]{tag_line}[/plain]
@@ -8932,13 +8948,36 @@ If enabled, users will be able to pay with Apple Pay, Android Pay, Google Pay an
   <phrase title="extension_x_already_defined" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[The extension '{name}' has already been defined.]]></phrase>
   <phrase title="extra" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[額外]]></phrase>
   <phrase title="extra_attributes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[額外屬性]]></phrase>
-  <phrase title="extra_copyright" addon_id="XF" version_id="2020371" version_string="2.2.3 Patch 1"><![CDATA[論壇程序：Xenforo | 主題外觀：Themehouse<br>
-關注我們：<a href="https://space.bilibili.com/29023601" class="u-concealed" rel="nofollow">Bilibili</a> | <a href="https://twitter.com/McShareTeam" class="u-concealed" rel="nofollow">Twitter</a> | <a href="https://github.com/SuperYYT" class="u-concealed" rel="nofollow">Github</a> | <a href="http://weibo.com/5679272983/" class="u-concealed" rel="nofollow">Weibo</a><br>
+  <phrase title="extra_copyright" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[論壇程序：Xenforo | 主題外觀：Themehouse<br>
+關注我們：<a href="https://space.bilibili.com/512584014" rel="nofollow">Bilibili</a> | <a href="https://twitter.com/McShareTeam" rel="nofollow">Twitter</a> | <a href="https://github.com/McShare" rel="nofollow">Github</a><br>
 <script type="text/javascript">
     copyright=new Date();
     update=copyright.getFullYear();
     document.write("&copy; 2018-"+ update + " MineBBS 版權所有");
-</script>]]></phrase>
+</script>
+<script>
+(function(){
+var src = "https://s.ssl.qhres2.com/ssl/ab77b6ea7f3fbf79.js";
+document.write('<script src="' + src + '" id="sozz"><\/script>');
+})();
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-138902227-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-138902227-1');
+</script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?b8de4830f7758e27db7bddfc14d6df4b";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<script data-ad-client="ca-pub-1946589229745980" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>]]></phrase>
   <phrase title="extra_email_footer_html" addon_id="XF" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Extra email footer (HTML)]]></phrase>
   <phrase title="extra_email_footer_plain_text" addon_id="XF" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Extra email footer (plain text)]]></phrase>
   <phrase title="extra_footer_copyright" addon_id="XF" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Extra footer copyright]]></phrase>
@@ -9369,14 +9408,8 @@ If you are sure you want to continue with the import, select the 'Skip import ch
   <phrase title="inline_moderation_merge_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[快速管理 - 合併主題]]></phrase>
   <phrase title="inline_moderation_move_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[快速管理 - 移動文章]]></phrase>
   <phrase title="inline_moderation_move_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[快速管理 - 移動主題]]></phrase>
-  <phrase title="inline_moderation_post_change_author" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Inline moderation - Change post author]]></phrase>
-  <phrase title="inline_moderation_profile_post_change_author" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Inline moderation - Change profile post author]]></phrase>
-  <phrase title="inline_moderation_thread_change_author" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Inline moderation - Change thread author]]></phrase>
   <phrase title="inline_moderation_thread_prefix" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[快速管理 - 套用主題分類]]></phrase>
   <phrase title="inline_moderation_thread_type" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Inline moderation - Change thread types]]></phrase>
-  <phrase title="inline_moderation_xfmg_album_change_owner" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Inline moderation - Change album owner]]></phrase>
-  <phrase title="inline_moderation_xfmg_comment_change_author" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Inline moderation - Change comment author]]></phrase>
-  <phrase title="inline_moderation_xfmg_media_change_author" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Inline moderation - Change media author]]></phrase>
   <phrase title="inline_spoiler" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Inline spoiler]]></phrase>
   <phrase title="insert" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[插入]]></phrase>
   <phrase title="insert_all" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[插入全部]]></phrase>
@@ -10315,7 +10348,6 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_event.5" addon_id="" version_id="0" version_string=""><![CDATA[初始资金]]></phrase>
   <phrase title="mjc_event.50" addon_id="" version_id="0" version_string=""><![CDATA[小水贴]]></phrase>
   <phrase title="mjc_event.51" addon_id="" version_id="0" version_string=""><![CDATA[大水贴]]></phrase>
-  <phrase title="mjc_event.52" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event.53" addon_id="" version_id="0" version_string=""><![CDATA[推广奖励]]></phrase>
   <phrase title="mjc_event.54" addon_id="" version_id="0" version_string=""><![CDATA[新动态]]></phrase>
   <phrase title="mjc_event.55" addon_id="" version_id="0" version_string=""><![CDATA[发布新闻]]></phrase>
@@ -10468,7 +10500,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_event_desc.20" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_desc.21" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_desc.24" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="mjc_event_desc.25" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="mjc_event_desc.25" addon_id="" version_id="0" version_string=""><![CDATA[春节快乐！欢迎登陆MineBBS~]]></phrase>
   <phrase title="mjc_event_desc.3" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_desc.31" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_desc.34" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -10488,7 +10520,6 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_event_desc.5" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_desc.50" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_desc.51" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="mjc_event_desc.52" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_desc.53" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_desc.54" addon_id="" version_id="0" version_string=""><![CDATA[发布了一条新空间动态]]></phrase>
   <phrase title="mjc_event_desc.55" addon_id="" version_id="0" version_string=""><![CDATA[在新闻资讯板块发布了一条新闻贴]]></phrase>
@@ -10710,36 +10741,8 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mod_log.dbtech_shop_trade_post_warning_expired" addon_id="DBTech/Shop" version_id="906010015" version_string="6.1.0 Alpha 5"><![CDATA[Trade post author warning expired]]></phrase>
   <phrase title="mod_log.dbtech_shop_trade_post_warning_given" addon_id="DBTech/Shop" version_id="906010015" version_string="6.1.0 Alpha 5"><![CDATA[Trade post author given warning]]></phrase>
   <phrase title="mod_log.dbtech_shop_trade_post_warning_removed" addon_id="DBTech/Shop" version_id="906010015" version_string="6.1.0 Alpha 5"><![CDATA[Trade post author warning removed]]></phrase>
-  <phrase title="mod_log.graph_change_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Datalog time bumped]]></phrase>
-  <phrase title="mod_log.graph_change_date" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Datalog date changed]]></phrase>
-  <phrase title="mod_log.graph_change_date_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Datalog date changed. Time was also bumped.]]></phrase>
-  <phrase title="mod_log.graph_change_date_time" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Datalog date and time changed]]></phrase>
-  <phrase title="mod_log.graph_change_date_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Datalog date and time changed. Time was also bumped.]]></phrase>
-  <phrase title="mod_log.graph_change_ownr" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Datalog owner changed]]></phrase>
-  <phrase title="mod_log.graph_change_ownr_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Datalog owner changed. Time was also bumped.]]></phrase>
-  <phrase title="mod_log.graph_change_ownr_date" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Datalog owner and date changed]]></phrase>
-  <phrase title="mod_log.graph_change_ownr_date_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Datalog owner and date changed. Time was also bumped.]]></phrase>
-  <phrase title="mod_log.graph_change_ownr_date_time" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Datalog owner, date and time changed]]></phrase>
-  <phrase title="mod_log.graph_change_ownr_date_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Datalog owner, date and time changed. Time was also bumped.]]></phrase>
-  <phrase title="mod_log.graph_change_ownr_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Datalog owner and time changed. Time was also bumped.]]></phrase>
-  <phrase title="mod_log.graph_change_time" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Datalog time changed]]></phrase>
-  <phrase title="mod_log.graph_change_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Datalog time changed. Time was also bumped.]]></phrase>
   <phrase title="mod_log.post_approve" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[文章已核准]]></phrase>
   <phrase title="mod_log.post_attachment_deleted" addon_id="XF" version_id="2010870" version_string="2.1.8"><![CDATA[Post attachment deleted]]></phrase>
-  <phrase title="mod_log.post_change_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Post time bumped]]></phrase>
-  <phrase title="mod_log.post_change_date" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Post date changed]]></phrase>
-  <phrase title="mod_log.post_change_date_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Post date changed. Time was also bumped.]]></phrase>
-  <phrase title="mod_log.post_change_date_time" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Post date and time changed]]></phrase>
-  <phrase title="mod_log.post_change_date_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Post date and time changed. Time was also bumped.]]></phrase>
-  <phrase title="mod_log.post_change_ownr" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Post owner changed]]></phrase>
-  <phrase title="mod_log.post_change_ownr_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Post owner changed. Time was also bumped.]]></phrase>
-  <phrase title="mod_log.post_change_ownr_date" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Post owner and date changed]]></phrase>
-  <phrase title="mod_log.post_change_ownr_date_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Post owner and date changed. Time was also bumped.]]></phrase>
-  <phrase title="mod_log.post_change_ownr_date_time" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Post owner, date and time changed]]></phrase>
-  <phrase title="mod_log.post_change_ownr_date_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Post owner, date and time changed. Time was also bumped.]]></phrase>
-  <phrase title="mod_log.post_change_ownr_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Post owner and time changed. Time was also bumped.]]></phrase>
-  <phrase title="mod_log.post_change_time" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Post time changed]]></phrase>
-  <phrase title="mod_log.post_change_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Post time changed. Time was also bumped.]]></phrase>
   <phrase title="mod_log.post_delete_hard" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[文章已永久刪除]]></phrase>
   <phrase title="mod_log.post_delete_soft" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[文章已不開放公開閱覽（原因：{reason}）]]></phrase>
   <phrase title="mod_log.post_edit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[文章已編輯]]></phrase>
@@ -10801,20 +10804,6 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mod_log.resource_version_delete_soft" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Resource version removed from public view (reason: {reason})]]></phrase>
   <phrase title="mod_log.resource_version_edit" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Resource version edited]]></phrase>
   <phrase title="mod_log.thread_approve" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[主題已核准]]></phrase>
-  <phrase title="mod_log.thread_change_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Thread time bumped]]></phrase>
-  <phrase title="mod_log.thread_change_date" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Thread date changed]]></phrase>
-  <phrase title="mod_log.thread_change_date_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Thread date changed. Time was also bumped.]]></phrase>
-  <phrase title="mod_log.thread_change_date_time" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Thread date and time changed]]></phrase>
-  <phrase title="mod_log.thread_change_date_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Thread date and time changed. Time was also bumped.]]></phrase>
-  <phrase title="mod_log.thread_change_ownr" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Thread owner changed]]></phrase>
-  <phrase title="mod_log.thread_change_ownr_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Thread owner changed. Time was also bumped.]]></phrase>
-  <phrase title="mod_log.thread_change_ownr_date" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Thread owner and date changed]]></phrase>
-  <phrase title="mod_log.thread_change_ownr_date_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Thread owner and date changed. Time was also bumped.]]></phrase>
-  <phrase title="mod_log.thread_change_ownr_date_time" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Thread owner, date and time changed]]></phrase>
-  <phrase title="mod_log.thread_change_ownr_date_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Thread owner, date and time changed. Time was also bumped.]]></phrase>
-  <phrase title="mod_log.thread_change_ownr_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Thread owner and time changed. Time was also bumped.]]></phrase>
-  <phrase title="mod_log.thread_change_time" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Thread time changed]]></phrase>
-  <phrase title="mod_log.thread_change_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Thread time changed. Time was also bumped.]]></phrase>
   <phrase title="mod_log.thread_custom_fields_edit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[主題自訂欄位已編輯]]></phrase>
   <phrase title="mod_log.thread_delete_hard" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[主題已永久刪除]]></phrase>
   <phrase title="mod_log.thread_delete_soft" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[主題以不開放公開閱覽（原因：{reason}）]]></phrase>
@@ -10852,48 +10841,6 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mod_log.user_warning_expired" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[會員警告已過期]]></phrase>
   <phrase title="mod_log.user_warning_given" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[會員已給予警告]]></phrase>
   <phrase title="mod_log.user_warning_removed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[會員警告已移除]]></phrase>
-  <phrase title="mod_log.xfmg_album_change_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Album time bumped]]></phrase>
-  <phrase title="mod_log.xfmg_album_change_date" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Album date changed]]></phrase>
-  <phrase title="mod_log.xfmg_album_change_date_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Album date changed. Time was also bumped.]]></phrase>
-  <phrase title="mod_log.xfmg_album_change_date_time" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Album date and time changed]]></phrase>
-  <phrase title="mod_log.xfmg_album_change_date_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Album date and time changed. Time was also bumped.]]></phrase>
-  <phrase title="mod_log.xfmg_album_change_ownr" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Album owner changed]]></phrase>
-  <phrase title="mod_log.xfmg_album_change_ownr_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Album owner changed. Time was also bumped.]]></phrase>
-  <phrase title="mod_log.xfmg_album_change_ownr_date" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Album owner and date changed]]></phrase>
-  <phrase title="mod_log.xfmg_album_change_ownr_date_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Album owner and date changed. Time was also bumped.]]></phrase>
-  <phrase title="mod_log.xfmg_album_change_ownr_date_time" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Album owner, date and time changed]]></phrase>
-  <phrase title="mod_log.xfmg_album_change_ownr_date_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Album owner, date and time changed. Time was also bumped.]]></phrase>
-  <phrase title="mod_log.xfmg_album_change_ownr_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Album owner and time changed. Time was also bumped.]]></phrase>
-  <phrase title="mod_log.xfmg_album_change_time" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Album time changed]]></phrase>
-  <phrase title="mod_log.xfmg_album_change_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Album time changed. Time was also bumped.]]></phrase>
-  <phrase title="mod_log.xfmg_comment_change_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Comment time bumped]]></phrase>
-  <phrase title="mod_log.xfmg_comment_change_date" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Comment date changed]]></phrase>
-  <phrase title="mod_log.xfmg_comment_change_date_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Comment date changed. Time was also bumped.]]></phrase>
-  <phrase title="mod_log.xfmg_comment_change_date_time" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Comment date and time changed]]></phrase>
-  <phrase title="mod_log.xfmg_comment_change_date_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Comment date and time changed. Time was also bumped.]]></phrase>
-  <phrase title="mod_log.xfmg_comment_change_ownr" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Comment owner changed]]></phrase>
-  <phrase title="mod_log.xfmg_comment_change_ownr_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Comment owner changed. Time was also bumped.]]></phrase>
-  <phrase title="mod_log.xfmg_comment_change_ownr_date" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Comment owner and date changed]]></phrase>
-  <phrase title="mod_log.xfmg_comment_change_ownr_date_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Comment owner and date changed. Time was also bumped.]]></phrase>
-  <phrase title="mod_log.xfmg_comment_change_ownr_date_time" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Comment owner, date and time changed]]></phrase>
-  <phrase title="mod_log.xfmg_comment_change_ownr_date_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Comment owner, date and time changed. Time was also bumped.]]></phrase>
-  <phrase title="mod_log.xfmg_comment_change_ownr_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Comment owner and time changed. Time was also bumped.]]></phrase>
-  <phrase title="mod_log.xfmg_comment_change_time" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Comment time changed]]></phrase>
-  <phrase title="mod_log.xfmg_comment_change_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Comment time changed. Time was also bumped.]]></phrase>
-  <phrase title="mod_log.xfmg_media_change_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Media item time bumped]]></phrase>
-  <phrase title="mod_log.xfmg_media_change_date" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Media item date changed]]></phrase>
-  <phrase title="mod_log.xfmg_media_change_date_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Media item date changed. Time was also bumped.]]></phrase>
-  <phrase title="mod_log.xfmg_media_change_date_time" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Media item date and time changed]]></phrase>
-  <phrase title="mod_log.xfmg_media_change_date_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Media item date and time changed. Time was also bumped.]]></phrase>
-  <phrase title="mod_log.xfmg_media_change_ownr" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Media item owner changed]]></phrase>
-  <phrase title="mod_log.xfmg_media_change_ownr_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Media item owner changed. Time was also bumped.]]></phrase>
-  <phrase title="mod_log.xfmg_media_change_ownr_date" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Media item owner and date changed]]></phrase>
-  <phrase title="mod_log.xfmg_media_change_ownr_date_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Media item owner and date changed. Time was also bumped.]]></phrase>
-  <phrase title="mod_log.xfmg_media_change_ownr_date_time" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Media item owner, date and time changed]]></phrase>
-  <phrase title="mod_log.xfmg_media_change_ownr_date_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Media item owner, date and time changed. Time was also bumped.]]></phrase>
-  <phrase title="mod_log.xfmg_media_change_ownr_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Media item owner and time changed. Time was also bumped.]]></phrase>
-  <phrase title="mod_log.xfmg_media_change_time" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Media item time changed]]></phrase>
-  <phrase title="mod_log.xfmg_media_change_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2000770" version_string="2.0.7"><![CDATA[Media item time changed. Time was also bumped.]]></phrase>
   <phrase title="moderate_new_threads_posted_in_this_forum" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[審核此看板內發表的新主題]]></phrase>
   <phrase title="moderate_replies_posted_in_this_forum" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[審核此看板內發表的回覆]]></phrase>
   <phrase title="moderated" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[已審核]]></phrase>
@@ -11022,6 +10969,8 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="nav.defaultRegister" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Register]]></phrase>
   <phrase title="nav.defaultYourAccount" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Your account]]></phrase>
   <phrase title="nav.defaultYourProfile" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Your profile]]></phrase>
+  <phrase title="nav.diamond_checkout" addon_id="" version_id="0" version_string=""><![CDATA[购物车]]></phrase>
+  <phrase title="nav.donate" addon_id="" version_id="0" version_string=""><![CDATA[捐赠我们]]></phrase>
   <phrase title="nav.findThreads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[尋找主題]]></phrase>
   <phrase title="nav.forumList" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[看板列表]]></phrase>
   <phrase title="nav.forums" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[論壇]]></phrase>
@@ -11044,6 +10993,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="nav.server_post" addon_id="" version_id="0" version_string=""><![CDATA[發佈伺服器]]></phrase>
   <phrase title="nav.servers" addon_id="" version_id="0" version_string=""><![CDATA[伺服器]]></phrase>
   <phrase title="nav.siropuReferralContests" addon_id="Siropu/ReferralContests" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Referral Contests]]></phrase>
+  <phrase title="nav.toolcart" addon_id="" version_id="0" version_string=""><![CDATA[购物车]]></phrase>
   <phrase title="nav.unansweredThreads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[未發表回覆的主題]]></phrase>
   <phrase title="nav.watched" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[已關注]]></phrase>
   <phrase title="nav.watchedForums" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[關注的看板]]></phrase>
@@ -11306,9 +11256,9 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="once_your_birthday_has_been_entered_it_cannot_be_changed" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[一旦設定好生日，就不能再改了。如果設定不正確，請聯絡管理員。]]></phrase>
   <phrase title="once_your_registration_has_been_completed_your_content_will_be_posted" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Once your registration has been completed, your content will be posted automatically.]]></phrase>
   <phrase title="one_account_upgrades_expired_renew_now" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[你其中一個帳號升級資格已經過期。<a href="{link}" data-tp-primary="on">馬上續費！</a>]]></phrase>
-  <phrase title="one_click_upgrade_explain" addon_id="XF" version_id="2020670" version_string="2.2.6"><![CDATA[You may upgrade to this version from within your control panel. If you proceed, the new version will be downloaded, files copied, and the upgrade will be applied.<br />
+  <phrase title="one_click_upgrade_explain" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[You may upgrade to this version from within your control panel. If you proceed, the new version will be downloaded, files copied, and the upgrade will be applied.<br />
 <br />
-Note that if a CLI upgrade is recommended, you will be given an opportunity to use that instead of the web upgrader.]]></phrase>
+If a CLI upgrade is recommended, you will be given an opportunity to use that instead of the web upgrader.]]></phrase>
   <phrase title="one_click_upgrades_disabled_upgrade_manually" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[One-click upgrades have been disabled. Please upgrade manually.]]></phrase>
   <phrase title="one_minute_ago" addon_id="XF" global_cache="1" version_id="0" version_string=""><![CDATA[1 分鐘前]]></phrase>
   <phrase title="one_or_more_files_do_not_have_allowed_extension_x" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[One or more files do not have an allowed extension. Allowed extensions include: {allowed}]]></phrase>
@@ -11345,13 +11295,6 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="openssl_php_extension_required_tls_or_ssl_encryption" addon_id="XF" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[The <a href="https://secure.php.net/manual/en/book.openssl.php" target="_blank"><code>openssl</code></a> PHP extension is required to use TLS or SSL encryption.]]></phrase>
   <phrase title="openssl_version" addon_id="XF" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[OpenSSL version]]></phrase>
   <phrase title="optgroup_tags_cannot_be_nested" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Optgroup tags cannot be nested.]]></phrase>
-  <phrase title="option.CMTV_Code_backComp" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[代码插件兼容性]]></phrase>
-  <phrase title="option.CMTV_Code_commonLanguages" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[通用代码语言]]></phrase>
-  <phrase title="option.CMTV_Code_defaultCodeLanguage" addon_id="CMTV/Code" version_id="2020070" version_string="2.2.0"><![CDATA[默认代码语言]]></phrase>
-  <phrase title="option.CMTV_Code_defaultInsertCodeLanguage" addon_id="CMTV/Code" version_id="2020070" version_string="2.2.0"><![CDATA[默认“插入代码”语言]]></phrase>
-  <phrase title="option.CMTV_Code_langOptions" addon_id="CMTV/Code" version_id="2010270" version_string="2.1.2"><![CDATA[代码语言选项]]></phrase>
-  <phrase title="option.CMTV_Code_lineHighlight_enabled" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[行突出显示]]></phrase>
-  <phrase title="option.CMTV_Code_lineNumbers_enabled" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[代码行序号]]></phrase>
   <phrase title="option.EWRporta_article_format" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Article Format]]></phrase>
   <phrase title="option.EWRporta_article_forums" addon_id="EWR/Porta" version_id="1300" version_string="1.3.0.0"><![CDATA[Auto-promote forums]]></phrase>
   <phrase title="option.EWRporta_articles_permission" addon_id="EWR/Porta" version_id="2014" version_string="2.0.1.4"><![CDATA[Ignore thread view permissions]]></phrase>
@@ -11750,7 +11693,6 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.tagCloudMinUses" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[標籤雲次數門檻]]></phrase>
   <phrase title="option.tagLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[標籤長度限制]]></phrase>
   <phrase title="option.tagValidation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[標籤驗證]]></phrase>
-  <phrase title="option.tckChangeContentOwner_defaultTimeInterval" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Default time interval]]></phrase>
   <phrase title="option.templateHistoryLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[範本保留時限]]></phrase>
   <phrase title="option.termsLastUpdate" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Terms and rules last update]]></phrase>
   <phrase title="option.th_apiKey_uix" addon_id="ThemeHouse/UIX" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[API key]]></phrase>
@@ -11806,10 +11748,19 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.usernameLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[會員名稱長度限制]]></phrase>
   <phrase title="option.usernameReuseTimeLimit" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Username reuse time limit]]></phrase>
   <phrase title="option.usernameValidation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[會員名稱驗證]]></phrase>
-  <phrase title="option.view_thread_item" addon_id="CnXFans/ViewThread" version_id="1000000" version_string="1.0.0"><![CDATA[阅读主题使用字段]]></phrase>
   <phrase title="option.watchAlertActiveOnly" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[只向最近活躍的會員發送關注內容提醒 / 通知信：]]></phrase>
   <phrase title="option.webShare" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Enable web share button]]></phrase>
   <phrase title="option.whatsAppShare" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[啟用 WhatsApp 分享按鈕]]></phrase>
+  <phrase title="option.wt_title_1" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Tab title 1]]></phrase>
+  <phrase title="option.wt_title_2" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Tab title 2]]></phrase>
+  <phrase title="option.wt_title_3" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Tab title 3]]></phrase>
+  <phrase title="option.wt_title_4" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Tab title 4]]></phrase>
+  <phrase title="option.wt_title_5" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Tab title 5]]></phrase>
+  <phrase title="option.wt_title_6" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Tab title 6]]></phrase>
+  <phrase title="option.wt_title_7" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Tab title 7]]></phrase>
+  <phrase title="option.wt_title_8" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Tab title 8]]></phrase>
+  <phrase title="option.xfa_md_debug_mode" addon_id="XFA/ModeDebug" version_id="901000090" version_string="1.0.0"><![CDATA[Enable debug mode]]></phrase>
+  <phrase title="option.xfa_md_dev_mode" addon_id="XFA/ModeDebug" version_id="901000090" version_string="1.0.0"><![CDATA[Enable development mode]]></phrase>
   <phrase title="option.xfesConfig" addon_id="XFES" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enhanced search config]]></phrase>
   <phrase title="option.xfesEnabled" addon_id="XFES" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enhanced search enabled]]></phrase>
   <phrase title="option.xfesRecencyRelevance" addon_id="XFES" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enhanced search recency relevance]]></phrase>
@@ -11838,17 +11789,6 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.xfrmUpdateMaxLength" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maximum resource update/description length]]></phrase>
   <phrase title="option.xfrmUpdatesPerPage" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Resource updates per page]]></phrase>
   <phrase title="option_advanced_mode_hint" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[This option will be hidden by default, and shown only when the administrator enables 'advanced mode'.]]></phrase>
-  <phrase title="option_explain.CMTV_Code_backComp" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[如果启用，来自旧插件版本 <code>[code=title|lang]...[/code]</code> 的代码模块将被视为 <code>[code lang="lang" title="title"]...[/code]</code>.]]></phrase>
-  <phrase title="option_explain.CMTV_Code_commonLanguages" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[此处定义的语言将在“插入代码”编辑器对话框的“通用语言”模块中显示。]]></phrase>
-  <phrase title="option_explain.CMTV_Code_defaultCodeLanguage" addon_id="CMTV/Code" version_id="2020070" version_string="2.2.0"><![CDATA[论坛上所有代码模块的默认代码语言，未指定手动代码语言。]]></phrase>
-  <phrase title="option_explain.CMTV_Code_defaultInsertCodeLanguage" addon_id="CMTV/Code" version_id="2020070" version_string="2.2.0"><![CDATA[默认情况下，将在“惰性代码”编辑器对话框中选择该语言。]]></phrase>
-  <phrase title="option_explain.CMTV_Code_langOptions" addon_id="CMTV/Code" version_id="2010270" version_string="2.1.2"><![CDATA[JSON对象，其中键是代码语言名称，值是选项对象。 示例（将"stex"CodeMirror模式设置为"latex"语言）：<pre> <code>{
-    "latex": {
-        "modes": "stex"
-    }
-}</code> </pre>]]></phrase>
-  <phrase title="option_explain.CMTV_Code_lineHighlight_enabled" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[如果启用，用户将能够突出显示代码模块中的特定行和/或行范围。 <a href="https://prismjs.com/plugins/line-highlight/" target="_blank">插件页面</a>]]></phrase>
-  <phrase title="option_explain.CMTV_Code_lineNumbers_enabled" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[如果启用，则在代码模块的行首显示序号。 <a href="https://prismjs.com/plugins/line-numbers/" target="_blank">插件页面</a>]]></phrase>
   <phrase title="option_explain.EWRporta_article_format" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Layout options only apply to threads formatted as articles.]]></phrase>
   <phrase title="option_explain.EWRporta_article_forums" addon_id="EWR/Porta" version_id="1300" version_string="1.3.0.0"><![CDATA["Promote to article" will be checked on these forums when posting threads.]]></phrase>
   <phrase title="option_explain.EWRporta_articles_permission" addon_id="EWR/Porta" version_id="2014" version_string="2.0.1.4"><![CDATA[Users will see all articles on the article lists, regardless of permissions.]]></phrase>
@@ -12335,7 +12275,6 @@ $(this).closest('dd').get('input').val(d.getTime()/1000|0);
   <phrase title="option_explain.tagCloudMinUses" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[該標籤至少要使用超過指定次數才會出現在標籤雲上。]]></phrase>
   <phrase title="option_explain.tagLength" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[控制標籤的最大 / 最小文字長度。填 0 停用此限制。但標籤不能超過100個字元。此限制只會套用到新建立的標籤。現有的標籤則維持原樣，並可以繼續使用。]]></phrase>
   <phrase title="option_explain.tagValidation" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[]]></phrase>
-  <phrase title="option_explain.tckChangeContentOwner_defaultTimeInterval" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[]]></phrase>
   <phrase title="option_explain.templateHistoryLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[在此設定範本編輯歷程的保留天數。填 0 則永不移除歷程。]]></phrase>
   <phrase title="option_explain.termsLastUpdate" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[The Unix time stamp of the last terms and rules update.]]></phrase>
   <phrase title="option_explain.th_apiKey_uix" addon_id="ThemeHouse/UIX" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Your ThemeHouse API key. You can find your API key <a href="https://www.themehouse.com/customer/account/api">here</a>.]]></phrase>
@@ -12397,10 +12336,19 @@ $(this).closest('dd').get('input').val(d.getTime()/1000|0);
   <phrase title="option_explain.usernameLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[控制會員名稱的最大 / 最小文字長度。填 0 停用此限制。但會員名稱不能超過 50 字元。]]></phrase>
   <phrase title="option_explain.usernameReuseTimeLimit" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[This controls how long a user must wait before they are able to pick a username that was recently used by another user. Set this to 0 to disable this feature.]]></phrase>
   <phrase title="option_explain.usernameValidation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
-  <phrase title="option_explain.view_thread_item" addon_id="CnXFans/ViewThread" version_id="1000000" version_string="1.0.0"><![CDATA[由该字段确定用户阅读主题权限。]]></phrase>
   <phrase title="option_explain.watchAlertActiveOnly" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[啟用後，若會員在指定天數內有造訪論壇，則對其發送提醒 / 通知信。此項能提昇大型或非常活耀的論壇效能。]]></phrase>
   <phrase title="option_explain.webShare" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[On supported devices, this button will open the browser's web share prompt, allowing users to share the current page to other applications.]]></phrase>
   <phrase title="option_explain.whatsAppShare" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[點這個按鈕 WhatsApp 會要你選擇分享目前的頁面給誰。此按鈕在大螢幕裝置上會隱藏，因為這主要是給行動裝置使用的。]]></phrase>
+  <phrase title="option_explain.wt_title_1" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Enter tab title to show the tab or the tab will be hidden.]]></phrase>
+  <phrase title="option_explain.wt_title_2" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="option_explain.wt_title_3" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="option_explain.wt_title_4" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="option_explain.wt_title_5" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="option_explain.wt_title_6" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="option_explain.wt_title_7" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="option_explain.wt_title_8" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="option_explain.xfa_md_debug_mode" addon_id="XFA/ModeDebug" version_id="901000090" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="option_explain.xfa_md_dev_mode" addon_id="XFA/ModeDebug" version_id="901000090" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="option_explain.xfesConfig" addon_id="XFES" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Please edit this via the "Enhanced search" section.]]></phrase>
   <phrase title="option_explain.xfesEnabled" addon_id="XFES" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="option_explain.xfesRecencyRelevance" addon_id="XFES" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Please edit this via the "Enhanced search" section.]]></phrase>
@@ -12440,6 +12388,7 @@ $(this).closest('dd').get('input').val(d.getTime()/1000|0);
   <phrase title="option_group.boardActive" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[啟用論壇]]></phrase>
   <phrase title="option_group.censoringOptions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[敏感字詞]]></phrase>
   <phrase title="option_group.cnxfans_global_stickies" addon_id="CnXFans/GlobalStickies" version_id="1000070" version_string="1.0.0"><![CDATA[全局置顶]]></phrase>
+  <phrase title="option_group.cxfWidgetTabs" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[[cXF] Widget Tabs]]></phrase>
   <phrase title="option_group.dbtechEcommerce" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[DragonByte Tech: eCommerce]]></phrase>
   <phrase title="option_group.dbtech_shop" addon_id="DBTech/Shop" version_id="20170223" version_string="2.0.0"><![CDATA[DragonByte Tech: Shop]]></phrase>
   <phrase title="option_group.dbtech_shop_backup" addon_id="DBTech/Shop" version_id="20161010" version_string="4.6.0"><![CDATA[DragonByte Tech: Shop (Backup)]]></phrase>
@@ -12469,14 +12418,13 @@ $(this).closest('dd').get('input').val(d.getTime()/1000|0);
   <phrase title="option_group.stats" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[統計和指標]]></phrase>
   <phrase title="option_group.sticky_resources" addon_id="CnXFans/StickyResources" version_id="1000000" version_string="1.0.0"><![CDATA[置顶资源]]></phrase>
   <phrase title="option_group.tagging" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[內容標籤]]></phrase>
-  <phrase title="option_group.tckChangeContentOwner" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Change content owner]]></phrase>
   <phrase title="option_group.thCovers" addon_id="ThemeHouse/Covers" version_id="901010193" version_string="1.1.1 Patch Level 3"><![CDATA[[OzzModz] Covers]]></phrase>
   <phrase title="option_group.th_uix" addon_id="ThemeHouse/UIX" version_id="2000731" version_string="2.0.7 Beta 1"><![CDATA[[UI.X] Options]]></phrase>
   <phrase title="option_group.thnodes" addon_id="ThemeHouse/Nodes" version_id="1000570" version_string="1.0.5"><![CDATA[[TH] Nodes]]></phrase>
   <phrase title="option_group.thusernamecolor" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[[TH] User Name Color]]></phrase>
   <phrase title="option_group.users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[會員選項]]></phrase>
   <phrase title="option_group.usersAndRegistration" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[會員註冊]]></phrase>
-  <phrase title="option_group.view_thread" addon_id="CnXFans/ViewThread" version_id="1000000" version_string="1.0.0"><![CDATA[用户阅读主题权限]]></phrase>
+  <phrase title="option_group.xfa_md" addon_id="XFA/ModeDebug" version_id="901000090" version_string="1.0.0"><![CDATA[[XFA] Mode Debug]]></phrase>
   <phrase title="option_group.xfrm" addon_id="XFRM" version_id="2000270" version_string="2.0.2"><![CDATA[XenForo資源管理器]]></phrase>
   <phrase title="option_group_belongs_to_disabled_addon" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[這個選項群組隸屬於 <em>{addon}</em> 附加元件，但目前已停用。<br />
 <br />
@@ -12493,6 +12441,7 @@ $(this).closest('dd').get('input').val(d.getTime()/1000|0);
   <phrase title="option_group_description.boardActive" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[啟用或關閉論壇。]]></phrase>
   <phrase title="option_group_description.censoringOptions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[任何會員發表的內容都會套用到此敏感字詞規則。]]></phrase>
   <phrase title="option_group_description.cnxfans_global_stickies" addon_id="CnXFans/GlobalStickies" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="option_group_description.cxfWidgetTabs" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="option_group_description.dbtechEcommerce" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[Settings pertaining to DragonByte eCommerce.]]></phrase>
   <phrase title="option_group_description.dbtech_shop" addon_id="DBTech/Shop" version_id="20170223" version_string="2.0.0"><![CDATA[Settings pertaining to DragonByte Shop.]]></phrase>
   <phrase title="option_group_description.dbtech_shop_backup" addon_id="DBTech/Shop" version_id="20161010" version_string="4.6.0"><![CDATA[Backup options that have no effect just now.]]></phrase>
@@ -12526,14 +12475,13 @@ $(this).closest('dd').get('input').val(d.getTime()/1000|0);
   <phrase title="option_group_description.stats" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="option_group_description.sticky_resources" addon_id="CnXFans/StickyResources" version_id="1000000" version_string="1.0.0"><![CDATA[置顶资源选项]]></phrase>
   <phrase title="option_group_description.tagging" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[控制如何標記內容的選項。]]></phrase>
-  <phrase title="option_group_description.tckChangeContentOwner" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Options that control the change content owner add-on.]]></phrase>
   <phrase title="option_group_description.thCovers" addon_id="ThemeHouse/Covers" version_id="901010193" version_string="1.1.1 Patch Level 3"><![CDATA[Options for the [OzzModz] Covers add-on.]]></phrase>
   <phrase title="option_group_description.th_uix" addon_id="ThemeHouse/UIX" version_id="2000731" version_string="2.0.7 Beta 1"><![CDATA[Options in this group allow you to customize your UI.X experience.]]></phrase>
   <phrase title="option_group_description.thnodes" addon_id="ThemeHouse/Nodes" version_id="1000570" version_string="1.0.5"><![CDATA[Options for the [TH] Nodes add-on.]]></phrase>
   <phrase title="option_group_description.thusernamecolor" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Options for the [TH] User Name Color add-on.]]></phrase>
   <phrase title="option_group_description.users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="option_group_description.usersAndRegistration" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
-  <phrase title="option_group_description.view_thread" addon_id="CnXFans/ViewThread" version_id="1000000" version_string="1.0.0"><![CDATA[设置用户阅读主题权限使用的用户项目。]]></phrase>
+  <phrase title="option_group_description.xfa_md" addon_id="XFA/ModeDebug" version_id="901000090" version_string="1.0.0"><![CDATA[Allow to enable debug mode from admincp]]></phrase>
   <phrase title="option_group_description.xfrm" addon_id="XFRM" version_id="2000270" version_string="2.0.2"><![CDATA[控制資源管理器附加組件的選項]]></phrase>
   <phrase title="option_group_ids_must_be_unique" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[選項群組 ID 不能重複。 指定的 ID 已經使用在其他地方了。]]></phrase>
   <phrase title="option_id" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[選項 ID]]></phrase>
@@ -12765,11 +12713,6 @@ Callback arguments:
   <phrase title="permission.dbtech_shop_viewModerated" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[View unapproved items]]></phrase>
   <phrase title="permission.dbtech_shop_warn" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Give warnings on items]]></phrase>
   <phrase title="permission.forum_approveUnapprove" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[核准 / 撤銷 指定的 主題 / 文章]]></phrase>
-  <phrase title="permission.forum_bypassViewThread" addon_id="CnXFans/ViewThread" version_id="1000100" version_string="1.0.1"><![CDATA[绕过权限查看主题]]></phrase>
-  <phrase title="permission.forum_changePostDate" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Can change post date]]></phrase>
-  <phrase title="permission.forum_changePostOwner" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Can change post owner]]></phrase>
-  <phrase title="permission.forum_changeThreadDate" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Can change thread date]]></phrase>
-  <phrase title="permission.forum_changeThreadOwner" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Can change thread owner]]></phrase>
   <phrase title="permission.forum_contentVote" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Vote on threads/posts (when applicable)]]></phrase>
   <phrase title="permission.forum_deleteAnyPost" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[刪除所有文章]]></phrase>
   <phrase title="permission.forum_deleteAnyThread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[刪除所有主題]]></phrase>
@@ -12855,10 +12798,6 @@ Callback arguments:
   <phrase title="permission.mjcCredits_viewOthers" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[查看其他人的交易]]></phrase>
   <phrase title="permission.profileBanner_allowed" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Upload a profile banner]]></phrase>
   <phrase title="permission.profilePost_approveUnapprove" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[核准 / 撤銷個人動態]]></phrase>
-  <phrase title="permission.profilePost_changeCommentDate" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Can change profile post comment date]]></phrase>
-  <phrase title="permission.profilePost_changeCommentOwner" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Can change profile post comment owner]]></phrase>
-  <phrase title="permission.profilePost_changeProfilePostDate" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Can change profile post date]]></phrase>
-  <phrase title="permission.profilePost_changeProfilePostOwner" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Can change profile post owner]]></phrase>
   <phrase title="permission.profilePost_comment" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[個人動態中的留言]]></phrase>
   <phrase title="permission.profilePost_deleteAny" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[刪除所有個人動態]]></phrase>
   <phrase title="permission.profilePost_deleteOwn" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[刪除自己的個人動態]]></phrase>
@@ -12957,14 +12896,14 @@ Callback arguments:
   <phrase title="permission.th_unco_bypassCustomColorRestrict" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Bypass custom color restrictions]]></phrase>
   <phrase title="permission.th_unco_use" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Change user name style]]></phrase>
   <phrase title="permission.th_unco_useCustom" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Set custom user name color]]></phrase>
-  <phrase title="permission.xfa_csvg_changeGraphDate" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Can change graph date]]></phrase>
-  <phrase title="permission.xfa_csvg_changeGraphOwner" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Can change graph owner]]></phrase>
-  <phrase title="permission.xfmg_changeAlbumDate" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Can change album date]]></phrase>
-  <phrase title="permission.xfmg_changeAlbumOwner" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Can change album owner]]></phrase>
-  <phrase title="permission.xfmg_changeCommentDate" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Can change comment date]]></phrase>
-  <phrase title="permission.xfmg_changeCommentOwner" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Can change comment owner]]></phrase>
-  <phrase title="permission.xfmg_changeMediaDate" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Can change media date]]></phrase>
-  <phrase title="permission.xfmg_changeMediaOwner" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Can change media owner]]></phrase>
+  <phrase title="permission.widgetTabs_hideTab1" addon_id="BassMan/WidgetTabs" version_id="1000170" version_string="1.0.1"><![CDATA[Hide Tab 1]]></phrase>
+  <phrase title="permission.widgetTabs_hideTab2" addon_id="BassMan/WidgetTabs" version_id="1000170" version_string="1.0.1"><![CDATA[Hide Tab 2]]></phrase>
+  <phrase title="permission.widgetTabs_hideTab3" addon_id="BassMan/WidgetTabs" version_id="1000170" version_string="1.0.1"><![CDATA[Hide Tab 3]]></phrase>
+  <phrase title="permission.widgetTabs_hideTab4" addon_id="BassMan/WidgetTabs" version_id="1000170" version_string="1.0.1"><![CDATA[Hide Tab 4]]></phrase>
+  <phrase title="permission.widgetTabs_hideTab5" addon_id="BassMan/WidgetTabs" version_id="1000170" version_string="1.0.1"><![CDATA[Hide Tab 5]]></phrase>
+  <phrase title="permission.widgetTabs_hideTab6" addon_id="BassMan/WidgetTabs" version_id="1000170" version_string="1.0.1"><![CDATA[Hide Tab 6]]></phrase>
+  <phrase title="permission.widgetTabs_hideTab7" addon_id="BassMan/WidgetTabs" version_id="1000170" version_string="1.0.1"><![CDATA[Hide Tab 7]]></phrase>
+  <phrase title="permission.widgetTabs_hideTab8" addon_id="BassMan/WidgetTabs" version_id="1000170" version_string="1.0.1"><![CDATA[Hide Tab 8]]></phrase>
   <phrase title="permission_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[權限群組]]></phrase>
   <phrase title="permission_id" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[權限 ID]]></phrase>
   <phrase title="permission_ids_must_be_unique_within_groups" addon_id="XF" version_id="0" version_string=""><![CDATA[權限 ID 在群組內不能重複，指定的 ID 已經使用在其他地方了。]]></phrase>
@@ -12999,6 +12938,7 @@ Callback arguments:
   <phrase title="permission_interface.th_cover_thread" addon_id="ThemeHouse/Covers" version_id="901010193" version_string="1.1.1 Patch Level 3"><![CDATA[[OzzModz] Covers: Thread permissions]]></phrase>
   <phrase title="permission_interface.th_uix" addon_id="ThemeHouse/UIX" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[UI.X Permissions]]></phrase>
   <phrase title="permission_interface.th_unco" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[[TH] User Name Color permissions]]></phrase>
+  <phrase title="permission_interface.widgetTabs" addon_id="BassMan/WidgetTabs" version_id="1000170" version_string="1.0.1"><![CDATA[[cXF] Widget Tabs]]></phrase>
   <phrase title="permission_interface_group_ids_must_be_unique" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[權限介面群組 ID 不能重複。指定的 ID 已經使用在其他地方了。]]></phrase>
   <phrase title="permission_limit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[權限限制]]></phrase>
   <phrase title="permission_limit_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[如果在此設定權限，擁有該權限的會員才會顯示此狀態。]]></phrase>
@@ -13768,10 +13708,6 @@ Note: You must choose "reCAPTCHA v2" as the type when creating the key. If you w
   <phrase title="resource_prefix.43" addon_id="" version_id="0" version_string=""><![CDATA[ModPE]]></phrase>
   <phrase title="resource_prefix.44" addon_id="" version_id="0" version_string=""><![CDATA[JE插件]]></phrase>
   <phrase title="resource_prefix.46" addon_id="" version_id="0" version_string=""><![CDATA[CSR]]></phrase>
-  <phrase title="resource_prefix.47" addon_id="" version_id="0" version_string=""><![CDATA[JE材质]]></phrase>
-  <phrase title="resource_prefix.48" addon_id="" version_id="0" version_string=""><![CDATA[JE光影]]></phrase>
-  <phrase title="resource_prefix.49" addon_id="" version_id="0" version_string=""><![CDATA[JE存档]]></phrase>
-  <phrase title="resource_prefix.50" addon_id="" version_id="0" version_string=""><![CDATA[JE模组]]></phrase>
   <phrase title="resource_prefix.51" addon_id="" version_id="0" version_string=""><![CDATA[整合包]]></phrase>
   <phrase title="resource_prefix.52" addon_id="" version_id="0" version_string=""><![CDATA[JE核心]]></phrase>
   <phrase title="resource_prefix.54" addon_id="" version_id="0" version_string=""><![CDATA[未分类]]></phrase>
@@ -13792,6 +13728,8 @@ Note: You must choose "reCAPTCHA v2" as the type when creating the key. If you w
   <phrase title="resource_prefix.69" addon_id="" version_id="0" version_string=""><![CDATA[整合包]]></phrase>
   <phrase title="resource_prefix.70" addon_id="" version_id="0" version_string=""><![CDATA[单机资源]]></phrase>
   <phrase title="resource_prefix.71" addon_id="" version_id="0" version_string=""><![CDATA[Yuuka]]></phrase>
+  <phrase title="resource_prefix.72" addon_id="" version_id="0" version_string=""><![CDATA[Skript]]></phrase>
+  <phrase title="resource_prefix.73" addon_id="" version_id="0" version_string=""><![CDATA[原生模组]]></phrase>
   <phrase title="resource_prefix_desc.22" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_desc.23" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_desc.24" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -13814,10 +13752,6 @@ Note: You must choose "reCAPTCHA v2" as the type when creating the key. If you w
   <phrase title="resource_prefix_desc.43" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_desc.44" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_desc.46" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="resource_prefix_desc.47" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="resource_prefix_desc.48" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="resource_prefix_desc.49" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="resource_prefix_desc.50" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_desc.51" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_desc.52" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_desc.54" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -13838,11 +13772,12 @@ Note: You must choose "reCAPTCHA v2" as the type when creating the key. If you w
   <phrase title="resource_prefix_desc.69" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_desc.70" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_desc.71" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="resource_prefix_desc.72" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="resource_prefix_desc.73" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_group.10" addon_id="" version_id="0" version_string=""><![CDATA[材质皮肤]]></phrase>
   <phrase title="resource_prefix_group.11" addon_id="" version_id="0" version_string=""><![CDATA[MC插件]]></phrase>
   <phrase title="resource_prefix_group.12" addon_id="" version_id="0" version_string=""><![CDATA[BDS]]></phrase>
-  <phrase title="resource_prefix_group.13" addon_id="" version_id="0" version_string=""><![CDATA[Java]]></phrase>
-  <phrase title="resource_prefix_group.14" addon_id="" version_id="0" version_string=""><![CDATA[Java服]]></phrase>
+  <phrase title="resource_prefix_group.14" addon_id="" version_id="0" version_string=""><![CDATA[JE-BE互通]]></phrase>
   <phrase title="resource_prefix_group.7" addon_id="" version_id="0" version_string=""><![CDATA[服务端]]></phrase>
   <phrase title="resource_prefix_group.8" addon_id="" version_id="0" version_string=""><![CDATA[Minecraft]]></phrase>
   <phrase title="resource_prefix_group.9" addon_id="" version_id="0" version_string=""><![CDATA[服务器面板]]></phrase>
@@ -13868,10 +13803,6 @@ Note: You must choose "reCAPTCHA v2" as the type when creating the key. If you w
   <phrase title="resource_prefix_help.43" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_help.44" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_help.46" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="resource_prefix_help.47" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="resource_prefix_help.48" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="resource_prefix_help.49" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="resource_prefix_help.50" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_help.51" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_help.52" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_help.54" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -13892,6 +13823,8 @@ Note: You must choose "reCAPTCHA v2" as the type when creating the key. If you w
   <phrase title="resource_prefix_help.69" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_help.70" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_help.71" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="resource_prefix_help.72" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="resource_prefix_help.73" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="responsive_width" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[響應式寬度]]></phrase>
   <phrase title="restart_import" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Restart import]]></phrase>
   <phrase title="restore" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[還原]]></phrase>
@@ -14320,6 +14253,7 @@ Note: You must choose "reCAPTCHA v2" as the type when creating the key. If you w
   <phrase title="smilie_category_title.2" addon_id="" version_id="0" version_string=""><![CDATA[贴吧]]></phrase>
   <phrase title="smilie_category_title.6" addon_id="" version_id="0" version_string=""><![CDATA[史蒂夫]]></phrase>
   <phrase title="smilie_category_title.7" addon_id="" version_id="0" version_string=""><![CDATA[小人头]]></phrase>
+  <phrase title="smilie_category_title.8" addon_id="" version_id="0" version_string=""><![CDATA[花]]></phrase>
   <phrase title="smilie_category_title.uncategorized" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[未分類表情符號]]></phrase>
   <phrase title="smilie_pre_import_directory_explain" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[使用此項掃描可存取的目錄下所有的表情符號並為每個表情匯入的符號手動輸入資料。確保每個表情符號上傳前執行這個步驟。]]></phrase>
   <phrase title="smilie_pre_import_explain" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[使用此項匯入包含表情符號設定的 XML。進行下一步之前，應該先上傳所有表情符號圖片到伺服器上。]]></phrase>
@@ -14491,7 +14425,6 @@ You will also need to set up a webhook endpoint in your Stripe account with the 
   <phrase title="style_chooser" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[樣式選擇]]></phrase>
   <phrase title="style_contains_no_customized_templates_or_style_properties" addon_id="XF" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[此樣式不包含自訂範本或樣式屬性。]]></phrase>
   <phrase title="style_designer_mode_ids_must_be_unique" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[樣式設計師模式 ID 不能重複。指定的 ID 已經使用在其他地方了。]]></phrase>
-  <phrase title="style_prop.CMTV_Code_code_block_max_height" addon_id="CMTV/Code" version_id="2020070" version_string="2.2.0"><![CDATA[代码模块最大高度]]></phrase>
   <phrase title="style_prop.EWRporta_dateblock" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Enable offset date block]]></phrase>
   <phrase title="style_prop.EWRporta_dateblock_margin" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Date block margin]]></phrase>
   <phrase title="style_prop.EWRporta_feature_height" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Slider height]]></phrase>
@@ -14871,8 +14804,24 @@ You will also need to set up a webhook endpoint in your Stripe account with the 
   <phrase title="style_prop.warningColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Warning message text color]]></phrase>
   <phrase title="style_prop.warningFeatureColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Warning message feature color]]></phrase>
   <phrase title="style_prop.whatsNewNavStyle" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[What's new navigation style]]></phrase>
+  <phrase title="style_prop.wt_tab_1_icon" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Tab 1 icon]]></phrase>
+  <phrase title="style_prop.wt_tab_1_title" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Show widget title in tab 1]]></phrase>
+  <phrase title="style_prop.wt_tab_2_icon" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Tab 2 icon]]></phrase>
+  <phrase title="style_prop.wt_tab_2_title" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Show widget title in tab 2]]></phrase>
+  <phrase title="style_prop.wt_tab_3_icon" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Tab 3 icon]]></phrase>
+  <phrase title="style_prop.wt_tab_3_title" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Show widget title in tab 3]]></phrase>
+  <phrase title="style_prop.wt_tab_4_icon" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Tab 4 icon]]></phrase>
+  <phrase title="style_prop.wt_tab_4_title" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Show widget title in tab 4]]></phrase>
+  <phrase title="style_prop.wt_tab_5_icon" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Tab 5 icon]]></phrase>
+  <phrase title="style_prop.wt_tab_5_title" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Show widget title in tab 5]]></phrase>
+  <phrase title="style_prop.wt_tab_6_icon" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Tab 6 icon]]></phrase>
+  <phrase title="style_prop.wt_tab_6_title" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Show widget title in tab 6]]></phrase>
+  <phrase title="style_prop.wt_tab_7_icon" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Tab 7 icon]]></phrase>
+  <phrase title="style_prop.wt_tab_7_title" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Show widget title in tab 7]]></phrase>
+  <phrase title="style_prop.wt_tab_8_icon" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Tab 8 icon]]></phrase>
+  <phrase title="style_prop.wt_tab_8_title" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Show widget title in tab 8]]></phrase>
+  <phrase title="style_prop.wt_tab_style" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Tab heading]]></phrase>
   <phrase title="style_prop.zIndexMultiplier" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Z-index multiplier]]></phrase>
-  <phrase title="style_prop_desc.CMTV_Code_code_block_max_height" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.EWRporta_dateblock" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.EWRporta_dateblock_margin" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.EWRporta_feature_height" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[]]></phrase>
@@ -15158,7 +15107,7 @@ Use the following code in your "message_macros" template:<br>
   <phrase title="style_prop_desc.pageBackground" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The page background, behind all block elements, uses the styling rules defined here]]></phrase>
   <phrase title="style_prop_desc.pageBg" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The background of the page itself, on which all other content rests]]></phrase>
   <phrase title="style_prop_desc.pageEdgeSpacer" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[All elements will be spaced at least this far from the edges of the page]]></phrase>
-  <phrase title="style_prop_desc.pageNavStyle" addon_id="XF" version_id="2020670" version_string="2.2.6"><![CDATA[This controls the appearance of page navigation. "Simple" focuses on the current page and is good for touch devices. "Standard" shows relative page numbers and is good for desktops. "Mixed" switches between them based on device size.]]></phrase>
+  <phrase title="style_prop_desc.pageNavStyle" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[This controls the appearance of page navigation. "Simple" focuses on the current page and is good for touch devices. "Standard" shows relative page numbers and is good for desktops. "Mixed" switches between them based on device size.]]></phrase>
   <phrase title="style_prop_desc.pageWidthMax" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[As the window is resized, it will continue to grow in width until this value, after which it will remain static]]></phrase>
   <phrase title="style_prop_desc.paletteAccent1" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.paletteAccent2" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
@@ -15262,6 +15211,23 @@ Use the following code in your "message_macros" template:<br>
   <phrase title="style_prop_desc.warningColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.warningFeatureColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.whatsNewNavStyle" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This controls how the navigation is displayed in the <i>What's new</i> section. Side navigation works better with more sections but requires more space.]]></phrase>
+  <phrase title="style_prop_desc.wt_tab_1_icon" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[For icons check <a href="https://fontawesome.com/" target="_blank">here</a> and enter icon name for instance <i>fa-bolt</i>.]]></phrase>
+  <phrase title="style_prop_desc.wt_tab_1_title" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[If enabled, it will show the widget's title. Useful if you want to show more widgets in the same tab.]]></phrase>
+  <phrase title="style_prop_desc.wt_tab_2_icon" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[For icons check <a href="https://fontawesome.com/" target="_blank">here</a> and enter icon name for instance <i>fa-bolt</i>.]]></phrase>
+  <phrase title="style_prop_desc.wt_tab_2_title" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[If enabled, it will show the widget's title. Useful if you want to show more widgets in the same tab.]]></phrase>
+  <phrase title="style_prop_desc.wt_tab_3_icon" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[For icons check <a href="https://fontawesome.com/" target="_blank">here</a> and enter icon name for instance <i>fa-bolt</i>.]]></phrase>
+  <phrase title="style_prop_desc.wt_tab_3_title" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[If enabled, it will show the widget's title. Useful if you want to show more widgets in the same tab.]]></phrase>
+  <phrase title="style_prop_desc.wt_tab_4_icon" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[For icons check <a href="https://fontawesome.com/" target="_blank">here</a> and enter icon name for instance <i>fa-bolt</i>.]]></phrase>
+  <phrase title="style_prop_desc.wt_tab_4_title" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[If enabled, it will show the widget's title. Useful if you want to show more widgets in the same tab.]]></phrase>
+  <phrase title="style_prop_desc.wt_tab_5_icon" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[For icons check <a href="https://fontawesome.com/" target="_blank">here</a> and enter icon name for instance <i>fa-bolt</i>.]]></phrase>
+  <phrase title="style_prop_desc.wt_tab_5_title" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[If enabled, it will show the widget's title. Useful if you want to show more widgets in the same tab.]]></phrase>
+  <phrase title="style_prop_desc.wt_tab_6_icon" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[For icons check <a href="https://fontawesome.com/" target="_blank">here</a> and enter icon name for instance <i>fa-bolt</i>.]]></phrase>
+  <phrase title="style_prop_desc.wt_tab_6_title" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[If enabled, it will show the widget's title. Useful if you want to show more widgets in the same tab.]]></phrase>
+  <phrase title="style_prop_desc.wt_tab_7_icon" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[For icons check <a href="https://fontawesome.com/" target="_blank">here</a> and enter icon name for instance <i>fa-bolt</i>.]]></phrase>
+  <phrase title="style_prop_desc.wt_tab_7_title" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[If enabled, it will show the widget's title. Useful if you want to show more widgets in the same tab.]]></phrase>
+  <phrase title="style_prop_desc.wt_tab_8_icon" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[For icons check <a href="https://fontawesome.com/" target="_blank">here</a> and enter icon name for instance <i>fa-bolt</i>.]]></phrase>
+  <phrase title="style_prop_desc.wt_tab_8_title" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[If enabled, it will show the widget's title. Useful if you want to show more widgets in the same tab.]]></phrase>
+  <phrase title="style_prop_desc.wt_tab_style" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.zIndexMultiplier" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Controls the relative 'height' of elements in the Z-dimension (perpendicular to the screen). Unless you have a specific reason to change this, leave it alone...]]></phrase>
   <phrase title="style_prop_group.EWRporta" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[[8WR] XenPorta 2 (Portal) PRO]]></phrase>
   <phrase title="style_prop_group.EWRporta_feature" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[[8WR] XenPorta 2 (Portal) PRO > Feature Slider]]></phrase>
@@ -15274,6 +15240,7 @@ Use the following code in your "message_macros" template:<br>
   <phrase title="style_prop_group.button" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Buttons]]></phrase>
   <phrase title="style_prop_group.color" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Basic colors]]></phrase>
   <phrase title="style_prop_group.content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Content areas]]></phrase>
+  <phrase title="style_prop_group.cxfWidgetTabs" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[[cXF] Widget Tabs]]></phrase>
   <phrase title="style_prop_group.dataList" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Data lists]]></phrase>
   <phrase title="style_prop_group.dbtechEcommerce" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[DragonByte eCommerce]]></phrase>
   <phrase title="style_prop_group.dbtechShop" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[DragonByte Shop]]></phrase>
@@ -15311,6 +15278,7 @@ Use the following code in your "message_macros" template:<br>
   <phrase title="style_prop_group_desc.button" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Various text-button types are in use within XenForo but all share common styling properties, which are located here.]]></phrase>
   <phrase title="style_prop_group_desc.color" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[These settings define the colors that will be used throughout the system for specific content or structure types. For consistency and ease of editing, the colors used should come primarily from the Color Palette.]]></phrase>
   <phrase title="style_prop_group_desc.content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The styling for content areas, namely those areas on which dynamic information is presented, is controlled here.]]></phrase>
+  <phrase title="style_prop_group_desc.cxfWidgetTabs" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="style_prop_group_desc.dataList" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Data lists are used to display content organized into rows and columns (tabular content).]]></phrase>
   <phrase title="style_prop_group_desc.dbtechEcommerce" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[Various style properties for DragonByte eCommerce]]></phrase>
   <phrase title="style_prop_group_desc.dbtechShop" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Various style properties for DragonByte Shop]]></phrase>
@@ -15337,7 +15305,6 @@ Use the following code in your "message_macros" template:<br>
   <phrase title="style_prop_group_desc.thnodes_icons" addon_id="ThemeHouse/Nodes" version_id="1000731" version_string="1.0.7 Beta 1"><![CDATA[]]></phrase>
   <phrase title="style_prop_group_desc.thnodes_styling" addon_id="ThemeHouse/Nodes" version_id="1000731" version_string="1.0.7 Beta 1"><![CDATA[]]></phrase>
   <phrase title="style_prop_group_desc.tooltip" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tooltips are (usually) small hints that appear when the mouse pointer hovers over page elements that may require additional information to convey their purpose or content.]]></phrase>
-  <phrase title="style_prop_vgroup.CMTV_Code_bbCodeCodeBlock" addon_id="CMTV/Code" version_id="2010070" version_string="2.1.0"><![CDATA[BB代码模块]]></phrase>
   <phrase title="style_prop_vgroup.accent" addon_id="XF" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Accent]]></phrase>
   <phrase title="style_prop_vgroup.bbCodeImage" addon_id="XF" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[BB code image]]></phrase>
   <phrase title="style_prop_vgroup.blockFooter" addon_id="XF" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Block footer]]></phrase>
@@ -15456,38 +15423,6 @@ Use the following code in your "message_macros" template:<br>
   <phrase title="tags_will_also_be_searched" addon_id="XF" version_id="2020051" version_string="2.2.0 Release Candidate 1"><![CDATA[Tags will also be searched]]></phrase>
   <phrase title="target_tag" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[目標標籤]]></phrase>
   <phrase title="target_user" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[目標會員]]></phrase>
-  <phrase title="tckChangeContentOwner_bump_time" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Bump time]]></phrase>
-  <phrase title="tckChangeContentOwner_bump_time_explain" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Bump content time by specific hours, minutes or seconds.]]></phrase>
-  <phrase title="tckChangeContentOwner_change_date" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Change date]]></phrase>
-  <phrase title="tckChangeContentOwner_change_owner" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Change owner]]></phrase>
-  <phrase title="tckChangeContentOwner_change_owner_of_x" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Change owner of {content_title}]]></phrase>
-  <phrase title="tckChangeContentOwner_change_owner_or_date" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Change owner or date]]></phrase>
-  <phrase title="tckChangeContentOwner_change_x_owner_or_date" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Change {content_type_plural} owner or date]]></phrase>
-  <phrase title="tckChangeContentOwner_inline_moderation_change_date" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Inline moderation - Change date]]></phrase>
-  <phrase title="tckChangeContentOwner_inline_moderation_change_owner" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Inline moderation - Change owner]]></phrase>
-  <phrase title="tckChangeContentOwner_inline_moderation_change_owner_or_date" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Inline moderation - Change owner or date]]></phrase>
-  <phrase title="tckChangeContentOwner_new_date" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[New date]]></phrase>
-  <phrase title="tckChangeContentOwner_new_date_explain" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Enter the new date of the content.]]></phrase>
-  <phrase title="tckChangeContentOwner_new_date_must_be_older_than_thread_date" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[New date must be older than thread date.]]></phrase>
-  <phrase title="tckChangeContentOwner_new_owner" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[New owner]]></phrase>
-  <phrase title="tckChangeContentOwner_new_owner_must_be_able_to_view_this_content" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[The new owner must be able to view this content.]]></phrase>
-  <phrase title="tckChangeContentOwner_new_owner_name_explain" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Enter the name of the new content owner.]]></phrase>
-  <phrase title="tckChangeContentOwner_new_time" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[New time]]></phrase>
-  <phrase title="tckChangeContentOwner_please_select_valid_change_date_type" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Please select a valid change date type.]]></phrase>
-  <phrase title="tckChangeContentOwner_post_in_thread_x_page_title" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[post in thread '{title}']]></phrase>
-  <phrase title="tckChangeContentOwner_time_interval" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Time interval]]></phrase>
-  <phrase title="tckChangeContentOwner_time_interval_explain" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[When changing date of multiple contents, this time interval be added to the final date for more unique timestamps.]]></phrase>
-  <phrase title="tckChangeContentOwner_units_hour" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Hour]]></phrase>
-  <phrase title="tckChangeContentOwner_units_minute" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Minute]]></phrase>
-  <phrase title="tckChangeContentOwner_units_second" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Second]]></phrase>
-  <phrase title="tckChangeContentOwner_you_do_not_have_permission_to_change_selected_contents_date" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[You do not have permission to change selected contents date.]]></phrase>
-  <phrase title="tckChangeContentOwner_you_do_not_have_permission_to_change_selected_contents_owner" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[You do not have permission to change selected contents owner.]]></phrase>
-  <phrase title="tckChangeContentOwner_you_do_not_have_permission_to_change_this_content_date" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[You do not have permission to change this content date.]]></phrase>
-  <phrase title="tckChangeContentOwner_you_do_not_have_permission_to_change_this_content_owner" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[You do not have permission to change this content owner.]]></phrase>
-  <phrase title="tckChangeContentOwner_you_must_either_change_owner_or_date_of_this_x" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[You must change the content owner or the date of this {content_type_phrase}.]]></phrase>
-  <phrase title="tckChangeContentOwner_you_sure_you_want_to_change_date_x_contents" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Are you sure you want to change the date specified below to the {count} selected {content_type_singular}(s)?]]></phrase>
-  <phrase title="tckChangeContentOwner_you_sure_you_want_to_change_owner_or_date_x_contents" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Are you sure you want to change the owner or date specified below to the {count} selected {content_type_singular}(s)?]]></phrase>
-  <phrase title="tckChangeContentOwner_you_sure_you_want_to_change_owner_x_contents" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Are you sure you want to change the owner specified below to the {count} selected {content_type_singular}(s)?]]></phrase>
   <phrase title="template" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[範本]]></phrase>
   <phrase title="template_contains" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[範本包含]]></phrase>
   <phrase title="template_contents" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[範本內容]]></phrase>
@@ -16042,6 +15977,8 @@ Please confirm that you are moving the thread to the correct forum.]]></phrase>
   <phrase title="thread_prefix.8" addon_id="" version_id="0" version_string=""><![CDATA[教程]]></phrase>
   <phrase title="thread_prefix.80" addon_id="" version_id="0" version_string=""><![CDATA[闲聊]]></phrase>
   <phrase title="thread_prefix.81" addon_id="" version_id="0" version_string=""><![CDATA[1.18.x]]></phrase>
+  <phrase title="thread_prefix.82" addon_id="" version_id="0" version_string=""><![CDATA[已实现]]></phrase>
+  <phrase title="thread_prefix.83" addon_id="" version_id="0" version_string=""><![CDATA[已关闭]]></phrase>
   <phrase title="thread_prefix_desc.13" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_desc.20" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_desc.23" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -16095,11 +16032,14 @@ Please confirm that you are moving the thread to the correct forum.]]></phrase>
   <phrase title="thread_prefix_desc.8" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_desc.80" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_desc.81" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="thread_prefix_desc.82" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="thread_prefix_desc.83" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_group.10" addon_id="" version_id="0" version_string=""><![CDATA[编程]]></phrase>
   <phrase title="thread_prefix_group.11" addon_id="" version_id="0" version_string=""><![CDATA[建站]]></phrase>
   <phrase title="thread_prefix_group.12" addon_id="" version_id="0" version_string=""><![CDATA[互通]]></phrase>
   <phrase title="thread_prefix_group.14" addon_id="" version_id="0" version_string=""><![CDATA[Java资源]]></phrase>
   <phrase title="thread_prefix_group.15" addon_id="" version_id="0" version_string=""><![CDATA[基岩资源]]></phrase>
+  <phrase title="thread_prefix_group.16" addon_id="" version_id="0" version_string=""><![CDATA[建议版块]]></phrase>
   <phrase title="thread_prefix_group.6" addon_id="" version_id="0" version_string=""><![CDATA[通用前缀]]></phrase>
   <phrase title="thread_prefix_group.7" addon_id="" version_id="0" version_string=""><![CDATA[管理区]]></phrase>
   <phrase title="thread_prefix_group.8" addon_id="" version_id="0" version_string=""><![CDATA[服务器]]></phrase>
@@ -16157,6 +16097,8 @@ Please confirm that you are moving the thread to the correct forum.]]></phrase>
   <phrase title="thread_prefix_help.8" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_help.80" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_help.81" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="thread_prefix_help.82" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="thread_prefix_help.83" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefixes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[主題分類]]></phrase>
   <phrase title="thread_prompt.1" addon_id="" version_id="0" version_string=""><![CDATA[请输入标题以发布服务器]]></phrase>
   <phrase title="thread_prompt.default" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[主題標題]]></phrase>
@@ -16350,6 +16292,7 @@ Please confirm that you are moving the thread to the correct forum.]]></phrase>
   <phrase title="trophy_description.28" addon_id="" version_id="0" version_string=""><![CDATA[你超过一年没访问MineBBS啦QAQ]]></phrase>
   <phrase title="trophy_description.29" addon_id="" version_id="0" version_string=""><![CDATA[获得了1000+支持！]]></phrase>
   <phrase title="trophy_description.3" addon_id="" version_id="0" version_string=""><![CDATA[你已發表 100 篇文章。希望你不是一天之內就達成這個目標！]]></phrase>
+  <phrase title="trophy_description.30" addon_id="" version_id="0" version_string=""><![CDATA[累计获得10个采纳解答]]></phrase>
   <phrase title="trophy_description.4" addon_id="" version_id="0" version_string=""><![CDATA[1,000 篇文章？太強了！]]></phrase>
   <phrase title="trophy_description.5" addon_id="" version_id="0" version_string=""><![CDATA[開始有人喜歡你的文章了。繼續發表這類的文章吧！]]></phrase>
   <phrase title="trophy_description.6" addon_id="" version_id="0" version_string=""><![CDATA[你的文章已經超過 25 次喜歡了。]]></phrase>
@@ -16378,6 +16321,7 @@ Please confirm that you are moving the thread to the correct forum.]]></phrase>
   <phrase title="trophy_title.28" addon_id="" version_id="0" version_string=""><![CDATA[好久不见！]]></phrase>
   <phrase title="trophy_title.29" addon_id="" version_id="0" version_string=""><![CDATA[人气明星！]]></phrase>
   <phrase title="trophy_title.3" addon_id="" version_id="0" version_string=""><![CDATA[完全停不下來！]]></phrase>
+  <phrase title="trophy_title.30" addon_id="" version_id="0" version_string=""><![CDATA[乐于助人]]></phrase>
   <phrase title="trophy_title.4" addon_id="" version_id="0" version_string=""><![CDATA[上癮了]]></phrase>
   <phrase title="trophy_title.5" addon_id="" version_id="0" version_string=""><![CDATA[有人喜歡你]]></phrase>
   <phrase title="trophy_title.6" addon_id="" version_id="0" version_string=""><![CDATA[我很喜歡這個]]></phrase>
@@ -16635,14 +16579,16 @@ Select the updates you want to install below. The selected updates will be downl
   <phrase title="user_email_confirmation_subject" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{boardTitle} - 帳號認證信]]></phrase>
   <phrase title="user_field_choice.sex_1" addon_id="" version_id="0" version_string=""><![CDATA[帅哥]]></phrase>
   <phrase title="user_field_choice.sex_2" addon_id="" version_id="0" version_string=""><![CDATA[美女]]></phrase>
+  <phrase title="user_field_desc.BiliBili" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="user_field_desc.beid" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="user_field_desc.facebook" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="user_field_desc.github" addon_id="" version_id="0" version_string=""><![CDATA[你的Github主页地址]]></phrase>
+  <phrase title="user_field_desc.github" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="user_field_desc.sex" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="user_field_desc.siropu_invitation" addon_id="" version_id="0" version_string=""><![CDATA[Please provide a valid invitation code.]]></phrase>
   <phrase title="user_field_desc.siropu_referrer" addon_id="" version_id="0" version_string=""><![CDATA[The username of the member who referred you.]]></phrase>
   <phrase title="user_field_desc.skype" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="user_field_desc.twitter" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="user_field_title.BiliBili" addon_id="" version_id="0" version_string=""><![CDATA[BiliBili主页]]></phrase>
   <phrase title="user_field_title.beid" addon_id="" version_id="0" version_string=""><![CDATA[Xbox ID]]></phrase>
   <phrase title="user_field_title.facebook" addon_id="" version_id="0" version_string=""><![CDATA[Facebook]]></phrase>
   <phrase title="user_field_title.github" addon_id="" version_id="0" version_string=""><![CDATA[Github主页]]></phrase>
@@ -17077,6 +17023,7 @@ Select the updates you want to install below. The selected updates will be downl
   <phrase title="widget.mhwz" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.mjc_sidenav_balance" addon_id="" version_id="0" version_string=""><![CDATA[Your Balance]]></phrase>
   <phrase title="widget.mjc_sidenav_richest" addon_id="" version_id="0" version_string=""><![CDATA[Richest members]]></phrase>
+  <phrase title="widget.new_content" addon_id="" version_id="0" version_string=""><![CDATA[新内容]]></phrase>
   <phrase title="widget.new_post" addon_id="" version_id="0" version_string=""><![CDATA[新帖子]]></phrase>
   <phrase title="widget.new_profile_post" addon_id="" version_id="0" version_string=""><![CDATA[個人空間信息]]></phrase>
   <phrase title="widget.newpost" addon_id="" version_id="0" version_string=""><![CDATA[新回复]]></phrase>
@@ -17113,6 +17060,7 @@ Select the updates you want to install below. The selected updates will be downl
   <phrase title="widget_def.EWRporta_facebook" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[XenPorta > Facebook]]></phrase>
   <phrase title="widget_def.EWRporta_features" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[XenPorta > Features]]></phrase>
   <phrase title="widget_def.EWRporta_twitter" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[XenPorta > Twitter]]></phrase>
+  <phrase title="widget_def.WidgetTabs" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[[cXF] Widget Tabs]]></phrase>
   <phrase title="widget_def.birthdays" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[今日壽星]]></phrase>
   <phrase title="widget_def.dbt_ecom_latest_reviews" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[DragonByte eCommerce: Latest reviews]]></phrase>
   <phrase title="widget_def.dbt_ecom_new_products" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[DragonByte eCommerce: New Products]]></phrase>
@@ -17161,6 +17109,7 @@ Select the updates you want to install below. The selected updates will be downl
   <phrase title="widget_def_desc.EWRporta_facebook" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Displays a Facebook page widget.]]></phrase>
   <phrase title="widget_def_desc.EWRporta_features" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Displays the feature slider.]]></phrase>
   <phrase title="widget_def_desc.EWRporta_twitter" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Displays a Twitter search widget.]]></phrase>
+  <phrase title="widget_def_desc.WidgetTabs" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="widget_def_desc.birthdays" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[會顯示今天生日的會員頭像。]]></phrase>
   <phrase title="widget_def_desc.dbt_ecom_latest_reviews" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[Displays the latest product reviews.]]></phrase>
   <phrase title="widget_def_desc.dbt_ecom_new_products" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[Displays the most recently updated products.]]></phrase>
@@ -17268,6 +17217,14 @@ Callback arguments:
   <phrase title="widget_pos.thuix_index_page" addon_id="ThemeHouse/UIX" version_id="2000671" version_string="2.0.6.1"><![CDATA[Forums default page: Sidebar]]></phrase>
   <phrase title="widget_pos.whats_new_overview" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[最新消息：總覽]]></phrase>
   <phrase title="widget_pos.whats_new_sidenav" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[最新消息：側邊欄]]></phrase>
+  <phrase title="widget_pos.wt_tab_1" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[[cXF] Widget Tabs: tab 1]]></phrase>
+  <phrase title="widget_pos.wt_tab_2" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[[cXF] Widget Tabs: tab 2]]></phrase>
+  <phrase title="widget_pos.wt_tab_3" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[[cXF] Widget Tabs: tab 3]]></phrase>
+  <phrase title="widget_pos.wt_tab_4" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[[cXF] Widget Tabs: tab 4]]></phrase>
+  <phrase title="widget_pos.wt_tab_5" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[[cXF] Widget Tabs: tab 5]]></phrase>
+  <phrase title="widget_pos.wt_tab_6" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[[cXF] Widget Tabs: tab 6]]></phrase>
+  <phrase title="widget_pos.wt_tab_7" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[[cXF] Widget Tabs: tab 7]]></phrase>
+  <phrase title="widget_pos.wt_tab_8" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[[cXF] Widget Tabs: tab 8]]></phrase>
   <phrase title="widget_pos.xfrm_category_above_resources" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Resource category: Above resources]]></phrase>
   <phrase title="widget_pos.xfrm_category_sidenav" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Resource category: Sidenav]]></phrase>
   <phrase title="widget_pos.xfrm_overview_above_resources" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Resource overview: Above resources]]></phrase>
@@ -17323,6 +17280,14 @@ Callback arguments:
   <phrase title="widget_pos_desc.thuix_index_page" addon_id="ThemeHouse/UIX" version_id="2000671" version_string="2.0.6.1"><![CDATA[Position in the sidebar while viewing the forums default page.]]></phrase>
   <phrase title="widget_pos_desc.whats_new_overview" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[位於 whats_new 範本內以顯示最近發生的大小事。因為使用了主欄位所以支援較大的小工具。]]></phrase>
   <phrase title="widget_pos_desc.whats_new_sidenav" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[位於最新消息的側邊導航列下面，在此位置的小工具一律以窄版顯示。]]></phrase>
+  <phrase title="widget_pos_desc.wt_tab_1" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="widget_pos_desc.wt_tab_2" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="widget_pos_desc.wt_tab_3" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="widget_pos_desc.wt_tab_4" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="widget_pos_desc.wt_tab_5" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="widget_pos_desc.wt_tab_6" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="widget_pos_desc.wt_tab_7" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="widget_pos_desc.wt_tab_8" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="widget_pos_desc.xfrm_category_above_resources" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Displays above the resource list on the resource category pages. Widget templates rendered in this position can use the current category entity in the <code>{$context.category}</code> param.]]></phrase>
   <phrase title="widget_pos_desc.xfrm_category_sidenav" addon_id="XFRM" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Displays inside the side navigation on the resource category pages. Widget templates rendered in this position can use the current category entity in the <code>{$context.category}</code> param.]]></phrase>
   <phrase title="widget_pos_desc.xfrm_overview_above_resources" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Displays above the resource list on the resource overview page.]]></phrase>
@@ -17688,7 +17653,7 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_resource_field_choice.versions_11" addon_id="" version_id="0" version_string=""><![CDATA[1.16]]></phrase>
   <phrase title="xfrm_resource_field_choice.versions_13" addon_id="" version_id="0" version_string=""><![CDATA[全版本]]></phrase>
   <phrase title="xfrm_resource_field_choice.versions_14" addon_id="" version_id="0" version_string=""><![CDATA[1.17]]></phrase>
-  <phrase title="xfrm_resource_field_choice.versions_2" addon_id="" version_id="0" version_string=""><![CDATA[1.7]]></phrase>
+  <phrase title="xfrm_resource_field_choice.versions_15" addon_id="" version_id="0" version_string=""><![CDATA[1.18]]></phrase>
   <phrase title="xfrm_resource_field_choice.versions_3" addon_id="" version_id="0" version_string=""><![CDATA[1.8]]></phrase>
   <phrase title="xfrm_resource_field_choice.versions_4" addon_id="" version_id="0" version_string=""><![CDATA[1.9]]></phrase>
   <phrase title="xfrm_resource_field_choice.versions_5" addon_id="" version_id="0" version_string=""><![CDATA[1.10]]></phrase>
@@ -17698,6 +17663,8 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_resource_field_choice.versions_9" addon_id="" version_id="0" version_string=""><![CDATA[1.14]]></phrase>
   <phrase title="xfrm_resource_field_choice.versions_a" addon_id="" version_id="0" version_string=""><![CDATA[最新版本]]></phrase>
   <phrase title="xfrm_resource_field_desc.api" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="xfrm_resource_field_desc.donation_btn" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="xfrm_resource_field_desc.front" addon_id="" version_id="0" version_string=""><![CDATA[运行该资源所必须的前置组件（名称+链接）]]></phrase>
   <phrase title="xfrm_resource_field_desc.language" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="xfrm_resource_field_desc.link" addon_id="" version_id="0" version_string=""><![CDATA[资源出处，如果为原创或授权转发则填“#”即可。]]></phrase>
   <phrase title="xfrm_resource_field_desc.platform" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -17706,6 +17673,8 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_resource_field_desc.version_java" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="xfrm_resource_field_desc.versions" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="xfrm_resource_field_title.api" addon_id="" version_id="0" version_string=""><![CDATA[API]]></phrase>
+  <phrase title="xfrm_resource_field_title.donation_btn" addon_id="" version_id="0" version_string=""><![CDATA[捐赠链接]]></phrase>
+  <phrase title="xfrm_resource_field_title.front" addon_id="" version_id="0" version_string=""><![CDATA[前置组件]]></phrase>
   <phrase title="xfrm_resource_field_title.language" addon_id="" version_id="0" version_string=""><![CDATA[语言]]></phrase>
   <phrase title="xfrm_resource_field_title.link" addon_id="" version_id="0" version_string=""><![CDATA[版权链接]]></phrase>
   <phrase title="xfrm_resource_field_title.platform" addon_id="" version_id="0" version_string=""><![CDATA[适用平台]]></phrase>
@@ -17944,6 +17913,7 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="you_may_use_star_as_wildcard_and_id_to_point_to_media_id" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[你可以使用 * 當作萬用字元， {$id} 來替換為媒體 ID。此 ID 即為內嵌媒體代碼。每行一個網址。]]></phrase>
   <phrase title="you_may_use_star_to_represent_wildcards_automatically_added" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[你可以使用 * 當作萬用字元。如果你不使用萬用字元，系統則會自動增加到適當的位置。]]></phrase>
   <phrase title="you_may_use_xenforo_template_syntax_here" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[你可以使用 XenForo 範本語法。]]></phrase>
+  <phrase title="you_must_agree_to_terms_of_xenforo_license_agreement_to_continue" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[You must agree to the terms of the XenForo license agreement to continue.]]></phrase>
   <phrase title="you_must_be_super_admin_to_access_this_page" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[你必須成為超級管理員才能存取此頁。可以在管理員控制台中的管理員頁面進行設定。]]></phrase>
   <phrase title="you_must_be_super_administrator_to_edit_user" addon_id="XF" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[你必須是超級管理員才能編輯此會員。]]></phrase>
   <phrase title="you_must_confirm_deletion_to_proceed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[你必須確認刪除動作才能繼續。]]></phrase>
@@ -17975,12 +17945,6 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="you_sure_you_want_disable_two_step" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[確定要停用兩步驟驗證？]]></phrase>
   <phrase title="you_sure_you_want_disable_two_step_x" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[確定要停用這個兩步驟驗證「{title}」？]]></phrase>
   <phrase title="you_sure_you_want_to_apply_this_reaction" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Are you sure you want to apply this reaction?]]></phrase>
-  <phrase title="you_sure_you_want_to_change_author_x_posts" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Are you sure you want to change the author specified below to the {count} selected posts?]]></phrase>
-  <phrase title="you_sure_you_want_to_change_author_x_profile_posts" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Are you sure you want to change the author specified below to the {count} selected profile posts?]]></phrase>
-  <phrase title="you_sure_you_want_to_change_author_x_threads" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Are you sure you want to change the author specified below to the {count} selected threads?]]></phrase>
-  <phrase title="you_sure_you_want_to_change_author_x_xfmg_comments" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Are you sure you want to change the author specified below to the {count} selected comments?]]></phrase>
-  <phrase title="you_sure_you_want_to_change_author_x_xfmg_media_items" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Are you sure you want to change the author specified below to the {count} selected media items?]]></phrase>
-  <phrase title="you_sure_you_want_to_change_owner_x_xfmg_albums" addon_id="TickTackk/ChangeContentOwner" version_id="2000270" version_string="2.0.2"><![CDATA[Are you sure you want to change the owner specified below to the {count} selected profile posts?]]></phrase>
   <phrase title="you_sure_you_want_to_change_types_x_threads" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Are you sure you want to change the thread type of {count} threads?]]></phrase>
   <phrase title="you_sure_you_want_to_copy_x_posts_to_new_thread" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[確定要複製 {count} 篇文章到新主題？]]></phrase>
   <phrase title="you_sure_you_want_to_delete_x_posts" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[確定要刪除 {count} 篇文章？]]></phrase>
