@@ -523,7 +523,7 @@
   <phrase title="admin_navigation.xfrmCategoryPermissions" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[资源分类权限]]></phrase>
   <phrase title="admin_navigation.xfrmFields" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[资源领域]]></phrase>
   <phrase title="admin_navigation.xfrmPrefixes" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[资源前缀]]></phrase>
-  <phrase title="admin_navigation.xfrmReviewFields" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[资源评论字段]]></phrase>
+  <phrase title="admin_navigation.xfrmReviewFields" addon_id="XFRM" version_id="2020270" version_string="2.2.2"><![CDATA[资源评价字段]]></phrase>
   <phrase title="admin_navigation_icon_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[可选字体图标]]></phrase>
   <phrase title="admin_navigation_id" addon_id="XF" version_id="2010670" version_string="2.1.6"><![CDATA[导航管理ID]]></phrase>
   <phrase title="admin_navigation_ids_must_be_unique" addon_id="XF" version_id="2010670" version_string="2.1.6"><![CDATA[导航 ID 必须是唯一的，指定的 ID 已经在使用中。]]></phrase>
@@ -621,7 +621,7 @@
   <phrase title="af_as_award_cat_display_mode_hidden" addon_id="AddonFlare/AwardSystem" version_id="1010071" version_string="1.1.0.1"><![CDATA[隐藏]]></phrase>
   <phrase title="af_as_award_cat_display_mode_step" addon_id="AddonFlare/AwardSystem" version_id="1010071" version_string="1.1.0.1"><![CDATA[一步一步]]></phrase>
   <phrase title="af_as_award_cat_display_mode_visible" addon_id="AddonFlare/AwardSystem" version_id="1010071" version_string="1.1.0.1"><![CDATA[可见]]></phrase>
-  <phrase title="af_as_award_cat_title.2" addon_id="" version_id="0" version_string=""><![CDATA[特别奖章]]></phrase>
+  <phrase title="af_as_award_cat_title.2" addon_id="" version_id="0" version_string=""><![CDATA[纪念勋章]]></phrase>
   <phrase title="af_as_award_cat_title.3" addon_id="" version_id="0" version_string=""><![CDATA[贡献勋章]]></phrase>
   <phrase title="af_as_award_cat_title.4" addon_id="" version_id="0" version_string=""><![CDATA[身份勋章]]></phrase>
   <phrase title="af_as_award_cat_title.5" addon_id="" version_id="0" version_string=""><![CDATA[活动奖章]]></phrase>
@@ -11266,7 +11266,7 @@ Multiple styles can be combined.
   <phrase title="nav.whatsNewProfilePosts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[个人空间信息]]></phrase>
   <phrase title="nav.wiki" addon_id="" version_id="0" version_string=""><![CDATA[MineWiki]]></phrase>
   <phrase title="nav.xfrm" addon_id="XFRM" version_id="2020170" version_string="2.2.1"><![CDATA[资源中心]]></phrase>
-  <phrase title="nav.xfrmLatestReviews" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[最新评论]]></phrase>
+  <phrase title="nav.xfrmLatestReviews" addon_id="XFRM" version_id="2020270" version_string="2.2.2"><![CDATA[最新评价]]></phrase>
   <phrase title="nav.xfrmNewResources" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[新资源]]></phrase>
   <phrase title="nav.xfrmSearchResources" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[搜索资源]]></phrase>
   <phrase title="nav.xfrmWatched" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[关注]]></phrase>
@@ -12088,8 +12088,8 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option_explain.af_as_levels_maxpoints" addon_id="AddonFlare/AwardSystem" version_id="1010070" version_string="1.1.0"><![CDATA[Should only be modified programmatically when there's a higher amount]]></phrase>
   <phrase title="option_explain.af_as_levels_pointsper" addon_id="AddonFlare/AwardSystem" version_id="1010070" version_string="1.1.0"><![CDATA[]]></phrase>
   <phrase title="option_explain.af_as_levels_show_level0" addon_id="AddonFlare/AwardSystem" version_id="1010071" version_string="1.1.0.1"><![CDATA[在访客菜单，个人信息，等地方展示用户等级为0]]></phrase>
-  <phrase title="option_explain.af_as_max_featured_awards" addon_id="AddonFlare/AwardSystem" version_id="1010071" version_string="1.1.0.1"><![CDATA[用户可以设置的最大特别奖章数<br>
-使用0表示无限制]]></phrase>
+  <phrase title="option_explain.af_as_max_featured_awards" addon_id="AddonFlare/AwardSystem" version_id="1040070" version_string="1.4.0"><![CDATA[用户可以设置的最大展示奖章数<br>
+填入 0 则表示无限制]]></phrase>
   <phrase title="option_explain.af_as_max_featured_awards_per_level" addon_id="AddonFlare/AwardSystem" version_id="1010170" version_string="1.1.1"><![CDATA[Max number of awards users can feature depending on their level on<br>
 Use 0 for no limit]]></phrase>
   <phrase title="option_explain.af_as_max_profile_awards" addon_id="AddonFlare/AwardSystem" version_id="1000070" version_string="1.0.0"><![CDATA[在显示“查看更多”按钮之前，用户个人空间中显示的最大勋章数量。]]></phrase>
@@ -13121,7 +13121,7 @@ JS最近更新（Unix时间），更改后强制刷新 JS缓存，即使不更�
   <phrase title="permission.resource_manageOwnTeam" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[管理团队可以拥有自己的资源]]></phrase>
   <phrase title="permission.resource_mjrcpBypassPurchase" addon_id="MJ/ResourceCreditsPayment" version_id="1000131" version_string="1.0.1"><![CDATA[无需购买即可下载付费资源]]></phrase>
   <phrase title="permission.resource_mjrcpSellResource" addon_id="MJ/ResourceCreditsPayment" version_id="1000131" version_string="1.0.1"><![CDATA[用积分销售资源]]></phrase>
-  <phrase title="permission.resource_rate" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[资源等级]]></phrase>
+  <phrase title="permission.resource_rate" addon_id="XFRM" version_id="2020270" version_string="2.2.2"><![CDATA[评价资源]]></phrase>
   <phrase title="permission.resource_react" addon_id="XFRM" version_id="2010011" version_string="2.1.0 Preview 1"><![CDATA[对资源/更新做出反馈]]></phrase>
   <phrase title="permission.resource_reassign" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[重新分配资源]]></phrase>
   <phrase title="permission.resource_reviewReply" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[在自己资源可以回复评论]]></phrase>
@@ -13131,7 +13131,7 @@ JS最近更新（Unix时间），更改后强制刷新 JS缓存，即使不更�
   <phrase title="permission.resource_undelete" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[撤销删除资源]]></phrase>
   <phrase title="permission.resource_updateOwn" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[升级/编辑自己资源]]></phrase>
   <phrase title="permission.resource_uploadUpdateAttach" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[在更新/资源上传图片]]></phrase>
-  <phrase title="permission.resource_uploadUpdateVideo" addon_id="XFRM" version_id="2010011" version_string="2.1.0 Preview 1"><![CDATA[上传包含更新/资源的视频]]></phrase>
+  <phrase title="permission.resource_uploadUpdateVideo" addon_id="XFRM" version_id="2020270" version_string="2.2.2"><![CDATA[上传视频到更新/资源中]]></phrase>
   <phrase title="permission.resource_view" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[查看资源]]></phrase>
   <phrase title="permission.resource_viewDeleted" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[查看删除的资源]]></phrase>
   <phrase title="permission.resource_viewModerated" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[查看审核评分资源]]></phrase>
@@ -17695,7 +17695,7 @@ If left blank, the Masonry JS Library will instead stack your articles at variou
   <phrase title="x_user_name_changed_to_x" addon_id="XF" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[{oldName} <span class="u-muted">用户名已更改为</span> {newName}]]></phrase>
   <phrase title="x_weeks" addon_id="XF" version_id="2020570" version_string="2.2.5"><![CDATA[{weeks} weeks]]></phrase>
   <phrase title="x_will_be_merged_into_this_user_and_all_of_xs_content_moved" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name} 将会合并到此会员，而 {name} 的所有内容也都归属于此会员。]]></phrase>
-  <phrase title="x_would_like_your_permission_to_enable_push_notifications" addon_id="XF" version_id="2010770" version_string="2.1.7"><![CDATA[{boardTitle}希望您能够为我们<a href="{link}" class="js-enablePushLink">启用推送通知</a>的权限！]]></phrase>
+  <phrase title="x_would_like_your_permission_to_enable_push_notifications" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[想要及时地收到 MineBBS 消息通知吗？快来【<a href="{link}" class="js-enablePushLink">启用推送通知</a>】吧~]]></phrase>
   <phrase title="x_wrote_on_ys_profile" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name} 在 {profile} 的个人空间上留言。]]></phrase>
   <phrase title="x_years" addon_id="XF" version_id="2000570" version_string="2.0.5"><![CDATA[{years} 年]]></phrase>
   <phrase title="xenforo_importers_now_installed_as_separate_add_on_downloadable_from" addon_id="XF" version_id="2000370" version_string="2.0.3"><![CDATA[XenForo 导入程序现在是一个插件形式安装， 从您的 <a href="https://xenforo.com/customers" target="_blank">客户区</a>下载。]]></phrase>
@@ -17878,7 +17878,7 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_join_discussion" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[加入讨论]]></phrase>
   <phrase title="xfrm_last_update" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[最后更新]]></phrase>
   <phrase title="xfrm_latest_resources" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[最新资源]]></phrase>
-  <phrase title="xfrm_latest_reviews" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[最新评论]]></phrase>
+  <phrase title="xfrm_latest_reviews" addon_id="XFRM" version_id="2020270" version_string="2.2.2"><![CDATA[最新评价]]></phrase>
   <phrase title="xfrm_latest_updates" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[最新更新]]></phrase>
   <phrase title="xfrm_leave_resource_team" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[离开资源团队]]></phrase>
   <phrase title="xfrm_manage_resource_team" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[管理资源团队]]></phrase>
@@ -17998,7 +17998,7 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_resource_prefixes" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[资源前缀]]></phrase>
   <phrase title="xfrm_resource_quick_feature" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[推荐资源]]></phrase>
   <phrase title="xfrm_resource_quick_unfeature" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[撤销推荐资源]]></phrase>
-  <phrase title="xfrm_resource_rating" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[资源等级]]></phrase>
+  <phrase title="xfrm_resource_rating" addon_id="XFRM" version_id="2020270" version_string="2.2.2"><![CDATA[资源评价]]></phrase>
   <phrase title="xfrm_resource_ratings" addon_id="XFRM" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[资源评级]]></phrase>
   <phrase title="xfrm_resource_reactions" addon_id="XFRM" version_id="2010011" version_string="2.1.0 Preview 1"><![CDATA[资源反馈]]></phrase>
   <phrase title="xfrm_resource_review_fields" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[资源评论字段]]></phrase>
@@ -18037,7 +18037,7 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_response_by" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[回应者]]></phrase>
   <phrase title="xfrm_review_for_x" addon_id="XFRM" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[审核 '{title}']]></phrase>
   <phrase title="xfrm_review_is_required" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[需要复审。]]></phrase>
-  <phrase title="xfrm_reviews" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[评论]]></phrase>
+  <phrase title="xfrm_reviews" addon_id="XFRM" version_id="2020270" version_string="2.2.2"><![CDATA[评价]]></phrase>
   <phrase title="xfrm_search_child_categories_as_well" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[搜索子分类]]></phrase>
   <phrase title="xfrm_search_in_categories" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[搜索分类]]></phrase>
   <phrase title="xfrm_search_resources" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[搜索资源]]></phrase>
@@ -18108,7 +18108,7 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_x_reacted_to_ys_resource_z" addon_id="XFRM" version_id="2020170" version_string="2.2.1"><![CDATA[{name}对{author}的资源{title}表示{reaction}。]]></phrase>
   <phrase title="xfrm_x_reacted_to_ys_update_for_resource_z" addon_id="XFRM" version_id="2020170" version_string="2.2.1"><![CDATA[{name}对{author}的资源{title}的更新表示{reaction}。]]></phrase>
   <phrase title="xfrm_x_replied_review_resource_y" addon_id="XFRM" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[{name} 回复了您对资源 {title} 的评论。]]></phrase>
-  <phrase title="xfrm_x_reviewed_resource_y" addon_id="XFRM" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[{username} 对资源 {title} 给出了评论。]]></phrase>
+  <phrase title="xfrm_x_reviewed_resource_y" addon_id="XFRM" version_id="2020270" version_string="2.2.2"><![CDATA[{username} 对资源 {title} 进行了评价。]]></phrase>
   <phrase title="xfrm_x_updated_resource_y" addon_id="XFRM" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[{name} 更新了资源 {title}。]]></phrase>
   <phrase title="xfrm_x_updated_resource_y_with_update_z" addon_id="XFRM" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[{username} 对资源 {title} 进行了更新 {update}。]]></phrase>
   <phrase title="xfrm_you_have_already_rated_this_version_rerating_remove_existing" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[您已经对此版本进行了评分。重新评分将删除您现有的评分或评论。]]></phrase>

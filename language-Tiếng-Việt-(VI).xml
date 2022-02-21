@@ -10294,7 +10294,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_credits_wallet" addon_id="MJ/Credits" version_id="1000200" version_string="1.0.2"><![CDATA[[BRC] 钱包]]></phrase>
   <phrase title="mjc_currencies" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[货币]]></phrase>
   <phrase title="mjc_currency" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[货币]]></phrase>
-  <phrase title="mjc_currency_desc.1" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[]]></phrase>
+  <phrase title="mjc_currency_desc.1" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[MineBBS通用积分]]></phrase>
   <phrase title="mjc_currency_desc.2" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_currency_desc.3" addon_id="MJ/Credits" version_id="1010700" version_string="1.1.7"><![CDATA[]]></phrase>
   <phrase title="mjc_currency_desc.4" addon_id="MJ/Credits" version_id="1010700" version_string="1.1.7"><![CDATA[]]></phrase>
@@ -10302,7 +10302,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_currency_desc.6" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_currency_limit" addon_id="MJ/Credits" version_id="1000200" version_string="1.0.2"><![CDATA[货币限制]]></phrase>
   <phrase title="mjc_currency_title.1" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[金粒]]></phrase>
-  <phrase title="mjc_currency_title.2" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[钻石]]></phrase>
+  <phrase title="mjc_currency_title.2" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[白银]]></phrase>
   <phrase title="mjc_currency_title.3" addon_id="" version_id="0" version_string=""><![CDATA[金粒]]></phrase>
   <phrase title="mjc_currency_title.4" addon_id="" version_id="0" version_string=""><![CDATA[钻石]]></phrase>
   <phrase title="mjc_currency_title.5" addon_id="" version_id="0" version_string=""><![CDATA[测试]]></phrase>
