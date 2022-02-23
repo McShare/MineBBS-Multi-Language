@@ -9208,14 +9208,14 @@ var _hmt = _hmt || [];
   <phrase title="followed_members_only" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[只允许关注的会员]]></phrase>
   <phrase title="followers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[粉丝]]></phrase>
   <phrase title="following" addon_id="XF" version_id="2000033" version_string="2.0.0 Beta 3"><![CDATA[关注列表]]></phrase>
-  <phrase title="following_add_ons_missing_necessary_files_for_health_checking" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[下面的附加组件缺少健康检查所需的文件。]]></phrase>
+  <phrase title="following_add_ons_missing_necessary_files_for_health_checking" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[下面的插件缺少健康检查所需的文件。]]></phrase>
   <phrase title="following_and_ignored_users" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[关注和屏蔽用户]]></phrase>
   <phrase title="following_error_occurred_while_fetching_metadata_from_url_x" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[从URL {URL}获取元数据时发生以下错误]]></phrase>
   <phrase title="following_errors_must_be_resolved_before_continuing" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[在继续之前，必须解决以下错误]]></phrase>
   <phrase title="following_errors_occurred_while_verifying_that_your_server_still_meets_requirements" addon_id="XF" version_id="2001170" version_string="2.0.11"><![CDATA[验证服务器是否仍满足最低要求时出现以下错误]]></phrase>
   <phrase title="following_errors_were_found_when_checking_add_on_x_meets_requirements" addon_id="XF" version_id="2020033" version_string="2.2.0 Beta 3"><![CDATA[检查插件{title}满足最低要求时发现以下错误：]]></phrase>
-  <phrase title="following_files_not_deletable_as_they_may_be_in_use_by_another_add_on" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[The following files are not deletable as they may be in use by another add-on. These files will <strong>not</strong> be deleted but you may proceed with deleting the rest of the files in this add-on if you wish.]]></phrase>
-  <phrase title="following_files_or_directories_not_deletable_due_to_file_permissions" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[The following files or directories are not deletable due to file permissions. We recommend that the add-on files are removed manually.]]></phrase>
+  <phrase title="following_files_not_deletable_as_they_may_be_in_use_by_another_add_on" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[以下文件不能删除，因为它们可能正在被其他插件使用。这些文件将<strong>不会</strong>被删除，但如果您愿意，您可以继续删除此插件中的其余文件。]]></phrase>
+  <phrase title="following_files_or_directories_not_deletable_due_to_file_permissions" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[由于文件权限限制，以下文件或目录不可删除。我们建议手动删除插件文件。]]></phrase>
   <phrase title="following_html_is_what_was_fetched_within_default_time_and_size" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[以下HTML是在默认时间和大小限制内获取的内容。 如果缺少部分或全部metadata，则可能意味着我们获取的HTML不包含元数据。]]></phrase>
   <phrase title="following_issue_found_one_click_upgrade_x" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[确定是否可以进行一键升级时，会发现以下问题：{error}]]></phrase>
   <phrase title="following_members_not_found_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[找不到下列会员： {members}。]]></phrase>
@@ -9337,7 +9337,7 @@ var _hmt = _hmt || [];
   <phrase title="handle_report" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[处理举报]]></phrase>
   <phrase title="hard_bounce" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[硬退信]]></phrase>
   <phrase title="hashes_file_for_this_add_on_missing" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[此插件的hashes.json文件丢失所以不能进行健康检查。]]></phrase>
-  <phrase title="hcaptcha_config_hint" addon_id="XF" version_id="2020570" version_string="2.2.5"><![CDATA[No extra configuration is required for this CAPTCHA. But if you would like additional features, such as difficulty preferences and analytics, you should get your own API keys from <a href="https://www.hcaptcha.com/" target="_blank">https://www.hcaptcha.com/</a> and enter them below.]]></phrase>
+  <phrase title="hcaptcha_config_hint" addon_id="XF" version_id="2020570" version_string="2.2.5"><![CDATA[这个验证码不需要额外的配置。但是如果您想要更多的功能，如难度偏好和分析，您应该从<a href="https://www.hcaptcha.com/" target="_blank">https://www.hcaptcha.com/</a>获得自己的API Key，并在下面输入它们。]]></phrase>
   <phrase title="hcaptcha_privacy_policy" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[<p>此网站受hCaptcha及其<a href="https://hcaptcha.com/privacy" target="_blank">隐私政策</a>和<a href ="https://hcaptcha.com/terms" target ="_blank">服务条款</a>申请。<p>]]></phrase>
   <phrase title="heading_1" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[标题 1]]></phrase>
   <phrase title="heading_2" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[标题 2]]></phrase>
@@ -9777,7 +9777,7 @@ Multiple styles can be combined.
   <phrase title="kl_em_delete_column" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[Delete column]]></phrase>
   <phrase title="kl_em_delete_row" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[Delete row]]></phrase>
   <phrase title="kl_em_disable_markdown" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Disable markdown translation]]></phrase>
-  <phrase title="kl_em_dropdown_edit" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[Edit dropdown]]></phrase>
+  <phrase title="kl_em_dropdown_edit" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[编辑下拉]]></phrase>
   <phrase title="kl_em_edit_custom_emote" addon_id="KL/EditorManager" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[Edit custom emote]]></phrase>
   <phrase title="kl_em_edit_font" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[Edit font]]></phrase>
   <phrase title="kl_em_edit_template" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[Edit template]]></phrase>
@@ -9789,30 +9789,30 @@ Multiple styles can be combined.
   <phrase title="kl_em_enable_emoji_autocomplete" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Enable emoji autocomplete]]></phrase>
   <phrase title="kl_em_export_special_chars" addon_id="KL/EditorManager" version_id="1010070" version_string="1.1.0"><![CDATA[Export special characters]]></phrase>
   <phrase title="kl_em_external_fonts" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[External fonts]]></phrase>
-  <phrase title="kl_em_file" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[File]]></phrase>
-  <phrase title="kl_em_font" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Font]]></phrase>
+  <phrase title="kl_em_file" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[文件]]></phrase>
+  <phrase title="kl_em_font" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[字体]]></phrase>
   <phrase title="kl_em_font_awesome" addon_id="KL/EditorManager" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Font Awesome]]></phrase>
   <phrase title="kl_em_font_code" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[[FONT=<span class="block-textHeader-highlight">font</span>]]]></phrase>
-  <phrase title="kl_em_font_family" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[Font family]]></phrase>
-  <phrase title="kl_em_font_id" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Font ID]]></phrase>
+  <phrase title="kl_em_font_family" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[字体族]]></phrase>
+  <phrase title="kl_em_font_id" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[字体ID]]></phrase>
   <phrase title="kl_em_font_preview_sentence" addon_id="KL/EditorManager" version_id="1020034" version_string="1.2.0 Beta 4"><![CDATA[Quick brown fox jumps over the lazy dog.]]></phrase>
-  <phrase title="kl_em_font_sizes" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[Font sizes]]></phrase>
-  <phrase title="kl_em_font_title" addon_id="KL/EditorManager" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Font title]]></phrase>
-  <phrase title="kl_em_font_type" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Font type]]></phrase>
+  <phrase title="kl_em_font_sizes" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[字体尺寸]]></phrase>
+  <phrase title="kl_em_font_title" addon_id="KL/EditorManager" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[字体标题]]></phrase>
+  <phrase title="kl_em_font_type" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[字体类型]]></phrase>
   <phrase title="kl_em_font_url" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[URL]]></phrase>
   <phrase title="kl_em_fullscreen" addon_id="KL/EditorManager" version_id="2000070" version_string="2.0.0"><![CDATA[全屏]]></phrase>
   <phrase title="kl_em_general_options" addon_id="KL/EditorManager" version_id="2000070" version_string="2.0.0"><![CDATA[常规设置]]></phrase>
-  <phrase title="kl_em_gfont" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[Google font]]></phrase>
+  <phrase title="kl_em_gfont" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[Google字体]]></phrase>
   <phrase title="kl_em_gfont_preview" addon_id="KL/EditorManager" version_id="2000070" version_string="2.0.0"><![CDATA[查看]]></phrase>
-  <phrase title="kl_em_google_font" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[Google font]]></phrase>
-  <phrase title="kl_em_google_font_name" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[Font name]]></phrase>
+  <phrase title="kl_em_google_font" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[Google字体]]></phrase>
+  <phrase title="kl_em_google_font_name" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[字体名称]]></phrase>
   <phrase title="kl_em_heading" addon_id="KL/EditorManager" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[Heading]]></phrase>
-  <phrase title="kl_em_hidden_content" addon_id="KL/EditorManager" global_cache="1" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[Hidden content]]></phrase>
+  <phrase title="kl_em_hidden_content" addon_id="KL/EditorManager" global_cache="1" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[隐藏内容]]></phrase>
   <phrase title="kl_em_hide" addon_id="KL/EditorManager" version_id="2000070" version_string="2.0.0"><![CDATA[隐藏]]></phrase>
   <phrase title="kl_em_hide_date" addon_id="KL/EditorManager" version_id="2000070" version_string="2.0.0"><![CDATA[某日期后可见]]></phrase>
-  <phrase title="kl_em_hide_default_option" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[Default hide version]]></phrase>
-  <phrase title="kl_em_hide_group" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Hide unless in group]]></phrase>
-  <phrase title="kl_em_hide_members" addon_id="KL/EditorManager" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hide to guests]]></phrase>
+  <phrase title="kl_em_hide_default_option" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[默认隐藏版本]]></phrase>
+  <phrase title="kl_em_hide_group" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[隐藏，除非在用户组中]]></phrase>
+  <phrase title="kl_em_hide_members" addon_id="KL/EditorManager" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[对游客隐藏]]></phrase>
   <phrase title="kl_em_hide_number_of_posts" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[Number of posts for post hide]]></phrase>
   <phrase title="kl_em_hide_posts" addon_id="KL/EditorManager" version_id="2000070" version_string="2.0.0"><![CDATA[达到一定回复量后可见]]></phrase>
   <phrase title="kl_em_hide_reply" addon_id="KL/EditorManager" version_id="2000070" version_string="2.0.0"><![CDATA[回复后可见]]></phrase>
@@ -9884,42 +9884,42 @@ Multiple styles can be combined.
   <phrase title="kl_em_table" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Table]]></phrase>
   <phrase title="kl_em_table_header" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[Table header]]></phrase>
   <phrase title="kl_em_table_style.alternate_rows" addon_id="KL/EditorManager" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Alternate rows]]></phrase>
-  <phrase title="kl_em_table_style.centered" addon_id="KL/EditorManager" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Centered]]></phrase>
-  <phrase title="kl_em_table_style.collapse" addon_id="KL/EditorManager" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Collapse]]></phrase>
+  <phrase title="kl_em_table_style.centered" addon_id="KL/EditorManager" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[居中]]></phrase>
+  <phrase title="kl_em_table_style.collapse" addon_id="KL/EditorManager" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[折叠]]></phrase>
   <phrase title="kl_em_table_style.no_background" addon_id="KL/EditorManager" version_id="2000070" version_string="2.0.0"><![CDATA[无背景]]></phrase>
   <phrase title="kl_em_table_style.no_border" addon_id="KL/EditorManager" version_id="2000070" version_string="2.0.0"><![CDATA[无边框]]></phrase>
-  <phrase title="kl_em_table_style.right_aligned" addon_id="KL/EditorManager" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Right aligned]]></phrase>
-  <phrase title="kl_em_template_type.private" addon_id="KL/EditorManager" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Private templates]]></phrase>
-  <phrase title="kl_em_template_type.public" addon_id="KL/EditorManager" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Public templates]]></phrase>
-  <phrase title="kl_em_templates" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Templates]]></phrase>
-  <phrase title="kl_em_text_align" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[Text align]]></phrase>
-  <phrase title="kl_em_toolbarButtonsMD" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[Medium toolbar (1200 - 992px)]]></phrase>
-  <phrase title="kl_em_toolbarButtonsSM" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[Small toolbar (992 - 768px)]]></phrase>
-  <phrase title="kl_em_toolbarButtonsXS" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[Extra small toolbar (< 768px)]]></phrase>
+  <phrase title="kl_em_table_style.right_aligned" addon_id="KL/EditorManager" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[右对齐]]></phrase>
+  <phrase title="kl_em_template_type.private" addon_id="KL/EditorManager" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[私有模板]]></phrase>
+  <phrase title="kl_em_template_type.public" addon_id="KL/EditorManager" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[公共模板]]></phrase>
+  <phrase title="kl_em_templates" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[模板]]></phrase>
+  <phrase title="kl_em_text_align" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[文本对齐]]></phrase>
+  <phrase title="kl_em_toolbarButtonsMD" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[中型工具栏 (1200 - 992px)]]></phrase>
+  <phrase title="kl_em_toolbarButtonsSM" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[小型工具栏 (992 - 768px)]]></phrase>
+  <phrase title="kl_em_toolbarButtonsXS" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[特小型工具栏 (< 768px)]]></phrase>
   <phrase title="kl_em_underline_code" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[[U]]]></phrase>
-  <phrase title="kl_em_unlink_all" addon_id="KL/EditorManager" version_id="1000170" version_string="1.0.1"><![CDATA[Remove all links]]></phrase>
-  <phrase title="kl_em_unlink_all_links" addon_id="KL/EditorManager" version_id="1000170" version_string="1.0.1"><![CDATA[Remove all links]]></phrase>
-  <phrase title="kl_em_upload" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Serverside]]></phrase>
-  <phrase title="kl_em_upload_explanation" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Serverside fonts are hosted directly from your server. You will have to manually upload these fonts to the <code class="bbCodeInline">data/fonts/</code>-directory inside your XenForo installation. Supported file types are <code class="bbCodeInline">woff2, woff, ttf, otf, eot & svg</code>. It is recommended, to provide a <code class="bbCodeInline">woff2</code> file. Your uploaded files will be matched into a set by the system and will be listed below. Ensure, that they all share the same name in order to have them listed in a single group. You will have to resave the font, if you decide to upload additional file types later on. The filename will match the font family.]]></phrase>
-  <phrase title="kl_em_use_extended_colorpicker" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[Use extended colorpicker]]></phrase>
+  <phrase title="kl_em_unlink_all" addon_id="KL/EditorManager" version_id="1000170" version_string="1.0.1"><![CDATA[删除所有链接]]></phrase>
+  <phrase title="kl_em_unlink_all_links" addon_id="KL/EditorManager" version_id="1000170" version_string="1.0.1"><![CDATA[删除所有链接]]></phrase>
+  <phrase title="kl_em_upload" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[服务器端]]></phrase>
+  <phrase title="kl_em_upload_explanation" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[服务器端字体直接由服务器托管。您必须手动将这些字体上传到XenForo安装目录中的<code class="bbCodeInline">data/fonts/</code>-directory。支持的文件类型是<code class="bbCodeInline">woff2, woff, ttf, otf, eot & svg</code>。建议提供一个<code class="bbCodeInline">woff2</code>文件。您上传的文件将被系统匹配到一个集合中，并将在下面列出。确保它们都共享相同的名称，以便将它们列在一个组中。如果您决定稍后上传其他文件类型，则必须重新保存字体。文件名将与字体族匹配。]]></phrase>
+  <phrase title="kl_em_use_extended_colorpicker" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[使用扩展器]]></phrase>
   <phrase title="kl_em_user_selectable" addon_id="KL/EditorManager" version_id="2000070" version_string="2.0.0"><![CDATA[用户自选]]></phrase>
-  <phrase title="kl_em_user_template_cache" addon_id="KL/EditorManager" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User template cache]]></phrase>
+  <phrase title="kl_em_user_template_cache" addon_id="KL/EditorManager" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[用户模板缓存]]></phrase>
   <phrase title="kl_em_vertical_align" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[Vertical align]]></phrase>
-  <phrase title="kl_em_video" addon_id="KL/EditorManager" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[Video]]></phrase>
-  <phrase title="kl_em_video_proxy_details" addon_id="KL/EditorManager" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[Video proxy details]]></phrase>
+  <phrase title="kl_em_video" addon_id="KL/EditorManager" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[视频]]></phrase>
+  <phrase title="kl_em_video_proxy_details" addon_id="KL/EditorManager" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[视频代理细节]]></phrase>
   <phrase title="kl_em_video_proxy_log" addon_id="KL/EditorManager" version_id="2000070" version_string="2.0.0"><![CDATA[视频代理日志]]></phrase>
   <phrase title="kl_em_web" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[External (web)]]></phrase>
   <phrase title="kl_em_web_explanation" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[External fonts are fonts, that are neither already on your clients device nor hosted on your own server. They are resources, that are located somewhere else on the web. The main advantages of using these fonts are the large choice of available fonts from different hosters, the bandwidth you save by not having to provide them to the users yourself and the likelyhood of those fonts already being in the cache of your users from a different website they visited before.]]></phrase>
   <phrase title="kl_em_websafe_font_stacks" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[Web safe font stacks]]></phrase>
   <phrase title="kl_em_websafe_font_stacks_description" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[In the following you find a list of font stacks, that are so widely spread, that the likelyhood of one of your users not having the font is very low. Due to this circumstance, they're considered to be <strong>web safe</strong> - safe to be used on your website.]]></phrase>
-  <phrase title="kl_em_where_to_find_the_url" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Where to find the URL:]]></phrase>
+  <phrase title="kl_em_where_to_find_the_url" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[在哪里找到URL:]]></phrase>
   <phrase title="kl_em_words" addon_id="KL/EditorManager" version_id="2000070" version_string="2.0.0"><![CDATA[词]]></phrase>
-  <phrase title="kl_em_you_must_be_logged_in_to_see_this_link" addon_id="KL/EditorManager" global_cache="1" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[You must be logged in to see this link.]]></phrase>
-  <phrase title="kl_em_you_must_log_in_to_view_this_content" addon_id="KL/EditorManager" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[You must be logged in to view this content.]]></phrase>
-  <phrase title="kl_em_you_need_to_be_in_one_of_the_following_groups" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[You need to be in at least one of the following groups to see this content]]></phrase>
-  <phrase title="kl_em_you_need_to_like_or_reply_to_this" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[You need to reply to this thread or react to this post in order to see this content.]]></phrase>
-  <phrase title="kl_em_you_need_to_like_this" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[You need to react to this post in order to see this content.]]></phrase>
-  <phrase title="kl_em_you_need_to_reply_to_this" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[You need to reply to this thread in order to see this content.]]></phrase>
+  <phrase title="kl_em_you_must_be_logged_in_to_see_this_link" addon_id="KL/EditorManager" global_cache="1" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[您必须登录才能看到此链接。]]></phrase>
+  <phrase title="kl_em_you_must_log_in_to_view_this_content" addon_id="KL/EditorManager" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[您必须登录才能查看此内容。]]></phrase>
+  <phrase title="kl_em_you_need_to_be_in_one_of_the_following_groups" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[您需要在以下用户组之一中才能查看此内容]]></phrase>
+  <phrase title="kl_em_you_need_to_like_or_reply_to_this" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[你需要回复这个主题或者给这个帖子点赞才能查看此内容。]]></phrase>
+  <phrase title="kl_em_you_need_to_like_this" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[你需要对这篇文章做出反馈（如点赞）才能查看这篇文章的内容。]]></phrase>
+  <phrase title="kl_em_you_need_to_reply_to_this" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[你需要回复这个帖子才能看到这个内容。]]></phrase>
   <phrase title="kl_ui_account_has_been_deactivated" addon_id="KL/UserImprovements" version_id="1010071" version_string="1.1.0"><![CDATA[此帐户已停用。]]></phrase>
   <phrase title="kl_ui_add_trophy_category" addon_id="KL/UserImprovements" version_id="1020270" version_string="1.2.2"><![CDATA[添加勋章分类]]></phrase>
   <phrase title="kl_ui_also_known_as" addon_id="KL/UserImprovements" version_id="1010170" version_string="1.1.1"><![CDATA[Also known as]]></phrase>
@@ -9989,7 +9989,7 @@ Multiple styles can be combined.
   <phrase title="language_code" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[语言]]></phrase>
   <phrase title="language_code.af_ZA" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Afrikaans]]></phrase>
   <phrase title="language_code.am_ET" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Amharic]]></phrase>
-  <phrase title="language_code.ar_AR" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Arabic]]></phrase>
+  <phrase title="language_code.ar_AR" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[阿拉伯语]]></phrase>
   <phrase title="language_code.ay_BO" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Aymara]]></phrase>
   <phrase title="language_code.az_AZ" addon_id="XF" version_id="2010370" version_string="2.1.3"><![CDATA[Azerbaijani]]></phrase>
   <phrase title="language_code.be_BY" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Belarusian]]></phrase>
@@ -10002,26 +10002,26 @@ Multiple styles can be combined.
   <phrase title="language_code.cx_PH" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cebuano]]></phrase>
   <phrase title="language_code.cy_GB" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Welsh]]></phrase>
   <phrase title="language_code.da_DK" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Danish]]></phrase>
-  <phrase title="language_code.de_DE" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[German]]></phrase>
-  <phrase title="language_code.el_GR" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Greek]]></phrase>
-  <phrase title="language_code.en_GB" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[English (UK)]]></phrase>
-  <phrase title="language_code.en_US" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[English (US)]]></phrase>
+  <phrase title="language_code.de_DE" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[德语]]></phrase>
+  <phrase title="language_code.el_GR" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[希腊]]></phrase>
+  <phrase title="language_code.en_GB" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[英语 (英)]]></phrase>
+  <phrase title="language_code.en_US" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[英语 (美)]]></phrase>
   <phrase title="language_code.eo_EO" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Esperanto]]></phrase>
-  <phrase title="language_code.es_CL" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spanish (Chile)]]></phrase>
-  <phrase title="language_code.es_CO" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spanish (Colombia)]]></phrase>
-  <phrase title="language_code.es_ES" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spanish (Spain)]]></phrase>
-  <phrase title="language_code.es_LA" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spanish]]></phrase>
-  <phrase title="language_code.es_MX" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spanish (Mexico)]]></phrase>
-  <phrase title="language_code.es_VE" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spanish (Venezuela)]]></phrase>
+  <phrase title="language_code.es_CL" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[西班牙语 (Chile)]]></phrase>
+  <phrase title="language_code.es_CO" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[西班牙语 (Colombia)]]></phrase>
+  <phrase title="language_code.es_ES" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[西班牙语 (Spain)]]></phrase>
+  <phrase title="language_code.es_LA" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[西班牙语]]></phrase>
+  <phrase title="language_code.es_MX" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[西班牙语 (Mexico)]]></phrase>
+  <phrase title="language_code.es_VE" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[西班牙语 (Venezuela)]]></phrase>
   <phrase title="language_code.et_EE" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Estonian]]></phrase>
   <phrase title="language_code.eu_ES" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Basque]]></phrase>
   <phrase title="language_code.fa_IR" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Persian]]></phrase>
   <phrase title="language_code.ff_NG" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Fulah]]></phrase>
   <phrase title="language_code.fi_FI" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Finnish]]></phrase>
   <phrase title="language_code.fo_FO" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Faroese]]></phrase>
-  <phrase title="language_code.fr_CA" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[French (Canada)]]></phrase>
-  <phrase title="language_code.fr_FR" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[French (France)]]></phrase>
-  <phrase title="language_code.ga_IE" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Irish]]></phrase>
+  <phrase title="language_code.fr_CA" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[法语 (加)]]></phrase>
+  <phrase title="language_code.fr_FR" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[法语 (法)]]></phrase>
+  <phrase title="language_code.ga_IE" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[爱尔兰语]]></phrase>
   <phrase title="language_code.gl_ES" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Galician]]></phrase>
   <phrase title="language_code.gu_IN" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Gujarati]]></phrase>
   <phrase title="language_code.ha_NG" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hausa]]></phrase>
@@ -10034,8 +10034,8 @@ Multiple styles can be combined.
   <phrase title="language_code.id_ID" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Indonesian]]></phrase>
   <phrase title="language_code.ig_NG" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Igbo]]></phrase>
   <phrase title="language_code.is_IS" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Icelandic]]></phrase>
-  <phrase title="language_code.it_IT" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Italian]]></phrase>
-  <phrase title="language_code.ja_JP" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Japanese]]></phrase>
+  <phrase title="language_code.it_IT" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[意大利语]]></phrase>
+  <phrase title="language_code.ja_JP" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[日本语]]></phrase>
   <phrase title="language_code.jv_ID" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Javanese]]></phrase>
   <phrase title="language_code.ka_GE" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Georgian]]></phrase>
   <phrase title="language_code.kk_KZ" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Kazakh]]></phrase>
@@ -10053,7 +10053,7 @@ Multiple styles can be combined.
   <phrase title="language_code.ml_IN" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Malayalam]]></phrase>
   <phrase title="language_code.mn_MN" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mongolian]]></phrase>
   <phrase title="language_code.mr_IN" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Marathi]]></phrase>
-  <phrase title="language_code.ms_MY" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Malay]]></phrase>
+  <phrase title="language_code.ms_MY" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[马来语]]></phrase>
   <phrase title="language_code.mt_MT" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maltese]]></phrase>
   <phrase title="language_code.my_MM" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Burmese]]></phrase>
   <phrase title="language_code.nb_NO" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Norwegian (bokmal)]]></phrase>
@@ -13805,28 +13805,28 @@ JS最近更新（Unix时间），更改后强制刷新 JS缓存，即使不更�
   <phrase title="reddit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Reddit]]></phrase>
   <phrase title="redirect" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[跳转]]></phrase>
   <phrase title="redirect_changes_saved_successfully" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[您的更改已保存。]]></phrase>
-  <phrase title="redirection_notice" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[附加选项]]></phrase>
-  <phrase title="redis_clients" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[Connected clients]]></phrase>
-  <phrase title="redis_db_x_avg_ttl" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[DB {database} Average TTL]]></phrase>
+  <phrase title="redirection_notice" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[插件配置]]></phrase>
+  <phrase title="redis_clients" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[连接的客户端]]></phrase>
+  <phrase title="redis_db_x_avg_ttl" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[DB {database} 平均 TTL]]></phrase>
   <phrase title="redis_db_x_keys" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[DB {database} Keys]]></phrase>
-  <phrase title="redis_disabled" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[Redis is disabled.]]></phrase>
-  <phrase title="redis_free_memory" addon_id="SV/RedisCache" version_id="2030000" version_string="2.3.0"><![CDATA[Free memory]]></phrase>
-  <phrase title="redis_info" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[Redis Information]]></phrase>
+  <phrase title="redis_disabled" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[Redis已禁用]]></phrase>
+  <phrase title="redis_free_memory" addon_id="SV/RedisCache" version_id="2030000" version_string="2.3.0"><![CDATA[空余内存]]></phrase>
+  <phrase title="redis_info" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[Redis信息]]></phrase>
   <phrase title="redis_input_kbps" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[To Redis (kbps)]]></phrase>
-  <phrase title="redis_loading" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[Redis is still loading.]]></phrase>
-  <phrase title="redis_lua" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[Using Lua]]></phrase>
+  <phrase title="redis_loading" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[Redis仍在加载中]]></phrase>
+  <phrase title="redis_lua" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[使用Lua]]></phrase>
   <phrase title="redis_ops" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[Operations per second]]></phrase>
   <phrase title="redis_output_kbps" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[From Redis (kbps)]]></phrase>
-  <phrase title="redis_peak_memory" addon_id="SV/RedisCache" version_id="2030000" version_string="2.3.0"><![CDATA[Peak memory]]></phrase>
+  <phrase title="redis_peak_memory" addon_id="SV/RedisCache" version_id="2030000" version_string="2.3.0"><![CDATA[内存上线]]></phrase>
   <phrase title="redis_phpredis" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[phpredis version]]></phrase>
-  <phrase title="redis_serializer" addon_id="SV/RedisCache" version_id="2010100" version_string="2.1.1"><![CDATA[Serializer]]></phrase>
-  <phrase title="redis_slave_address" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[Address]]></phrase>
+  <phrase title="redis_serializer" addon_id="SV/RedisCache" version_id="2010100" version_string="2.1.1"><![CDATA[串行器]]></phrase>
+  <phrase title="redis_slave_address" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[地址]]></phrase>
   <phrase title="redis_slave_lag" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[Replication Lag (seconds)]]></phrase>
   <phrase title="redis_slave_state" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[State]]></phrase>
   <phrase title="redis_slave_x" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[Slave {i}]]></phrase>
   <phrase title="redis_slaves" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[Slaves]]></phrase>
-  <phrase title="redis_used_memory" addon_id="SV/RedisCache" version_id="2030000" version_string="2.3.0"><![CDATA[Used memory]]></phrase>
-  <phrase title="redis_version" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[Version]]></phrase>
+  <phrase title="redis_used_memory" addon_id="SV/RedisCache" version_id="2030000" version_string="2.3.0"><![CDATA[已用内存]]></phrase>
+  <phrase title="redis_version" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[版本]]></phrase>
   <phrase title="redo" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[重做]]></phrase>
   <phrase title="referrer" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[推荐人]]></phrase>
   <phrase title="refine_and_translate" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[改进和翻译]]></phrase>
