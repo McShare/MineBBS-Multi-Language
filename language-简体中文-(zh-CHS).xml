@@ -10149,7 +10149,7 @@ Multiple styles can be combined.
   <phrase title="latest_member" addon_id="XF" version_id="2020270" version_string="2.2.2"><![CDATA[最新用户]]></phrase>
   <phrase title="latest_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[最新主题]]></phrase>
   <phrase title="latest_updates" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[最近更新]]></phrase>
-  <phrase title="latest_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[最新：最新更新{name}]]></phrase>
+  <phrase title="latest_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[最新：{name}]]></phrase>
   <phrase title="learn_more" addon_id="XF" version_id="2020570" version_string="2.2.5"><![CDATA[了解更多]]></phrase>
   <phrase title="leave" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[离开]]></phrase>
   <phrase title="leave_conversation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[离开私信]]></phrase>
