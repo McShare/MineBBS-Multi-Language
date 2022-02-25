@@ -11048,7 +11048,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="nav.defaultYourAccount" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Your account]]></phrase>
   <phrase title="nav.defaultYourProfile" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Your profile]]></phrase>
   <phrase title="nav.diamond_checkout" addon_id="" version_id="0" version_string=""><![CDATA[购物车]]></phrase>
-  <phrase title="nav.donate" addon_id="" version_id="0" version_string=""><![CDATA[捐赠我们]]></phrase>
+  <phrase title="nav.donate" addon_id="" version_id="0" version_string=""><![CDATA[Donate us]]></phrase>
   <phrase title="nav.findThreads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Find threads]]></phrase>
   <phrase title="nav.forumList" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum list]]></phrase>
   <phrase title="nav.forums" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forums]]></phrase>
@@ -13776,7 +13776,7 @@ Content being reported:
   <phrase title="resource_prefix.31" addon_id="" version_id="0" version_string=""><![CDATA[MCSM]]></phrase>
   <phrase title="resource_prefix.32" addon_id="" version_id="0" version_string=""><![CDATA[MCim]]></phrase>
   <phrase title="resource_prefix.33" addon_id="" version_id="0" version_string=""><![CDATA[DTconsole]]></phrase>
-  <phrase title="resource_prefix.34" addon_id="" version_id="0" version_string=""><![CDATA[DLL Plugins]]></phrase>
+  <phrase title="resource_prefix.34" addon_id="" version_id="0" version_string=""><![CDATA[Loader]]></phrase>
   <phrase title="resource_prefix.35" addon_id="" version_id="0" version_string=""><![CDATA[JS Plugins]]></phrase>
   <phrase title="resource_prefix.36" addon_id="" version_id="0" version_string=""><![CDATA[Other]]></phrase>
   <phrase title="resource_prefix.37" addon_id="" version_id="0" version_string=""><![CDATA[Source Code]]></phrase>
@@ -13796,7 +13796,7 @@ Content being reported:
   <phrase title="resource_prefix.52" addon_id="" version_id="0" version_string=""><![CDATA[JE Core]]></phrase>
   <phrase title="resource_prefix.54" addon_id="" version_id="0" version_string=""><![CDATA[Uncategorized]]></phrase>
   <phrase title="resource_prefix.55" addon_id="" version_id="0" version_string=""><![CDATA[PYR]]></phrase>
-  <phrase title="resource_prefix.56" addon_id="" version_id="0" version_string=""><![CDATA[Multipurpose]]></phrase>
+  <phrase title="resource_prefix.56" addon_id="" version_id="0" version_string=""><![CDATA[Multi-Backend]]></phrase>
   <phrase title="resource_prefix.57" addon_id="" version_id="0" version_string=""><![CDATA[JSR]]></phrase>
   <phrase title="resource_prefix.58" addon_id="" version_id="0" version_string=""><![CDATA[BDX]]></phrase>
   <phrase title="resource_prefix.59" addon_id="" version_id="0" version_string=""><![CDATA[LL]]></phrase>
