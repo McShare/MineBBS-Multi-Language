@@ -70,9 +70,9 @@
   <phrase title="EWRporta_twitter_hide_borders" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Hide borders]]></phrase>
   <phrase title="EWRporta_twitter_hide_footer" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Hide footer]]></phrase>
   <phrase title="EWRporta_twitter_hide_header" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Hide header]]></phrase>
-  <phrase title="EWRporta_twitter_hide_scrollbar" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Hide scrollbar]]></phrase>
-  <phrase title="EWRporta_twitter_related_users" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Related users]]></phrase>
-  <phrase title="EWRporta_twitter_search_text" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Search text]]></phrase>
+  <phrase title="EWRporta_twitter_hide_scrollbar" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[隠すscrollbar]]></phrase>
+  <phrase title="EWRporta_twitter_related_users" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[関連ユーザ]]></phrase>
+  <phrase title="EWRporta_twitter_search_text" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[テキスト検索]]></phrase>
   <phrase title="EWRporta_twitter_widget_id" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Widget ID]]></phrase>
   <phrase title="EWRporta_use_custom_title_and_excerpt" addon_id="EWR/Porta" version_id="1" version_string="0.0.0.1"><![CDATA[Use custom title and excerpt]]></phrase>
   <phrase title="EWRporta_viewing_article_author" addon_id="EWR/Porta" version_id="2012" version_string="2.0.1.2"><![CDATA[Viewing article author]]></phrase>
@@ -10227,7 +10227,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="member_stats_description" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Use this page to define and edit groups of users that can be displayed on the 'Notable members' public page]]></phrase>
   <phrase title="member_time_online" addon_id="Yugensoft/TimeSpentOnline" version_id="2000470" version_string="2.0.5"><![CDATA[Member time online]]></phrase>
   <phrase title="member_x" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Member '{username}']]></phrase>
-  <phrase title="members" addon_id="XF" global_cache="1" version_id="0" version_string=""><![CDATA[Members]]></phrase>
+  <phrase title="members" addon_id="XF" global_cache="1" version_id="0" version_string=""><![CDATA[部員]]></phrase>
   <phrase title="members_following_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Members following {name}]]></phrase>
   <phrase title="members_online" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[オンラインユーザー]]></phrase>
   <phrase title="members_only" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Members only]]></phrase>
@@ -10993,7 +10993,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="nav.currentVisitors" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Current visitors]]></phrase>
   <phrase title="nav.dbtEcomNewProducts" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[New products]]></phrase>
   <phrase title="nav.dbtShopNewItems" addon_id="DBTech/Shop" version_id="906010012" version_string="6.1.0 Alpha 2"><![CDATA[New items]]></phrase>
-  <phrase title="nav.dbtechEcommerce" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[Store]]></phrase>
+  <phrase title="nav.dbtechEcommerce" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[ダイヤモンド・モール]]></phrase>
   <phrase title="nav.dbtechEcommerceLatestReviews" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[Latest reviews]]></phrase>
   <phrase title="nav.dbtechEcommerceSearchProducts" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[Search products]]></phrase>
   <phrase title="nav.dbtechEcommerceWatched" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[Watched]]></phrase>
@@ -11003,7 +11003,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="nav.dbtechEcommerceYourAddresses" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[Your address book]]></phrase>
   <phrase title="nav.dbtechEcommerceYourCreatedProducts" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[Your created products]]></phrase>
   <phrase title="nav.dbtechEcommerceYourPurchasedLicenses" addon_id="DBTech/eCommerce" version_id="2030270" version_string="2.3.2"><![CDATA[Your licenses]]></phrase>
-  <phrase title="nav.dbtechShop" addon_id="DBTech/Shop" version_id="6000031" version_string="6.0.0 Beta 1"><![CDATA[Shop]]></phrase>
+  <phrase title="nav.dbtechShop" addon_id="DBTech/Shop" version_id="6000031" version_string="6.0.0 Beta 1"><![CDATA[道具屋]]></phrase>
   <phrase title="nav.dbtechShopBank" addon_id="DBTech/Shop" version_id="6000031" version_string="6.0.0 Beta 1"><![CDATA[Bank]]></phrase>
   <phrase title="nav.dbtechShopInventory" addon_id="DBTech/Shop" version_id="6000031" version_string="6.0.0 Beta 1"><![CDATA[Inventory]]></phrase>
   <phrase title="nav.dbtechShopLottery" addon_id="DBTech/Shop" version_id="906010014" version_string="6.1.0 Alpha 4"><![CDATA[Lotteries]]></phrase>
@@ -11037,10 +11037,10 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="nav.searchForums" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Search forums]]></phrase>
   <phrase title="nav.searchProfilePosts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Search profile posts]]></phrase>
   <phrase title="nav.servers" addon_id="" version_id="0" version_string=""><![CDATA[サーバー]]></phrase>
-  <phrase title="nav.siropuReferralContests" addon_id="Siropu/ReferralContests" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Referral Contests]]></phrase>
+  <phrase title="nav.siropuReferralContests" addon_id="Siropu/ReferralContests" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[普及コンテスト。]]></phrase>
   <phrase title="nav.toolcart" addon_id="" version_id="0" version_string=""><![CDATA[购物车]]></phrase>
   <phrase title="nav.unansweredThreads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unanswered threads]]></phrase>
-  <phrase title="nav.watched" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Watched]]></phrase>
+  <phrase title="nav.watched" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[注目している]]></phrase>
   <phrase title="nav.watchedForums" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Watched forums]]></phrase>
   <phrase title="nav.watchedThreads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Watched threads]]></phrase>
   <phrase title="nav.whatsNew" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[What's new]]></phrase>
@@ -12648,7 +12648,7 @@ Callback arguments:
   <phrase title="pending_username_change_message" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[You recently requested to change your username to {username} and this is currently awaiting approval by a moderator.]]></phrase>
   <phrase title="people_may_reply_to_this_thread" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[People may reply to this thread]]></phrase>
   <phrase title="people_x_follows" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[People {name} follows]]></phrase>
-  <phrase title="people_you_follow" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[People you follow]]></phrase>
+  <phrase title="people_you_follow" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[人に従う]]></phrase>
   <phrase title="performing_moderation_duties" addon_id="XF" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Performing moderation duties]]></phrase>
   <phrase title="performing_upgrade_check" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Performing upgrade check]]></phrase>
   <phrase title="period" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Period]]></phrase>
@@ -14219,10 +14219,10 @@ Content being reported:
   <phrase title="siropu_referral_contests_prizes_explain" addon_id="Siropu/ReferralContests" version_id="2000033" version_string="2.0.0-Beta-3"><![CDATA[This option allows you to award prizes to contest winners. Each prize added corresponds with the place of the referrer in the contest.]]></phrase>
   <phrase title="siropu_referral_contests_recipient_email" addon_id="Siropu/ReferralContests" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Recipient email address]]></phrase>
   <phrase title="siropu_referral_contests_recipient_email_explain" addon_id="Siropu/ReferralContests" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[You can send invitations to multiple emails addresses by placing each email in a separate input field.]]></phrase>
-  <phrase title="siropu_referral_contests_referral" addon_id="Siropu/ReferralContests" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Referral]]></phrase>
-  <phrase title="siropu_referral_contests_referral_count" addon_id="Siropu/ReferralContests" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Referral count]]></phrase>
+  <phrase title="siropu_referral_contests_referral" addon_id="Siropu/ReferralContests" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[紹介]]></phrase>
+  <phrase title="siropu_referral_contests_referral_count" addon_id="Siropu/ReferralContests" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[紹介カウント]]></phrase>
   <phrase title="siropu_referral_contests_referral_dupe" addon_id="Siropu/ReferralContests" version_id="2020770" version_string="2.2.7"><![CDATA[{name} was referred by {referrer} and have been found using the same IP(s).]]></phrase>
-  <phrase title="siropu_referral_contests_referral_link" addon_id="Siropu/ReferralContests" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Referral link]]></phrase>
+  <phrase title="siropu_referral_contests_referral_link" addon_id="Siropu/ReferralContests" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[紹介リンク]]></phrase>
   <phrase title="siropu_referral_contests_referral_link_will_be_sent_with_the_message" addon_id="Siropu/ReferralContests" version_id="2000170" version_string="2.0.1"><![CDATA[Your personal referral link will be sent with the message.]]></phrase>
   <phrase title="siropu_referral_contests_referral_minimum_posts" addon_id="Siropu/ReferralContests" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Referral minimum posts]]></phrase>
   <phrase title="siropu_referral_contests_referral_minimum_posts_explain" addon_id="Siropu/ReferralContests" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[The minimum posts required by referrals in order to be considered valid.]]></phrase>
