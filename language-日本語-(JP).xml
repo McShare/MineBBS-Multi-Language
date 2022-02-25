@@ -10336,7 +10336,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_credits_original_price" addon_id="MJ/Credits" version_id="1010600" version_string="1.1.6"><![CDATA[原价]]></phrase>
   <phrase title="mjc_credits_stripped_content" addon_id="MJ/Credits" version_id="1000600" version_string="1.0.6"><![CDATA[收费内容]]></phrase>
   <phrase title="mjc_credits_view_for_x_y" addon_id="MJ/Credits" version_id="1000400" version_string="1.0.4"><![CDATA[花费 {param1} {param2} 查看]]></phrase>
-  <phrase title="mjc_credits_wallet" addon_id="MJ/Credits" version_id="1000200" version_string="1.0.2"><![CDATA[[BRC] 钱包]]></phrase>
+  <phrase title="mjc_credits_wallet" addon_id="MJ/Credits" version_id="1000200" version_string="1.0.2"><![CDATA[[BRC] がまぐち]]></phrase>
   <phrase title="mjc_currencies" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[货币]]></phrase>
   <phrase title="mjc_currency" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[货币]]></phrase>
   <phrase title="mjc_currency_desc.1" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[]]></phrase>
@@ -10346,12 +10346,12 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_currency_desc.5" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_currency_desc.6" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_currency_limit" addon_id="MJ/Credits" version_id="1000200" version_string="1.0.2"><![CDATA[货币限制]]></phrase>
-  <phrase title="mjc_currency_title.1" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[金粒]]></phrase>
-  <phrase title="mjc_currency_title.2" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[钻石]]></phrase>
-  <phrase title="mjc_currency_title.3" addon_id="" version_id="0" version_string=""><![CDATA[金粒]]></phrase>
-  <phrase title="mjc_currency_title.4" addon_id="" version_id="0" version_string=""><![CDATA[钻石]]></phrase>
+  <phrase title="mjc_currency_title.1" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[金の粒]]></phrase>
+  <phrase title="mjc_currency_title.2" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[ダイヤ]]></phrase>
+  <phrase title="mjc_currency_title.3" addon_id="" version_id="0" version_string=""><![CDATA[金の粒]]></phrase>
+  <phrase title="mjc_currency_title.4" addon_id="" version_id="0" version_string=""><![CDATA[ダイヤ]]></phrase>
   <phrase title="mjc_currency_title.5" addon_id="" version_id="0" version_string=""><![CDATA[测试]]></phrase>
-  <phrase title="mjc_daily_statistics" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[每日统计]]></phrase>
+  <phrase title="mjc_daily_statistics" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[日次統計]]></phrase>
   <phrase title="mjc_decimal_places" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[小数位]]></phrase>
   <phrase title="mjc_decimal_places_explain" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[数字值描述小数点右边的位数。]]></phrase>
   <phrase title="mjc_definition_class_explain" addon_id="MJ/Credits" version_id="1000200" version_string="1.0.2"><![CDATA[此类应实现所有相关的事件行为。它应该基于 <code>\MJ\Credits\Event\EventHandler</code>。]]></phrase>
@@ -10697,13 +10697,13 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_user" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[用户]]></phrase>
   <phrase title="mjc_view_content" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[查看内容]]></phrase>
   <phrase title="mjc_view_transaction" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[查看交易]]></phrase>
-  <phrase title="mjc_wallet" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[钱包]]></phrase>
+  <phrase title="mjc_wallet" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[がまぐち]]></phrase>
   <phrase title="mjc_wallet_statistics" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[钱包统计]]></phrase>
   <phrase title="mjc_withdraw" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[撤回]]></phrase>
   <phrase title="mjc_x_do_not_have_permission_to_use_credits" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[{user} 无权使用积分。]]></phrase>
   <phrase title="mjc_x_do_not_have_permission_to_use_this_currency" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[{user} 无权使用此货币]]></phrase>
   <phrase title="mjc_x_sent_you_y" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[{name} 已向您转账 {amount}]]></phrase>
-  <phrase title="mjc_x_wallet" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[{currency} 钱包]]></phrase>
+  <phrase title="mjc_x_wallet" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[{currency} がまぐち]]></phrase>
   <phrase title="mjc_xfrm_discount_resource" addon_id="MJ/ResourceCreditsPayment" version_id="1000600" version_string="1.0.6"><![CDATA[优惠资源]]></phrase>
   <phrase title="mjc_you_can_trigger_x_only_y_times_in_period_of_time" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[您可以在一段时间内仅可触发 {event}  {count} 次]]></phrase>
   <phrase title="mjc_you_can_trigger_x_only_y_times_per_day" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[您每天仅可触发 {event} {count} 次]]></phrase>
@@ -15309,7 +15309,7 @@ Use the following code in your "message_macros" template:<br>
   <phrase title="style_prop_group.input" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inputs]]></phrase>
   <phrase title="style_prop_group.member" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Member profiles]]></phrase>
   <phrase title="style_prop_group.menu" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Popup menus]]></phrase>
-  <phrase title="style_prop_group.message" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[消息]]></phrase>
+  <phrase title="style_prop_group.message" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[ポスト]]></phrase>
   <phrase title="style_prop_group.misc" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Miscellaneous]]></phrase>
   <phrase title="style_prop_group.nodeList" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Node/forum list]]></phrase>
   <phrase title="style_prop_group.overlay" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Overlays]]></phrase>
@@ -16275,9 +16275,9 @@ Please confirm that you are moving the thread to the correct forum.]]></phrase>
   <phrase title="tlg_member_role_id_desc_admin" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="tlg_member_role_id_desc_member" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="tlg_member_role_id_desc_moderator" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="tlg_member_role_id_title_admin" addon_id="" version_id="0" version_string=""><![CDATA[组长]]></phrase>
-  <phrase title="tlg_member_role_id_title_member" addon_id="" version_id="0" version_string=""><![CDATA[成员]]></phrase>
-  <phrase title="tlg_member_role_id_title_moderator" addon_id="" version_id="0" version_string=""><![CDATA[副组长]]></phrase>
+  <phrase title="tlg_member_role_id_title_admin" addon_id="" version_id="0" version_string=""><![CDATA[くみちょう]]></phrase>
+  <phrase title="tlg_member_role_id_title_member" addon_id="" version_id="0" version_string=""><![CDATA[部員]]></phrase>
+  <phrase title="tlg_member_role_id_title_moderator" addon_id="" version_id="0" version_string=""><![CDATA[副組長]]></phrase>
   <phrase title="to_access_this_page_you_must_first_confirm_your_password" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[To access this page, you must first confirm your password.]]></phrase>
   <phrase title="to_associate_existing_account_first_log_in" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[To associate with an existing account, you must first log into that account.]]></phrase>
   <phrase title="to_associate_existing_account_first_log_in_start_via_connected_accounts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[To associate with an existing account, you must first log into that account and then start the association via the <a href="{link}">connected accounts area</a>.]]></phrase>
@@ -16333,17 +16333,17 @@ Please confirm that you are moving the thread to the correct forum.]]></phrase>
   <phrase title="trim_line_breaks_after" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Trim line breaks after]]></phrase>
   <phrase title="trophies" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Trophies]]></phrase>
   <phrase title="trophies_awarded_to_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Trophies awarded to {name}]]></phrase>
-  <phrase title="trophy_description.1" addon_id="" version_id="0" version_string=""><![CDATA[发布了第一条消息。]]></phrase>
-  <phrase title="trophy_description.10" addon_id="" version_id="0" version_string=""><![CDATA[绑定你的Github帐号]]></phrase>
-  <phrase title="trophy_description.11" addon_id="" version_id="0" version_string=""><![CDATA[设置属于自己的头像~]]></phrase>
-  <phrase title="trophy_description.13" addon_id="" version_id="0" version_string=""><![CDATA[在本站发布第一个资源]]></phrase>
-  <phrase title="trophy_description.15" addon_id="" version_id="0" version_string=""><![CDATA[你已经在本站发布了10个资源~]]></phrase>
-  <phrase title="trophy_description.17" addon_id="" version_id="0" version_string=""><![CDATA[您已经注册本站满一年了！]]></phrase>
-  <phrase title="trophy_description.18" addon_id="" version_id="0" version_string=""><![CDATA[你已经发送超过了100条消息]]></phrase>
-  <phrase title="trophy_description.19" addon_id="" version_id="0" version_string=""><![CDATA[你已经发送超过了500个消息！]]></phrase>
-  <phrase title="trophy_description.2" addon_id="" version_id="0" version_string=""><![CDATA[发送了20条信息，开始喜欢上这里了吗~]]></phrase>
-  <phrase title="trophy_description.20" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS祝你生日快乐吖~]]></phrase>
-  <phrase title="trophy_description.21" addon_id="" version_id="0" version_string=""><![CDATA[注册本站时间达到两年]]></phrase>
+  <phrase title="trophy_description.1" addon_id="" version_id="0" version_string=""><![CDATA[第一報を発表した]]></phrase>
+  <phrase title="trophy_description.10" addon_id="" version_id="0" version_string=""><![CDATA[Githubアカウントを紐付ける]]></phrase>
+  <phrase title="trophy_description.11" addon_id="" version_id="0" version_string=""><![CDATA[自分だけのアイコンを設定する~]]></phrase>
+  <phrase title="trophy_description.13" addon_id="" version_id="0" version_string=""><![CDATA[このサイトで最初のリソースをリリースします]]></phrase>
+  <phrase title="trophy_description.15" addon_id="" version_id="0" version_string=""><![CDATA[あなたはすでに当駅で10箇の資源を発表しました~]]></phrase>
+  <phrase title="trophy_description.17" addon_id="" version_id="0" version_string=""><![CDATA[あなたは既に当駅に登録して満1年になりました!]]></phrase>
+  <phrase title="trophy_description.18" addon_id="" version_id="0" version_string=""><![CDATA[100以上のメッセージを送りました]]></phrase>
+  <phrase title="trophy_description.19" addon_id="" version_id="0" version_string=""><![CDATA[あなたはすでに500以上のメッセージを送っています!]]></phrase>
+  <phrase title="trophy_description.2" addon_id="" version_id="0" version_string=""><![CDATA[20のメッセージを送って、ここを好きになり始めましたか~]]></phrase>
+  <phrase title="trophy_description.20" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS お誕生日おめでとうございます~]]></phrase>
+  <phrase title="trophy_description.21" addon_id="" version_id="0" version_string=""><![CDATA[登録期間は2年に]]></phrase>
   <phrase title="trophy_description.23" addon_id="" version_id="0" version_string=""><![CDATA[累积获得10次点赞]]></phrase>
   <phrase title="trophy_description.24" addon_id="" version_id="0" version_string=""><![CDATA[累计发布超过1000条消息]]></phrase>
   <phrase title="trophy_description.25" addon_id="" version_id="0" version_string=""><![CDATA[注册本站时间达到三年啦~]]></phrase>
