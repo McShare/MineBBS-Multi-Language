@@ -3912,12 +3912,12 @@ Leave blank to ignore.]]></phrase>
   <phrase title="dbtech_shop_gained_x_y_from_withdraw" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[You withdrew {currency} from the bank in DragonByte Shop.]]></phrase>
   <phrase title="dbtech_shop_gained_x_y_via_sale" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[You earned {currency} from someone buying an item in DragonByte Shop.]]></phrase>
   <phrase title="dbtech_shop_general_permissions" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[DragonByte Tech: shop - General Permissions]]></phrase>
-  <phrase title="dbtech_shop_get_free" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Get free]]></phrase>
-  <phrase title="dbtech_shop_gift" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Gift]]></phrase>
-  <phrase title="dbtech_shop_gift_as_new_item" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Gift as new item]]></phrase>
+  <phrase title="dbtech_shop_get_free" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[免费赠送]]></phrase>
+  <phrase title="dbtech_shop_gift" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[赠送]]></phrase>
+  <phrase title="dbtech_shop_gift_as_new_item" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[作为新道具免费赠送]]></phrase>
   <phrase title="dbtech_shop_gift_as_new_item_hint" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[If selected, the existing configuration will be removed from this purchase, allowing the recipient to configure the item as if they had purchased it normally.<br />
 <strong>Note:</strong> The purchase's expiry date, if applicable, is not affected.]]></phrase>
-  <phrase title="dbtech_shop_gift_icon" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Gift Icon]]></phrase>
+  <phrase title="dbtech_shop_gift_icon" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[赠送图标]]></phrase>
   <phrase title="dbtech_shop_gift_item_x" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Gift item: {item}]]></phrase>
   <phrase title="dbtech_shop_gift_management" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Gift Management]]></phrase>
   <phrase title="dbtech_shop_gift_management_descr" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Below, you can manage the gifts that can be purchased in shop.]]></phrase>
@@ -4566,7 +4566,7 @@ If this column does not exist on the above table, it will be added.]]></phrase>
   <phrase title="dbtech_shop_price" addon_id="DBTech/Shop" version_id="906040970" version_string="6.4.9"><![CDATA[价格]]></phrase>
   <phrase title="dbtech_shop_pricing_information" addon_id="DBTech/Shop" version_id="906040970" version_string="6.4.9"><![CDATA[价格信息]]></phrase>
   <phrase title="dbtech_shop_primary_usergroup" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Primary Usergroup]]></phrase>
-  <phrase title="dbtech_shop_private_item" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Private item]]></phrase>
+  <phrase title="dbtech_shop_private_item" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[私密道具]]></phrase>
   <phrase title="dbtech_shop_prize" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Prize]]></phrase>
   <phrase title="dbtech_shop_prize_info" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Prize Info]]></phrase>
   <phrase title="dbtech_shop_prize_numbers" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Prize Numbers]]></phrase>
@@ -4627,7 +4627,7 @@ If this column does not exist on the above table, it will be added.]]></phrase>
   <phrase title="dbtech_shop_push_x_wrote_a_message_in_your_trade_z" addon_id="DBTech/Shop" version_id="906010015" version_string="6.1.0 Alpha 5"><![CDATA[{username} wrote a message in your trade #{tradeId}.]]></phrase>
   <phrase title="dbtech_shop_quantity" addon_id="DBTech/Shop" version_id="906040970" version_string="6.4.9"><![CDATA[数量]]></phrase>
   <phrase title="dbtech_shop_quicklinks" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA["Quick Links" Menu]]></phrase>
-  <phrase title="dbtech_shop_rate_this_item" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Rate this item]]></phrase>
+  <phrase title="dbtech_shop_rate_this_item" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[给该道具评分]]></phrase>
   <phrase title="dbtech_shop_rating" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Rating]]></phrase>
   <phrase title="dbtech_shop_reassign_item" addon_id="DBTech/Shop" version_id="906040970" version_string="6.4.9"><![CDATA[转让道具]]></phrase>
   <phrase title="dbtech_shop_reassign_items" addon_id="DBTech/Shop" version_id="906040970" version_string="6.4.9"><![CDATA[转让道具]]></phrase>
@@ -13245,8 +13245,8 @@ Once you have provided a unique path and hit the save button, the directory will
   <phrase title="permission.dbtech_shop_addWithoutApproval" addon_id="DBTech/Shop" version_id="906040970" version_string="6.4.9"><![CDATA[Add items without approval]]></phrase>
   <phrase title="permission.dbtech_shop_approveUnapprove" addon_id="DBTech/Shop" version_id="906040970" version_string="6.4.9"><![CDATA[批准 / 撤销批准 道具]]></phrase>
   <phrase title="permission.dbtech_shop_bank" addon_id="DBTech/Shop" version_id="906040970" version_string="6.4.9"><![CDATA[使用银行]]></phrase>
-  <phrase title="permission.dbtech_shop_deleteAny" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Delete any item]]></phrase>
-  <phrase title="permission.dbtech_shop_deleteAnyReview" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Delete any item reviews]]></phrase>
+  <phrase title="permission.dbtech_shop_deleteAny" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[删除所有道具]]></phrase>
+  <phrase title="permission.dbtech_shop_deleteAnyReview" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[删除所有道具评价]]></phrase>
   <phrase title="permission.dbtech_shop_deleteOwn" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Delete own items]]></phrase>
   <phrase title="permission.dbtech_shop_editAny" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Edit any items]]></phrase>
   <phrase title="permission.dbtech_shop_hardDeleteAny" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Hard-delete any items]]></phrase>
@@ -17482,25 +17482,25 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="these_limits_only_apply_when_tag_is_created_existing_used" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[此限制只会套用到新建立的标签。现有的标签则维持原样，并可以继续使用。]]></phrase>
   <phrase title="these_settings_reflect_default_language_x" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[这些设置反映了默认语言{title}。]]></phrase>
   <phrase title="these_settings_reflect_default_style_x" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[这些设置反映了默认样式{title}。]]></phrase>
-  <phrase title="thfeature_add_auto_feature" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Add auto feature]]></phrase>
-  <phrase title="thfeature_at" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[at]]></phrase>
-  <phrase title="thfeature_auto_feature_execution_order_explain" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[The order in which auto feature criteria will be checked. Lower values will run first and once a criteria has succeeded it will be immediately applied and no others will be checked.]]></phrase>
+  <phrase title="thfeature_add_auto_feature" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[添加自动推荐]]></phrase>
+  <phrase title="thfeature_at" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[于]]></phrase>
+  <phrase title="thfeature_auto_feature_execution_order_explain" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[检查自动功能标准的顺序。较低的值将首先运行，一旦标准成功，它将立即应用，不会检查其他值。]]></phrase>
   <phrase title="thfeature_auto_feature_options" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Auto feature options]]></phrase>
   <phrase title="thfeature_auto_play_speed" addon_id="ThemeHouse/Feature" version_id="1000510" version_string="1.0.5 Alpha"><![CDATA[Auto play speed]]></phrase>
   <phrase title="thfeature_auto_play_speed_explain" addon_id="ThemeHouse/Feature" version_id="1000510" version_string="1.0.5 Alpha"><![CDATA[Set to 0 to disable autoplay, otherwise the speed is the number of milliseconds it will wait before switching to the next item]]></phrase>
   <phrase title="thfeature_bypass_feature_dismissal" addon_id="ThemeHouse/Feature" version_id="1000991" version_string="1.0.9 Patch Level 1"><![CDATA[绕过精选内容忽略]]></phrase>
-  <phrase title="thfeature_bypass_feature_dismissal_explain" addon_id="ThemeHouse/Feature" version_id="1000991" version_string="1.0.9 Patch Level 1"><![CDATA[If this option is enabled features will be displayed even if they have been dismissed by the user]]></phrase>
-  <phrase title="thfeature_choose_content_type" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Choose content type]]></phrase>
+  <phrase title="thfeature_bypass_feature_dismissal_explain" addon_id="ThemeHouse/Feature" version_id="1000991" version_string="1.0.9 Patch Level 1"><![CDATA[如果启用此选项，即使用户已将其关闭，也会显示功能]]></phrase>
+  <phrase title="thfeature_choose_content_type" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[选择内容类型]]></phrase>
   <phrase title="thfeature_content_edit_date" addon_id="ThemeHouse/Feature" version_id="1000991" version_string="1.0.9 Patch Level 1"><![CDATA[内容最后编辑时间]]></phrase>
-  <phrase title="thfeature_content_group_cache" addon_id="ThemeHouse/Feature" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Content group cache]]></phrase>
+  <phrase title="thfeature_content_group_cache" addon_id="ThemeHouse/Feature" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[内容组缓存]]></phrase>
   <phrase title="thfeature_content_post_date" addon_id="ThemeHouse/Feature" version_id="1000991" version_string="1.0.9 Patch Level 1"><![CDATA[内容发布日期]]></phrase>
   <phrase title="thfeature_content_type_x_doesnt_support_auto_feature" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Content type '{contentType}' doesn't support auto feature.]]></phrase>
   <phrase title="thfeature_create_feature" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Create feature]]></phrase>
-  <phrase title="thfeature_criteria_is_active" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Criteria is active]]></phrase>
-  <phrase title="thfeature_default_style" addon_id="ThemeHouse/Feature" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Default style]]></phrase>
+  <phrase title="thfeature_criteria_is_active" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[标准处于活动状态]]></phrase>
+  <phrase title="thfeature_default_style" addon_id="ThemeHouse/Feature" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[默认样式]]></phrase>
   <phrase title="thfeature_dismiss" addon_id="ThemeHouse/Feature" version_id="1000991" version_string="1.0.9 Patch Level 1"><![CDATA[忽略]]></phrase>
   <phrase title="thfeature_display" addon_id="ThemeHouse/Feature" version_id="1000991" version_string="1.0.9 Patch Level 1"><![CDATA[显示]]></phrase>
-  <phrase title="thfeature_edit_auto_feature" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Edit auto feature]]></phrase>
+  <phrase title="thfeature_edit_auto_feature" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[编辑自动推荐]]></phrase>
   <phrase title="thfeature_expires" addon_id="ThemeHouse/Feature" version_id="1000991" version_string="1.0.9 Patch Level 1"><![CDATA[过期]]></phrase>
   <phrase title="thfeature_feature_background_image" addon_id="ThemeHouse/Feature" version_id="1000991" version_string="1.0.9 Patch Level 1"><![CDATA[背景图]]></phrase>
   <phrase title="thfeature_feature_count" addon_id="ThemeHouse/Feature" version_id="1000610" version_string="1.0.6 Alpha"><![CDATA[Feature count]]></phrase>
@@ -17593,26 +17593,26 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="thfeature_use_custom_icon" addon_id="ThemeHouse/Feature" version_id="1000991" version_string="1.0.9 Patch Level 1"><![CDATA[使用自定义图标]]></phrase>
   <phrase title="thfeature_use_existing_image" addon_id="ThemeHouse/Feature" version_id="1000991" version_string="1.0.9 Patch Level 1"><![CDATA[使用现有的图像]]></phrase>
   <phrase title="thfeature_user_has_at_least_x_featured_content" addon_id="ThemeHouse/Feature" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[User has at least X featured content]]></phrase>
-  <phrase title="thfeature_user_has_no_more_than_x_featured_content" addon_id="ThemeHouse/Feature" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[User has no more than X featured content]]></phrase>
+  <phrase title="thfeature_user_has_no_more_than_x_featured_content" addon_id="ThemeHouse/Feature" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[用户拥有不超过 X 个精选内容]]></phrase>
   <phrase title="thfeature_users_with_appropriate_permissions_can_dismiss_this_feature" addon_id="ThemeHouse/Feature" version_id="1000991" version_string="1.0.9 Patch Level 1"><![CDATA[具有适当权限的用户可以忽略此精选内容]]></phrase>
   <phrase title="thfeature_view_all_x_content" addon_id="ThemeHouse/Feature" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[View all {count} featured items]]></phrase>
-  <phrase title="thfeature_viewing_featured_content" addon_id="ThemeHouse/Feature" version_id="1000791" version_string="1.0.7 Patch Level 1"><![CDATA[Viewing featured content]]></phrase>
+  <phrase title="thfeature_viewing_featured_content" addon_id="ThemeHouse/Feature" version_id="1000791" version_string="1.0.7 Patch Level 1"><![CDATA[查看精选内容]]></phrase>
   <phrase title="thfeature_wrap_style" addon_id="ThemeHouse/Feature" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Wrap style]]></phrase>
   <phrase title="thfeature_your_media_item_x_was_featured" addon_id="ThemeHouse/Feature" version_id="1000610" version_string="1.0.6 Alpha"><![CDATA[Your media item {title} was featured.]]></phrase>
   <phrase title="thfeature_your_media_item_x_was_unfeatured" addon_id="ThemeHouse/Feature" version_id="1000610" version_string="1.0.6 Alpha"><![CDATA[Your media item {title} was unfeatured.]]></phrase>
-  <phrase title="thfeature_your_poll_x_was_featured" addon_id="ThemeHouse/Feature" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Your poll {question} was featured.]]></phrase>
-  <phrase title="thfeature_your_poll_x_was_unfeatured" addon_id="ThemeHouse/Feature" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Your poll {question} was unfeatured.]]></phrase>
-  <phrase title="thfeature_your_resource_x_was_featured" addon_id="ThemeHouse/Feature" version_id="1000610" version_string="1.0.6 Alpha"><![CDATA[Your resource {title} was featured.]]></phrase>
-  <phrase title="thfeature_your_resource_x_was_unfeatured" addon_id="ThemeHouse/Feature" version_id="1000610" version_string="1.0.6 Alpha"><![CDATA[Your resource {title} was unfeatured.]]></phrase>
-  <phrase title="thfeature_your_thread_x_was_featured" addon_id="ThemeHouse/Feature" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Your thread {title} was featured.]]></phrase>
-  <phrase title="thfeature_your_thread_x_was_unfeatured" addon_id="ThemeHouse/Feature" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Your thread {title} was unfeatured.]]></phrase>
-  <phrase title="thfeatured_extra_small" addon_id="ThemeHouse/Feature" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Extra small]]></phrase>
-  <phrase title="thfeatured_large" addon_id="ThemeHouse/Feature" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Large]]></phrase>
-  <phrase title="thfeatured_medium" addon_id="ThemeHouse/Feature" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Medium]]></phrase>
-  <phrase title="thfeatured_original" addon_id="ThemeHouse/Feature" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Original]]></phrase>
-  <phrase title="thfeatured_small" addon_id="ThemeHouse/Feature" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Small]]></phrase>
+  <phrase title="thfeature_your_poll_x_was_featured" addon_id="ThemeHouse/Feature" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[您的投票 {quest} 被推荐了。]]></phrase>
+  <phrase title="thfeature_your_poll_x_was_unfeatured" addon_id="ThemeHouse/Feature" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[您的投票 {quest} 没有被推荐。]]></phrase>
+  <phrase title="thfeature_your_resource_x_was_featured" addon_id="ThemeHouse/Feature" version_id="1000610" version_string="1.0.6 Alpha"><![CDATA[您的资源 {title} 被推荐了。]]></phrase>
+  <phrase title="thfeature_your_resource_x_was_unfeatured" addon_id="ThemeHouse/Feature" version_id="1000610" version_string="1.0.6 Alpha"><![CDATA[您的资源 {title} 未被收录。]]></phrase>
+  <phrase title="thfeature_your_thread_x_was_featured" addon_id="ThemeHouse/Feature" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[您的主题 {title} 被推荐了。]]></phrase>
+  <phrase title="thfeature_your_thread_x_was_unfeatured" addon_id="ThemeHouse/Feature" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[您的主题 {title} 没有被推荐。]]></phrase>
+  <phrase title="thfeatured_extra_small" addon_id="ThemeHouse/Feature" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[超小]]></phrase>
+  <phrase title="thfeatured_large" addon_id="ThemeHouse/Feature" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[大]]></phrase>
+  <phrase title="thfeatured_medium" addon_id="ThemeHouse/Feature" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[中]]></phrase>
+  <phrase title="thfeatured_original" addon_id="ThemeHouse/Feature" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[原始]]></phrase>
+  <phrase title="thfeatured_small" addon_id="ThemeHouse/Feature" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[小]]></phrase>
   <phrase title="thimageoptimizer_content_type_is" addon_id="ThemeHouse/ImageOptimizer" version_id="1010170" version_string="1.1.1"><![CDATA[内容类型为]]></phrase>
-  <phrase title="thimageoptimizer_received_invalid_url" addon_id="ThemeHouse/ImageOptimizer" version_id="1010191" version_string="1.1.1 Patch Level 1"><![CDATA[Received invalid URL: {url}]]></phrase>
+  <phrase title="thimageoptimizer_received_invalid_url" addon_id="ThemeHouse/ImageOptimizer" version_id="1010191" version_string="1.1.1 Patch Level 1"><![CDATA[收到无效 URL：{url}]]></phrase>
   <phrase title="this_account_cannot_be_confirmed_without_email_address" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[账号需要邮箱地址才能进行确认。]]></phrase>
   <phrase title="this_account_is_already_associated_with_another_member" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[此外部账号已连接到其他会员账号上。只有该会员账号才有资格变更账号连接。]]></phrase>
   <phrase title="this_accounts_email_is_already_associated_with_another_member" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[其他会员账号已使用此外部账号的邮箱地址。请登录该帐号来连接此外部账号。]]></phrase>
@@ -18009,8 +18009,8 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="threads_with_posts_by_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{username} 发表的主题]]></phrase>
   <phrase title="threads_with_your_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[已回复主题]]></phrase>
   <phrase title="threads_youve_started" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[您发布的主题]]></phrase>
-  <phrase title="thuix_account" addon_id="ThemeHouse/UIX" version_id="2010231" version_string="2.1.2 Beta 1"><![CDATA[Account]]></phrase>
-  <phrase title="thuix_addon_requires_upgrade" addon_id="ThemeHouse/UIX" version_id="2000791" version_string="2.0.7 Patch Level 1"><![CDATA[The UI.X add-on requires an update before you can upgrade this style.]]></phrase>
+  <phrase title="thuix_account" addon_id="ThemeHouse/UIX" version_id="2010231" version_string="2.1.2 Beta 1"><![CDATA[帐户]]></phrase>
+  <phrase title="thuix_addon_requires_upgrade" addon_id="ThemeHouse/UIX" version_id="2000791" version_string="2.0.7 Patch Level 1"><![CDATA[UI.X 插件需要更新才能升级此样式。]]></phrase>
   <phrase title="thuix_all_users" addon_id="ThemeHouse/UIX" version_id="2001070" version_string="2.0.10"><![CDATA[All users]]></phrase>
   <phrase title="thuix_browser" addon_id="ThemeHouse/UIX" version_id="2010053" version_string="2.1.0 Release Candidate 3"><![CDATA[Browser]]></phrase>
   <phrase title="thuix_collapse_postbit_by_default" addon_id="ThemeHouse/UIX" version_id="2010232" version_string="2.1.2 Beta 2"><![CDATA[Collapse postbit by default]]></phrase>
@@ -18020,9 +18020,9 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="thuix_collapse_sidebar_by_default" addon_id="ThemeHouse/UIX" version_id="2001270" version_string="2.0.12"><![CDATA[Collapse sidebar by default]]></phrase>
   <phrase title="thuix_collapse_sidebar_by_default_hint" addon_id="ThemeHouse/UIX" version_id="2001270" version_string="2.0.12"><![CDATA[If the selected style includes a collapsible sidebar, this will collapse the sidebar on all pages by default.]]></phrase>
   <phrase title="thuix_do_not_remember" addon_id="ThemeHouse/UIX" version_id="2001270" version_string="2.0.12"><![CDATA[Do not remember]]></phrase>
-  <phrase title="thuix_everyone" addon_id="ThemeHouse/UIX" version_id="2010331" version_string="2.1.3 Beta 1"><![CDATA[Everyone]]></phrase>
+  <phrase title="thuix_everyone" addon_id="ThemeHouse/UIX" version_id="2010331" version_string="2.1.3 Beta 1"><![CDATA[每个人]]></phrase>
   <phrase title="thuix_extra_large" addon_id="ThemeHouse/UIX" version_id="2010070" version_string="2.1.0"><![CDATA[特大]]></phrase>
-  <phrase title="thuix_file_must_be_an_image" addon_id="ThemeHouse/UIX" version_id="2010231" version_string="2.1.2 Beta 1"><![CDATA[File must be an image.]]></phrase>
+  <phrase title="thuix_file_must_be_an_image" addon_id="ThemeHouse/UIX" version_id="2010231" version_string="2.1.2 Beta 1"><![CDATA[文件必须是图像。]]></phrase>
   <phrase title="thuix_font_size" addon_id="ThemeHouse/UIX" version_id="2010070" version_string="2.1.0"><![CDATA[字号]]></phrase>
   <phrase title="thuix_fullscreen" addon_id="ThemeHouse/UIX" version_id="2020091" version_string="2.2.0 Patch Level 1"><![CDATA[全屏]]></phrase>
   <phrase title="thuix_guests" addon_id="ThemeHouse/UIX" version_id="2010331" version_string="2.1.3 Beta 1"><![CDATA[Guests]]></phrase>
@@ -18031,10 +18031,10 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="thuix_minimal_ui" addon_id="ThemeHouse/UIX" version_id="2010053" version_string="2.1.0 Release Candidate 3"><![CDATA[Minimal UI]]></phrase>
   <phrase title="thuix_no_compatible_style_versions" addon_id="ThemeHouse/UIX" version_id="2010054" version_string="2.1.0 Release Candidate 4"><![CDATA[There are no versions of this style that are compatible with your currently installed version of XenForo. If this version of XenForo has recently been released, please try again later.]]></phrase>
   <phrase title="thuix_nobody" addon_id="ThemeHouse/UIX" version_id="2010331" version_string="2.1.3 Beta 1"><![CDATA[Nobody]]></phrase>
-  <phrase title="thuix_platform" addon_id="ThemeHouse/UIX" version_id="2000670" version_string="2.0.6"><![CDATA[Platform]]></phrase>
-  <phrase title="thuix_registered_users_only" addon_id="ThemeHouse/UIX" version_id="2001070" version_string="2.0.10"><![CDATA[Registered users only]]></phrase>
-  <phrase title="thuix_share_this_page" addon_id="ThemeHouse/UIX" version_id="2010293" version_string="2.1.2 Patch Level 3"><![CDATA[Share this page]]></phrase>
-  <phrase title="thuix_show_postbit_by_default" addon_id="ThemeHouse/UIX" version_id="2010232" version_string="2.1.2 Beta 2"><![CDATA[Show postbit by default]]></phrase>
+  <phrase title="thuix_platform" addon_id="ThemeHouse/UIX" version_id="2000670" version_string="2.0.6"><![CDATA[平台]]></phrase>
+  <phrase title="thuix_registered_users_only" addon_id="ThemeHouse/UIX" version_id="2001070" version_string="2.0.10"><![CDATA[仅限注册用户]]></phrase>
+  <phrase title="thuix_share_this_page" addon_id="ThemeHouse/UIX" version_id="2010293" version_string="2.1.2 Patch Level 3"><![CDATA[分享此页面]]></phrase>
+  <phrase title="thuix_show_postbit_by_default" addon_id="ThemeHouse/UIX" version_id="2010232" version_string="2.1.2 Beta 2"><![CDATA[默认显示 postbit]]></phrase>
   <phrase title="thuix_show_postbit_by_default_hint" addon_id="ThemeHouse/UIX" version_id="2010232" version_string="2.1.2 Beta 2"><![CDATA[If the selected style includes a collapsible postbit, this will show the postbit on all posts by default.]]></phrase>
   <phrase title="thuix_show_side_navigation_by_default" addon_id="ThemeHouse/UIX" version_id="2001270" version_string="2.0.12"><![CDATA[Show side navigation by default]]></phrase>
   <phrase title="thuix_show_side_navigation_by_default_hint" addon_id="ThemeHouse/UIX" version_id="2001270" version_string="2.0.12"><![CDATA[If the selected style includes a collapsible side navigation, this will show the side navigation on all pages by default.]]></phrase>
