@@ -2235,7 +2235,6 @@ If no products are chosen, this coupon applies to <b>all</b> products.]]></phras
   <phrase title="dbtech_ecommerce_coupon_remaining_uses" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Remaining uses]]></phrase>
   <phrase title="dbtech_ecommerce_coupon_remaining_uses_explain" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[This setting determines how many uses this coupon has remaining before it is no longer available for use.<br />
 -1 = Unlimited uses]]></phrase>
-  <phrase title="dbtech_ecommerce_coupon_title.1" addon_id="" version_id="0" version_string=""><![CDATA[测试券]]></phrase>
   <phrase title="dbtech_ecommerce_coupon_type" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Coupon type]]></phrase>
   <phrase title="dbtech_ecommerce_coupon_type_explain" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Determines what sort of discount is applied to the customer's cart; a percent off their total, or a set discount.]]></phrase>
   <phrase title="dbtech_ecommerce_coupon_used_between" addon_id="DBTech/eCommerce" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Coupon used between]]></phrase>
@@ -2270,7 +2269,6 @@ If no products are chosen, this coupon applies to <b>all</b> products.]]></phras
   <phrase title="dbtech_ecommerce_discount_percent_explain" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[The percent the customer's cart will be discounted by.]]></phrase>
   <phrase title="dbtech_ecommerce_discount_threshold" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Discount threshold]]></phrase>
   <phrase title="dbtech_ecommerce_discount_threshold_explain" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[This is the minimum amount (in {currency}) a customer's cart needs to contain in order for this discount to apply.]]></phrase>
-  <phrase title="dbtech_ecommerce_discount_title.1" addon_id="" version_id="0" version_string=""><![CDATA[测试]]></phrase>
   <phrase title="dbtech_ecommerce_discounts" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Discounts]]></phrase>
   <phrase title="dbtech_ecommerce_discussion" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Discussion]]></phrase>
   <phrase title="dbtech_ecommerce_discussion_thread_url" addon_id="DBTech/eCommerce" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Discussion thread URL]]></phrase>
@@ -8970,9 +8968,10 @@ If enabled, users will be able to pay with Apple Pay, Android Pay, Google Pay an
   <phrase title="extension_x_already_defined" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[The extension '{name}' has already been defined.]]></phrase>
   <phrase title="extra" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Extra]]></phrase>
   <phrase title="extra_attributes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Extra attributes]]></phrase>
-  <phrase title="extra_copyright" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[<div>
+  <phrase title="extra_copyright" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[<div>
 Software by Xenforo | Style from Themehouse<br>
 Follow us: <a href="https://space.bilibili.com/512584014" rel="nofollow">Bilibili</a> | <a href="https://twitter.com/McShareTeam" rel="nofollow">Twitter</a> | <a href="https://github.com/McShare" rel="nofollow">Github</a><br>
+Based in the United States, to serve the global Chinese<br>
 <script type="text/javascript">
     copyright=new Date();
     update=copyright.getFullYear();
@@ -9476,8 +9475,14 @@ If you are sure you want to continue with the import, select the 'Skip import ch
   <phrase title="inline_moderation_merge_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inline moderation - Merge threads]]></phrase>
   <phrase title="inline_moderation_move_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inline moderation - Move posts]]></phrase>
   <phrase title="inline_moderation_move_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inline moderation - Move threads]]></phrase>
+  <phrase title="inline_moderation_post_change_author" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Inline moderation - Change post author]]></phrase>
+  <phrase title="inline_moderation_profile_post_change_author" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Inline moderation - Change profile post author]]></phrase>
+  <phrase title="inline_moderation_thread_change_author" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Inline moderation - Change thread author]]></phrase>
   <phrase title="inline_moderation_thread_prefix" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Inline moderation - Apply thread prefix]]></phrase>
   <phrase title="inline_moderation_thread_type" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Inline moderation - Change thread types]]></phrase>
+  <phrase title="inline_moderation_xfmg_album_change_owner" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Inline moderation - Change album owner]]></phrase>
+  <phrase title="inline_moderation_xfmg_comment_change_author" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Inline moderation - Change comment author]]></phrase>
+  <phrase title="inline_moderation_xfmg_media_change_author" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Inline moderation - Change media author]]></phrase>
   <phrase title="inline_spoiler" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Inline spoiler]]></phrase>
   <phrase title="insert" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Insert]]></phrase>
   <phrase title="insert_all" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Insert all]]></phrase>
@@ -10321,7 +10326,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_bulk_delete" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[批量删除]]></phrase>
   <phrase title="mjc_by_quantity" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[按数量]]></phrase>
   <phrase title="mjc_by_value" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[按价值]]></phrase>
-  <phrase title="mjc_choose_currency" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[选择货币]]></phrase>
+  <phrase title="mjc_choose_currency" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[Choose currency]]></phrase>
   <phrase title="mjc_choose_event_definition" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[选择事件定义]]></phrase>
   <phrase title="mjc_clear_all_transactions" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[清除所有交易]]></phrase>
   <phrase title="mjc_clear_all_user_credits" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[Clear all user credits]]></phrase>
@@ -10427,6 +10432,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_event.58" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event.59" addon_id="" version_id="0" version_string=""><![CDATA[大水贴被删]]></phrase>
   <phrase title="mjc_event.6" addon_id="" version_id="0" version_string=""><![CDATA[Receive support]]></phrase>
+  <phrase title="mjc_event.60" addon_id="" version_id="0" version_string=""><![CDATA[动态被删除]]></phrase>
   <phrase title="mjc_event.7" addon_id="" version_id="0" version_string=""><![CDATA[Lose support]]></phrase>
   <phrase title="mjc_event.9" addon_id="" version_id="0" version_string=""><![CDATA[New thread]]></phrase>
   <phrase title="mjc_event_attachment_extension_explain" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[列出允许应用于此事件的文件扩展名。在扩展之间使用空格或分行符。]]></phrase>
@@ -10597,6 +10603,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_event_desc.58" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_desc.59" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_desc.6" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="mjc_event_desc.60" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_desc.7" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_desc.9" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_description_explain" addon_id="MJ/Credits" version_id="1000200" version_string="1.0.2"><![CDATA[您可以选择输入此活动的特定描述。 如果您未输入一个，则事件将显示相应的说明。]]></phrase>
@@ -10812,8 +10819,36 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mod_log.dbtech_shop_trade_post_warning_expired" addon_id="DBTech/Shop" version_id="906010015" version_string="6.1.0 Alpha 5"><![CDATA[Trade post author warning expired]]></phrase>
   <phrase title="mod_log.dbtech_shop_trade_post_warning_given" addon_id="DBTech/Shop" version_id="906010015" version_string="6.1.0 Alpha 5"><![CDATA[Trade post author given warning]]></phrase>
   <phrase title="mod_log.dbtech_shop_trade_post_warning_removed" addon_id="DBTech/Shop" version_id="906010015" version_string="6.1.0 Alpha 5"><![CDATA[Trade post author warning removed]]></phrase>
+  <phrase title="mod_log.graph_change_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Datalog time bumped]]></phrase>
+  <phrase title="mod_log.graph_change_date" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Datalog date changed]]></phrase>
+  <phrase title="mod_log.graph_change_date_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Datalog date changed. Time was also bumped.]]></phrase>
+  <phrase title="mod_log.graph_change_date_time" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Datalog date and time changed]]></phrase>
+  <phrase title="mod_log.graph_change_date_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Datalog date and time changed. Time was also bumped.]]></phrase>
+  <phrase title="mod_log.graph_change_ownr" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Datalog owner changed]]></phrase>
+  <phrase title="mod_log.graph_change_ownr_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Datalog owner changed. Time was also bumped.]]></phrase>
+  <phrase title="mod_log.graph_change_ownr_date" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Datalog owner and date changed]]></phrase>
+  <phrase title="mod_log.graph_change_ownr_date_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Datalog owner and date changed. Time was also bumped.]]></phrase>
+  <phrase title="mod_log.graph_change_ownr_date_time" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Datalog owner, date and time changed]]></phrase>
+  <phrase title="mod_log.graph_change_ownr_date_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Datalog owner, date and time changed. Time was also bumped.]]></phrase>
+  <phrase title="mod_log.graph_change_ownr_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Datalog owner and time changed. Time was also bumped.]]></phrase>
+  <phrase title="mod_log.graph_change_time" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Datalog time changed]]></phrase>
+  <phrase title="mod_log.graph_change_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Datalog time changed. Time was also bumped.]]></phrase>
   <phrase title="mod_log.post_approve" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Post approved]]></phrase>
   <phrase title="mod_log.post_attachment_deleted" addon_id="XF" version_id="2010870" version_string="2.1.8"><![CDATA[Post attachment deleted]]></phrase>
+  <phrase title="mod_log.post_change_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Post time bumped]]></phrase>
+  <phrase title="mod_log.post_change_date" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Post date changed]]></phrase>
+  <phrase title="mod_log.post_change_date_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Post date changed. Time was also bumped.]]></phrase>
+  <phrase title="mod_log.post_change_date_time" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Post date and time changed]]></phrase>
+  <phrase title="mod_log.post_change_date_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Post date and time changed. Time was also bumped.]]></phrase>
+  <phrase title="mod_log.post_change_ownr" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Post owner changed]]></phrase>
+  <phrase title="mod_log.post_change_ownr_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Post owner changed. Time was also bumped.]]></phrase>
+  <phrase title="mod_log.post_change_ownr_date" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Post owner and date changed]]></phrase>
+  <phrase title="mod_log.post_change_ownr_date_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Post owner and date changed. Time was also bumped.]]></phrase>
+  <phrase title="mod_log.post_change_ownr_date_time" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Post owner, date and time changed]]></phrase>
+  <phrase title="mod_log.post_change_ownr_date_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Post owner, date and time changed. Time was also bumped.]]></phrase>
+  <phrase title="mod_log.post_change_ownr_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Post owner and time changed. Time was also bumped.]]></phrase>
+  <phrase title="mod_log.post_change_time" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Post time changed]]></phrase>
+  <phrase title="mod_log.post_change_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Post time changed. Time was also bumped.]]></phrase>
   <phrase title="mod_log.post_delete_hard" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Post permanently deleted]]></phrase>
   <phrase title="mod_log.post_delete_soft" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Post removed from public view (reason: {reason})]]></phrase>
   <phrase title="mod_log.post_edit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Post edited]]></phrase>
@@ -10875,6 +10910,20 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mod_log.resource_version_delete_soft" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Resource version removed from public view (reason: {reason})]]></phrase>
   <phrase title="mod_log.resource_version_edit" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Resource version edited]]></phrase>
   <phrase title="mod_log.thread_approve" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread approved]]></phrase>
+  <phrase title="mod_log.thread_change_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Thread time bumped]]></phrase>
+  <phrase title="mod_log.thread_change_date" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Thread date changed]]></phrase>
+  <phrase title="mod_log.thread_change_date_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Thread date changed. Time was also bumped.]]></phrase>
+  <phrase title="mod_log.thread_change_date_time" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Thread date and time changed]]></phrase>
+  <phrase title="mod_log.thread_change_date_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Thread date and time changed. Time was also bumped.]]></phrase>
+  <phrase title="mod_log.thread_change_ownr" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Thread owner changed]]></phrase>
+  <phrase title="mod_log.thread_change_ownr_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Thread owner changed. Time was also bumped.]]></phrase>
+  <phrase title="mod_log.thread_change_ownr_date" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Thread owner and date changed]]></phrase>
+  <phrase title="mod_log.thread_change_ownr_date_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Thread owner and date changed. Time was also bumped.]]></phrase>
+  <phrase title="mod_log.thread_change_ownr_date_time" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Thread owner, date and time changed]]></phrase>
+  <phrase title="mod_log.thread_change_ownr_date_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Thread owner, date and time changed. Time was also bumped.]]></phrase>
+  <phrase title="mod_log.thread_change_ownr_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Thread owner and time changed. Time was also bumped.]]></phrase>
+  <phrase title="mod_log.thread_change_time" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Thread time changed]]></phrase>
+  <phrase title="mod_log.thread_change_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Thread time changed. Time was also bumped.]]></phrase>
   <phrase title="mod_log.thread_custom_fields_edit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread custom fields edited]]></phrase>
   <phrase title="mod_log.thread_delete_hard" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread permanently deleted]]></phrase>
   <phrase title="mod_log.thread_delete_soft" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread removed from public view (reason: {reason})]]></phrase>
@@ -10912,6 +10961,48 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mod_log.user_warning_expired" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User warning expired]]></phrase>
   <phrase title="mod_log.user_warning_given" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User given warning]]></phrase>
   <phrase title="mod_log.user_warning_removed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User warning removed]]></phrase>
+  <phrase title="mod_log.xfmg_album_change_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Album time bumped]]></phrase>
+  <phrase title="mod_log.xfmg_album_change_date" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Album date changed]]></phrase>
+  <phrase title="mod_log.xfmg_album_change_date_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Album date changed. Time was also bumped.]]></phrase>
+  <phrase title="mod_log.xfmg_album_change_date_time" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Album date and time changed]]></phrase>
+  <phrase title="mod_log.xfmg_album_change_date_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Album date and time changed. Time was also bumped.]]></phrase>
+  <phrase title="mod_log.xfmg_album_change_ownr" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Album owner changed]]></phrase>
+  <phrase title="mod_log.xfmg_album_change_ownr_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Album owner changed. Time was also bumped.]]></phrase>
+  <phrase title="mod_log.xfmg_album_change_ownr_date" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Album owner and date changed]]></phrase>
+  <phrase title="mod_log.xfmg_album_change_ownr_date_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Album owner and date changed. Time was also bumped.]]></phrase>
+  <phrase title="mod_log.xfmg_album_change_ownr_date_time" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Album owner, date and time changed]]></phrase>
+  <phrase title="mod_log.xfmg_album_change_ownr_date_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Album owner, date and time changed. Time was also bumped.]]></phrase>
+  <phrase title="mod_log.xfmg_album_change_ownr_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Album owner and time changed. Time was also bumped.]]></phrase>
+  <phrase title="mod_log.xfmg_album_change_time" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Album time changed]]></phrase>
+  <phrase title="mod_log.xfmg_album_change_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Album time changed. Time was also bumped.]]></phrase>
+  <phrase title="mod_log.xfmg_comment_change_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Comment time bumped]]></phrase>
+  <phrase title="mod_log.xfmg_comment_change_date" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Comment date changed]]></phrase>
+  <phrase title="mod_log.xfmg_comment_change_date_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Comment date changed. Time was also bumped.]]></phrase>
+  <phrase title="mod_log.xfmg_comment_change_date_time" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Comment date and time changed]]></phrase>
+  <phrase title="mod_log.xfmg_comment_change_date_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Comment date and time changed. Time was also bumped.]]></phrase>
+  <phrase title="mod_log.xfmg_comment_change_ownr" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Comment owner changed]]></phrase>
+  <phrase title="mod_log.xfmg_comment_change_ownr_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Comment owner changed. Time was also bumped.]]></phrase>
+  <phrase title="mod_log.xfmg_comment_change_ownr_date" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Comment owner and date changed]]></phrase>
+  <phrase title="mod_log.xfmg_comment_change_ownr_date_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Comment owner and date changed. Time was also bumped.]]></phrase>
+  <phrase title="mod_log.xfmg_comment_change_ownr_date_time" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Comment owner, date and time changed]]></phrase>
+  <phrase title="mod_log.xfmg_comment_change_ownr_date_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Comment owner, date and time changed. Time was also bumped.]]></phrase>
+  <phrase title="mod_log.xfmg_comment_change_ownr_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Comment owner and time changed. Time was also bumped.]]></phrase>
+  <phrase title="mod_log.xfmg_comment_change_time" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Comment time changed]]></phrase>
+  <phrase title="mod_log.xfmg_comment_change_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Comment time changed. Time was also bumped.]]></phrase>
+  <phrase title="mod_log.xfmg_media_change_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Media item time bumped]]></phrase>
+  <phrase title="mod_log.xfmg_media_change_date" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Media item date changed]]></phrase>
+  <phrase title="mod_log.xfmg_media_change_date_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Media item date changed. Time was also bumped.]]></phrase>
+  <phrase title="mod_log.xfmg_media_change_date_time" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Media item date and time changed]]></phrase>
+  <phrase title="mod_log.xfmg_media_change_date_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Media item date and time changed. Time was also bumped.]]></phrase>
+  <phrase title="mod_log.xfmg_media_change_ownr" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Media item owner changed]]></phrase>
+  <phrase title="mod_log.xfmg_media_change_ownr_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Media item owner changed. Time was also bumped.]]></phrase>
+  <phrase title="mod_log.xfmg_media_change_ownr_date" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Media item owner and date changed]]></phrase>
+  <phrase title="mod_log.xfmg_media_change_ownr_date_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Media item owner and date changed. Time was also bumped.]]></phrase>
+  <phrase title="mod_log.xfmg_media_change_ownr_date_time" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Media item owner, date and time changed]]></phrase>
+  <phrase title="mod_log.xfmg_media_change_ownr_date_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Media item owner, date and time changed. Time was also bumped.]]></phrase>
+  <phrase title="mod_log.xfmg_media_change_ownr_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Media item owner and time changed. Time was also bumped.]]></phrase>
+  <phrase title="mod_log.xfmg_media_change_time" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Media item time changed]]></phrase>
+  <phrase title="mod_log.xfmg_media_change_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Media item time changed. Time was also bumped.]]></phrase>
   <phrase title="moderate_new_threads_posted_in_this_forum" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Moderate new threads posted in this forum]]></phrase>
   <phrase title="moderate_replies_posted_in_this_forum" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Moderate replies posted in this forum]]></phrase>
   <phrase title="moderated" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Moderated]]></phrase>
@@ -11043,6 +11134,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="nav.home" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Home]]></phrase>
   <phrase title="nav.latestActivity" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Latest activity]]></phrase>
   <phrase title="nav.markForumsRead" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mark forums read]]></phrase>
+  <phrase title="nav.mc_download" addon_id="" version_id="0" version_string=""><![CDATA[MC Download]]></phrase>
   <phrase title="nav.mcnav" addon_id="" version_id="0" version_string=""><![CDATA[MCNav]]></phrase>
   <phrase title="nav.members" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Members]]></phrase>
   <phrase title="nav.mjcCredits" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[Credits]]></phrase>
@@ -11421,8 +11513,6 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.censorCharacter" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Censor character]]></phrase>
   <phrase title="option.censorWords" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Words to censor]]></phrase>
   <phrase title="option.changeLogLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Change log length]]></phrase>
-  <phrase title="option.cnxfans_global_stickies_blacklist_nodes" addon_id="CnXFans/GlobalStickies" version_id="1000070" version_string="1.0.0"><![CDATA[Nodes in blacklist]]></phrase>
-  <phrase title="option.cnxfans_global_stickies_master_nodes" addon_id="CnXFans/GlobalStickies" version_id="1000070" version_string="1.0.0"><![CDATA[Main node]]></phrase>
   <phrase title="option.collectServerStats" addon_id="XF" version_id="2011070" version_string="2.1.10"><![CDATA[Send anonymous usage statistics]]></phrase>
   <phrase title="option.contactEmailAddress" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Contact email address]]></phrase>
   <phrase title="option.contactEmailSenderHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sender info in from header on contact emails]]></phrase>
@@ -11834,6 +11924,7 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.tagCloudMinUses" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Minimum tag cloud uses]]></phrase>
   <phrase title="option.tagLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tag length limit]]></phrase>
   <phrase title="option.tagValidation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tag validation]]></phrase>
+  <phrase title="option.tckChangeContentOwner_defaultTimeInterval" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Default time interval]]></phrase>
   <phrase title="option.templateHistoryLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Template history length]]></phrase>
   <phrase title="option.termsLastUpdate" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Terms and rules last update]]></phrase>
   <phrase title="option.th_apiKey_uix" addon_id="ThemeHouse/UIX" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[API key]]></phrase>
@@ -12019,8 +12110,6 @@ You should also provide the maximum video/audio file size in kilobytes (KB). Vid
 <br />
 If you wish to match a wildcard at the beginning or end of the matched word, add a "*" in the correct position. For example, "dog" will not censor "dogs" but "dog*" will.]]></phrase>
   <phrase title="option_explain.changeLogLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Content change log data will be kept for this many days. Use 0 to keep change log data indefinitely.]]></phrase>
-  <phrase title="option_explain.cnxfans_global_stickies_blacklist_nodes" addon_id="CnXFans/GlobalStickies" version_id="1000070" version_string="1.0.0"><![CDATA[如果您不希望全局置顶帖显示在某些节点中，请在此处选择它们。]]></phrase>
-  <phrase title="option_explain.cnxfans_global_stickies_master_nodes" addon_id="CnXFans/GlobalStickies" version_id="1000070" version_string="1.0.0"><![CDATA[在此处选择主置顶节点。 这些节点中的所有置顶帖将出现在所有其他节点中。]]></phrase>
   <phrase title="option_explain.collectServerStats" addon_id="XF" version_id="2011070" version_string="2.1.10"><![CDATA[XenForo would like to collect some anonymous statistics including information about PHP, MySQL and your XenForo installation.<br />
 <br />
 If enabled, any data collected will be stored anonymously and will not include any user data.]]></phrase>
@@ -12518,6 +12607,7 @@ Once you have provided a unique path and hit the save button, the directory will
   <phrase title="option_explain.tagCloudMinUses" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Tags will not be shown in the tag cloud unless they have been used at least this many times.]]></phrase>
   <phrase title="option_explain.tagLength" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[This controls the minimum and maximum length of tags. Use 0 to disable a limit. Tags may never be longer than 100 characters. These limits only apply when a tag is created. Existing tags may always be used.]]></phrase>
   <phrase title="option_explain.tagValidation" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="option_explain.tckChangeContentOwner_defaultTimeInterval" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[]]></phrase>
   <phrase title="option_explain.templateHistoryLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The number of days to maintain template edit history records. Use 0 to never remove history.]]></phrase>
   <phrase title="option_explain.termsLastUpdate" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[The Unix time stamp of the last terms and rules update.]]></phrase>
   <phrase title="option_explain.th_apiKey_uix" addon_id="ThemeHouse/UIX" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Your ThemeHouse API key. You can find your API key <a href="https://www.themehouse.com/customer/account/api">here</a>.]]></phrase>
@@ -12649,7 +12739,6 @@ Use the textbox above to specify a format. <b>{title}</b> will be replaced with 
   <phrase title="option_group.basicBoard" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Basic options]]></phrase>
   <phrase title="option_group.boardActive" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Board active]]></phrase>
   <phrase title="option_group.censoringOptions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Censoring]]></phrase>
-  <phrase title="option_group.cnxfans_global_stickies" addon_id="CnXFans/GlobalStickies" version_id="1000070" version_string="1.0.0"><![CDATA[全局置顶]]></phrase>
   <phrase title="option_group.cxfWidgetTabs" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[[cXF] Widget Tabs]]></phrase>
   <phrase title="option_group.dbtechEcommerce" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[DragonByte Tech: eCommerce]]></phrase>
   <phrase title="option_group.dbtech_shop" addon_id="DBTech/Shop" version_id="20170223" version_string="2.0.0"><![CDATA[DragonByte Tech: Shop]]></phrase>
@@ -12683,6 +12772,7 @@ Use the textbox above to specify a format. <b>{title}</b> will be replaced with 
   <phrase title="option_group.stats" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Statistics and metrics]]></phrase>
   <phrase title="option_group.sticky_resources" addon_id="CnXFans/StickyResources" version_id="1000000" version_string="1.0.0"><![CDATA[置顶资源]]></phrase>
   <phrase title="option_group.tagging" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Content tagging]]></phrase>
+  <phrase title="option_group.tckChangeContentOwner" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Change content owner]]></phrase>
   <phrase title="option_group.thCovers" addon_id="ThemeHouse/Covers" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[[TH] Covers]]></phrase>
   <phrase title="option_group.th_imageOptimizer" addon_id="ThemeHouse/ImageOptimizer" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[[TH] Image optimizer]]></phrase>
   <phrase title="option_group.th_uix" addon_id="ThemeHouse/UIX" version_id="2000731" version_string="2.0.7 Beta 1"><![CDATA[[UI.X] Options]]></phrase>
@@ -12707,7 +12797,6 @@ You may enable the <em>{addon}</em> add-on on the <a href="{link}">list of insta
   <phrase title="option_group_description.basicBoard" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="option_group_description.boardActive" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Turn your board on and off here.]]></phrase>
   <phrase title="option_group_description.censoringOptions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User-generated text will be subject to the censorship rules you define here.]]></phrase>
-  <phrase title="option_group_description.cnxfans_global_stickies" addon_id="CnXFans/GlobalStickies" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="option_group_description.cxfWidgetTabs" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="option_group_description.dbtechEcommerce" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Settings pertaining to DragonByte eCommerce.]]></phrase>
   <phrase title="option_group_description.dbtech_shop" addon_id="DBTech/Shop" version_id="20170223" version_string="2.0.0"><![CDATA[Settings pertaining to DragonByte Shop.]]></phrase>
@@ -12745,6 +12834,7 @@ It is possible to filter the news feed down to just users you follow, or a singl
   <phrase title="option_group_description.stats" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="option_group_description.sticky_resources" addon_id="CnXFans/StickyResources" version_id="1000000" version_string="1.0.0"><![CDATA[置顶资源选项]]></phrase>
   <phrase title="option_group_description.tagging" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Options that control how tags can be applied to content.]]></phrase>
+  <phrase title="option_group_description.tckChangeContentOwner" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Options that control the change content owner add-on.]]></phrase>
   <phrase title="option_group_description.thCovers" addon_id="ThemeHouse/Covers" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Options for the [TH] Covers add-on.]]></phrase>
   <phrase title="option_group_description.th_imageOptimizer" addon_id="ThemeHouse/ImageOptimizer" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="option_group_description.th_uix" addon_id="ThemeHouse/UIX" version_id="2000731" version_string="2.0.7 Beta 1"><![CDATA[Options in this group allow you to customize your UI.X experience.]]></phrase>
@@ -12984,6 +13074,10 @@ Callback arguments:
   <phrase title="permission.dbtech_shop_viewModerated" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[View unapproved items]]></phrase>
   <phrase title="permission.dbtech_shop_warn" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Give warnings on items]]></phrase>
   <phrase title="permission.forum_approveUnapprove" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Approve / unapprove threads / posts]]></phrase>
+  <phrase title="permission.forum_changePostDate" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Can change post date]]></phrase>
+  <phrase title="permission.forum_changePostOwner" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Can change post owner]]></phrase>
+  <phrase title="permission.forum_changeThreadDate" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Can change thread date]]></phrase>
+  <phrase title="permission.forum_changeThreadOwner" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Can change thread owner]]></phrase>
   <phrase title="permission.forum_contentVote" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Vote on threads/posts (when applicable)]]></phrase>
   <phrase title="permission.forum_deleteAnyPost" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Delete any post]]></phrase>
   <phrase title="permission.forum_deleteAnyThread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Delete any thread]]></phrase>
@@ -13072,6 +13166,10 @@ Callback arguments:
   <phrase title="permission.mjcCredits_viewOthers" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[查看其他人的交易]]></phrase>
   <phrase title="permission.profileBanner_allowed" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Upload a profile banner]]></phrase>
   <phrase title="permission.profilePost_approveUnapprove" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Approve / unapprove profile posts]]></phrase>
+  <phrase title="permission.profilePost_changeCommentDate" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Can change profile post comment date]]></phrase>
+  <phrase title="permission.profilePost_changeCommentOwner" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Can change profile post comment owner]]></phrase>
+  <phrase title="permission.profilePost_changeProfilePostDate" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Can change profile post date]]></phrase>
+  <phrase title="permission.profilePost_changeProfilePostOwner" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Can change profile post owner]]></phrase>
   <phrase title="permission.profilePost_comment" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Comment on profile posts]]></phrase>
   <phrase title="permission.profilePost_deleteAny" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Delete any profile posts]]></phrase>
   <phrase title="permission.profilePost_deleteOwn" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Delete own profile posts]]></phrase>
@@ -13204,6 +13302,14 @@ Callback arguments:
   <phrase title="permission.widgetTabs_hideTab6" addon_id="BassMan/WidgetTabs" version_id="1000170" version_string="1.0.1"><![CDATA[Hide Tab 6]]></phrase>
   <phrase title="permission.widgetTabs_hideTab7" addon_id="BassMan/WidgetTabs" version_id="1000170" version_string="1.0.1"><![CDATA[Hide Tab 7]]></phrase>
   <phrase title="permission.widgetTabs_hideTab8" addon_id="BassMan/WidgetTabs" version_id="1000170" version_string="1.0.1"><![CDATA[Hide Tab 8]]></phrase>
+  <phrase title="permission.xfa_csvg_changeGraphDate" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Can change graph date]]></phrase>
+  <phrase title="permission.xfa_csvg_changeGraphOwner" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Can change graph owner]]></phrase>
+  <phrase title="permission.xfmg_changeAlbumDate" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Can change album date]]></phrase>
+  <phrase title="permission.xfmg_changeAlbumOwner" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Can change album owner]]></phrase>
+  <phrase title="permission.xfmg_changeCommentDate" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Can change comment date]]></phrase>
+  <phrase title="permission.xfmg_changeCommentOwner" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Can change comment owner]]></phrase>
+  <phrase title="permission.xfmg_changeMediaDate" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Can change media date]]></phrase>
+  <phrase title="permission.xfmg_changeMediaOwner" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Can change media owner]]></phrase>
   <phrase title="permission.xfmg_thfeat_featureOwnMedia" addon_id="ThemeHouse/Feature" version_id="1000610" version_string="1.0.6 Alpha"><![CDATA[Feature own media]]></phrase>
   <phrase title="permission.xfmg_thfeature_featureMedia" addon_id="ThemeHouse/Feature" version_id="1000610" version_string="1.0.6 Alpha"><![CDATA[Feature media]]></phrase>
   <phrase title="permission_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Permission group]]></phrase>
@@ -16709,6 +16815,38 @@ Use the following code in your "message_macros" template:<br>
   <phrase title="tags_will_also_be_searched" addon_id="XF" version_id="2020051" version_string="2.2.0 Release Candidate 1"><![CDATA[Tags will also be searched]]></phrase>
   <phrase title="target_tag" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Target tag]]></phrase>
   <phrase title="target_user" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Target user]]></phrase>
+  <phrase title="tckChangeContentOwner_bump_time" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Bump time]]></phrase>
+  <phrase title="tckChangeContentOwner_bump_time_explain" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Bump content time by specific hours, minutes or seconds.]]></phrase>
+  <phrase title="tckChangeContentOwner_change_date" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Change date]]></phrase>
+  <phrase title="tckChangeContentOwner_change_owner" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Change owner]]></phrase>
+  <phrase title="tckChangeContentOwner_change_owner_of_x" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Change owner of {content_title}]]></phrase>
+  <phrase title="tckChangeContentOwner_change_owner_or_date" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Change owner or date]]></phrase>
+  <phrase title="tckChangeContentOwner_change_x_owner_or_date" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Change {content_type_plural} owner or date]]></phrase>
+  <phrase title="tckChangeContentOwner_inline_moderation_change_date" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Inline moderation - Change date]]></phrase>
+  <phrase title="tckChangeContentOwner_inline_moderation_change_owner" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Inline moderation - Change owner]]></phrase>
+  <phrase title="tckChangeContentOwner_inline_moderation_change_owner_or_date" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Inline moderation - Change owner or date]]></phrase>
+  <phrase title="tckChangeContentOwner_new_date" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[New date]]></phrase>
+  <phrase title="tckChangeContentOwner_new_date_explain" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Enter the new date of the content.]]></phrase>
+  <phrase title="tckChangeContentOwner_new_date_must_be_older_than_thread_date" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[New date must be older than thread date.]]></phrase>
+  <phrase title="tckChangeContentOwner_new_owner" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[New owner]]></phrase>
+  <phrase title="tckChangeContentOwner_new_owner_must_be_able_to_view_this_content" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[The new owner must be able to view this content.]]></phrase>
+  <phrase title="tckChangeContentOwner_new_owner_name_explain" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Enter the name of the new content owner.]]></phrase>
+  <phrase title="tckChangeContentOwner_new_time" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[New time]]></phrase>
+  <phrase title="tckChangeContentOwner_please_select_valid_change_date_type" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Please select a valid change date type.]]></phrase>
+  <phrase title="tckChangeContentOwner_post_in_thread_x_page_title" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[post in thread '{title}']]></phrase>
+  <phrase title="tckChangeContentOwner_time_interval" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Time interval]]></phrase>
+  <phrase title="tckChangeContentOwner_time_interval_explain" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[When changing date of multiple contents, this time interval be added to the final date for more unique timestamps.]]></phrase>
+  <phrase title="tckChangeContentOwner_units_hour" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Hour]]></phrase>
+  <phrase title="tckChangeContentOwner_units_minute" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Minute]]></phrase>
+  <phrase title="tckChangeContentOwner_units_second" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Second]]></phrase>
+  <phrase title="tckChangeContentOwner_you_do_not_have_permission_to_change_selected_contents_date" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[You do not have permission to change selected contents date.]]></phrase>
+  <phrase title="tckChangeContentOwner_you_do_not_have_permission_to_change_selected_contents_owner" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[You do not have permission to change selected contents owner.]]></phrase>
+  <phrase title="tckChangeContentOwner_you_do_not_have_permission_to_change_this_content_date" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[You do not have permission to change this content date.]]></phrase>
+  <phrase title="tckChangeContentOwner_you_do_not_have_permission_to_change_this_content_owner" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[You do not have permission to change this content owner.]]></phrase>
+  <phrase title="tckChangeContentOwner_you_must_either_change_owner_or_date_of_this_x" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[You must change the content owner or the date of this {content_type_phrase}.]]></phrase>
+  <phrase title="tckChangeContentOwner_you_sure_you_want_to_change_date_x_contents" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Are you sure you want to change the date specified below to the {count} selected {content_type_singular}(s)?]]></phrase>
+  <phrase title="tckChangeContentOwner_you_sure_you_want_to_change_owner_or_date_x_contents" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Are you sure you want to change the owner or date specified below to the {count} selected {content_type_singular}(s)?]]></phrase>
+  <phrase title="tckChangeContentOwner_you_sure_you_want_to_change_owner_x_contents" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Are you sure you want to change the owner specified below to the {count} selected {content_type_singular}(s)?]]></phrase>
   <phrase title="template" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Template]]></phrase>
   <phrase title="template_contains" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Template contains]]></phrase>
   <phrase title="template_contents" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Template contents]]></phrase>
@@ -17466,8 +17604,8 @@ Please confirm that you are moving the thread to the correct forum.]]></phrase>
   <phrase title="thread_prefix.80" addon_id="" version_id="0" version_string=""><![CDATA[Chat]]></phrase>
   <phrase title="thread_prefix.81" addon_id="" version_id="0" version_string=""><![CDATA[1.18.x]]></phrase>
   <phrase title="thread_prefix.82" addon_id="" version_id="0" version_string=""><![CDATA[Solved]]></phrase>
-  <phrase title="thread_prefix.83" addon_id="" version_id="0" version_string=""><![CDATA[已关闭]]></phrase>
-  <phrase title="thread_prefix.84" addon_id="" version_id="0" version_string=""><![CDATA[举报投诉]]></phrase>
+  <phrase title="thread_prefix.83" addon_id="" version_id="0" version_string=""><![CDATA[Closed]]></phrase>
+  <phrase title="thread_prefix.84" addon_id="" version_id="0" version_string=""><![CDATA[Report]]></phrase>
   <phrase title="thread_prefix.85" addon_id="" version_id="0" version_string=""><![CDATA[1.19.x]]></phrase>
   <phrase title="thread_prefix_desc.13" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_desc.20" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -18510,6 +18648,7 @@ Your account's access may be limited based on these actions. Please keep this in
   <phrase title="widget.fhb" addon_id="" version_id="0" version_string=""><![CDATA[Rich list]]></phrase>
   <phrase title="widget.forum_overview_new_profile_posts" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.forum_statistics" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="widget.friend_link" addon_id="" version_id="0" version_string=""><![CDATA[友情链接]]></phrase>
   <phrase title="widget.friend_links" addon_id="" version_id="0" version_string=""><![CDATA[Links]]></phrase>
   <phrase title="widget.good_resources" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.google_adsense" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -19033,7 +19172,7 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_external_download_url" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[External download URL]]></phrase>
   <phrase title="xfrm_external_purchase" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[External purchase]]></phrase>
   <phrase title="xfrm_external_purchase_url" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[External purchase URL]]></phrase>
-  <phrase title="xfrm_extra_info" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Extra info]]></phrase>
+  <phrase title="xfrm_extra_info" addon_id="XFRM" version_id="2020470" version_string="2.2.4"><![CDATA[English overview]]></phrase>
   <phrase title="xfrm_extra_information_tab" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Extra information tab]]></phrase>
   <phrase title="xfrm_feature_resources" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Feature resources]]></phrase>
   <phrase title="xfrm_featured" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Featured]]></phrase>
@@ -19146,6 +19285,7 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_resource_field_choice.versions_13" addon_id="" version_id="0" version_string=""><![CDATA[All the versions]]></phrase>
   <phrase title="xfrm_resource_field_choice.versions_14" addon_id="" version_id="0" version_string=""><![CDATA[1.17]]></phrase>
   <phrase title="xfrm_resource_field_choice.versions_15" addon_id="" version_id="0" version_string=""><![CDATA[1.18]]></phrase>
+  <phrase title="xfrm_resource_field_choice.versions_16" addon_id="" version_id="0" version_string=""><![CDATA[1.19]]></phrase>
   <phrase title="xfrm_resource_field_choice.versions_3" addon_id="" version_id="0" version_string=""><![CDATA[1.8]]></phrase>
   <phrase title="xfrm_resource_field_choice.versions_4" addon_id="" version_id="0" version_string=""><![CDATA[1.9]]></phrase>
   <phrase title="xfrm_resource_field_choice.versions_5" addon_id="" version_id="0" version_string=""><![CDATA[1.10]]></phrase>
@@ -19156,19 +19296,23 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_resource_field_choice.versions_a" addon_id="" version_id="0" version_string=""><![CDATA[The latest version]]></phrase>
   <phrase title="xfrm_resource_field_desc.api" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="xfrm_resource_field_desc.donation_btn" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="xfrm_resource_field_desc.english_info" addon_id="" version_id="0" version_string=""><![CDATA[Introduce your resources to global user in English!]]></phrase>
   <phrase title="xfrm_resource_field_desc.front" addon_id="" version_id="0" version_string=""><![CDATA[运行该资源所必须的前置组件（名称+链接）]]></phrase>
   <phrase title="xfrm_resource_field_desc.language" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="xfrm_resource_field_desc.link" addon_id="" version_id="0" version_string=""><![CDATA[Source of resources, fill in "#" if it is original or authorized forwarding.]]></phrase>
+  <phrase title="xfrm_resource_field_desc.minewiki" addon_id="" version_id="0" version_string=""><![CDATA[推荐使用MineWiki托管您的项目文档：<a href="https://minewiki.net/%E5%88%9B%E5%BB%BA%E9%A1%B5%E9%9D%A2">https://minewiki.net/</a>]]></phrase>
   <phrase title="xfrm_resource_field_desc.platform" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="xfrm_resource_field_desc.rely" addon_id="" version_id="0" version_string=""><![CDATA[A pre - / dependent plug-in or module]]></phrase>
   <phrase title="xfrm_resource_field_desc.source" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="xfrm_resource_field_desc.version_java" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="xfrm_resource_field_desc.versions" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="xfrm_resource_field_title.api" addon_id="" version_id="0" version_string=""><![CDATA[API]]></phrase>
-  <phrase title="xfrm_resource_field_title.donation_btn" addon_id="" version_id="0" version_string=""><![CDATA[捐赠链接]]></phrase>
-  <phrase title="xfrm_resource_field_title.front" addon_id="" version_id="0" version_string=""><![CDATA[前置组件]]></phrase>
+  <phrase title="xfrm_resource_field_title.donation_btn" addon_id="" version_id="0" version_string=""><![CDATA[Donate link]]></phrase>
+  <phrase title="xfrm_resource_field_title.english_info" addon_id="" version_id="0" version_string=""><![CDATA[English description]]></phrase>
+  <phrase title="xfrm_resource_field_title.front" addon_id="" version_id="0" version_string=""><![CDATA[Precondition]]></phrase>
   <phrase title="xfrm_resource_field_title.language" addon_id="" version_id="0" version_string=""><![CDATA[Language]]></phrase>
   <phrase title="xfrm_resource_field_title.link" addon_id="" version_id="0" version_string=""><![CDATA[Copyright link]]></phrase>
+  <phrase title="xfrm_resource_field_title.minewiki" addon_id="" version_id="0" version_string=""><![CDATA[Wiki]]></phrase>
   <phrase title="xfrm_resource_field_title.platform" addon_id="" version_id="0" version_string=""><![CDATA[Applicable platforms]]></phrase>
   <phrase title="xfrm_resource_field_title.rely" addon_id="" version_id="0" version_string=""><![CDATA[Dependence]]></phrase>
   <phrase title="xfrm_resource_field_title.source" addon_id="" version_id="0" version_string=""><![CDATA[Source of resources]]></phrase>
@@ -19439,6 +19583,12 @@ Two-step verification increases the security of your account by requiring you to
   <phrase title="you_sure_you_want_disable_two_step" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Are you sure you want to disable the two-step verification?]]></phrase>
   <phrase title="you_sure_you_want_disable_two_step_x" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Are you sure you want to disable the two-step verification method '{title}'?]]></phrase>
   <phrase title="you_sure_you_want_to_apply_this_reaction" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Are you sure you want to apply this reaction?]]></phrase>
+  <phrase title="you_sure_you_want_to_change_author_x_posts" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Are you sure you want to change the author specified below to the {count} selected posts?]]></phrase>
+  <phrase title="you_sure_you_want_to_change_author_x_profile_posts" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Are you sure you want to change the author specified below to the {count} selected profile posts?]]></phrase>
+  <phrase title="you_sure_you_want_to_change_author_x_threads" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Are you sure you want to change the author specified below to the {count} selected threads?]]></phrase>
+  <phrase title="you_sure_you_want_to_change_author_x_xfmg_comments" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Are you sure you want to change the author specified below to the {count} selected comments?]]></phrase>
+  <phrase title="you_sure_you_want_to_change_author_x_xfmg_media_items" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Are you sure you want to change the author specified below to the {count} selected media items?]]></phrase>
+  <phrase title="you_sure_you_want_to_change_owner_x_xfmg_albums" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Are you sure you want to change the owner specified below to the {count} selected profile posts?]]></phrase>
   <phrase title="you_sure_you_want_to_change_types_x_threads" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Are you sure you want to change the thread type of {count} threads?]]></phrase>
   <phrase title="you_sure_you_want_to_copy_x_posts_to_new_thread" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Are you sure you want to copy {count} post(s) to a new thread?]]></phrase>
   <phrase title="you_sure_you_want_to_delete_x_posts" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Are you sure you want to delete {count} post(s)?]]></phrase>
