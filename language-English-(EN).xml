@@ -616,7 +616,7 @@
   <phrase title="af_as_award_desc.18" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS 20,000 User Memorial]]></phrase>
   <phrase title="af_as_award_desc.19" addon_id="" version_id="0" version_string=""><![CDATA[The certified member of MineBBS News Group]]></phrase>
   <phrase title="af_as_award_desc.2" addon_id="" version_id="0" version_string=""><![CDATA[The person who made a significant contribution to MineBBS]]></phrase>
-  <phrase title="af_as_award_desc.20" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS会员数破三万纪念]]></phrase>
+  <phrase title="af_as_award_desc.20" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS 30,000 User Memorial]]></phrase>
   <phrase title="af_as_award_desc.21" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS成立四周年纪念勋章]]></phrase>
   <phrase title="af_as_award_desc.3" addon_id="" version_id="0" version_string=""><![CDATA[The certified member of MineBBS Republishing Group]]></phrase>
   <phrase title="af_as_award_desc.4" addon_id="" version_id="0" version_string=""><![CDATA[The person who has excellent original work or outstanding reputation in the field of texture pack]]></phrase>
@@ -640,8 +640,8 @@
   <phrase title="af_as_award_title.18" addon_id="" version_id="0" version_string=""><![CDATA[20,000 Members memorial]]></phrase>
   <phrase title="af_as_award_title.19" addon_id="" version_id="0" version_string=""><![CDATA[News Group Member]]></phrase>
   <phrase title="af_as_award_title.2" addon_id="" version_id="0" version_string=""><![CDATA[Significant contribution]]></phrase>
-  <phrase title="af_as_award_title.20" addon_id="" version_id="0" version_string=""><![CDATA[3W纪念]]></phrase>
-  <phrase title="af_as_award_title.21" addon_id="" version_id="0" version_string=""><![CDATA[四周年纪念]]></phrase>
+  <phrase title="af_as_award_title.20" addon_id="" version_id="0" version_string=""><![CDATA[30000 Memorial]]></phrase>
+  <phrase title="af_as_award_title.21" addon_id="" version_id="0" version_string=""><![CDATA[4 Year Memorial]]></phrase>
   <phrase title="af_as_award_title.3" addon_id="" version_id="0" version_string=""><![CDATA[Republishing Group]]></phrase>
   <phrase title="af_as_award_title.4" addon_id="" version_id="0" version_string=""><![CDATA[Texture specialists]]></phrase>
   <phrase title="af_as_award_title.5" addon_id="" version_id="0" version_string=""><![CDATA[Activists]]></phrase>
@@ -4000,15 +4000,15 @@ If the remaining stock is -1 (Unlimited), this setting will automatically change
 Maximum stock must be greater or equal to currently remaining stock.
 If the remaining stock is -1 (Unlimited), the maximum stock will automatically change to -1 upon saving.]]></phrase>
   <phrase title="dbtech_shop_item_stock_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Stock]]></phrase>
-  <phrase title="dbtech_shop_item_tag.1" addon_id="" version_id="0" version_string=""><![CDATA[在你的个人空间播放你喜欢的BGM！]]></phrase>
-  <phrase title="dbtech_shop_item_tag.10" addon_id="" version_id="0" version_string=""><![CDATA[让你的主题亮起来！]]></phrase>
-  <phrase title="dbtech_shop_item_tag.2" addon_id="" version_id="0" version_string=""><![CDATA[置顶你的服务器宣传贴！]]></phrase>
-  <phrase title="dbtech_shop_item_tag.3" addon_id="" version_id="0" version_string=""><![CDATA[自动顶贴神奇！不用怕沉贴啦！]]></phrase>
-  <phrase title="dbtech_shop_item_tag.4" addon_id="" version_id="0" version_string=""><![CDATA[不用充VIP也可以更改用户名？来看看！]]></phrase>
-  <phrase title="dbtech_shop_item_tag.6" addon_id="" version_id="0" version_string=""><![CDATA[创建属于自己的兴趣版块！]]></phrase>
+  <phrase title="dbtech_shop_item_tag.1" addon_id="" version_id="0" version_string=""><![CDATA[Play your favorite BGM in your personal space!]]></phrase>
+  <phrase title="dbtech_shop_item_tag.10" addon_id="" version_id="0" version_string=""><![CDATA[Light up your theme!]]></phrase>
+  <phrase title="dbtech_shop_item_tag.2" addon_id="" version_id="0" version_string=""><![CDATA[Top your server posters!]]></phrase>
+  <phrase title="dbtech_shop_item_tag.3" addon_id="" version_id="0" version_string=""><![CDATA[Automatic top stick artifact! Don't be afraid to stick!]]></phrase>
+  <phrase title="dbtech_shop_item_tag.4" addon_id="" version_id="0" version_string=""><![CDATA[Can you change your user name without being a VIP? Let's see!]]></phrase>
+  <phrase title="dbtech_shop_item_tag.6" addon_id="" version_id="0" version_string=""><![CDATA[Create your own hobby section!]]></phrase>
   <phrase title="dbtech_shop_item_tag.7" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="dbtech_shop_item_tag.8" addon_id="" version_id="0" version_string=""><![CDATA[手动顶贴]]></phrase>
-  <phrase title="dbtech_shop_item_tag.9" addon_id="" version_id="0" version_string=""><![CDATA[为你的主题添加一个高亮效果]]></phrase>
+  <phrase title="dbtech_shop_item_tag.8" addon_id="" version_id="0" version_string=""><![CDATA[Manual top stick]]></phrase>
+  <phrase title="dbtech_shop_item_tag.9" addon_id="" version_id="0" version_string=""><![CDATA[Add a highlight effect to your theme]]></phrase>
   <phrase title="dbtech_shop_item_tagline" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item tagline]]></phrase>
   <phrase title="dbtech_shop_item_tagline_explain" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[A short blob (around 140 characters) that briefly explains the item. This will be displayed in the item list.]]></phrase>
   <phrase title="dbtech_shop_item_thread_create" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[A new item is available: [url={item_link}][plain]{title}[/plain][/url] - [plain]{tag_line}[/plain]
@@ -10445,7 +10445,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_event_def_desc.birthday" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_event_def_desc.bonus" addon_id="MJ/Credits" version_id="1010300" version_string="1.1.3"><![CDATA[]]></phrase>
   <phrase title="mjc_event_def_desc.buy_user_group" addon_id="MJ/Credits" version_id="1010600" version_string="1.1.6"><![CDATA[用于用户购买]]></phrase>
-  <phrase title="mjc_event_def_desc.content" addon_id="MJ/Credits" version_id="1000500" version_string="1.0.5"><![CDATA[向其他用户收费以查看您标记的收费内容。]]></phrase>
+  <phrase title="mjc_event_def_desc.content" addon_id="MJ/Credits" version_id="1000500" version_string="1.0.5"><![CDATA[Charge other users to see what you've marked for a fee.]]></phrase>
   <phrase title="mjc_event_def_desc.conversation_leave" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_event_def_desc.conversation_new" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_event_def_desc.conversation_receive" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
@@ -10454,16 +10454,16 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_event_def_desc.conversation_reply_new" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_event_def_desc.conversation_reply_receive" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_event_def_desc.daily_login" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[Daily gold washing]]></phrase>
-  <phrase title="mjc_event_def_desc.exchange" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[会员兑换积分从一种货币到另一种货币。]]></phrase>
-  <phrase title="mjc_event_def_desc.follow" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[会员关注某人。]]></phrase>
-  <phrase title="mjc_event_def_desc.follower_lose" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[会员失去了关注者。]]></phrase>
-  <phrase title="mjc_event_def_desc.follower_receive" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[会员有一个新的关注者。]]></phrase>
+  <phrase title="mjc_event_def_desc.exchange" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[用户兑换积分从一种货币到另一种货币。]]></phrase>
+  <phrase title="mjc_event_def_desc.follow" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Members follow someone.]]></phrase>
+  <phrase title="mjc_event_def_desc.follower_lose" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Members lose followers.]]></phrase>
+  <phrase title="mjc_event_def_desc.follower_receive" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[用户有一个新的关注者。]]></phrase>
   <phrase title="mjc_event_def_desc.mjrcp_buy_resource" addon_id="MJ/ResourceCreditsPayment" version_id="1000031" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_event_def_desc.mjrcp_sell_resource" addon_id="MJ/ResourceCreditsPayment" version_id="1000031" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_event_def_desc.offerReward" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[Post a reward to other users to help solve the problem]]></phrase>
   <phrase title="mjc_event_def_desc.payment" addon_id="MJ/Credits" version_id="1010600" version_string="1.1.6"><![CDATA[]]></phrase>
   <phrase title="mjc_event_def_desc.poll_create" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
-  <phrase title="mjc_event_def_desc.poll_delete" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[会员的投票调查贴被删除]]></phrase>
+  <phrase title="mjc_event_def_desc.poll_delete" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[用户的投票调查贴被删除]]></phrase>
   <phrase title="mjc_event_def_desc.poll_vote" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_event_def_desc.poll_vote_receive" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_event_def_desc.post_delete" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
@@ -10498,7 +10498,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_event_def_desc.thread_watch_lose" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_event_def_desc.thread_watch_receive" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_event_def_desc.transfer" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[转账/收款 积分]]></phrase>
-  <phrase title="mjc_event_def_desc.unfollow" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[会员取消关注某人。]]></phrase>
+  <phrase title="mjc_event_def_desc.unfollow" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[用户取消关注某人。]]></phrase>
   <phrase title="mjc_event_def_desc.update_status" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_event_def_title.attachment_delete" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Delete annex]]></phrase>
   <phrase title="mjc_event_def_title.attachment_download" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Download annex]]></phrase>
@@ -10509,19 +10509,19 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_event_def_title.birthday" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Birthday]]></phrase>
   <phrase title="mjc_event_def_title.bonus" addon_id="MJ/Credits" version_id="1010300" version_string="1.1.3"><![CDATA[Grab a Red Packet]]></phrase>
   <phrase title="mjc_event_def_title.buy_user_group" addon_id="MJ/Credits" version_id="1001300" version_string="1.1.3"><![CDATA[Buy user groups]]></phrase>
-  <phrase title="mjc_event_def_title.content" addon_id="MJ/Credits" version_id="1000500" version_string="1.0.5"><![CDATA[内容收费]]></phrase>
+  <phrase title="mjc_event_def_title.content" addon_id="MJ/Credits" version_id="1000500" version_string="1.0.5"><![CDATA[Charge for content]]></phrase>
   <phrase title="mjc_event_def_title.conversation_leave" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[left the conversation]]></phrase>
   <phrase title="mjc_event_def_title.conversation_new" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Creat a conversation]]></phrase>
   <phrase title="mjc_event_def_title.conversation_receive" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[join the conversation]]></phrase>
   <phrase title="mjc_event_def_title.conversation_reply_delete" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[会话回复被删除]]></phrase>
   <phrase title="mjc_event_def_title.conversation_reply_lose" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[失去会话回复]]></phrase>
-  <phrase title="mjc_event_def_title.conversation_reply_new" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[回复会话]]></phrase>
+  <phrase title="mjc_event_def_title.conversation_reply_new" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Reply to the session]]></phrase>
   <phrase title="mjc_event_def_title.conversation_reply_receive" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[收到会话回复]]></phrase>
-  <phrase title="mjc_event_def_title.daily_login" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[每日登录]]></phrase>
+  <phrase title="mjc_event_def_title.daily_login" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[The daily login]]></phrase>
   <phrase title="mjc_event_def_title.exchange" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[货币兑换]]></phrase>
-  <phrase title="mjc_event_def_title.follow" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[关注]]></phrase>
-  <phrase title="mjc_event_def_title.follower_lose" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[失去关注者]]></phrase>
-  <phrase title="mjc_event_def_title.follower_receive" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[获得关注者]]></phrase>
+  <phrase title="mjc_event_def_title.follow" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Follow]]></phrase>
+  <phrase title="mjc_event_def_title.follower_lose" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Loss follower]]></phrase>
+  <phrase title="mjc_event_def_title.follower_receive" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Get follower]]></phrase>
   <phrase title="mjc_event_def_title.mjrcp_buy_resource" addon_id="MJ/ResourceCreditsPayment" version_id="1000701" version_string="1.0.7"><![CDATA[Buy resource]]></phrase>
   <phrase title="mjc_event_def_title.mjrcp_sell_resource" addon_id="MJ/ResourceCreditsPayment" version_id="1000700" version_string="1.0.7"><![CDATA[ Sell resource]]></phrase>
   <phrase title="mjc_event_def_title.offerReward" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[Reward]]></phrase>
@@ -10533,10 +10533,10 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_event_def_title.post_delete" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[Post deleted]]></phrase>
   <phrase title="mjc_event_def_title.post_like" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[Like post]]></phrase>
   <phrase title="mjc_event_def_title.post_like_lose" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[Lose post like]]></phrase>
-  <phrase title="mjc_event_def_title.post_like_receive" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[接收帖子支持]]></phrase>
+  <phrase title="mjc_event_def_title.post_like_receive" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Recive like]]></phrase>
   <phrase title="mjc_event_def_title.post_new" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[New post]]></phrase>
   <phrase title="mjc_event_def_title.post_report" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[Report post]]></phrase>
-  <phrase title="mjc_event_def_title.post_report_receive" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[接收帖子举报]]></phrase>
+  <phrase title="mjc_event_def_title.post_report_receive" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Recive report]]></phrase>
   <phrase title="mjc_event_def_title.post_unlike" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[Unlike post]]></phrase>
   <phrase title="mjc_event_def_title.profile_post_delete" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[个人空间信息被删除]]></phrase>
   <phrase title="mjc_event_def_title.profile_post_like" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[支持个人空间信息]]></phrase>
@@ -10664,15 +10664,15 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_please_choose_reset_credits_or_transactions" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[请选择重置积分或交易]]></phrase>
   <phrase title="mjc_please_confirm_that_you_want_to_delete_x_events" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[请确认您要删除 {number} 个活动]]></phrase>
   <phrase title="mjc_please_confirm_that_you_want_to_delete_x_transactions" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[请确认您要删除 {number} 个交易]]></phrase>
-  <phrase title="mjc_please_enter_valid_amount" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[请输入有效金额。]]></phrase>
+  <phrase title="mjc_please_enter_valid_amount" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Please enter a valid amount.]]></phrase>
   <phrase title="mjc_please_upload_valid_events_xml_file" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[请上传有效的事件XML文件。]]></phrase>
   <phrase title="mjc_prefix" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[Prefix]]></phrase>
   <phrase title="mjc_provided_file_is_not_valid_events_xml" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[提供的文件不是有效的事件XML。]]></phrase>
   <phrase title="mjc_rand_amount_explain" addon_id="MJ/Credits" version_id="1020600" version_string="1.2.6"><![CDATA[随机获取积分最大数值（0 表示禁用）。]]></phrase>
-  <phrase title="mjc_rand_on" addon_id="MJ/Credits" version_id="1020600" version_string="1.2.6"><![CDATA[打开随机数值]]></phrase>
-  <phrase title="mjc_rand_options" addon_id="MJ/Credits" version_id="1020600" version_string="1.2.6"><![CDATA[随机数值]]></phrase>
+  <phrase title="mjc_rand_on" addon_id="MJ/Credits" version_id="1020600" version_string="1.2.6"><![CDATA[Enable random values]]></phrase>
+  <phrase title="mjc_rand_options" addon_id="MJ/Credits" version_id="1020600" version_string="1.2.6"><![CDATA[Random values]]></phrase>
   <phrase title="mjc_rebuild_daily_statistics" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[重建每日统计数据]]></phrase>
-  <phrase title="mjc_receive" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[接收]]></phrase>
+  <phrase title="mjc_receive" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Recive]]></phrase>
   <phrase title="mjc_receiver" addon_id="MJ/Credits" version_id="1010700" version_string="1.1.7"><![CDATA[Receiver]]></phrase>
   <phrase title="mjc_recently_transactions" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[Recently transactions]]></phrase>
   <phrase title="mjc_remove_source_balance" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[删除源差额]]></phrase>
@@ -10681,14 +10681,14 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_requested_event_not_found" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[找不到请求的活动。]]></phrase>
   <phrase title="mjc_requested_target_user_not_found" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[找不到请求的目标用户。]]></phrase>
   <phrase title="mjc_requested_transaction_not_found" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[找不到请求的交易。]]></phrase>
-  <phrase title="mjc_reset" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[重启]]></phrase>
+  <phrase title="mjc_reset" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Restart]]></phrase>
   <phrase title="mjc_reset_users_credits_to" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[Reset user credits to]]></phrase>
-  <phrase title="mjc_resetting" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[重置]]></phrase>
+  <phrase title="mjc_resetting" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Reset]]></phrase>
   <phrase title="mjc_reverted" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[Reverted]]></phrase>
   <phrase title="mjc_reward_edit" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[Edit reward amount]]></phrase>
-  <phrase title="mjc_richest_statistics" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[富豪统计]]></phrase>
+  <phrase title="mjc_richest_statistics" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Rich statistics]]></phrase>
   <phrase title="mjc_send" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[Send]]></phrase>
-  <phrase title="mjc_send_alert" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[发送提醒]]></phrase>
+  <phrase title="mjc_send_alert" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Send alert]]></phrase>
   <phrase title="mjc_send_credit" addon_id="MJ/Credits" version_id="1010700" version_string="1.1.7"><![CDATA[Transfer]]></phrase>
   <phrase title="mjc_send_credits" addon_id="MJ/Credits" version_id="1010700" version_string="1.1.7"><![CDATA[Transfer]]></phrase>
   <phrase title="mjc_send_red_envelope" addon_id="MJ/Credits" version_id="1010300" version_string="1.1.3"><![CDATA[发红包给]]></phrase>
@@ -17670,8 +17670,8 @@ Please confirm that you are moving the thread to the correct forum.]]></phrase>
   <phrase title="thread_prefix_group.12" addon_id="" version_id="0" version_string=""><![CDATA[Interflow]]></phrase>
   <phrase title="thread_prefix_group.14" addon_id="" version_id="0" version_string=""><![CDATA[Java Resource]]></phrase>
   <phrase title="thread_prefix_group.15" addon_id="" version_id="0" version_string=""><![CDATA[Bedrock Resource]]></phrase>
-  <phrase title="thread_prefix_group.16" addon_id="" version_id="0" version_string=""><![CDATA[建议版块]]></phrase>
-  <phrase title="thread_prefix_group.17" addon_id="" version_id="0" version_string=""><![CDATA[你问我答]]></phrase>
+  <phrase title="thread_prefix_group.16" addon_id="" version_id="0" version_string=""><![CDATA[Advice forum]]></phrase>
+  <phrase title="thread_prefix_group.17" addon_id="" version_id="0" version_string=""><![CDATA[Q＆A]]></phrase>
   <phrase title="thread_prefix_group.6" addon_id="" version_id="0" version_string=""><![CDATA[General prefix]]></phrase>
   <phrase title="thread_prefix_group.7" addon_id="" version_id="0" version_string=""><![CDATA[Management area]]></phrase>
   <phrase title="thread_prefix_group.8" addon_id="" version_id="0" version_string=""><![CDATA[Server]]></phrase>
@@ -17736,7 +17736,7 @@ Please confirm that you are moving the thread to the correct forum.]]></phrase>
   <phrase title="thread_prefix_help.85" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefixes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread prefixes]]></phrase>
   <phrase title="thread_prompt.1" addon_id="" version_id="0" version_string=""><![CDATA[Please enter a title to publish your server.]]></phrase>
-  <phrase title="thread_prompt.2" addon_id="" version_id="0" version_string=""><![CDATA[分享MC资源请前往资源中心噢~]]></phrase>
+  <phrase title="thread_prompt.2" addon_id="" version_id="0" version_string=""><![CDATA[Please go to the resource center to share MC resources~]]></phrase>
   <phrase title="thread_prompt.default" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread title]]></phrase>
   <phrase title="thread_prompt_group.1" addon_id="" version_id="0" version_string=""><![CDATA[Server]]></phrase>
   <phrase title="thread_prompts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread prompts]]></phrase>
