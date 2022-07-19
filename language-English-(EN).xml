@@ -358,7 +358,7 @@
   <phrase title="admin_navigation.mjcDevCredits" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[Credits]]></phrase>
   <phrase title="admin_navigation.mjcEventDefinitions" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Event Definitions]]></phrase>
   <phrase title="admin_navigation.mjcEvents" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Events]]></phrase>
-  <phrase title="admin_navigation.mjcImport" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[导入积分]]></phrase>
+  <phrase title="admin_navigation.mjcImport" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Impot Credit]]></phrase>
   <phrase title="admin_navigation.mjcListAllEvents" addon_id="MJ/Credits" version_id="1001000" version_string="1.1.0"><![CDATA[All events]]></phrase>
   <phrase title="admin_navigation.mjcListAllTransactions" addon_id="MJ/Credits" version_id="1001000" version_string="1.1.0"><![CDATA[All transactions]]></phrase>
   <phrase title="admin_navigation.mjcReset" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[重置积分]]></phrase>
@@ -10312,13 +10312,13 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_alert_your_balance_debited_x_for_y" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[<strong class =“subject”>Your balance </strong>debited {amount} for<strong>{event} </strong>.]]></phrase>
   <phrase title="mjc_all" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[All]]></phrase>
   <phrase title="mjc_all_currencies" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[All currencies]]></phrase>
-  <phrase title="mjc_allowed_attachment_file_extensions" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[允许的附件文件扩展名]]></phrase>
+  <phrase title="mjc_allowed_attachment_file_extensions" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Allowed attachment file extension]]></phrase>
   <phrase title="mjc_amount" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[Amount]]></phrase>
   <phrase title="mjc_amount_explain" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[输入此操作发生时将借记/贷记的积分数量。]]></phrase>
   <phrase title="mjc_amount_receive" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[Amount receive]]></phrase>
   <phrase title="mjc_anonymous" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[匿名]]></phrase>
-  <phrase title="mjc_applicable_categories" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[适用分类]]></phrase>
-  <phrase title="mjc_applicable_forums" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[适用版面]]></phrase>
+  <phrase title="mjc_applicable_categories" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Applicable categories]]></phrase>
+  <phrase title="mjc_applicable_forums" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Applicable forum]]></phrase>
   <phrase title="mjc_available" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[Balance]]></phrase>
   <phrase title="mjc_available_balance" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[Available balance]]></phrase>
   <phrase title="mjc_board_statistics" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[管理统计]]></phrase>
@@ -10330,10 +10330,10 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_choose_event_definition" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[选择事件定义]]></phrase>
   <phrase title="mjc_clear_all_transactions" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[清除所有交易]]></phrase>
   <phrase title="mjc_clear_all_user_credits" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[Clear all user credits]]></phrase>
-  <phrase title="mjc_code" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[代码]]></phrase>
+  <phrase title="mjc_code" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Code]]></phrase>
   <phrase title="mjc_column_x_was_not_found" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[找不到列{column}。]]></phrase>
-  <phrase title="mjc_comment" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[评论]]></phrase>
-  <phrase title="mjc_complete" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[完成]]></phrase>
+  <phrase title="mjc_comment" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Comment]]></phrase>
+  <phrase title="mjc_complete" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Complete]]></phrase>
   <phrase title="mjc_complete_date" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[完成日期]]></phrase>
   <phrase title="mjc_completed" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[Completed]]></phrase>
   <phrase title="mjc_content" addon_id="MJ/Credits" version_id="1010900" version_string="1.1.9"><![CDATA[content]]></phrase>
@@ -10344,7 +10344,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_credits_charge_for_content" addon_id="MJ/Credits" version_id="1000500" version_string="1.0.5"><![CDATA[收取内容费用]]></phrase>
   <phrase title="mjc_credits_costs_x_y" addon_id="MJ/Credits" version_id="1000500" version_string="1.0.5"><![CDATA[花费 {param1} {param2}]]></phrase>
   <phrase title="mjc_credits_credits_charged" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[credits charged]]></phrase>
-  <phrase title="mjc_credits_currency" addon_id="MJ/Credits" version_id="1010600" version_string="1.1.6"><![CDATA[货币]]></phrase>
+  <phrase title="mjc_credits_currency" addon_id="MJ/Credits" version_id="1010600" version_string="1.1.6"><![CDATA[Currency]]></phrase>
   <phrase title="mjc_credits_currency_displaycurrency" addon_id="MJ/Credits" version_id="1020501" version_string="1.2.5"><![CDATA[钱包弹出窗口显示货币]]></phrase>
   <phrase title="mjc_credits_currency_displaycurrency_explain" addon_id="MJ/Credits" version_id="1020501" version_string="1.2.5"><![CDATA[如果选中，此货币将显示在钱包弹创上。]]></phrase>
   <phrase title="mjc_credits_enable_navbar_default_explain" addon_id="MJ/Credits" version_id="1020401" version_string="1.2.4"><![CDATA[此设置使用导航管理器的位置。 ]]></phrase>
@@ -10358,7 +10358,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_credits_exchange_rate_explain" addon_id="MJ/Credits" version_id="1010600" version_string="1.1.6"><![CDATA[您的BR Credits货币值与您应用此支付配置文件的任何项目的实际成本之比。<br/>
 
 例如，如果将此支付配置文件添加到收费<strong>¥5.0</strong>的用户升级中，并且将此数字设置为<code>5</code>，则将向用户收取<strong>25点的积分。]]></phrase>
-  <phrase title="mjc_credits_invalid_currency" addon_id="MJ/Credits" version_id="1010600" version_string="1.1.6"><![CDATA[无效货币]]></phrase>
+  <phrase title="mjc_credits_invalid_currency" addon_id="MJ/Credits" version_id="1010600" version_string="1.1.6"><![CDATA[Invaild currency]]></phrase>
   <phrase title="mjc_credits_must_specify_exchange_rate" addon_id="MJ/Credits" version_id="1010600" version_string="1.1.6"><![CDATA[必须指定汇率。]]></phrase>
   <phrase title="mjc_credits_navbar_right_end" addon_id="MJ/Credits" version_id="1020401" version_string="1.2.4"><![CDATA[在“提醒”选项卡后方]]></phrase>
   <phrase title="mjc_credits_navbar_right_middle" addon_id="MJ/Credits" version_id="1020401" version_string="1.2.4"><![CDATA[在“提醒”选项卡前方]]></phrase>
@@ -10366,7 +10366,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_credits_original_price" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[Original price]]></phrase>
   <phrase title="mjc_credits_stripped_content" addon_id="MJ/Credits" version_id="1000600" version_string="1.0.6"><![CDATA[收费内容]]></phrase>
   <phrase title="mjc_credits_view_for_x_y" addon_id="MJ/Credits" version_id="1000400" version_string="1.0.4"><![CDATA[花费 {param1} {param2} 查看]]></phrase>
-  <phrase title="mjc_credits_wallet" addon_id="MJ/Credits" version_id="1000200" version_string="1.0.2"><![CDATA[[BRC] 钱包]]></phrase>
+  <phrase title="mjc_credits_wallet" addon_id="MJ/Credits" version_id="1000200" version_string="1.0.2"><![CDATA[[BRC] Wallet]]></phrase>
   <phrase title="mjc_currencies" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[Currencies]]></phrase>
   <phrase title="mjc_currency" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[Currency]]></phrase>
   <phrase title="mjc_currency_desc.1" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[It's shiny and kind of beautiful.]]></phrase>
@@ -10411,7 +10411,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_event.35" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event.38" addon_id="" version_id="0" version_string=""><![CDATA[The VIP login award]]></phrase>
   <phrase title="mjc_event.39" addon_id="" version_id="0" version_string=""><![CDATA[Purchase VIP]]></phrase>
-  <phrase title="mjc_event.4" addon_id="" version_id="0" version_string=""><![CDATA[被关注]]></phrase>
+  <phrase title="mjc_event.4" addon_id="" version_id="0" version_string=""><![CDATA[Watched]]></phrase>
   <phrase title="mjc_event.40" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event.41" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event.42" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -10426,7 +10426,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_event.51" addon_id="" version_id="0" version_string=""><![CDATA[Big water post]]></phrase>
   <phrase title="mjc_event.52" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event.53" addon_id="" version_id="0" version_string=""><![CDATA[推广奖励]]></phrase>
-  <phrase title="mjc_event.54" addon_id="" version_id="0" version_string=""><![CDATA[新动态]]></phrase>
+  <phrase title="mjc_event.54" addon_id="" version_id="0" version_string=""><![CDATA[New activity]]></phrase>
   <phrase title="mjc_event.55" addon_id="" version_id="0" version_string=""><![CDATA[Publish news]]></phrase>
   <phrase title="mjc_event.57" addon_id="" version_id="0" version_string=""><![CDATA[News has been deleted]]></phrase>
   <phrase title="mjc_event.58" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -10525,7 +10525,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_event_def_title.mjrcp_buy_resource" addon_id="MJ/ResourceCreditsPayment" version_id="1000701" version_string="1.0.7"><![CDATA[Buy resource]]></phrase>
   <phrase title="mjc_event_def_title.mjrcp_sell_resource" addon_id="MJ/ResourceCreditsPayment" version_id="1000700" version_string="1.0.7"><![CDATA[ Sell resource]]></phrase>
   <phrase title="mjc_event_def_title.offerReward" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[Reward]]></phrase>
-  <phrase title="mjc_event_def_title.payment" addon_id="MJ/Credits" version_id="1010600" version_string="1.1.6"><![CDATA[积分支付]]></phrase>
+  <phrase title="mjc_event_def_title.payment" addon_id="MJ/Credits" version_id="1010600" version_string="1.1.6"><![CDATA[Credit payment]]></phrase>
   <phrase title="mjc_event_def_title.poll_create" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[创建新投票]]></phrase>
   <phrase title="mjc_event_def_title.poll_delete" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[投票被删除]]></phrase>
   <phrase title="mjc_event_def_title.poll_vote" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[投票表决]]></phrase>
@@ -10768,7 +10768,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjrcp_sell_with_credits" addon_id="MJ/ResourceCreditsPayment" version_id="1000700" version_string="1.0.7"><![CDATA[ Sell with credits]]></phrase>
   <phrase title="mjrcp_sold_x" addon_id="MJ/ResourceCreditsPayment" version_id="1000131" version_string="1.0.1"><![CDATA[出售 {resource}]]></phrase>
   <phrase title="mjrcp_status" addon_id="MJ/ResourceCreditsPayment" version_id="1000701" version_string="1.0.7"><![CDATA[Status]]></phrase>
-  <phrase title="mjrcp_status.active" addon_id="MJ/ResourceCreditsPayment" version_id="1000131" version_string="1.0.1"><![CDATA[活跃]]></phrase>
+  <phrase title="mjrcp_status.active" addon_id="MJ/ResourceCreditsPayment" version_id="1000131" version_string="1.0.1"><![CDATA[Active]]></phrase>
   <phrase title="mjrcp_user" addon_id="MJ/ResourceCreditsPayment" version_id="1000701" version_string="1.0.7"><![CDATA[User]]></phrase>
   <phrase title="mjrcp_you_already_purchased_this_resource" addon_id="MJ/ResourceCreditsPayment" version_id="1000701" version_string="1.0.7"><![CDATA[You have already purchased this resource.]]></phrase>
   <phrase title="mjrcp_you_cannot_purchase_this_resource" addon_id="MJ/ResourceCreditsPayment" version_id="1000701" version_string="1.0.7"><![CDATA[You cannot purchase this resource]]></phrase>
@@ -11747,7 +11747,7 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.mjc_credits_event_trigger_content_bbcode" addon_id="MJ/Credits" version_id="1020600" version_string="1.2.6"><![CDATA[付费]]></phrase>
   <phrase title="option.mjc_credits_event_trigger_content_currency" addon_id="MJ/Credits" version_id="1020600" version_string="1.2.6"><![CDATA[收费事件触发条件：货币]]></phrase>
   <phrase title="option.mjc_credits_navbar" addon_id="MJ/Credits" version_id="1020401" version_string="1.2.4"><![CDATA[选项卡名称]]></phrase>
-  <phrase title="option.mjc_display_postbit" addon_id="MJ/Credits" version_id="1010800" version_string="1.1.8"><![CDATA[显示积分]]></phrase>
+  <phrase title="option.mjc_display_postbit" addon_id="MJ/Credits" version_id="1010800" version_string="1.1.8"><![CDATA[Show credit]]></phrase>
   <phrase title="option.mjrcpPurchaseDiscountPercent" addon_id="MJ/ResourceCreditsPayment" version_id="1000432" version_string="1.0.4"><![CDATA[折扣]]></phrase>
   <phrase title="option.mjrcpPurchaseDiscountPercentCategory" addon_id="MJ/ResourceCreditsPayment" version_id="1000432" version_string="1.0.4"><![CDATA[可打折分类]]></phrase>
   <phrase title="option.mjrcpPurchaseExpirationDate" addon_id="MJ/ResourceCreditsPayment" version_id="1000500" version_string="1.0.5"><![CDATA[购买资源过期日期]]></phrase>
@@ -11770,8 +11770,8 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.privacyPolicyUrl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Privacy policy URL]]></phrase>
   <phrase title="option.profilePostMaxLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maximum profile message length]]></phrase>
   <phrase title="option.pushKeysVAPID" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Push VAPID keys]]></phrase>
-  <phrase title="option.quickPrefixChangeSelect" addon_id="CnXFans/QuickPrefixChange" version_id="1000100" version_string="1.0.0"><![CDATA[更换后主题前缀]]></phrase>
-  <phrase title="option.quickPrefixChangeUnSelect" addon_id="CnXFans/QuickPrefixChange" version_id="1000100" version_string="1.0.0"><![CDATA[更换前主题前缀]]></phrase>
+  <phrase title="option.quickPrefixChangeSelect" addon_id="CnXFans/QuickPrefixChange" version_id="1000100" version_string="1.0.0"><![CDATA[The changed prefix]]></phrase>
+  <phrase title="option.quickPrefixChangeUnSelect" addon_id="CnXFans/QuickPrefixChange" version_id="1000100" version_string="1.0.0"><![CDATA[The prefix before the change]]></phrase>
   <phrase title="option.readMarkingDataLifetime" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Read marking data lifetime]]></phrase>
   <phrase title="option.redditShare" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable Reddit share button]]></phrase>
   <phrase title="option.registrationCheckDnsBl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[DNS Blacklist &amp; Project Honey Pot]]></phrase>
@@ -12770,7 +12770,7 @@ Use the textbox above to specify a format. <b>{title}</b> will be replaced with 
   <phrase title="option_group.sitemap" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[XML sitemap generation]]></phrase>
   <phrase title="option_group.spam" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Spam management]]></phrase>
   <phrase title="option_group.stats" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Statistics and metrics]]></phrase>
-  <phrase title="option_group.sticky_resources" addon_id="CnXFans/StickyResources" version_id="1000000" version_string="1.0.0"><![CDATA[置顶资源]]></phrase>
+  <phrase title="option_group.sticky_resources" addon_id="CnXFans/StickyResources" version_id="1000000" version_string="1.0.0"><![CDATA[Stiky resource]]></phrase>
   <phrase title="option_group.tagging" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Content tagging]]></phrase>
   <phrase title="option_group.tckChangeContentOwner" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Change content owner]]></phrase>
   <phrase title="option_group.thCovers" addon_id="ThemeHouse/Covers" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[[TH] Covers]]></phrase>
@@ -13161,7 +13161,7 @@ Callback arguments:
   <phrase title="permission.klEM_klEMUseGoogleFonts" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Use google webfonts]]></phrase>
   <phrase title="permission.klEM_maxEmotes" addon_id="KL/EditorManager" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[Max. custom emote count]]></phrase>
   <phrase title="permission.mjcCredits_bypassChargeTag" addon_id="MJ/Credits" version_id="1000500" version_string="1.0.5"><![CDATA[可绕过收费标签]]></phrase>
-  <phrase title="permission.mjcCredits_useCredits" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[使用积分]]></phrase>
+  <phrase title="permission.mjcCredits_useCredits" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Use credit]]></phrase>
   <phrase title="permission.mjcCredits_viewHidden" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[查看隐藏的交易]]></phrase>
   <phrase title="permission.mjcCredits_viewOthers" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[查看其他人的交易]]></phrase>
   <phrase title="permission.profileBanner_allowed" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Upload a profile banner]]></phrase>
@@ -13204,7 +13204,7 @@ Callback arguments:
   <phrase title="permission.resource_manageOthersTagsOwnRes" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage tags by others in own resource]]></phrase>
   <phrase title="permission.resource_manageOwnTeam" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Manage team for own resources]]></phrase>
   <phrase title="permission.resource_mjrcpBypassPurchase" addon_id="MJ/ResourceCreditsPayment" version_id="1000131" version_string="1.0.1"><![CDATA[免费下载付费资源]]></phrase>
-  <phrase title="permission.resource_mjrcpSellResource" addon_id="MJ/ResourceCreditsPayment" version_id="1000131" version_string="1.0.1"><![CDATA[使用积分出售资源]]></phrase>
+  <phrase title="permission.resource_mjrcpSellResource" addon_id="MJ/ResourceCreditsPayment" version_id="1000131" version_string="1.0.1"><![CDATA[Sell the resource with credit]></phrase>
   <phrase title="permission.resource_rate" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rate resources]]></phrase>
   <phrase title="permission.resource_react" addon_id="XFRM" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[React to resources/updates]]></phrase>
   <phrase title="permission.resource_reassign" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Reassign resources]]></phrase>
