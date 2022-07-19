@@ -10691,7 +10691,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_send_alert" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Send alert]]></phrase>
   <phrase title="mjc_send_credit" addon_id="MJ/Credits" version_id="1010700" version_string="1.1.7"><![CDATA[Transfer]]></phrase>
   <phrase title="mjc_send_credits" addon_id="MJ/Credits" version_id="1010700" version_string="1.1.7"><![CDATA[Transfer]]></phrase>
-  <phrase title="mjc_send_red_envelope" addon_id="MJ/Credits" version_id="1010300" version_string="1.1.3"><![CDATA[发红包给]]></phrase>
+  <phrase title="mjc_send_red_envelope" addon_id="MJ/Credits" version_id="1010300" version_string="1.1.3"><![CDATA[Give a red envelope to]]></phrase>
   <phrase title="mjc_sender" addon_id="MJ/Credits" version_id="1010700" version_string="1.1.7"><![CDATA[Sender]]></phrase>
   <phrase title="mjc_source_currency" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[源币种]]></phrase>
   <phrase title="mjc_specific_forums_this_event_can_trigger_in" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[此事件可以触发的特定版面]]></phrase>
@@ -11126,7 +11126,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="nav.defaultRegister" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Register]]></phrase>
   <phrase title="nav.defaultYourAccount" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Your account]]></phrase>
   <phrase title="nav.defaultYourProfile" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Your profile]]></phrase>
-  <phrase title="nav.diamond_checkout" addon_id="" version_id="0" version_string=""><![CDATA[购物车]]></phrase>
+  <phrase title="nav.diamond_checkout" addon_id="" version_id="0" version_string=""><![CDATA[Cart]]></phrase>
   <phrase title="nav.donate" addon_id="" version_id="0" version_string=""><![CDATA[Donate us]]></phrase>
   <phrase title="nav.findThreads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Find threads]]></phrase>
   <phrase title="nav.forumList" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum list]]></phrase>
@@ -11156,7 +11156,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="nav.siropuAdsManagerCreate" addon_id="Siropu/AdsManager" version_id="1" version_string="2.0.0"><![CDATA[Create Ad]]></phrase>
   <phrase title="nav.siropuAdsManagerInvoices" addon_id="Siropu/AdsManager" version_id="1" version_string="2.0.0"><![CDATA[Your Invoices]]></phrase>
   <phrase title="nav.siropuReferralContests" addon_id="Siropu/ReferralContests" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Referral Contests]]></phrase>
-  <phrase title="nav.toolcart" addon_id="" version_id="0" version_string=""><![CDATA[购物车]]></phrase>
+  <phrase title="nav.toolcart" addon_id="" version_id="0" version_string=""><![CDATA[Tool cart]]></phrase>
   <phrase title="nav.unansweredThreads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unanswered threads]]></phrase>
   <phrase title="nav.watched" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Watched]]></phrase>
   <phrase title="nav.watchedForums" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Watched forums]]></phrase>
@@ -17961,8 +17961,8 @@ Please confirm that you are moving the thread to the correct forum.]]></phrase>
   <phrase title="trophy_title.27" addon_id="" version_id="0" version_string=""><![CDATA[Resource producer]]></phrase>
   <phrase title="trophy_title.28" addon_id="" version_id="0" version_string=""><![CDATA[Long time no see]]></phrase>
   <phrase title="trophy_title.29" addon_id="" version_id="0" version_string=""><![CDATA[Popular star]]></phrase>
-  <phrase title="trophy_title.3" addon_id="" version_id="0" version_string=""><![CDATA[停不下来了！]]></phrase>
-  <phrase title="trophy_title.30" addon_id="" version_id="0" version_string=""><![CDATA[乐于助人]]></phrase>
+  <phrase title="trophy_title.3" addon_id="" version_id="0" version_string=""><![CDATA[Can't stop！]]></phrase>
+  <phrase title="trophy_title.30" addon_id="" version_id="0" version_string=""><![CDATA[Ready to help others]]></phrase>
   <phrase title="trophy_title.6" addon_id="" version_id="0" version_string=""><![CDATA[Like you very much~]]></phrase>
   <phrase title="trophy_title.7" addon_id="" version_id="0" version_string=""><![CDATA[Quite popular!]]></phrase>
   <phrase title="trophy_title.8" addon_id="" version_id="0" version_string=""><![CDATA[Popular star~]]></phrase>
