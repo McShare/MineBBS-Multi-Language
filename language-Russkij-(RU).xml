@@ -1140,7 +1140,7 @@ If you have a valid license, please <a href="admin.php?add-ons/" rel="nofollow" 
   <phrase title="audfeeds_feed_title.2" addon_id="" version_id="0" version_string=""><![CDATA[道具]]></phrase>
   <phrase title="audfeeds_feed_title.3" addon_id="" version_id="0" version_string=""><![CDATA[Trade posts]]></phrase>
   <phrase title="audfeeds_feed_title.4" addon_id="" version_id="0" version_string=""><![CDATA[Social]]></phrase>
-  <phrase title="audfeeds_feed_title.5" addon_id="" version_id="0" version_string=""><![CDATA[资源]]></phrase>
+  <phrase title="audfeeds_feed_title.5" addon_id="" version_id="0" version_string=""><![CDATA[ресурс]]></phrase>
   <phrase title="audfeeds_feed_title.6" addon_id="" version_id="0" version_string=""><![CDATA[Forum list]]></phrase>
   <phrase title="audfeeds_feed_title.7" addon_id="" version_id="0" version_string=""><![CDATA[Following]]></phrase>
   <phrase title="audfeeds_feed_title.8" addon_id="" version_id="0" version_string=""><![CDATA[Latest activity]]></phrase>
@@ -1224,7 +1224,7 @@ If you have a valid license, please <a href="admin.php?add-ons/" rel="nofollow" 
   <phrase title="audfeeds_set_default_feed" addon_id="Audentio/Feeds" version_id="1020391" version_string="1.2.3 Patch Level 1"><![CDATA[Set default feed]]></phrase>
   <phrase title="audfeeds_show_in_feed_list" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Show in feed list]]></phrase>
   <phrase title="audfeeds_show_in_tab_bar" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Show in tab bar]]></phrase>
-  <phrase title="audfeeds_sidebar" addon_id="Audentio/Feeds" version_id="1010152" version_string="1.1.1 Release Candidate 2"><![CDATA[Sidebar]]></phrase>
+  <phrase title="audfeeds_sidebar" addon_id="Audentio/Feeds" version_id="1021091" version_string="1.2.10 Patch Level 1"><![CDATA[Боковая панель]]></phrase>
   <phrase title="audfeeds_sidenav" addon_id="Audentio/Feeds" version_id="1010152" version_string="1.1.1 Release Candidate 2"><![CDATA[Sidenav]]></phrase>
   <phrase title="audfeeds_sort.audfeeds_promotion_date" addon_id="Audentio/Feeds" version_id="1020170" version_string="1.2.1"><![CDATA[Promotion date]]></phrase>
   <phrase title="audfeeds_sort.audfeeds_trending_score" addon_id="Audentio/Feeds" version_id="1020170" version_string="1.2.1"><![CDATA[Trending score]]></phrase>
@@ -10595,9 +10595,9 @@ Multiple styles can be combined.
   <phrase title="mjc_currency_desc.5" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_currency_desc.6" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_currency_limit" addon_id="MJ/Credits" version_id="1000200" version_string="1.0.2"><![CDATA[货币限制]]></phrase>
-  <phrase title="mjc_currency_title.1" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[金粒]]></phrase>
-  <phrase title="mjc_currency_title.2" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[钻石]]></phrase>
-  <phrase title="mjc_currency_title.3" addon_id="" version_id="0" version_string=""><![CDATA[金粒]]></phrase>
+  <phrase title="mjc_currency_title.1" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[Ким таблетк]]></phrase>
+  <phrase title="mjc_currency_title.2" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[бриллиант]]></phrase>
+  <phrase title="mjc_currency_title.3" addon_id="" version_id="0" version_string=""><![CDATA[Ким таблетк]]></phrase>
   <phrase title="mjc_currency_title.4" addon_id="" version_id="0" version_string=""><![CDATA[钻石]]></phrase>
   <phrase title="mjc_currency_title.5" addon_id="" version_id="0" version_string=""><![CDATA[测试]]></phrase>
   <phrase title="mjc_daily_statistics" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[每日统计]]></phrase>
@@ -10679,7 +10679,7 @@ Multiple styles can be combined.
   <phrase title="mjc_event_def_desc.follower_receive" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[会员有一个新的关注者。]]></phrase>
   <phrase title="mjc_event_def_desc.mjrcp_buy_resource" addon_id="MJ/ResourceCreditsPayment" version_id="1000031" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_event_def_desc.mjrcp_sell_resource" addon_id="MJ/ResourceCreditsPayment" version_id="1000031" version_string="1.0.0"><![CDATA[]]></phrase>
-  <phrase title="mjc_event_def_desc.offerReward" addon_id="MJ/Credits" version_id="1020235" version_string="1.2.2"><![CDATA[发布问题主题时悬赏其他用户帮忙解决问题]]></phrase>
+  <phrase title="mjc_event_def_desc.offerReward" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[За публикацию темы проблемы назначена награда другим пользователям за помощь в решении проблемы]]></phrase>
   <phrase title="mjc_event_def_desc.payment" addon_id="MJ/Credits" version_id="1010600" version_string="1.1.6"><![CDATA[]]></phrase>
   <phrase title="mjc_event_def_desc.poll_create" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_event_def_desc.poll_delete" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[会员的投票调查贴被删除]]></phrase>
@@ -11313,7 +11313,7 @@ Multiple styles can be combined.
   <phrase title="names_and_surnames_by_themselves_easy_to_guess" addon_id="XF" version_id="2010051" version_string="2.1.0 Release Candidate 1"><![CDATA[Имена и фамилии легко угадать.]]></phrase>
   <phrase title="native_device_emoji_where_supported" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[Нативные эмодзи устройства (где поддерживается)]]></phrase>
   <phrase title="nav._default" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[По умолчанию (без выбранной вкладки)]]></phrase>
-  <phrase title="nav.activities" addon_id="" version_id="0" version_string=""><![CDATA[动态广场]]></phrase>
+  <phrase title="nav.activities" addon_id="" version_id="0" version_string=""><![CDATA[общество]]></phrase>
   <phrase title="nav.addonFlarePubAwards" addon_id="AddonFlare/AwardSystem" version_id="1000070" version_string="1.0.0"><![CDATA[Awards]]></phrase>
   <phrase title="nav.af_as_my_awards" addon_id="AddonFlare/AwardSystem" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Your Awards]]></phrase>
   <phrase title="nav.af_as_pending_awards" addon_id="AddonFlare/AwardSystem" version_id="1000370" version_string="1.0.3"><![CDATA[Pending Awards]]></phrase>
@@ -11325,7 +11325,7 @@ Multiple styles can be combined.
   <phrase title="nav.audfeeds_feed_2" addon_id="" version_id="0" version_string=""><![CDATA[道具]]></phrase>
   <phrase title="nav.audfeeds_feed_3" addon_id="" version_id="0" version_string=""><![CDATA[Trade posts]]></phrase>
   <phrase title="nav.audfeeds_feed_4" addon_id="" version_id="0" version_string=""><![CDATA[Social]]></phrase>
-  <phrase title="nav.audfeeds_feed_5" addon_id="" version_id="0" version_string=""><![CDATA[资源]]></phrase>
+  <phrase title="nav.audfeeds_feed_5" addon_id="" version_id="0" version_string=""><![CDATA[ресурс]]></phrase>
   <phrase title="nav.audfeeds_feed_6" addon_id="" version_id="0" version_string=""><![CDATA[Forum list]]></phrase>
   <phrase title="nav.audfeeds_feed_7" addon_id="" version_id="0" version_string=""><![CDATA[Following]]></phrase>
   <phrase title="nav.audfeeds_feed_8" addon_id="" version_id="0" version_string=""><![CDATA[Latest activity]]></phrase>
@@ -11359,14 +11359,14 @@ Multiple styles can be combined.
   <phrase title="nav.defaultYourAccount" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Ваша учётная запись]]></phrase>
   <phrase title="nav.defaultYourProfile" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Ваш профиль]]></phrase>
   <phrase title="nav.diamond_checkout" addon_id="" version_id="0" version_string=""><![CDATA[购物车]]></phrase>
-  <phrase title="nav.donate" addon_id="" version_id="0" version_string=""><![CDATA[捐赠我们]]></phrase>
+  <phrase title="nav.donate" addon_id="" version_id="0" version_string=""><![CDATA[жертвовать]]></phrase>
   <phrase title="nav.findThreads" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Поиск тем]]></phrase>
   <phrase title="nav.forumList" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Список разделов]]></phrase>
   <phrase title="nav.forums" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Форум]]></phrase>
   <phrase title="nav.home" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Главная]]></phrase>
   <phrase title="nav.latestActivity" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Недавняя активность]]></phrase>
   <phrase title="nav.markForumsRead" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Отметить разделы прочитанными]]></phrase>
-  <phrase title="nav.mc_download" addon_id="" version_id="0" version_string=""><![CDATA[MC下载]]></phrase>
+  <phrase title="nav.mc_download" addon_id="" version_id="0" version_string=""><![CDATA[Скачать Minecraft]]></phrase>
   <phrase title="nav.mcnav" addon_id="" version_id="0" version_string=""><![CDATA[MCNav]]></phrase>
   <phrase title="nav.members" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Пользователи]]></phrase>
   <phrase title="nav.mjcCredits" addon_id="MJ/Credits" version_id="1020501" version_string="1.2.5"><![CDATA[积分]]></phrase>
@@ -11933,7 +11933,7 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.facebookLike" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[Включить кнопку "Поделиться на Facebook"]]></phrase>
   <phrase title="option.floodCheckLength" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Минимальный интервал между размещением двух сообщений]]></phrase>
   <phrase title="option.floodCheckLengthDiscussion" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[Минимальный интервал между обсуждениями]]></phrase>
-  <phrase title="option.forceThreadType" addon_id="CnXFans/QuickPrefixChange" version_id="1000000" version_string="1.0.0"><![CDATA[强制主题类型为问题主题]]></phrase>
+  <phrase title="option.forceThreadType" addon_id="CnXFans/QuickPrefixChange" version_id="1000100" version_string="1.0.1"><![CDATA[Обязательный тип темы для вопросов]]></phrase>
   <phrase title="option.forumsDefaultPage" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Страница форума по умолчанию]]></phrase>
   <phrase title="option.geoLocationUrl" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[URL-адрес информации о местоположении]]></phrase>
   <phrase title="option.giphy" addon_id="XF" version_id="2020070" version_string="2.2.0"><![CDATA[Включить поддержку GIPHY]]></phrase>
@@ -12734,7 +12734,7 @@ $(this).closest('dd').find('input').val(d.getTime() / 1000|0);
   <phrase title="option_explain.privacyPolicyUrl" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[Указанная здесь ссылка будет показана в нижней части сайта, и пользователи должны будут согласиться с политикой при регистрации.]]></phrase>
   <phrase title="option_explain.profilePostMaxLength" addon_id="XF" version_id="2010051" version_string="2.1.0 Release Candidate 1"><![CDATA[Максимальное количество символов в сообщении профиля или комментарии. Используйте 0 (ноль) для снятия ограничений.]]></phrase>
   <phrase title="option_explain.pushKeysVAPID" addon_id="XF" version_id="2010051" version_string="2.1.0 Release Candidate 1"><![CDATA[Этот параметр не может быть изменён вручную. Он редактируется только с помощью опции "enablePush".]]></phrase>
-  <phrase title="option_explain.quickPrefixChangeSelect" addon_id="CnXFans/QuickPrefixChange" version_id="1000100" version_string="1.0.0"><![CDATA[此选项允许您为已解决问题设置的默认前缀。]]></phrase>
+  <phrase title="option_explain.quickPrefixChangeSelect" addon_id="CnXFans/QuickPrefixChange" version_id="1000100" version_string="1.0.1"><![CDATA[Этот вариант позволяет установить по умолчанию префикс для решения проблемы.]]></phrase>
   <phrase title="option_explain.quickPrefixChangeUnSelect" addon_id="CnXFans/QuickPrefixChange" version_id="1000100" version_string="1.0.0"><![CDATA[此选项允许您为撤销已解决问题设置的默认前缀。]]></phrase>
   <phrase title="option_explain.readMarkingDataLifetime" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Срок в днях, в течение которого информация о прочитанных пользователями темах и категориях будет храниться в базе данных. Данные старше этого срока будут отображаться, как прочитанные.]]></phrase>
   <phrase title="option_explain.redditShare" addon_id="XF" version_id="2010571" version_string="2.1.5"><![CDATA[Эта кнопка позволит Вашим пользователям делиться контентом через сервис Reddit.]]></phrase>
@@ -14165,7 +14165,7 @@ Before your content can be posted, please take a few moments to login to your us
   <phrase title="reaction_score_between" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[Количество реакций между]]></phrase>
   <phrase title="reaction_sprite_params_explain" addon_id="XF" version_id="2010051" version_string="2.1.0 Release Candidate 1"><![CDATA[CSS будет сгенерирован автоматически для спрайтов малого и среднего размера на основе указанных выше значений. Рекомендуется использовать 32px на 32px.]]></phrase>
   <phrase title="reaction_text_color_explain" addon_id="XF" version_id="2010571" version_string="2.1.5"><![CDATA[Выберите цвет текста, который будет использоваться для этой реакции. Если Вы не хотите связывать определённый цвет с этой реакцией, оставьте поле пустым.<br /><br /><b>Примечание: цвета палитры могут отображаться по-разному в зависимости от выбранного стиля.</b>]]></phrase>
-  <phrase title="reaction_title.1" addon_id="" version_id="0" version_string=""><![CDATA[喜欢]]></phrase>
+  <phrase title="reaction_title.1" addon_id="" version_id="0" version_string=""><![CDATA[нрав]]></phrase>
   <phrase title="reaction_title.2" addon_id="" version_id="0" version_string=""><![CDATA[超爱]]></phrase>
   <phrase title="reaction_title.3" addon_id="" version_id="0" version_string=""><![CDATA[哈哈]]></phrase>
   <phrase title="reaction_title.4" addon_id="" version_id="0" version_string=""><![CDATA[Emm]]></phrase>
@@ -14420,7 +14420,7 @@ Before your content can be posted, please take a few moments to login to your us
   <phrase title="resolve_using_parent_version" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Решить, используя родительскую версию]]></phrase>
   <phrase title="resource_prefix.22" addon_id="" version_id="0" version_string=""><![CDATA[插件]]></phrase>
   <phrase title="resource_prefix.23" addon_id="" version_id="0" version_string=""><![CDATA[内核]]></phrase>
-  <phrase title="resource_prefix.24" addon_id="" version_id="0" version_string=""><![CDATA[软件]]></phrase>
+  <phrase title="resource_prefix.24" addon_id="" version_id="0" version_string=""><![CDATA[Программное обеспечение]]></phrase>
   <phrase title="resource_prefix.25" addon_id="" version_id="0" version_string=""><![CDATA[MC插件]]></phrase>
   <phrase title="resource_prefix.26" addon_id="" version_id="0" version_string=""><![CDATA[单机存档]]></phrase>
   <phrase title="resource_prefix.28" addon_id="" version_id="0" version_string=""><![CDATA[Mod模组]]></phrase>
@@ -14432,7 +14432,7 @@ Before your content can be posted, please take a few moments to login to your us
   <phrase title="resource_prefix.34" addon_id="" version_id="0" version_string=""><![CDATA[加载器]]></phrase>
   <phrase title="resource_prefix.36" addon_id="" version_id="0" version_string=""><![CDATA[其他]]></phrase>
   <phrase title="resource_prefix.37" addon_id="" version_id="0" version_string=""><![CDATA[源码]]></phrase>
-  <phrase title="resource_prefix.38" addon_id="" version_id="0" version_string=""><![CDATA[材质]]></phrase>
+  <phrase title="resource_prefix.38" addon_id="" version_id="0" version_string=""><![CDATA[Текстура]]></phrase>
   <phrase title="resource_prefix.39" addon_id="" version_id="0" version_string=""><![CDATA[光影]]></phrase>
   <phrase title="resource_prefix.40" addon_id="" version_id="0" version_string=""><![CDATA[皮肤]]></phrase>
   <phrase title="resource_prefix.41" addon_id="" version_id="0" version_string=""><![CDATA[Add-on]]></phrase>
@@ -14440,11 +14440,11 @@ Before your content can be posted, please take a few moments to login to your us
   <phrase title="resource_prefix.43" addon_id="" version_id="0" version_string=""><![CDATA[ModPE]]></phrase>
   <phrase title="resource_prefix.44" addon_id="" version_id="0" version_string=""><![CDATA[JE插件]]></phrase>
   <phrase title="resource_prefix.46" addon_id="" version_id="0" version_string=""><![CDATA[CSR]]></phrase>
-  <phrase title="resource_prefix.47" addon_id="" version_id="0" version_string=""><![CDATA[JE材质]]></phrase>
+  <phrase title="resource_prefix.47" addon_id="" version_id="0" version_string=""><![CDATA[Java текстура]]></phrase>
   <phrase title="resource_prefix.48" addon_id="" version_id="0" version_string=""><![CDATA[JE光影]]></phrase>
   <phrase title="resource_prefix.49" addon_id="" version_id="0" version_string=""><![CDATA[JE存档]]></phrase>
   <phrase title="resource_prefix.50" addon_id="" version_id="0" version_string=""><![CDATA[JE模组]]></phrase>
-  <phrase title="resource_prefix.51" addon_id="" version_id="0" version_string=""><![CDATA[整合包]]></phrase>
+  <phrase title="resource_prefix.51" addon_id="" version_id="0" version_string=""><![CDATA[Интегральный пакет]]></phrase>
   <phrase title="resource_prefix.52" addon_id="" version_id="0" version_string=""><![CDATA[JE核心]]></phrase>
   <phrase title="resource_prefix.54" addon_id="" version_id="0" version_string=""><![CDATA[未分类]]></phrase>
   <phrase title="resource_prefix.55" addon_id="" version_id="0" version_string=""><![CDATA[PYR]]></phrase>
@@ -14460,8 +14460,8 @@ Before your content can be posted, please take a few moments to login to your us
   <phrase title="resource_prefix.65" addon_id="" version_id="0" version_string=""><![CDATA[CSR-NJSR]]></phrase>
   <phrase title="resource_prefix.66" addon_id="" version_id="0" version_string=""><![CDATA[BDXCore]]></phrase>
   <phrase title="resource_prefix.67" addon_id="" version_id="0" version_string=""><![CDATA[LLSE]]></phrase>
-  <phrase title="resource_prefix.68" addon_id="" version_id="0" version_string=""><![CDATA[整合包]]></phrase>
-  <phrase title="resource_prefix.69" addon_id="" version_id="0" version_string=""><![CDATA[整合包]]></phrase>
+  <phrase title="resource_prefix.68" addon_id="" version_id="0" version_string=""><![CDATA[Интегральный пакет]]></phrase>
+  <phrase title="resource_prefix.69" addon_id="" version_id="0" version_string=""><![CDATA[Интегральный пакет]]></phrase>
   <phrase title="resource_prefix.70" addon_id="" version_id="0" version_string=""><![CDATA[单机资源]]></phrase>
   <phrase title="resource_prefix.71" addon_id="" version_id="0" version_string=""><![CDATA[Yuuka]]></phrase>
   <phrase title="resource_prefix.72" addon_id="" version_id="0" version_string=""><![CDATA[Skript]]></phrase>
@@ -14514,7 +14514,7 @@ Before your content can be posted, please take a few moments to login to your us
   <phrase title="resource_prefix_desc.71" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_desc.72" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_desc.73" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="resource_prefix_group.10" addon_id="" version_id="0" version_string=""><![CDATA[材质皮肤]]></phrase>
+  <phrase title="resource_prefix_group.10" addon_id="" version_id="0" version_string=""><![CDATA[Текстура и кожа]]></phrase>
   <phrase title="resource_prefix_group.11" addon_id="" version_id="0" version_string=""><![CDATA[MC插件]]></phrase>
   <phrase title="resource_prefix_group.12" addon_id="" version_id="0" version_string=""><![CDATA[BDS]]></phrase>
   <phrase title="resource_prefix_group.13" addon_id="" version_id="0" version_string=""><![CDATA[Java]]></phrase>
@@ -16094,8 +16094,8 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="status_update_by_x" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Обновление статуса {username}]]></phrase>
   <phrase title="stay_logged_in" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[<!-- j_stay_logged_in -->Оставаться в системе]]></phrase>
   <phrase title="step_x_of_y" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Шаг {current} из {total}]]></phrase>
-  <phrase title="stick_resource" addon_id="CnXFans/StickyResources" version_id="1000070" version_string="1.0.0"><![CDATA[置顶资源]]></phrase>
-  <phrase title="stick_resources" addon_id="CnXFans/StickyResources" version_id="1000070" version_string="1.0.0"><![CDATA[置顶资源]]></phrase>
+  <phrase title="stick_resource" addon_id="CnXFans/StickyResources" version_id="1000000" version_string="1.0.0"><![CDATA[Ресурсы для опоры]]></phrase>
+  <phrase title="stick_resources" addon_id="CnXFans/StickyResources" version_id="1000000" version_string="1.0.0"><![CDATA[Ресурсы для опоры]]></phrase>
   <phrase title="stick_thread" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Закрепить тему]]></phrase>
   <phrase title="stick_threads" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Закрепить темы]]></phrase>
   <phrase title="sticky" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Закреплено]]></phrase>
@@ -17386,19 +17386,19 @@ For example: if you set "orange" as a class on a category, each forum within tha
   <phrase title="th_original_size_imageOptimizer" addon_id="ThemeHouse/ImageOptimizer" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Original size]]></phrase>
   <phrase title="th_page_icon_class_nodes" addon_id="ThemeHouse/Nodes" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Page icon class]]></phrase>
   <phrase title="th_page_width_uix" addon_id="ThemeHouse/UIX" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Page width]]></phrase>
-  <phrase title="th_profile_uix" addon_id="ThemeHouse/UIX" version_id="2000591" version_string="2.0.5 Patch Level 1"><![CDATA[Profile]]></phrase>
+  <phrase title="th_profile_uix" addon_id="ThemeHouse/UIX" version_id="2020092" version_string="2.2.0 Patch Level 2"><![CDATA[Главная страница]]></phrase>
   <phrase title="th_rebuild_cache_nodes" addon_id="ThemeHouse/Nodes" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Rebuild cache]]></phrase>
   <phrase title="th_retain_text_styling_nodes" addon_id="ThemeHouse/Nodes" version_id="1000211" version_string="1.0.2 Alpha 1"><![CDATA[Retain text styling]]></phrase>
   <phrase title="th_savings_imageOptimizer" addon_id="ThemeHouse/ImageOptimizer" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Savings]]></phrase>
   <phrase title="th_search_forum_icon_class_nodes" addon_id="ThemeHouse/Nodes" version_id="1010094" version_string="1.1.0 Patch Level 4"><![CDATA[Search forum icon class]]></phrase>
   <phrase title="th_separator_max_width_nodes" addon_id="ThemeHouse/Nodes" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Separator max width]]></phrase>
   <phrase title="th_separator_type_nodes" addon_id="ThemeHouse/Nodes" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Separator type]]></phrase>
-  <phrase title="th_sidebar_uix" addon_id="ThemeHouse/UIX" version_id="2000591" version_string="2.0.5 Patch Level 1"><![CDATA[Sidebar]]></phrase>
+  <phrase title="th_sidebar_uix" addon_id="ThemeHouse/UIX" version_id="2020092" version_string="2.2.0 Patch Level 2"><![CDATA[Боковая панель]]></phrase>
   <phrase title="th_sticky_threads" addon_id="ThemeHouse/UIX" version_id="2000892" version_string="2.0.8 Patch Level 2"><![CDATA[Sticky threads]]></phrase>
   <phrase title="th_style_preferences_uix" addon_id="ThemeHouse/UIX" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Style preferences]]></phrase>
   <phrase title="th_styling_nodes" addon_id="ThemeHouse/Nodes" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Styling]]></phrase>
   <phrase title="th_themehouse_styles_uix" addon_id="ThemeHouse/UIX" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[ThemeHouse Styles]]></phrase>
-  <phrase title="th_toggle_sidebar" addon_id="ThemeHouse/UIX" version_id="2020070" version_string="2.2.0"><![CDATA[Toggle sidebar]]></phrase>
+  <phrase title="th_toggle_sidebar" addon_id="ThemeHouse/UIX" version_id="2020092" version_string="2.2.0 Patch Level 2"><![CDATA[Складная боковая решётка]]></phrase>
   <phrase title="th_toggle_width_uix" addon_id="ThemeHouse/UIX" version_id="2000170" version_string="2.0.1"><![CDATA[Toggle width]]></phrase>
   <phrase title="th_uix_addon_prerelease_uix" addon_id="ThemeHouse/UIX" version_id="2000170" version_string="2.0.1"><![CDATA[You are running a prerelease version of the UI.X add-on, some bugs and issues may be expected.]]></phrase>
   <phrase title="th_uix_addon_requires_update_uix" addon_id="ThemeHouse/UIX" version_id="2000170" version_string="2.0.1"><![CDATA[A new version for the UI.X add-on has been released, <a href="https://www.themehouse.com/xenforo/2/addons/uix-addon">Click here</a> to update.]]></phrase>
@@ -17885,7 +17885,7 @@ For example: if you set "orange" as a class on a category, each forum within tha
 Подтвердите, что Вы перемещаете тему в корректный раздел.]]></phrase>
   <phrase title="thread_polls" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Опросы в темах]]></phrase>
   <phrase title="thread_prefix.13" addon_id="" version_id="0" version_string=""><![CDATA[其他]]></phrase>
-  <phrase title="thread_prefix.20" addon_id="" version_id="0" version_string=""><![CDATA[资源]]></phrase>
+  <phrase title="thread_prefix.20" addon_id="" version_id="0" version_string=""><![CDATA[ресурс]]></phrase>
   <phrase title="thread_prefix.23" addon_id="" version_id="0" version_string=""><![CDATA[1.1.x]]></phrase>
   <phrase title="thread_prefix.26" addon_id="" version_id="0" version_string=""><![CDATA[многовариантность]]></phrase>
   <phrase title="thread_prefix.30" addon_id="" version_id="0" version_string=""><![CDATA[1.14.x]]></phrase>
@@ -17895,7 +17895,7 @@ For example: if you set "orange" as a class on a category, each forum within tha
   <phrase title="thread_prefix.35" addon_id="" version_id="0" version_string=""><![CDATA[Java服]]></phrase>
   <phrase title="thread_prefix.36" addon_id="" version_id="0" version_string=""><![CDATA[版规]]></phrase>
   <phrase title="thread_prefix.37" addon_id="" version_id="0" version_string=""><![CDATA[事项决策]]></phrase>
-  <phrase title="thread_prefix.38" addon_id="" version_id="0" version_string=""><![CDATA[讨论]]></phrase>
+  <phrase title="thread_prefix.38" addon_id="" version_id="0" version_string=""><![CDATA[обсужда]]></phrase>
   <phrase title="thread_prefix.39" addon_id="" version_id="0" version_string=""><![CDATA[1.17.x]]></phrase>
   <phrase title="thread_prefix.40" addon_id="" version_id="0" version_string=""><![CDATA[Multicraft]]></phrase>
   <phrase title="thread_prefix.41" addon_id="" version_id="0" version_string=""><![CDATA[MCSM]]></phrase>
@@ -17906,7 +17906,7 @@ For example: if you set "orange" as a class on a category, each forum within tha
   <phrase title="thread_prefix.47" addon_id="" version_id="0" version_string=""><![CDATA[1.11.x]]></phrase>
   <phrase title="thread_prefix.48" addon_id="" version_id="0" version_string=""><![CDATA[1.12.x]]></phrase>
   <phrase title="thread_prefix.49" addon_id="" version_id="0" version_string=""><![CDATA[DTconsole]]></phrase>
-  <phrase title="thread_prefix.50" addon_id="" version_id="0" version_string=""><![CDATA[问题]]></phrase>
+  <phrase title="thread_prefix.50" addon_id="" version_id="0" version_string=""><![CDATA[вопрос]]></phrase>
   <phrase title="thread_prefix.51" addon_id="" version_id="0" version_string=""><![CDATA[Java]]></phrase>
   <phrase title="thread_prefix.52" addon_id="" version_id="0" version_string=""><![CDATA[PHP]]></phrase>
   <phrase title="thread_prefix.53" addon_id="" version_id="0" version_string=""><![CDATA[с языком]]></phrase>
@@ -17918,29 +17918,29 @@ For example: if you set "orange" as a class on a category, each forum within tha
   <phrase title="thread_prefix.59" addon_id="" version_id="0" version_string=""><![CDATA[Geyser]]></phrase>
   <phrase title="thread_prefix.60" addon_id="" version_id="0" version_string=""><![CDATA[DragonProxy]]></phrase>
   <phrase title="thread_prefix.61" addon_id="" version_id="0" version_string=""><![CDATA[WaterDog]]></phrase>
-  <phrase title="thread_prefix.62" addon_id="" version_id="0" version_string=""><![CDATA[公告]]></phrase>
+  <phrase title="thread_prefix.62" addon_id="" version_id="0" version_string=""><![CDATA[объявлен]]></phrase>
   <phrase title="thread_prefix.63" addon_id="" version_id="0" version_string=""><![CDATA[导航]]></phrase>
   <phrase title="thread_prefix.64" addon_id="" version_id="0" version_string=""><![CDATA[1.16.x]]></phrase>
   <phrase title="thread_prefix.65" addon_id="" version_id="0" version_string=""><![CDATA[核心]]></phrase>
   <phrase title="thread_prefix.66" addon_id="" version_id="0" version_string=""><![CDATA[插件]]></phrase>
-  <phrase title="thread_prefix.67" addon_id="" version_id="0" version_string=""><![CDATA[整合包]]></phrase>
+  <phrase title="thread_prefix.67" addon_id="" version_id="0" version_string=""><![CDATA[Интегральный пакет]]></phrase>
   <phrase title="thread_prefix.68" addon_id="" version_id="0" version_string=""><![CDATA[单机资源]]></phrase>
   <phrase title="thread_prefix.69" addon_id="" version_id="0" version_string=""><![CDATA[存档]]></phrase>
-  <phrase title="thread_prefix.70" addon_id="" version_id="0" version_string=""><![CDATA[光影材质]]></phrase>
+  <phrase title="thread_prefix.70" addon_id="" version_id="0" version_string=""><![CDATA[Цвет шейдер]]></phrase>
   <phrase title="thread_prefix.71" addon_id="" version_id="0" version_string=""><![CDATA[Mod/整合包]]></phrase>
-  <phrase title="thread_prefix.72" addon_id="" version_id="0" version_string=""><![CDATA[软件]]></phrase>
+  <phrase title="thread_prefix.72" addon_id="" version_id="0" version_string=""><![CDATA[Программное обеспечение]]></phrase>
   <phrase title="thread_prefix.73" addon_id="" version_id="0" version_string=""><![CDATA[存档]]></phrase>
-  <phrase title="thread_prefix.74" addon_id="" version_id="0" version_string=""><![CDATA[材质皮肤]]></phrase>
+  <phrase title="thread_prefix.74" addon_id="" version_id="0" version_string=""><![CDATA[Текстура и кожа]]></phrase>
   <phrase title="thread_prefix.75" addon_id="" version_id="0" version_string=""><![CDATA[Mod模组]]></phrase>
   <phrase title="thread_prefix.76" addon_id="" version_id="0" version_string=""><![CDATA[已解决]]></phrase>
-  <phrase title="thread_prefix.77" addon_id="" version_id="0" version_string=""><![CDATA[意见建议]]></phrase>
+  <phrase title="thread_prefix.77" addon_id="" version_id="0" version_string=""><![CDATA[Мнение и предложение]]></phrase>
   <phrase title="thread_prefix.79" addon_id="" version_id="0" version_string=""><![CDATA[我和MC那点事]]></phrase>
   <phrase title="thread_prefix.8" addon_id="" version_id="0" version_string=""><![CDATA[教程]]></phrase>
-  <phrase title="thread_prefix.80" addon_id="" version_id="0" version_string=""><![CDATA[闲聊]]></phrase>
+  <phrase title="thread_prefix.80" addon_id="" version_id="0" version_string=""><![CDATA[Светск бесед]]></phrase>
   <phrase title="thread_prefix.81" addon_id="" version_id="0" version_string=""><![CDATA[1.18.x]]></phrase>
   <phrase title="thread_prefix.82" addon_id="" version_id="0" version_string=""><![CDATA[已解决]]></phrase>
   <phrase title="thread_prefix.83" addon_id="" version_id="0" version_string=""><![CDATA[已关闭]]></phrase>
-  <phrase title="thread_prefix.84" addon_id="" version_id="0" version_string=""><![CDATA[举报投诉]]></phrase>
+  <phrase title="thread_prefix.84" addon_id="" version_id="0" version_string=""><![CDATA[Подать жалобу]]></phrase>
   <phrase title="thread_prefix.85" addon_id="" version_id="0" version_string=""><![CDATA[1.19.x]]></phrase>
   <phrase title="thread_prefix_desc.13" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_desc.20" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -18071,7 +18071,7 @@ For example: if you set "orange" as a class on a category, each forum within tha
   <phrase title="thread_prefix_help.85" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefixes" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Префиксы тем]]></phrase>
   <phrase title="thread_prompt.1" addon_id="" version_id="0" version_string=""><![CDATA[请输入标题以发布服务器]]></phrase>
-  <phrase title="thread_prompt.2" addon_id="" version_id="0" version_string=""><![CDATA[分享MC资源请前往资源中心噢~]]></phrase>
+  <phrase title="thread_prompt.2" addon_id="" version_id="0" version_string=""><![CDATA[Поделитесь ресурсами клуба, пожалуйста, пройдите в центр ресурсов]]></phrase>
   <phrase title="thread_prompt.default" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Заголовок темы]]></phrase>
   <phrase title="thread_prompt_group.1" addon_id="" version_id="0" version_string=""><![CDATA[服务器]]></phrase>
   <phrase title="thread_prompts" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Подсказки для тем]]></phrase>
@@ -18259,7 +18259,7 @@ For example: if you set "orange" as a class on a category, each forum within tha
   <phrase title="trophy_description.17" addon_id="" version_id="0" version_string=""><![CDATA[您已经注册本站满一年了！]]></phrase>
   <phrase title="trophy_description.18" addon_id="" version_id="0" version_string=""><![CDATA[你已经发送超过了100条消息]]></phrase>
   <phrase title="trophy_description.19" addon_id="" version_id="0" version_string=""><![CDATA[你已经发送超过了500个消息！]]></phrase>
-  <phrase title="trophy_description.2" addon_id="" version_id="0" version_string=""><![CDATA[发送了20条信息，开始喜欢上这里了吗~]]></phrase>
+  <phrase title="trophy_description.2" addon_id="" version_id="0" version_string=""><![CDATA[Отправил 20 сообщений, и тебе здесь нравится~]]></phrase>
   <phrase title="trophy_description.20" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS祝你生日快乐吖~]]></phrase>
   <phrase title="trophy_description.21" addon_id="" version_id="0" version_string=""><![CDATA[注册本站时间达到两年]]></phrase>
   <phrase title="trophy_description.23" addon_id="" version_id="0" version_string=""><![CDATA[累积获得10次点赞]]></phrase>
@@ -18273,7 +18273,7 @@ For example: if you set "orange" as a class on a category, each forum within tha
   <phrase title="trophy_description.30" addon_id="" version_id="0" version_string=""><![CDATA[累计获得10个采纳解答]]></phrase>
   <phrase title="trophy_description.6" addon_id="" version_id="0" version_string=""><![CDATA[你的信息已经被人赞了50次。]]></phrase>
   <phrase title="trophy_description.7" addon_id="" version_id="0" version_string=""><![CDATA[你发布的内容吸引了100个赞。]]></phrase>
-  <phrase title="trophy_description.8" addon_id="" version_id="0" version_string=""><![CDATA[你的内容已经被喜欢250次了。]]></phrase>
+  <phrase title="trophy_description.8" addon_id="" version_id="0" version_string=""><![CDATA[Твой контент уже 250 раз нравился!]]></phrase>
   <phrase title="trophy_description.9" addon_id="" version_id="0" version_string=""><![CDATA[你发布的内容吸引了500个赞。]]></phrase>
   <phrase title="trophy_options" addon_id="XF" version_id="2000033" version_string="2.0.0 Beta 3"><![CDATA[Настройки трофея]]></phrase>
   <phrase title="trophy_points" addon_id="XF" version_id="2000037" version_string="2.0.0 Beta 7"><![CDATA[Баллы]]></phrase>
@@ -18298,10 +18298,10 @@ For example: if you set "orange" as a class on a category, each forum within tha
   <phrase title="trophy_title.29" addon_id="" version_id="0" version_string=""><![CDATA[人气明星！]]></phrase>
   <phrase title="trophy_title.3" addon_id="" version_id="0" version_string=""><![CDATA[停不下来了！]]></phrase>
   <phrase title="trophy_title.30" addon_id="" version_id="0" version_string=""><![CDATA[乐于助人]]></phrase>
-  <phrase title="trophy_title.6" addon_id="" version_id="0" version_string=""><![CDATA[很喜欢你~]]></phrase>
+  <phrase title="trophy_title.6" addon_id="" version_id="0" version_string=""><![CDATA[Ты мне очень нравишься!]]></phrase>
   <phrase title="trophy_title.7" addon_id="" version_id="0" version_string=""><![CDATA[超级受欢迎！]]></phrase>
   <phrase title="trophy_title.8" addon_id="" version_id="0" version_string=""><![CDATA[人气明星~]]></phrase>
-  <phrase title="trophy_title.9" addon_id="" version_id="0" version_string=""><![CDATA[太喜欢这里了~！]]></phrase>
+  <phrase title="trophy_title.9" addon_id="" version_id="0" version_string=""><![CDATA[Мне здесь так нравится!]]></phrase>
   <phrase title="true_if_thread_creator_is_in_one_or_more_of_selected_groups" addon_id="XF" version_id="2020070" version_string="2.2.0"><![CDATA[Соответствие критерию, если автор темы входит в одну или несколько выбранных групп.]]></phrase>
   <phrase title="true_if_thread_creator_is_not_in_any_of_selected_groups" addon_id="XF" version_id="2020070" version_string="2.2.0"><![CDATA[Соответствие критерию, если автор темы не входит ни в одну из выбранных групп.]]></phrase>
   <phrase title="trust_device_desc" addon_id="XF" version_id="2010571" version_string="2.1.5"><![CDATA[Если включить, то Вам больше не придётся выполнять двухфакторную аутентификацию с этого устройства в течение следующих 30 дней.]]></phrase>
@@ -18982,8 +18982,8 @@ Your account's access may be limited based on these actions. Please keep this in
   <phrase title="widget.fhb" addon_id="" version_id="0" version_string=""><![CDATA[Список богачей]]></phrase>
   <phrase title="widget.forum_overview_new_profile_posts" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.forum_statistics" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="widget.friend_link" addon_id="" version_id="0" version_string=""><![CDATA[友情链接]]></phrase>
-  <phrase title="widget.friend_links" addon_id="" version_id="0" version_string=""><![CDATA[友情链接]]></phrase>
+  <phrase title="widget.friend_link" addon_id="" version_id="0" version_string=""><![CDATA[Связь дружбы]]></phrase>
+  <phrase title="widget.friend_links" addon_id="" version_id="0" version_string=""><![CDATA[Связь дружбы]]></phrase>
   <phrase title="widget.good_resources" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.google_adsense" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.google_adsense_bottom" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -19167,7 +19167,7 @@ Your account's access may be limited based on these actions. Please keep this in
   <phrase title="widget_pos.find_threads_sidenav" addon_id="XF" version_id="2010051" version_string="2.1.0 Release Candidate 1"><![CDATA[Поиск тем: боковая навигация]]></phrase>
   <phrase title="widget_pos.forum_list_above_nodes" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Список разделов: Над узлами]]></phrase>
   <phrase title="widget_pos.forum_list_below_nodes" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Список разделов: Под узлами]]></phrase>
-  <phrase title="widget_pos.forum_list_sidebar" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[Список разделов: Боковая панель]]></phrase>
+  <phrase title="widget_pos.forum_list_sidebar" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Список разделов: Боковая панель]]></phrase>
   <phrase title="widget_pos.forum_new_posts_sidebar" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Новые сообщения: боковая навигация]]></phrase>
   <phrase title="widget_pos.forum_overview_bottom" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Список разделов: внизу]]></phrase>
   <phrase title="widget_pos.forum_overview_top" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Список разделов: сверху]]></phrase>
@@ -19812,7 +19812,7 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_your_review_to_resource_x_was_submitted" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Your review to the resource {title} was submitted.]]></phrase>
   <phrase title="xfrm_your_update_x_for_y_was_deleted" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Ваше обновление {update} ресурса {resource} было удалено.]]></phrase>
   <phrase title="xfrm_your_update_x_for_y_was_edited" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[Ваше обновление {update} ресурса {resource} было отредактировано.]]></phrase>
-  <phrase title="xfrmresourcestatistics_resource_statistics" addon_id="Andy/XFRMResourceStatistics" version_id="10" version_string="1.0"><![CDATA[Resource statistics]]></phrase>
+  <phrase title="xfrmresourcestatistics_resource_statistics" addon_id="Andy/XFRMResourceStatistics" version_id="14" version_string="1.4"><![CDATA[Статистика ресурсов]]></phrase>
   <phrase title="xfrmresourcestatistics_total_downloads" addon_id="Andy/XFRMResourceStatistics" version_id="10" version_string="1.0"><![CDATA[Total downloads]]></phrase>
   <phrase title="xfrmresourcestatistics_total_downloads_24_hours" addon_id="Andy/XFRMResourceStatistics" version_id="12" version_string="1.2"><![CDATA[Downloads last 24 hours]]></phrase>
   <phrase title="xfrmresourcestatistics_total_resources" addon_id="Andy/XFRMResourceStatistics" version_id="10" version_string="1.0"><![CDATA[Total resources]]></phrase>
