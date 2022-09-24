@@ -230,6 +230,10 @@
   <phrase title="admin_navigation.apiScopes" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[API scopes]]></phrase>
   <phrase title="admin_navigation.appearance" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Appearance]]></phrase>
   <phrase title="admin_navigation.attachments" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Attachments]]></phrase>
+  <phrase title="admin_navigation.audfeeds" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[[Audentio] Feeds]]></phrase>
+  <phrase title="admin_navigation.audfeeds_list" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Feed list]]></phrase>
+  <phrase title="admin_navigation.audfeeds_promotion_rules" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Promotion rules]]></phrase>
+  <phrase title="admin_navigation.audfeeds_thread_list" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Thread feed list]]></phrase>
   <phrase title="admin_navigation.bannedEmails" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Banned emails]]></phrase>
   <phrase title="admin_navigation.bannedIps" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Banned IP addresses]]></phrase>
   <phrase title="admin_navigation.bannedUsers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Banned users]]></phrase>
@@ -618,6 +622,8 @@
   <phrase title="af_as_award_desc.2" addon_id="" version_id="0" version_string=""><![CDATA[The person who made a significant contribution to MineBBS]]></phrase>
   <phrase title="af_as_award_desc.20" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS 30,000 User Memorial]]></phrase>
   <phrase title="af_as_award_desc.21" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS成立四周年纪念勋章]]></phrase>
+  <phrase title="af_as_award_desc.22" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS论坛2022年暑期对抗赛]]></phrase>
+  <phrase title="af_as_award_desc.23" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS论坛2022年暑期对抗赛]]></phrase>
   <phrase title="af_as_award_desc.3" addon_id="" version_id="0" version_string=""><![CDATA[The certified member of MineBBS Republishing Group]]></phrase>
   <phrase title="af_as_award_desc.4" addon_id="" version_id="0" version_string=""><![CDATA[The person who has excellent original work or outstanding reputation in the field of texture pack]]></phrase>
   <phrase title="af_as_award_desc.5" addon_id="" version_id="0" version_string=""><![CDATA[A long-time active member of MineBBS]]></phrase>
@@ -642,6 +648,8 @@
   <phrase title="af_as_award_title.2" addon_id="" version_id="0" version_string=""><![CDATA[Significant contribution]]></phrase>
   <phrase title="af_as_award_title.20" addon_id="" version_id="0" version_string=""><![CDATA[30000 Memorial]]></phrase>
   <phrase title="af_as_award_title.21" addon_id="" version_id="0" version_string=""><![CDATA[4 Year Memorial]]></phrase>
+  <phrase title="af_as_award_title.22" addon_id="" version_id="0" version_string=""><![CDATA[MB暑期对抗赛纪念勋章]]></phrase>
+  <phrase title="af_as_award_title.23" addon_id="" version_id="0" version_string=""><![CDATA[MB暑期对抗赛特制纪念勋章]]></phrase>
   <phrase title="af_as_award_title.3" addon_id="" version_id="0" version_string=""><![CDATA[Republishing Group]]></phrase>
   <phrase title="af_as_award_title.4" addon_id="" version_id="0" version_string=""><![CDATA[Texture specialists]]></phrase>
   <phrase title="af_as_award_title.5" addon_id="" version_id="0" version_string=""><![CDATA[Activists]]></phrase>
@@ -763,6 +771,7 @@ If you have a valid license, please <a href="admin.php?add-ons/" rel="nofollow" 
   <phrase title="alert_body" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Alert body]]></phrase>
   <phrase title="alert_marked_as_read" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Alert marked as read.]]></phrase>
   <phrase title="alert_marked_as_unread" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Alert marked as unread.]]></phrase>
+  <phrase title="alert_opt_out.audfeeds_feed_entry_promote" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Posts on a watched feed]]></phrase>
   <phrase title="alert_opt_out.conversation_message_reaction" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Reacts to your message in a conversation]]></phrase>
   <phrase title="alert_opt_out.dbtech_credits_shop_buyback" addon_id="DBTech/Shop" version_id="906010051" version_string="6.1.0 Release Candidate 1"><![CDATA[You trigger the DragonByte Shop: Buy Back event]]></phrase>
   <phrase title="alert_opt_out.dbtech_credits_shop_deposit" addon_id="DBTech/Shop" version_id="906010051" version_string="6.1.0 Release Candidate 1"><![CDATA[You trigger the DragonByte Shop: Bank Deposit event]]></phrase>
@@ -940,6 +949,7 @@ If you have a valid license, please <a href="admin.php?add-ons/" rel="nofollow" 
   <phrase title="api_scope.attachment_delete" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Covers deleting attachments.]]></phrase>
   <phrase title="api_scope.attachment_read" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Covers viewing attachment data.]]></phrase>
   <phrase title="api_scope.attachment_write" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Covers uploading new attachments.]]></phrase>
+  <phrase title="api_scope.audfeeds_feed_read" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Read feeds]]></phrase>
   <phrase title="api_scope.auth" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Covers testing username/password authentication. Applies to super-user keys only.]]></phrase>
   <phrase title="api_scope.auth_login_token" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Allows creation of login token URLs that can login as any user. Applies to super-user keys only.]]></phrase>
   <phrase title="api_scope.conversation_read" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Covers viewing conversations.]]></phrase>
@@ -1066,6 +1076,238 @@ If you have a valid license, please <a href="admin.php?add-ons/" rel="nofollow" 
   <phrase title="attachments" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Attachments]]></phrase>
   <phrase title="attempting_to_verify_your_dns_record_but_it_may_take_up_to_24_hours_for" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Attempting to verify your DNS record but it may take up to 24 hours for DNS changes to propagate. If it has been longer, you may need to verify your entries.]]></phrase>
   <phrase title="attempts_to_email_x_have_failed_please_update" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Attempts to send emails to {email} have failed. Please update your email.]]></phrase>
+  <phrase title="audfeeds_above_content" addon_id="Audentio/Feeds" version_id="1010254" version_string="1.1.2 Release Candidate 4"><![CDATA[Above main content]]></phrase>
+  <phrase title="audfeeds_add_feed" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Add feed]]></phrase>
+  <phrase title="audfeeds_add_promotion_purchasable" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Add promotion purchasable]]></phrase>
+  <phrase title="audfeeds_add_promotion_rule" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Add promotion rule]]></phrase>
+  <phrase title="audfeeds_auto_approving_feed_entries" addon_id="Audentio/Feeds" version_id="1020891" version_string="1.2.8 Patch Level 1"><![CDATA[Approving feed entries]]></phrase>
+  <phrase title="audfeeds_below_nav" addon_id="Audentio/Feeds" version_id="1010254" version_string="1.1.2 Release Candidate 4"><![CDATA[Below navigation]]></phrase>
+  <phrase title="audfeeds_bump_edit_feed_entries" addon_id="Audentio/Feeds" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[Edit feed entries]]></phrase>
+  <phrase title="audfeeds_bump_thread" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Bump thread]]></phrase>
+  <phrase title="audfeeds_bump_thread_on_feeds" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Bump thread on feeds]]></phrase>
+  <phrase title="audfeeds_bump_to_top" addon_id="Audentio/Feeds" version_id="1010153" version_string="1.1.1 Release Candidate 3"><![CDATA[Bump to top]]></phrase>
+  <phrase title="audfeeds_bumped" addon_id="Audentio/Feeds" version_id="1010011" version_string="1.1.0 Alpha 1"><![CDATA[Bumped thread]]></phrase>
+  <phrase title="audfeeds_cannot_promote_this_thread" addon_id="Audentio/Feeds" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[You cannot promote this thread.]]></phrase>
+  <phrase title="audfeeds_card" addon_id="Audentio/Feeds" version_id="1020053" version_string="1.2.0 Release Candidate 3"><![CDATA[Card]]></phrase>
+  <phrase title="audfeeds_card_view" addon_id="Audentio/Feeds" version_id="1010411" version_string="1.1.4 Alpha 1"><![CDATA[Card view]]></phrase>
+  <phrase title="audfeeds_clear_filters" addon_id="Audentio/Feeds" version_id="1010053" version_string="1.1.0 Release Candidate 3"><![CDATA[Clear filters]]></phrase>
+  <phrase title="audfeeds_content_type" addon_id="Audentio/Feeds" version_id="1000055" version_string="1.0.0 Release Candidate 5"><![CDATA[Content type]]></phrase>
+  <phrase title="audfeeds_create" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Create]]></phrase>
+  <phrase title="audfeeds_create.article" addon_id="Audentio/Feeds" version_id="1020391" version_string="1.2.3 Patch Level 1"><![CDATA[Post article]]></phrase>
+  <phrase title="audfeeds_create.poll" addon_id="Audentio/Feeds" version_id="1010011" version_string="1.1.0 Alpha 1"><![CDATA[Create a poll]]></phrase>
+  <phrase title="audfeeds_create.profile_post" addon_id="Audentio/Feeds" version_id="1010011" version_string="1.1.0 Alpha 1"><![CDATA[Share a social status]]></phrase>
+  <phrase title="audfeeds_create.question" addon_id="Audentio/Feeds" version_id="1010011" version_string="1.1.0 Alpha 1"><![CDATA[Ask a question]]></phrase>
+  <phrase title="audfeeds_create.thread" addon_id="Audentio/Feeds" version_id="1010011" version_string="1.1.0 Alpha 1"><![CDATA[Start a discussion thread]]></phrase>
+  <phrase title="audfeeds_create.xfmg_media" addon_id="Audentio/Feeds" version_id="1010011" version_string="1.1.0 Alpha 1"><![CDATA[Share media]]></phrase>
+  <phrase title="audfeeds_create.xfrm_resource" addon_id="Audentio/Feeds" version_id="1010011" version_string="1.1.0 Alpha 1"><![CDATA[Upload a resource]]></phrase>
+  <phrase title="audfeeds_curated_feed" addon_id="Audentio/Feeds" version_id="1020352" version_string="1.2.3 Release Candidate 2"><![CDATA[Curated feed]]></phrase>
+  <phrase title="audfeeds_curated_suggestions" addon_id="Audentio/Feeds" version_id="1010052" version_string="1.1.0 Release Candidate 2"><![CDATA[Promote]]></phrase>
+  <phrase title="audfeeds_days" addon_id="Audentio/Feeds" version_id="1010152" version_string="1.1.1 Release Candidate 2"><![CDATA[Days]]></phrase>
+  <phrase title="audfeeds_decay_formula.exp" addon_id="Audentio/Feeds" version_id="1010152" version_string="1.1.1 Release Candidate 2"><![CDATA[Exponential]]></phrase>
+  <phrase title="audfeeds_decay_formula.linear" addon_id="Audentio/Feeds" version_id="1010152" version_string="1.1.1 Release Candidate 2"><![CDATA[Linear]]></phrase>
+  <phrase title="audfeeds_default_feed" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Default feed]]></phrase>
+  <phrase title="audfeeds_default_feed_state" addon_id="Audentio/Feeds" version_id="1020391" version_string="1.2.3 Patch Level 1"><![CDATA[Default feed state]]></phrase>
+  <phrase title="audfeeds_default_feeds_cannot_be_deleted" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Default feeds cannot be deleted.]]></phrase>
+  <phrase title="audfeeds_deleting_orphaned_feed_entries" addon_id="Audentio/Feeds" version_id="1020891" version_string="1.2.8 Patch Level 1"><![CDATA[Deleting orphaned feed entries]]></phrase>
+  <phrase title="audfeeds_deleting_orphaned_moderator_content_entries" addon_id="Audentio/Feeds" version_id="1020891" version_string="1.2.8 Patch Level 1"><![CDATA[Deleting orphaned approval queue entries]]></phrase>
+  <phrase title="audfeeds_display_style.condensed" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Condensed]]></phrase>
+  <phrase title="audfeeds_display_style.expanded" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Expanded]]></phrase>
+  <phrase title="audfeeds_do_not_stick_to_top" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Don't stick to top]]></phrase>
+  <phrase title="audfeeds_edit_feed" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Edit feed]]></phrase>
+  <phrase title="audfeeds_edit_feed_entries" addon_id="Audentio/Feeds" version_id="1000021" version_string="1.0.0 Alpha 11"><![CDATA[Edit feed entries]]></phrase>
+  <phrase title="audfeeds_edit_promotion_purchasable" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Edit promotion purchasable]]></phrase>
+  <phrase title="audfeeds_edit_promotion_rule" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Edit promotion rule]]></phrase>
+  <phrase title="audfeeds_enabled_thread_type_filters" addon_id="Audentio/Feeds" version_id="1020438" version_string="1.2.4 Beta 8"><![CDATA[Enabled thread type filters]]></phrase>
+  <phrase title="audfeeds_enabled_thread_type_filters_explain" addon_id="Audentio/Feeds" version_id="1020438" version_string="1.2.4 Beta 8"><![CDATA[If set to "all", the global selection made under Options > [Audentio] Feeds: Filters will be applied instead. If only one type is selected, no filter will be shown.]]></phrase>
+  <phrase title="audfeeds_expanded_post" addon_id="Audentio/Feeds" version_id="1020591" version_string="1.2.5 Patch Level 1"><![CDATA[Expanded post]]></phrase>
+  <phrase title="audfeeds_feed" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Feed]]></phrase>
+  <phrase title="audfeeds_feed_entry" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Feed entry]]></phrase>
+  <phrase title="audfeeds_feed_entry_criteria" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Feed entry criteria]]></phrase>
+  <phrase title="audfeeds_feed_entry_is_not_sticky" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Feed entry is NOT sticky]]></phrase>
+  <phrase title="audfeeds_feed_entry_is_sticky" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Feed entry is sticky]]></phrase>
+  <phrase title="audfeeds_feed_entry_state_is_not_one_of" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Feed entry state is NOT one of the following]]></phrase>
+  <phrase title="audfeeds_feed_entry_state_is_one_of" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Feed entry state is one of the following]]></phrase>
+  <phrase title="audfeeds_feed_is_not_one_of" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Feed is NOT one of the following]]></phrase>
+  <phrase title="audfeeds_feed_is_one_of" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Feed is one of the following]]></phrase>
+  <phrase title="audfeeds_feed_list" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Feed list]]></phrase>
+  <phrase title="audfeeds_feed_position_x" addon_id="Audentio/Feeds" version_id="1010153" version_string="1.1.1 Release Candidate 3"><![CDATA[Current feed position: {position}]]></phrase>
+  <phrase title="audfeeds_feed_promotion_purchasables" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Promotion purchasables]]></phrase>
+  <phrase title="audfeeds_feed_promotion_rules" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Feed promotion rules]]></phrase>
+  <phrase title="audfeeds_feed_title.1" addon_id="" version_id="0" version_string=""><![CDATA[电商产品]]></phrase>
+  <phrase title="audfeeds_feed_title.10" addon_id="" version_id="0" version_string=""><![CDATA[Threads]]></phrase>
+  <phrase title="audfeeds_feed_title.11" addon_id="" version_id="0" version_string=""><![CDATA[Questions]]></phrase>
+  <phrase title="audfeeds_feed_title.12" addon_id="" version_id="0" version_string=""><![CDATA[Posts]]></phrase>
+  <phrase title="audfeeds_feed_title.2" addon_id="" version_id="0" version_string=""><![CDATA[道具]]></phrase>
+  <phrase title="audfeeds_feed_title.3" addon_id="" version_id="0" version_string=""><![CDATA[Trade posts]]></phrase>
+  <phrase title="audfeeds_feed_title.4" addon_id="" version_id="0" version_string=""><![CDATA[Social]]></phrase>
+  <phrase title="audfeeds_feed_title.5" addon_id="" version_id="0" version_string=""><![CDATA[资源]]></phrase>
+  <phrase title="audfeeds_feed_title.6" addon_id="" version_id="0" version_string=""><![CDATA[Forum list]]></phrase>
+  <phrase title="audfeeds_feed_title.7" addon_id="" version_id="0" version_string=""><![CDATA[Following]]></phrase>
+  <phrase title="audfeeds_feed_title.8" addon_id="" version_id="0" version_string=""><![CDATA[Latest activity]]></phrase>
+  <phrase title="audfeeds_feed_title.9" addon_id="" version_id="0" version_string=""><![CDATA[Hot]]></phrase>
+  <phrase title="audfeeds_feed_type.forum_list" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Forum list]]></phrase>
+  <phrase title="audfeeds_feed_type.news_feed" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[What's new feed]]></phrase>
+  <phrase title="audfeeds_feed_type.thread_feed" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Thread feed]]></phrase>
+  <phrase title="audfeeds_feed_type.trending" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Trending feed]]></phrase>
+  <phrase title="audfeeds_feed_type.wn_latest_activity" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Latest activity]]></phrase>
+  <phrase title="audfeeds_feed_type.wn_news_feed" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Following]]></phrase>
+  <phrase title="audfeeds_feeds" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Feeds]]></phrase>
+  <phrase title="audfeeds_filter_following" addon_id="Audentio/Feeds" version_id="1000055" version_string="1.0.0 Release Candidate 5"><![CDATA[People you follow]]></phrase>
+  <phrase title="audfeeds_filter_unanswered" addon_id="Audentio/Feeds" version_id="1000055" version_string="1.0.0 Release Candidate 5"><![CDATA[Unanswered]]></phrase>
+  <phrase title="audfeeds_first_post" addon_id="Audentio/Feeds" version_id="1020591" version_string="1.2.5 Patch Level 1"><![CDATA[First post]]></phrase>
+  <phrase title="audfeeds_first_post_reaction_score_is_required" addon_id="Audentio/Feeds" version_id="1020951" version_string="1.2.9 Release Candidate 1"><![CDATA[First post reaction score is required.]]></phrase>
+  <phrase title="audfeeds_forum_is_not_one_of" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Forum is NOT one of the following]]></phrase>
+  <phrase title="audfeeds_forum_is_one_of" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Forum is one of the following]]></phrase>
+  <phrase title="audfeeds_has_default_feed_set" addon_id="Audentio/Feeds" version_id="1020391" version_string="1.2.3 Patch Level 1"><![CDATA[Default feed set]]></phrase>
+  <phrase title="audfeeds_has_no_default_feed_set" addon_id="Audentio/Feeds" version_id="1020391" version_string="1.2.3 Patch Level 1"><![CDATA[Default feed not set]]></phrase>
+  <phrase title="audfeeds_icon" addon_id="Audentio/Feeds" version_id="1010111" version_string="1.1.1 Alpha 1"><![CDATA[Icon]]></phrase>
+  <phrase title="audfeeds_if_entered_url_to_feed_not_contain_id_change_breaks_urls" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[If entered, the URL to this feed will not contain an ID. Use a-z, 0-9, _, and - characters only. Note that once specified, changing this value will cause URLs to be broken.]]></phrase>
+  <phrase title="audfeeds_in_category" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[In category]]></phrase>
+  <phrase title="audfeeds_in_forums" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[In forums]]></phrase>
+  <phrase title="audfeeds_last_post" addon_id="Audentio/Feeds" version_id="1020591" version_string="1.2.5 Patch Level 1"><![CDATA[Last post]]></phrase>
+  <phrase title="audfeeds_list" addon_id="Audentio/Feeds" version_id="1020053" version_string="1.2.0 Release Candidate 3"><![CDATA[List]]></phrase>
+  <phrase title="audfeeds_list_on_feed" addon_id="Audentio/Feeds" version_id="1010153" version_string="1.1.1 Release Candidate 3"><![CDATA[List on feed]]></phrase>
+  <phrase title="audfeeds_list_view" addon_id="Audentio/Feeds" version_id="1010411" version_string="1.1.4 Alpha 1"><![CDATA[List view]]></phrase>
+  <phrase title="audfeeds_load_more" addon_id="Audentio/Feeds" version_id="1010053" version_string="1.1.0 Release Candidate 3"><![CDATA[Load more]]></phrase>
+  <phrase title="audfeeds_login_to_view" addon_id="Audentio/Feeds" version_id="1020051" version_string="1.2.0 Release Candidate 1"><![CDATA[Login to view embedded media]]></phrase>
+  <phrase title="audfeeds_manage_feed_entries" addon_id="Audentio/Feeds" version_id="1010153" version_string="1.1.1 Release Candidate 3"><![CDATA[Manage feed entries]]></phrase>
+  <phrase title="audfeeds_manage_thread_feed_entries" addon_id="Audentio/Feeds" version_id="1010153" version_string="1.1.1 Release Candidate 3"><![CDATA[Manage thread feed entries]]></phrase>
+  <phrase title="audfeeds_manage_watched_feeds" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Manage watched feeds]]></phrase>
+  <phrase title="audfeeds_navigation_section_explain" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[This controls the navigation section that will be selected when a visitor browses this feed.]]></phrase>
+  <phrase title="audfeeds_new_thread_in_watched_feed_x" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[{title} - New thread in watched feed]]></phrase>
+  <phrase title="audfeeds_new_thread_x_from_user_y_promoted_to_feed_z" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[{name}'s thread {title} was promoted to the feed {feed}.]]></phrase>
+  <phrase title="audfeeds_next_to_be_promoted" addon_id="Audentio/Feeds" version_id="1010011" version_string="1.1.0 Alpha 1"><![CDATA[Next to be automatically promoted]]></phrase>
+  <phrase title="audfeeds_no_curated_suggestions_found" addon_id="Audentio/Feeds" version_id="1020352" version_string="1.2.3 Release Candidate 2"><![CDATA[No curated suggestions have been found.]]></phrase>
+  <phrase title="audfeeds_no_curated_suggestions_found_for_your_filters" addon_id="Audentio/Feeds" version_id="1020353" version_string="1.2.3 Release Candidate 3"><![CDATA[No curated suggestions found for your filters.]]></phrase>
+  <phrase title="audfeeds_no_entries_to_edit" addon_id="Audentio/Feeds" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[There are no feed entries to edit.]]></phrase>
+  <phrase title="audfeeds_no_feeds_have_been_created_yet" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[No feeds have been created yet.]]></phrase>
+  <phrase title="audfeeds_no_feeds_to_bump_on" addon_id="Audentio/Feeds" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[There are no feeds you can bump this thread on.]]></phrase>
+  <phrase title="audfeeds_no_filters_available" addon_id="Audentio/Feeds" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[No filters available.]]></phrase>
+  <phrase title="audfeeds_no_notifications_feed_watch_description" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[The feed will still be listed on the watched feeds page, which can be used to list only the feeds you're interested in.]]></phrase>
+  <phrase title="audfeeds_no_promotion_purchasables_have_been_created_yet" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[No promotion purchasable have been created yet.]]></phrase>
+  <phrase title="audfeeds_no_promotion_rules_have_been_created_yet" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[No promotion rules have been created yet.]]></phrase>
+  <phrase title="audfeeds_node_id_is_required" addon_id="Audentio/Feeds" version_id="1020951" version_string="1.2.9 Release Candidate 1"><![CDATA[Node ID is required.]]></phrase>
+  <phrase title="audfeeds_people_you_follow" addon_id="Audentio/Feeds" version_id="1000055" version_string="1.0.0 Release Candidate 5"><![CDATA[People you follow]]></phrase>
+  <phrase title="audfeeds_pinned" addon_id="Audentio/Feeds" version_id="1020311" version_string="1.2.3 Alpha 1"><![CDATA[Pinned]]></phrase>
+  <phrase title="audfeeds_posted_on_x" addon_id="Audentio/Feeds" version_id="1010153" version_string="1.1.1 Release Candidate 3"><![CDATA[Posted on <a href="{profilePostLink}">{user}</a>]]></phrase>
+  <phrase title="audfeeds_prefix_is_not_one_of" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Prefix is NOT one of the following]]></phrase>
+  <phrase title="audfeeds_prefix_is_one_of" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Prefix is one of the following]]></phrase>
+  <phrase title="audfeeds_promote_to_feed" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Promote to feed]]></phrase>
+  <phrase title="audfeeds_promote_to_feeds" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Promote to feeds]]></phrase>
+  <phrase title="audfeeds_promoted_to_feed" addon_id="Audentio/Feeds" version_id="1010011" version_string="1.1.0 Alpha 1"><![CDATA[Promoted to feed]]></phrase>
+  <phrase title="audfeeds_promotion_purchasable_options" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Promotion purchasable options]]></phrase>
+  <phrase title="audfeeds_promotion_rule_options" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Promotion rule options]]></phrase>
+  <phrase title="audfeeds_purchase_feed_promotion" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Purchase promotion]]></phrase>
+  <phrase title="audfeeds_requested_feed_not_found" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Requested feed not found.]]></phrase>
+  <phrase title="audfeeds_requires_at_least_one_feed" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Please select at least one feed.]]></phrase>
+  <phrase title="audfeeds_resource_category" addon_id="Audentio/Feeds" version_id="1000020" version_string="1.0.0 Alpha 10"><![CDATA[Resource category]]></phrase>
+  <phrase title="audfeeds_save_filter_set_as_default" addon_id="Audentio/Feeds" version_id="1010454" version_string="1.1.4 Release Candidate 4"><![CDATA[Save filters as default set]]></phrase>
+  <phrase title="audfeeds_score.reaction_score_day" addon_id="Audentio/Feeds" version_id="1010454" version_string="1.1.4 Release Candidate 4"><![CDATA[Reaction score (Today)]]></phrase>
+  <phrase title="audfeeds_score.reaction_score_month" addon_id="Audentio/Feeds" version_id="1010454" version_string="1.1.4 Release Candidate 4"><![CDATA[Reaction score (This month)]]></phrase>
+  <phrase title="audfeeds_score.reaction_score_monthly" addon_id="Audentio/Feeds" version_id="1010454" version_string="1.1.4 Release Candidate 4"><![CDATA[Reaction score (Last 30 days)]]></phrase>
+  <phrase title="audfeeds_score.reaction_score_week" addon_id="Audentio/Feeds" version_id="1010454" version_string="1.1.4 Release Candidate 4"><![CDATA[Reaction score (This week)]]></phrase>
+  <phrase title="audfeeds_score.reaction_score_weekly" addon_id="Audentio/Feeds" version_id="1010454" version_string="1.1.4 Release Candidate 4"><![CDATA[Reaction score (Last 7 days)]]></phrase>
+  <phrase title="audfeeds_score.reaction_score_year" addon_id="Audentio/Feeds" version_id="1010454" version_string="1.1.4 Release Candidate 4"><![CDATA[Reaction score (This year)]]></phrase>
+  <phrase title="audfeeds_score.reaction_score_yearly" addon_id="Audentio/Feeds" version_id="1010454" version_string="1.1.4 Release Candidate 4"><![CDATA[Reaction score (Last 365 days)]]></phrase>
+  <phrase title="audfeeds_score.vote_score_day" addon_id="Audentio/Feeds" version_id="1010454" version_string="1.1.4 Release Candidate 4"><![CDATA[Vote score (Today)]]></phrase>
+  <phrase title="audfeeds_score.vote_score_month" addon_id="Audentio/Feeds" version_id="1010454" version_string="1.1.4 Release Candidate 4"><![CDATA[Vote score (This month)]]></phrase>
+  <phrase title="audfeeds_score.vote_score_monthly" addon_id="Audentio/Feeds" version_id="1010454" version_string="1.1.4 Release Candidate 4"><![CDATA[Vote score (Last 30 days)]]></phrase>
+  <phrase title="audfeeds_score.vote_score_week" addon_id="Audentio/Feeds" version_id="1010454" version_string="1.1.4 Release Candidate 4"><![CDATA[Vote score (This week)]]></phrase>
+  <phrase title="audfeeds_score.vote_score_weekly" addon_id="Audentio/Feeds" version_id="1010454" version_string="1.1.4 Release Candidate 4"><![CDATA[Vote score (Last 7 days)]]></phrase>
+  <phrase title="audfeeds_score.vote_score_year" addon_id="Audentio/Feeds" version_id="1010454" version_string="1.1.4 Release Candidate 4"><![CDATA[Vote score (This year)]]></phrase>
+  <phrase title="audfeeds_score.vote_score_yearly" addon_id="Audentio/Feeds" version_id="1010454" version_string="1.1.4 Release Candidate 4"><![CDATA[Vote score (Last 365 days)]]></phrase>
+  <phrase title="audfeeds_select_feed" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Select feed]]></phrase>
+  <phrase title="audfeeds_send_to_moderation_queue" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Send to moderation queue]]></phrase>
+  <phrase title="audfeeds_send_to_moderation_queue_hint" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[If enabled, promoted items will be sent to the moderation queue to wait for approval for the specified amount of hours. If no action is taken within the specified time frame, they will automatically be approved. Set to 0 to retain them in the moderation queue until manual approval.]]></phrase>
+  <phrase title="audfeeds_set_as_default" addon_id="Audentio/Feeds" version_id="1020695" version_string="1.2.6 Patch Level 5"><![CDATA[Set default]]></phrase>
+  <phrase title="audfeeds_set_default" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Set default]]></phrase>
+  <phrase title="audfeeds_set_default_feed" addon_id="Audentio/Feeds" version_id="1020391" version_string="1.2.3 Patch Level 1"><![CDATA[Set default feed]]></phrase>
+  <phrase title="audfeeds_show_in_feed_list" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Show in feed list]]></phrase>
+  <phrase title="audfeeds_show_in_tab_bar" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Show in tab bar]]></phrase>
+  <phrase title="audfeeds_sidebar" addon_id="Audentio/Feeds" version_id="1010152" version_string="1.1.1 Release Candidate 2"><![CDATA[Sidebar]]></phrase>
+  <phrase title="audfeeds_sidenav" addon_id="Audentio/Feeds" version_id="1010152" version_string="1.1.1 Release Candidate 2"><![CDATA[Sidenav]]></phrase>
+  <phrase title="audfeeds_sort.audfeeds_promotion_date" addon_id="Audentio/Feeds" version_id="1020170" version_string="1.2.1"><![CDATA[Promotion date]]></phrase>
+  <phrase title="audfeeds_sort.audfeeds_trending_score" addon_id="Audentio/Feeds" version_id="1020170" version_string="1.2.1"><![CDATA[Trending score]]></phrase>
+  <phrase title="audfeeds_sort.first_post_reaction_score" addon_id="Audentio/Feeds" version_id="1020434" version_string="1.2.4 Beta 4"><![CDATA[First post reaction score]]></phrase>
+  <phrase title="audfeeds_sort.last_post_date" addon_id="Audentio/Feeds" version_id="1010053" version_string="1.1.0 Release Candidate 3"><![CDATA[Last post date]]></phrase>
+  <phrase title="audfeeds_sort.post_date" addon_id="Audentio/Feeds" version_id="1020170" version_string="1.2.1"><![CDATA[Post date]]></phrase>
+  <phrase title="audfeeds_sort.promotion_date" addon_id="Audentio/Feeds" version_id="1010053" version_string="1.1.0 Release Candidate 3"><![CDATA[Promotion date]]></phrase>
+  <phrase title="audfeeds_sort.reaction_score" addon_id="Audentio/Feeds" version_id="1010152" version_string="1.1.1 Release Candidate 2"><![CDATA[Reaction score]]></phrase>
+  <phrase title="audfeeds_sort.reply_count" addon_id="Audentio/Feeds" version_id="1020170" version_string="1.2.1"><![CDATA[Reply count]]></phrase>
+  <phrase title="audfeeds_sort.thread_post_date" addon_id="Audentio/Feeds" version_id="1010053" version_string="1.1.0 Release Candidate 3"><![CDATA[Post date]]></phrase>
+  <phrase title="audfeeds_sort.thtrending_replies_reactions_views_per_minute" addon_id="Audentio/Feeds" version_id="1020170" version_string="1.2.1"><![CDATA[Trending score]]></phrase>
+  <phrase title="audfeeds_sort.title" addon_id="Audentio/Feeds" version_id="1020170" version_string="1.2.1"><![CDATA[Title]]></phrase>
+  <phrase title="audfeeds_sort.vote_score" addon_id="Audentio/Feeds" version_id="1010152" version_string="1.1.1 Release Candidate 2"><![CDATA[Vote score]]></phrase>
+  <phrase title="audfeeds_sort_feeds" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Sort feeds]]></phrase>
+  <phrase title="audfeeds_status_update" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Status update]]></phrase>
+  <phrase title="audfeeds_stick_for" addon_id="Audentio/Feeds" version_id="1010152" version_string="1.1.1 Release Candidate 2"><![CDATA[Stick for]]></phrase>
+  <phrase title="audfeeds_stick_for_days" addon_id="Audentio/Feeds" version_id="1010152" version_string="1.1.1 Release Candidate 2"><![CDATA[Stick for days]]></phrase>
+  <phrase title="audfeeds_stick_to_top" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Stick to top]]></phrase>
+  <phrase title="audfeeds_stick_to_top_for" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Stick to top for]]></phrase>
+  <phrase title="audfeeds_stick_to_top_hint" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[If enabled, promoted threads will be stuck to the top of the feed for the specified amount of hours. Set to 0 to keep them stuck to the top until manually unstuck.]]></phrase>
+  <phrase title="audfeeds_stick_to_top_permanently" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Stick to top permanently]]></phrase>
+  <phrase title="audfeeds_stop_loading" addon_id="Audentio/Feeds" version_id="1000055" version_string="1.0.0 Release Candidate 5"><![CDATA[Stop loading]]></phrase>
+  <phrase title="audfeeds_stop_watching_feeds" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Stop watching feeds]]></phrase>
+  <phrase title="audfeeds_stuck_to_top" addon_id="Audentio/Feeds" version_id="1010011" version_string="1.1.0 Alpha 1"><![CDATA[Stuck to top]]></phrase>
+  <phrase title="audfeeds_template_override" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Template override]]></phrase>
+  <phrase title="audfeeds_template_override_explain" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[If specified, this template will be used instead of the default feed view template.]]></phrase>
+  <phrase title="audfeeds_there_are_no_items_on_this_feed" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[This feed appears to be empty at the moment, check back later!]]></phrase>
+  <phrase title="audfeeds_there_are_no_items_on_this_feed_matching_your_filters" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[There are no items on this feed matching your filters.]]></phrase>
+  <phrase title="audfeeds_thread_creator_criteria" addon_id="Audentio/Feeds" version_id="1010453" version_string="1.1.4 Release Candidate 3"><![CDATA[Thread creator criteria]]></phrase>
+  <phrase title="audfeeds_thread_criteria" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Thread criteria]]></phrase>
+  <phrase title="audfeeds_thread_feed_entry" addon_id="Audentio/Feeds" version_id="1000034" version_string="1.0.0 Beta 4"><![CDATA[Thread feed entry]]></phrase>
+  <phrase title="audfeeds_thread_feed_id_cannot_be_null" addon_id="Audentio/Feeds" version_id="1020951" version_string="1.2.9 Release Candidate 1"><![CDATA[Thread feed ID cannot be null.]]></phrase>
+  <phrase title="audfeeds_thread_feed_list" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Thread feed list]]></phrase>
+  <phrase title="audfeeds_thread_feed_permissions" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Thread feed permissions]]></phrase>
+  <phrase title="audfeeds_thread_feed_title.1" addon_id="" version_id="0" version_string=""><![CDATA[Hot]]></phrase>
+  <phrase title="audfeeds_thread_feed_title.2" addon_id="" version_id="0" version_string=""><![CDATA[Threads]]></phrase>
+  <phrase title="audfeeds_thread_feed_title.3" addon_id="" version_id="0" version_string=""><![CDATA[Questions]]></phrase>
+  <phrase title="audfeeds_thread_feed_title.4" addon_id="" version_id="0" version_string=""><![CDATA[Posts]]></phrase>
+  <phrase title="audfeeds_thread_has_a_reaction_score_of_at_least_x" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Thread has a reaction score of at least X]]></phrase>
+  <phrase title="audfeeds_thread_has_a_reaction_score_of_no_more_than_x" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Thread has a reaction score of no more than X]]></phrase>
+  <phrase title="audfeeds_thread_has_a_vote_score_of_at_least_x" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Thread has a vote score of at least X]]></phrase>
+  <phrase title="audfeeds_thread_has_a_vote_score_of_no_more_than_x" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Thread has a vote score of no more than X]]></phrase>
+  <phrase title="audfeeds_thread_has_at_least_x_replies" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Thread has at least X replies]]></phrase>
+  <phrase title="audfeeds_thread_has_at_least_x_votes" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Thread has at least X votes]]></phrase>
+  <phrase title="audfeeds_thread_has_no_more_than_x_replies" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Thread has no more than X replies]]></phrase>
+  <phrase title="audfeeds_thread_has_no_more_than_x_votes" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Thread has no more than X votes]]></phrase>
+  <phrase title="audfeeds_thread_id_cannot_be_null" addon_id="Audentio/Feeds" version_id="1020951" version_string="1.2.9 Release Candidate 1"><![CDATA[Thread ID cannot be null.]]></phrase>
+  <phrase title="audfeeds_thread_is_at_least_x_hours_old" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Thread is at least X hours old]]></phrase>
+  <phrase title="audfeeds_thread_is_no_more_than_x_hours_old" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Thread is no more than X hours old]]></phrase>
+  <phrase title="audfeeds_thread_is_watched_by_at_least_x_users" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Thread is watched by at least X users]]></phrase>
+  <phrase title="audfeeds_thread_is_watched_by_no_more_than_x_users" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Thread is watched by no more than X users]]></phrase>
+  <phrase title="audfeeds_thread_last_post_date_is_required" addon_id="Audentio/Feeds" version_id="1020951" version_string="1.2.9 Release Candidate 1"><![CDATA[Thread last post date is required.]]></phrase>
+  <phrase title="audfeeds_thread_post_date_is_required" addon_id="Audentio/Feeds" version_id="1020951" version_string="1.2.9 Release Candidate 1"><![CDATA[Thread post date is required.]]></phrase>
+  <phrase title="audfeeds_thread_type" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Thread type]]></phrase>
+  <phrase title="audfeeds_thread_type_is_not_one_of" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Thread type is NOT one of the following]]></phrase>
+  <phrase title="audfeeds_thread_type_is_one_of" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Thread type is one of the following]]></phrase>
+  <phrase title="audfeeds_thread_types" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Thread types]]></phrase>
+  <phrase title="audfeeds_thread_watch_counts" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Thread watch counts]]></phrase>
+  <phrase title="audfeeds_thread_x_auto_promoted_to_feed_y" addon_id="Audentio/Feeds" version_id="1010153" version_string="1.1.1 Release Candidate 3"><![CDATA[Thread <a href="{threadLink}">{threadTitle}</a> auto-promoted to feed <a href="{feedLink}">{feedTitle}</a>]]></phrase>
+  <phrase title="audfeeds_thread_x_promoted_to_feed_y" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Thread <a href="{threadLink}">{threadTitle}</a> promoted to feed <a href="{feedLink}">{feedTitle}</a>]]></phrase>
+  <phrase title="audfeeds_threads_per_page" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Threads per page]]></phrase>
+  <phrase title="audfeeds_top_main_content" addon_id="Audentio/Feeds" version_id="1010254" version_string="1.1.2 Release Candidate 4"><![CDATA[Top of main content]]></phrase>
+  <phrase title="audfeeds_unanswered_content" addon_id="Audentio/Feeds" version_id="1000055" version_string="1.0.0 Release Candidate 5"><![CDATA[Unanswered content]]></phrase>
+  <phrase title="audfeeds_unread_content" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Unread content]]></phrase>
+  <phrase title="audfeeds_unwatch_feed" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Unwatch feed]]></phrase>
+  <phrase title="audfeeds_upgrade" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Upgrade]]></phrase>
+  <phrase title="audfeeds_url_portion_must_be_unique" addon_id="Audentio/Feeds" version_id="1020091" version_string="1.2.0 Patch Level 1"><![CDATA[URL portion must be unique.]]></phrase>
+  <phrase title="audfeeds_user_group_is_not_one_of" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[User group is NOT one of the following]]></phrase>
+  <phrase title="audfeeds_user_group_is_one_of" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[User group is one of the following]]></phrase>
+  <phrase title="audfeeds_view_all_new_content" addon_id="Audentio/Feeds" version_id="1010311" version_string="1.1.3 Alpha 1"><![CDATA[Some new content may not be matching your filters. Click here to see all new content.]]></phrase>
+  <phrase title="audfeeds_view_x_attachments" addon_id="Audentio/Feeds" version_id="1020051" version_string="1.2.0 Release Candidate 1"><![CDATA[View {number} attachments]]></phrase>
+  <phrase title="audfeeds_viewing_feeds" addon_id="Audentio/Feeds" version_id="1020370" version_string="1.2.3"><![CDATA[Viewing feeds]]></phrase>
+  <phrase title="audfeeds_vote_score_is_required" addon_id="Audentio/Feeds" version_id="1020951" version_string="1.2.9 Release Candidate 1"><![CDATA[Vote score is required.]]></phrase>
+  <phrase title="audfeeds_watch_feed" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Watch feed]]></phrase>
+  <phrase title="audfeeds_watched_categories" addon_id="Audentio/Feeds" version_id="1020251" version_string="1.2.2 Release Candidate 1"><![CDATA[Watched categories]]></phrase>
+  <phrase title="audfeeds_watched_feeds" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Watched feeds]]></phrase>
+  <phrase title="audfeeds_watched_forums" addon_id="Audentio/Feeds" version_id="1020251" version_string="1.2.2 Release Candidate 1"><![CDATA[Watched forums]]></phrase>
+  <phrase title="audfeeds_watched_media" addon_id="Audentio/Feeds" version_id="1020251" version_string="1.2.2 Release Candidate 1"><![CDATA[Watched media]]></phrase>
+  <phrase title="audfeeds_watched_resources" addon_id="Audentio/Feeds" version_id="1020251" version_string="1.2.2 Release Candidate 1"><![CDATA[Watched resources]]></phrase>
+  <phrase title="audfeeds_watched_threads" addon_id="Audentio/Feeds" version_id="1020251" version_string="1.2.2 Release Candidate 1"><![CDATA[Watched threads]]></phrase>
+  <phrase title="audfeeds_will_be_auto_approved_on" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Automatically approved on {date}]]></phrase>
+  <phrase title="audfeeds_you_not_watching_any_feeds" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[You are not watching any feeds.]]></phrase>
+  <phrase title="audfeeds_you_sure_you_want_to_unwatch_this_feed" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Are you sure you want to unwatch this feed?]]></phrase>
   <phrase title="authentication" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Authentication]]></phrase>
   <phrase title="author" addon_id="XF" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[Author]]></phrase>
   <phrase title="authy_api_key" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Authy API key]]></phrase>
@@ -1679,6 +1921,12 @@ Write the details of the resource in the resource description.</p>
   <phrase title="cron_entries" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cron entries]]></phrase>
   <phrase title="cron_entry.activitySummaryEmail" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Send activity summary email]]></phrase>
   <phrase title="cron_entry.af_as_user_award" addon_id="AddonFlare/AwardSystem" version_id="1040070" version_string="1.4.0"><![CDATA[[AddonFlare] XF2 Awards System: Update user awards]]></phrase>
+  <phrase title="cron_entry.audfeedsCleanup" addon_id="Audentio/Feeds" version_id="1020891" version_string="1.2.8 Patch Level 1"><![CDATA[[Audentio] Feeds: Cleanup]]></phrase>
+  <phrase title="cron_entry.audfeeds_auto_unpin" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[[Audentio] Feeds: Unstick expired feed entries]]></phrase>
+  <phrase title="cron_entry.audfeeds_curated_order" addon_id="Audentio/Feeds" version_id="1010011" version_string="1.1.0 Alpha 1"><![CDATA[[Audentio] Feeds: Update Curated List]]></phrase>
+  <phrase title="cron_entry.audfeeds_curated_promote" addon_id="Audentio/Feeds" version_id="1010011" version_string="1.1.0 Alpha 1"><![CDATA[[Audentio] Feeds: Promote curated thread]]></phrase>
+  <phrase title="cron_entry.audfeeds_release" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[[Audentio] Feeds: Auto-approve feed entries]]></phrase>
+  <phrase title="cron_entry.audfeeds_updateLastItemCa" addon_id="Audentio/Feeds" version_id="1010311" version_string="1.1.3 Alpha 1"><![CDATA[[Audentio] Feeds: Update last item cache]]></phrase>
   <phrase title="cron_entry.cleanDiscount" addon_id="MJ/ResourceCreditsPayment" version_id="1000701" version_string="1.0.7"><![CDATA[Clean up expired discount]]></phrase>
   <phrase title="cron_entry.cleanUpDaily" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Daily clean up]]></phrase>
   <phrase title="cron_entry.cleanUpHourly" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hourly clean up]]></phrase>
@@ -8968,10 +9216,8 @@ If enabled, users will be able to pay with Apple Pay, Android Pay, Google Pay an
   <phrase title="extension_x_already_defined" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[The extension '{name}' has already been defined.]]></phrase>
   <phrase title="extra" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Extra]]></phrase>
   <phrase title="extra_attributes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Extra attributes]]></phrase>
-  <phrase title="extra_copyright" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[<div>
-Software by Xenforo | Style from Themehouse<br>
+  <phrase title="extra_copyright" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Software by Xenforo | Style from Themehouse<br>
 Follow us: <a href="https://space.bilibili.com/512584014" rel="nofollow">Bilibili</a> | <a href="https://twitter.com/McShareTeam" rel="nofollow">Twitter</a> | <a href="https://github.com/McShare" rel="nofollow">Github</a><br>
-Based in the United States, to serve the global Chinese<br>
 <script type="text/javascript">
     copyright=new Date();
     update=copyright.getFullYear();
@@ -8998,7 +9244,9 @@ var _hmt = _hmt || [];
   var s = document.getElementsByTagName("script")[0]; 
   s.parentNode.insertBefore(hm, s);
 })();
-</script>]]></phrase>
+</script>
+<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+<script>LA.init({id: "Jo9DGZZir7MegBho",ck: "Jo9DGZZir7MegBho"})</script>]]></phrase>
   <phrase title="extra_email_footer_html" addon_id="XF" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Extra email footer (HTML)]]></phrase>
   <phrase title="extra_email_footer_plain_text" addon_id="XF" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Extra email footer (plain text)]]></phrase>
   <phrase title="extra_footer_copyright" addon_id="XF" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Extra footer copyright]]></phrase>
@@ -9136,6 +9384,8 @@ Please download this version from the <a href="https://xenforo.com/customers/" t
   <phrase title="forum_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum list]]></phrase>
   <phrase title="forum_min_tags_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This will require users to provide at least this many tags when creating a thread.]]></phrase>
   <phrase title="forum_moderator" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Forum moderator]]></phrase>
+  <phrase title="forum_sort.audfeeds_promotion_date" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Promotion date]]></phrase>
+  <phrase title="forum_sort.audfeeds_trending_score" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Trending score]]></phrase>
   <phrase title="forum_sort.first_post_reaction_score" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[First message reaction score]]></phrase>
   <phrase title="forum_sort.last_post_date" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Last message]]></phrase>
   <phrase title="forum_sort.post_date" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[First message]]></phrase>
@@ -11098,6 +11348,19 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="nav.addonFlarePubAwards" addon_id="AddonFlare/AwardSystem" version_id="1000070" version_string="1.0.0"><![CDATA[Awards]]></phrase>
   <phrase title="nav.af_as_my_awards" addon_id="AddonFlare/AwardSystem" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Your Awards]]></phrase>
   <phrase title="nav.af_as_pending_awards" addon_id="AddonFlare/AwardSystem" version_id="1000370" version_string="1.0.3"><![CDATA[Pending Awards]]></phrase>
+  <phrase title="nav.audfeeds" addon_id="Audentio/Feeds" version_id="1010054" version_string="1.1.0 Release Candidate 4"><![CDATA[Feeds]]></phrase>
+  <phrase title="nav.audfeeds_feed_1" addon_id="" version_id="0" version_string=""><![CDATA[电商产品]]></phrase>
+  <phrase title="nav.audfeeds_feed_10" addon_id="" version_id="0" version_string=""><![CDATA[Threads]]></phrase>
+  <phrase title="nav.audfeeds_feed_11" addon_id="" version_id="0" version_string=""><![CDATA[Questions]]></phrase>
+  <phrase title="nav.audfeeds_feed_12" addon_id="" version_id="0" version_string=""><![CDATA[Posts]]></phrase>
+  <phrase title="nav.audfeeds_feed_2" addon_id="" version_id="0" version_string=""><![CDATA[道具]]></phrase>
+  <phrase title="nav.audfeeds_feed_3" addon_id="" version_id="0" version_string=""><![CDATA[Trade posts]]></phrase>
+  <phrase title="nav.audfeeds_feed_4" addon_id="" version_id="0" version_string=""><![CDATA[Social]]></phrase>
+  <phrase title="nav.audfeeds_feed_5" addon_id="" version_id="0" version_string=""><![CDATA[资源]]></phrase>
+  <phrase title="nav.audfeeds_feed_6" addon_id="" version_id="0" version_string=""><![CDATA[Forum list]]></phrase>
+  <phrase title="nav.audfeeds_feed_7" addon_id="" version_id="0" version_string=""><![CDATA[Following]]></phrase>
+  <phrase title="nav.audfeeds_feed_8" addon_id="" version_id="0" version_string=""><![CDATA[Latest activity]]></phrase>
+  <phrase title="nav.audfeeds_feed_9" addon_id="" version_id="0" version_string=""><![CDATA[Hot]]></phrase>
   <phrase title="nav.contributedThreads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Threads with your posts]]></phrase>
   <phrase title="nav.currentVisitors" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Current visitors]]></phrase>
   <phrase title="nav.dbtEcomNewProducts" addon_id="DBTech/eCommerce" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[New products]]></phrase>
@@ -11499,6 +11762,36 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.attachmentMaxFileSize" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maximum attachment file size]]></phrase>
   <phrase title="option.attachmentMaxPerMessage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maximum attachments per message]]></phrase>
   <phrase title="option.attachmentThumbnailDimensions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Attachment thumbnail dimensions]]></phrase>
+  <phrase title="option.audfeeds_ajaxTabs" addon_id="Audentio/Feeds" version_id="1000020" version_string="1.0.0 Alpha 10"><![CDATA[Ajax-navigate feed tabs]]></phrase>
+  <phrase title="option.audfeeds_ajaxUpdate" addon_id="Audentio/Feeds" version_id="1000020" version_string="1.0.0 Alpha 10"><![CDATA[Ajax-update feed content]]></phrase>
+  <phrase title="option.audfeeds_ajaxUpdateRate" addon_id="Audentio/Feeds" version_id="1000020" version_string="1.0.0 Alpha 10"><![CDATA[Update rate]]></phrase>
+  <phrase title="option.audfeeds_availablePrefixFilters" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Available prefix filters]]></phrase>
+  <phrase title="option.audfeeds_availableTTFilters" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Available thread type filters]]></phrase>
+  <phrase title="option.audfeeds_cachePageCount" addon_id="Audentio/Feeds" version_id="1020440" version_string="1.2.4 Beta 10"><![CDATA[Cache page result count]]></phrase>
+  <phrase title="option.audfeeds_cacheTime" addon_id="Audentio/Feeds" version_id="1020440" version_string="1.2.4 Beta 10"><![CDATA[Page count cache time]]></phrase>
+  <phrase title="option.audfeeds_cacheTimeLong" addon_id="Audentio/Feeds" version_id="1020440" version_string="1.2.4 Beta 10"><![CDATA[Cache time on max. page count]]></phrase>
+  <phrase title="option.audfeeds_createButton" addon_id="Audentio/Feeds" version_id="1020170" version_string="1.2.1"><![CDATA[Create button entries]]></phrase>
+  <phrase title="option.audfeeds_curatedLimit" addon_id="Audentio/Feeds" version_id="1010011" version_string="1.1.0 Alpha 1"><![CDATA[Curated list limit]]></phrase>
+  <phrase title="option.audfeeds_curatedMaxDays" addon_id="Audentio/Feeds" version_id="1010011" version_string="1.1.0 Alpha 1"><![CDATA[Maximum age]]></phrase>
+  <phrase title="option.audfeeds_decay" addon_id="Audentio/Feeds" version_id="1010011" version_string="1.1.0 Alpha 1"><![CDATA[Decay formula]]></phrase>
+  <phrase title="option.audfeeds_dropdownSelect" addon_id="Audentio/Feeds" version_id="1010311" version_string="1.1.3 Alpha 1"><![CDATA[Enable feed dropdown selection]]></phrase>
+  <phrase title="option.audfeeds_enableCustomOrder" addon_id="Audentio/Feeds" version_id="1020311" version_string="1.2.3 Alpha 1"><![CDATA[Enable custom ordering for thread feeds]]></phrase>
+  <phrase title="option.audfeeds_enableNodeFilter" addon_id="Audentio/Feeds" version_id="1020354" version_string="1.2.3 Release Candidate 4"><![CDATA[Enable node filter]]></phrase>
+  <phrase title="option.audfeeds_enablePage" addon_id="Audentio/Feeds" version_id="1020052" version_string="1.2.0 Release Candidate 2"><![CDATA[Enable feeds page]]></phrase>
+  <phrase title="option.audfeeds_entriesPerPage" addon_id="Audentio/Feeds" version_id="1020433" version_string="1.2.4 Beta 3"><![CDATA[Feed items per page]]></phrase>
+  <phrase title="option.audfeeds_filterAutoSave" addon_id="Audentio/Feeds" version_id="1010454" version_string="1.1.4 Release Candidate 4"><![CDATA[Automatically save latest filters as default]]></phrase>
+  <phrase title="option.audfeeds_filterWidgetPosition" addon_id="Audentio/Feeds" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[Filter widget position]]></phrase>
+  <phrase title="option.audfeeds_hideGuestMedia" addon_id="Audentio/Feeds" version_id="1020995" version_string="1.2.9 Patch Level 5"><![CDATA[Hide media embeds to guests]]></phrase>
+  <phrase title="option.audfeeds_holdPromotionX" addon_id="Audentio/Feeds" version_id="1010152" version_string="1.1.1 Release Candidate 2"><![CDATA[Hold auto-promoted content in moderation queue for]]></phrase>
+  <phrase title="option.audfeeds_maxPages" addon_id="Audentio/Feeds" version_id="1020433" version_string="1.2.4 Beta 3"><![CDATA[Max. number of pages]]></phrase>
+  <phrase title="option.audfeeds_promoteEveryX" addon_id="Audentio/Feeds" version_id="1010011" version_string="1.1.0 Alpha 1"><![CDATA[Promote top new thread from curated list every]]></phrase>
+  <phrase title="option.audfeeds_redirectWhatsNew" addon_id="Audentio/Feeds" version_id="1020052" version_string="1.2.0 Release Candidate 2"><![CDATA[Redirect what's new pages to feeds]]></phrase>
+  <phrase title="option.audfeeds_unlimitedScroll" addon_id="Audentio/Feeds" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[Ajax-load pages (unlimited scroll)]]></phrase>
+  <phrase title="option.audfeeds_unreadIndicators" addon_id="Audentio/Feeds" version_id="1020651" version_string="1.2.6 Release Candidate 1"><![CDATA[Show unread indicators]]></phrase>
+  <phrase title="option.audfeeds_weightPost" addon_id="Audentio/Feeds" version_id="1010011" version_string="1.1.0 Alpha 1"><![CDATA[Post weight]]></phrase>
+  <phrase title="option.audfeeds_weightRating" addon_id="Audentio/Feeds" version_id="1010011" version_string="1.1.0 Alpha 1"><![CDATA[Vote weight]]></phrase>
+  <phrase title="option.audfeeds_weightReaction" addon_id="Audentio/Feeds" version_id="1010011" version_string="1.1.0 Alpha 1"><![CDATA[Reaction weight]]></phrase>
+  <phrase title="option.audfeeds_weightView" addon_id="Audentio/Feeds" version_id="1010011" version_string="1.1.0 Alpha 1"><![CDATA[View weight]]></phrase>
   <phrase title="option.autoEmbedMedia" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Auto-embed media links]]></phrase>
   <phrase title="option.boardActive" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Board is active]]></phrase>
   <phrase title="option.boardDescription" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Board meta description]]></phrase>
@@ -12034,6 +12327,7 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.xfrmResourceExtensions" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Allowed resource file extensions]]></phrase>
   <phrase title="option.xfrmResourceMaxFileSize" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maximum resource file size (KB)]]></phrase>
   <phrase title="option.xfrmResourceMaxFiles" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maximum number of resource files]]></phrase>
+  <phrase title="option.xfrmResourceStatisticsExcludeCategoryId" addon_id="Andy/XFRMResourceStatistics" version_id="10" version_string="1.0"><![CDATA[Exclude category ID]]></phrase>
   <phrase title="option.xfrmResourcesPerPage" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Resources per page]]></phrase>
   <phrase title="option.xfrmReviewRequired" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Require a review when rating resources]]></phrase>
   <phrase title="option.xfrmReviewVoting" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Allow review voting]]></phrase>
@@ -12094,6 +12388,36 @@ You should also provide the maximum video/audio file size in kilobytes (KB). Vid
   <phrase title="option_explain.attachmentMaxFileSize" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[Provide the maximum attachment file size in kilobytes (KB). Attachments over this size will be rejected. The configuration of this server limits this value to <b>{serverMaxFileSize}</b> KB.]]></phrase>
   <phrase title="option_explain.attachmentMaxPerMessage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Use 0 to allow an unlimited number of attachments per message. To disable message attachments, use the permissions system.]]></phrase>
   <phrase title="option_explain.attachmentThumbnailDimensions" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Controls the length of the shortest edge of attachment thumbnail images. The longer edge of the image may be longer than the length entered here. A value of at least 150px is recommended. Note that if this value is changed, you should rebuild attachment thumbnails via the "Rebuild caches" system.]]></phrase>
+  <phrase title="option_explain.audfeeds_ajaxTabs" addon_id="Audentio/Feeds" version_id="1000020" version_string="1.0.0 Alpha 10"><![CDATA[]]></phrase>
+  <phrase title="option_explain.audfeeds_ajaxUpdate" addon_id="Audentio/Feeds" version_id="1000020" version_string="1.0.0 Alpha 10"><![CDATA[]]></phrase>
+  <phrase title="option_explain.audfeeds_ajaxUpdateRate" addon_id="Audentio/Feeds" version_id="1000020" version_string="1.0.0 Alpha 10"><![CDATA[]]></phrase>
+  <phrase title="option_explain.audfeeds_availablePrefixFilters" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Selected prefixes are available for filtering on the feed list.]]></phrase>
+  <phrase title="option_explain.audfeeds_availableTTFilters" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Selected thread types are available for filtering on the feed list.]]></phrase>
+  <phrase title="option_explain.audfeeds_cachePageCount" addon_id="Audentio/Feeds" version_id="1020440" version_string="1.2.4 Beta 10"><![CDATA[If enabled, page counts for all filter states will be cached to prevent running counts on repeated loads.]]></phrase>
+  <phrase title="option_explain.audfeeds_cacheTime" addon_id="Audentio/Feeds" version_id="1020440" version_string="1.2.4 Beta 10"><![CDATA[]]></phrase>
+  <phrase title="option_explain.audfeeds_cacheTimeLong" addon_id="Audentio/Feeds" version_id="1020440" version_string="1.2.4 Beta 10"><![CDATA[When running the page count total, if the maximum page count is exceeded, cache the result for the selected amount of hours instead of the above value. Set to 0 to disable.]]></phrase>
+  <phrase title="option_explain.audfeeds_createButton" addon_id="Audentio/Feeds" version_id="1020170" version_string="1.2.1"><![CDATA[]]></phrase>
+  <phrase title="option_explain.audfeeds_curatedLimit" addon_id="Audentio/Feeds" version_id="1010011" version_string="1.1.0 Alpha 1"><![CDATA[]]></phrase>
+  <phrase title="option_explain.audfeeds_curatedMaxDays" addon_id="Audentio/Feeds" version_id="1010011" version_string="1.1.0 Alpha 1"><![CDATA[]]></phrase>
+  <phrase title="option_explain.audfeeds_decay" addon_id="Audentio/Feeds" version_id="1010011" version_string="1.1.0 Alpha 1"><![CDATA[]]></phrase>
+  <phrase title="option_explain.audfeeds_dropdownSelect" addon_id="Audentio/Feeds" version_id="1010311" version_string="1.1.3 Alpha 1"><![CDATA[]]></phrase>
+  <phrase title="option_explain.audfeeds_enableCustomOrder" addon_id="Audentio/Feeds" version_id="1020311" version_string="1.2.3 Alpha 1"><![CDATA[If enabled, feeds can be sorted by other things than promotion date. This may have a performance implication on large sites.]]></phrase>
+  <phrase title="option_explain.audfeeds_enableNodeFilter" addon_id="Audentio/Feeds" version_id="1020354" version_string="1.2.3 Release Candidate 4"><![CDATA[]]></phrase>
+  <phrase title="option_explain.audfeeds_enablePage" addon_id="Audentio/Feeds" version_id="1020052" version_string="1.2.0 Release Candidate 2"><![CDATA[]]></phrase>
+  <phrase title="option_explain.audfeeds_entriesPerPage" addon_id="Audentio/Feeds" version_id="1020433" version_string="1.2.4 Beta 3"><![CDATA[]]></phrase>
+  <phrase title="option_explain.audfeeds_filterAutoSave" addon_id="Audentio/Feeds" version_id="1010454" version_string="1.1.4 Release Candidate 4"><![CDATA[]]></phrase>
+  <phrase title="option_explain.audfeeds_filterWidgetPosition" addon_id="Audentio/Feeds" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[]]></phrase>
+  <phrase title="option_explain.audfeeds_hideGuestMedia" addon_id="Audentio/Feeds" version_id="1020995" version_string="1.2.9 Patch Level 5"><![CDATA[]]></phrase>
+  <phrase title="option_explain.audfeeds_holdPromotionX" addon_id="Audentio/Feeds" version_id="1010152" version_string="1.1.1 Release Candidate 2"><![CDATA[Hold auto-promoted content in moderation queue for the specified amount of time. Set to 0 to not hold auto-promoted content in moderation queue. Set to -1 to hold auto-promoted content in moderation queue until manually approved.]]></phrase>
+  <phrase title="option_explain.audfeeds_maxPages" addon_id="Audentio/Feeds" version_id="1020435" version_string="1.2.4 Beta 5"><![CDATA[The maximum number of pages to offer on each feed after filters have been applied. Set to 0 for no limit (warning: accessing big page numbers may have a tremendous effect on performance).]]></phrase>
+  <phrase title="option_explain.audfeeds_promoteEveryX" addon_id="Audentio/Feeds" version_id="1010011" version_string="1.1.0 Alpha 1"><![CDATA[If no thread was manually promoted within the selected time step, the top suggestion will automatically be promoted to the curated feed. Set to 0 to disable.]]></phrase>
+  <phrase title="option_explain.audfeeds_redirectWhatsNew" addon_id="Audentio/Feeds" version_id="1020052" version_string="1.2.0 Release Candidate 2"><![CDATA[]]></phrase>
+  <phrase title="option_explain.audfeeds_unlimitedScroll" addon_id="Audentio/Feeds" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[]]></phrase>
+  <phrase title="option_explain.audfeeds_unreadIndicators" addon_id="Audentio/Feeds" version_id="1020651" version_string="1.2.6 Release Candidate 1"><![CDATA[]]></phrase>
+  <phrase title="option_explain.audfeeds_weightPost" addon_id="Audentio/Feeds" version_id="1010011" version_string="1.1.0 Alpha 1"><![CDATA[]]></phrase>
+  <phrase title="option_explain.audfeeds_weightRating" addon_id="Audentio/Feeds" version_id="1010011" version_string="1.1.0 Alpha 1"><![CDATA[]]></phrase>
+  <phrase title="option_explain.audfeeds_weightReaction" addon_id="Audentio/Feeds" version_id="1010011" version_string="1.1.0 Alpha 1"><![CDATA[]]></phrase>
+  <phrase title="option_explain.audfeeds_weightView" addon_id="Audentio/Feeds" version_id="1010011" version_string="1.1.0 Alpha 1"><![CDATA[]]></phrase>
   <phrase title="option_explain.autoEmbedMedia" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable this option to have the system attempt to automatically embed media from URLs posted by visitors that point to registered media sites. If you choose to include a link to the content as well, the media embedding may be duplicated when the message is quoted.]]></phrase>
   <phrase title="option_explain.boardActive" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="option_explain.boardDescription" addon_id="XF" version_id="2011070" version_string="2.1.10"><![CDATA[Enter a description for your board. This will be placed inside the meta description tag for the "Forums default page", so avoid using HTML.]]></phrase>
@@ -12723,6 +13047,7 @@ Use the textbox above to specify a format. <b>{title}</b> will be replaced with 
   <phrase title="option_explain.xfrmResourceExtensions" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[List the file extensions that are allowed to be uploaded. Use spaces or line break between extensions.]]></phrase>
   <phrase title="option_explain.xfrmResourceMaxFileSize" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Provide the maximum resource file size in kilobytes (KB). Resources over this size will be rejected.]]></phrase>
   <phrase title="option_explain.xfrmResourceMaxFiles" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This is the maximum number of files that can be attached per resource version.]]></phrase>
+  <phrase title="option_explain.xfrmResourceStatisticsExcludeCategoryId" addon_id="Andy/XFRMResourceStatistics" version_id="10" version_string="1.0"><![CDATA[Enter resource category IDs to exclude. Separate each resource category ID with a comma.]]></phrase>
   <phrase title="option_explain.xfrmResourcesPerPage" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The number of resources that will be listed per page, including on the resource and category overview pages.]]></phrase>
   <phrase title="option_explain.xfrmReviewRequired" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[If enabled, users must submit a review when rating a resource.]]></phrase>
   <phrase title="option_explain.xfrmReviewVoting" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[This controls whether visitors can vote on whether a resource review is helpful. This can allow more helpful reviews to become more visible. If enabled, you may choose to limit voting to positive responses only (upvotes). Resource authors will not be able to vote on reviews for their own resources.]]></phrase>
@@ -12736,6 +13061,9 @@ Use the textbox above to specify a format. <b>{title}</b> will be replaced with 
   <phrase title="option_group.alerts" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[User alerts and notifications]]></phrase>
   <phrase title="option_group.appearance" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Appearance]]></phrase>
   <phrase title="option_group.attachments" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Attachments]]></phrase>
+  <phrase title="option_group.audfeeds" addon_id="Audentio/Feeds" version_id="1010454" version_string="1.1.4 Release Candidate 4"><![CDATA[[Audentio] Feeds: General]]></phrase>
+  <phrase title="option_group.audfeeds_curated" addon_id="Audentio/Feeds" version_id="1010454" version_string="1.1.4 Release Candidate 4"><![CDATA[[Audentio] Feeds: Curated Queue]]></phrase>
+  <phrase title="option_group.audfeeds_filters" addon_id="Audentio/Feeds" version_id="1010454" version_string="1.1.4 Release Candidate 4"><![CDATA[[Audentio] Feeds: Filters]]></phrase>
   <phrase title="option_group.basicBoard" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Basic options]]></phrase>
   <phrase title="option_group.boardActive" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Board active]]></phrase>
   <phrase title="option_group.censoringOptions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Censoring]]></phrase>
@@ -12784,6 +13112,7 @@ Use the textbox above to specify a format. <b>{title}</b> will be replaced with 
   <phrase title="option_group.users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User options]]></phrase>
   <phrase title="option_group.usersAndRegistration" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User registration]]></phrase>
   <phrase title="option_group.xfrm" addon_id="XFRM" version_id="2000270" version_string="2.0.2"><![CDATA[XenForo Resource Manager]]></phrase>
+  <phrase title="option_group.xfrmResourceStatistics" addon_id="Andy/XFRMResourceStatistics" version_id="10" version_string="1.0"><![CDATA[XFRM resource statistics]]></phrase>
   <phrase title="option_group_belongs_to_disabled_addon" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The add-on <em>{addon}</em>, to which this option group belongs, is currently disabled.<br />
 <br />
 You may enable the <em>{addon}</em> add-on on the <a href="{link}">list of installed add-ons</a>.]]></phrase>
@@ -12794,6 +13123,9 @@ You may enable the <em>{addon}</em> add-on on the <a href="{link}">list of insta
   <phrase title="option_group_description.alerts" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[When events happen that affect individual users, they are alerted via this system. If you are using a supported device, alerts can be sent directly to the device as a push notification. As large volumes of alerts are generated, they are periodically pruned from the database.]]></phrase>
   <phrase title="option_group_description.appearance" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[These options control how your site appears to your visitors.]]></phrase>
   <phrase title="option_group_description.attachments" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Attachments are files that are uploaded to the board along with messages.]]></phrase>
+  <phrase title="option_group_description.audfeeds" addon_id="Audentio/Feeds" version_id="1000055" version_string="1.0.0 Release Candidate 5"><![CDATA[Options for the [Audentio] Feeds add-on.]]></phrase>
+  <phrase title="option_group_description.audfeeds_curated" addon_id="Audentio/Feeds" version_id="1010454" version_string="1.1.4 Release Candidate 4"><![CDATA[Options for the [Audentio] Feeds add-on.]]></phrase>
+  <phrase title="option_group_description.audfeeds_filters" addon_id="Audentio/Feeds" version_id="1010454" version_string="1.1.4 Release Candidate 4"><![CDATA[Options for the [Audentio] Feeds add-on.]]></phrase>
   <phrase title="option_group_description.basicBoard" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="option_group_description.boardActive" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Turn your board on and off here.]]></phrase>
   <phrase title="option_group_description.censoringOptions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User-generated text will be subject to the censorship rules you define here.]]></phrase>
@@ -12846,6 +13178,7 @@ It is possible to filter the news feed down to just users you follow, or a singl
   <phrase title="option_group_description.users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="option_group_description.usersAndRegistration" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="option_group_description.xfrm" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Options that control the resource manager add-on.]]></phrase>
+  <phrase title="option_group_description.xfrmResourceStatistics" addon_id="Andy/XFRMResourceStatistics" version_id="10" version_string="1.0"><![CDATA[Options here control the XFRM resource statistics add-on.]]></phrase>
   <phrase title="option_group_ids_must_be_unique" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Option group IDs must be unique. The specified ID is already in use.]]></phrase>
   <phrase title="option_id" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Option ID]]></phrase>
   <phrase title="option_ids_must_be_unique" addon_id="XF" version_id="0" version_string=""><![CDATA[Option IDs must be unique. The specified ID is already in use.]]></phrase>
@@ -12973,6 +13306,14 @@ Callback arguments:
   <phrase title="permanently_delete" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Permanently delete]]></phrase>
   <phrase title="permission.TimeSpentOnline_canHideTSO" addon_id="Yugensoft/TimeSpentOnline" version_id="2000070" version_string="2.0.0"><![CDATA[Can show/hide their time spent online]]></phrase>
   <phrase title="permission.TimeSpentOnline_canViewMembersTSO" addon_id="Yugensoft/TimeSpentOnline" version_id="2000070" version_string="2.0.0"><![CDATA[Can view members' time spent online]]></phrase>
+  <phrase title="permission.XFRMResourceStatistics_view" addon_id="Andy/XFRMResourceStatistics" version_id="10" version_string="1.0"><![CDATA[View]]></phrase>
+  <phrase title="permission.audfeeds_thread_approve" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Approve threads to feed]]></phrase>
+  <phrase title="permission.audfeeds_thread_bump" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Bump any feed entries]]></phrase>
+  <phrase title="permission.audfeeds_thread_bump_own" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Bump own feed entries]]></phrase>
+  <phrase title="permission.audfeeds_thread_demote" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Remove thread from feed]]></phrase>
+  <phrase title="permission.audfeeds_thread_edit_entries" addon_id="Audentio/Feeds" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[Edit feed entries]]></phrase>
+  <phrase title="permission.audfeeds_thread_promote" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Promote to feed]]></phrase>
+  <phrase title="permission.audfeeds_thread_stick" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Stick thread to feed]]></phrase>
   <phrase title="permission.avatar_allowed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Upload an avatar]]></phrase>
   <phrase title="permission.bookmark_create" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Create bookmark]]></phrase>
   <phrase title="permission.bookmark_view" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[View own bookmarks]]></phrase>
@@ -13074,6 +13415,12 @@ Callback arguments:
   <phrase title="permission.dbtech_shop_viewModerated" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[View unapproved items]]></phrase>
   <phrase title="permission.dbtech_shop_warn" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Give warnings on items]]></phrase>
   <phrase title="permission.forum_approveUnapprove" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Approve / unapprove threads / posts]]></phrase>
+  <phrase title="permission.forum_audfeedsBump" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Bump threads]]></phrase>
+  <phrase title="permission.forum_audfeedsCuratePromote" addon_id="Audentio/Feeds" version_id="1010011" version_string="1.1.0 Alpha 1"><![CDATA[Can promote from curated list]]></phrase>
+  <phrase title="permission.forum_audfeedsCuratePromoteMod" addon_id="Audentio/Feeds" version_id="1010011" version_string="1.1.0 Alpha 1"><![CDATA[Curated list promotion moderation hold time]]></phrase>
+  <phrase title="permission.forum_audfeedsEditFeedEntries" addon_id="Audentio/Feeds" version_id="1000017" version_string="1.0.0 Alpha 7"><![CDATA[Edit thread feed entries]]></phrase>
+  <phrase title="permission.forum_audfeedsPromote" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Promote threads to feeds]]></phrase>
+  <phrase title="permission.forum_audfeedsPurchase" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Purchase feed promotions]]></phrase>
   <phrase title="permission.forum_changePostDate" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Can change post date]]></phrase>
   <phrase title="permission.forum_changePostOwner" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Can change post owner]]></phrase>
   <phrase title="permission.forum_changeThreadDate" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Can change thread date]]></phrase>
@@ -13141,6 +13488,7 @@ Callback arguments:
   <phrase title="permission.general_useContactForm" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Use contact form]]></phrase>
   <phrase title="permission.general_usePush" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Use push notifications]]></phrase>
   <phrase title="permission.general_view" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[View]]></phrase>
+  <phrase title="permission.general_viewAudfeedsThreadFeed" addon_id="Audentio/Feeds" version_id="1010011" version_string="1.1.0 Alpha 1"><![CDATA[View feed]]></phrase>
   <phrase title="permission.general_viewIps" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[View IP addresses]]></phrase>
   <phrase title="permission.general_viewMemberList" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[View member lists]]></phrase>
   <phrase title="permission.general_viewNode" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[View node]]></phrase>
@@ -13205,6 +13553,7 @@ Callback arguments:
   <phrase title="permission.resource_manageOwnTeam" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Manage team for own resources]]></phrase>
   <phrase title="permission.resource_mjrcpBypassPurchase" addon_id="MJ/ResourceCreditsPayment" version_id="1000131" version_string="1.0.1"><![CDATA[免费下载付费资源]]></phrase>
   <phrase title="permission.resource_mjrcpSellResource" addon_id="MJ/ResourceCreditsPayment" version_id="1000131" version_string="1.0.1"><![CDATA[Sell the resource with credit]></phrase>
+  <phrase title="permission.resource_rate" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rate resources]]></phrase>
   <phrase title="permission.resource_rate" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rate resources]]></phrase>
   <phrase title="permission.resource_react" addon_id="XFRM" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[React to resources/updates]]></phrase>
   <phrase title="permission.resource_reassign" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Reassign resources]]></phrase>
@@ -13316,6 +13665,8 @@ Callback arguments:
   <phrase title="permission_id" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Permission ID]]></phrase>
   <phrase title="permission_ids_must_be_unique_within_groups" addon_id="XF" version_id="0" version_string=""><![CDATA[Permission IDs must be unique within groups. The specified ID is already in use.]]></phrase>
   <phrase title="permission_interface.TimeSpentOnline" addon_id="Yugensoft/TimeSpentOnline" version_id="2000070" version_string="2.0.0"><![CDATA[Time spent online permissions]]></phrase>
+  <phrase title="permission_interface.audfeeds" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[[Audentio] Feeds: Thread feed permissions]]></phrase>
+  <phrase title="permission_interface.audfeeds_moderator" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[[Audentio] Feeds: Thread feed moderator permissions]]></phrase>
   <phrase title="permission_interface.bookmarkPermissions" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Bookmark permissions]]></phrase>
   <phrase title="permission_interface.conversationModeratorPermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Conversation moderator permissions]]></phrase>
   <phrase title="permission_interface.conversationPermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Conversation permissions]]></phrase>
@@ -13350,6 +13701,7 @@ Callback arguments:
   <phrase title="permission_interface.thfeature" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[[TH] Featured Threads and Content permissions]]></phrase>
   <phrase title="permission_interface.thfeature_moderator" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[[TH] Featured Threads and Content moderator permissions]]></phrase>
   <phrase title="permission_interface.widgetTabs" addon_id="BassMan/WidgetTabs" version_id="1000170" version_string="1.0.1"><![CDATA[[cXF] Widget Tabs]]></phrase>
+  <phrase title="permission_interface.xFRMResourceStatistics" addon_id="Andy/XFRMResourceStatistics" version_id="10" version_string="1.0"><![CDATA[XFRM resource statistics]]></phrase>
   <phrase title="permission_interface_group_ids_must_be_unique" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Permission interface group IDs must be unique. The specified ID is already in use.]]></phrase>
   <phrase title="permission_limit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Permission limit]]></phrase>
   <phrase title="permission_limit_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[If a permission is specified here, this stat will only be visible to users with that permission.]]></phrase>
@@ -15861,6 +16213,9 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="style_prop.af_as_postbit_type" addon_id="AddonFlare/AwardSystem" version_id="1010070" version_string="1.1.0"><![CDATA[Postbit Type]]></phrase>
   <phrase title="style_prop.af_as_profile_total" addon_id="AddonFlare/AwardSystem" version_id="1000570" version_string="1.0.5"><![CDATA[Show Total Awards In Profile]]></phrase>
   <phrase title="style_prop.animationSpeed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Base animation speed]]></phrase>
+  <phrase title="style_prop.audfeeds_chromeless_tabs" addon_id="Audentio/Feeds" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Remove chrome from tabs]]></phrase>
+  <phrase title="style_prop.audfeeds_tabbar_location" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[Tab bar location]]></phrase>
+  <phrase title="style_prop.audfeeds_tabsWrapper" addon_id="Audentio/Feeds" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Tabbar wrapper]]></phrase>
   <phrase title="style_prop.avatarBg" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Avatar background color]]></phrase>
   <phrase title="style_prop.avatarBorderRadius" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Avatar border radius]]></phrase>
   <phrase title="style_prop.avatarDefaultImage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Default avatar image URL]]></phrase>
@@ -16248,6 +16603,9 @@ Use the following code in your "message_macros" template:<br>
   <phrase title="style_prop_desc.af_as_postbit_type" addon_id="AddonFlare/AwardSystem" version_id="1010070" version_string="1.1.0"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.af_as_profile_total" addon_id="AddonFlare/AwardSystem" version_id="1000570" version_string="1.0.5"><![CDATA[Show total awards count in profile and profile hover menu]]></phrase>
   <phrase title="style_prop_desc.animationSpeed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[All animations within the system base their speed on this value. Smaller values (in seconds) make for faster animations]]></phrase>
+  <phrase title="style_prop_desc.audfeeds_chromeless_tabs" addon_id="Audentio/Feeds" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[This removes background color, border and box shadow from the tabs element. (Note: this is intended to be used if you want to move the styling to the tab wrapper instead of the tabs themselves.)]]></phrase>
+  <phrase title="style_prop_desc.audfeeds_tabbar_location" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.audfeeds_tabsWrapper" addon_id="Audentio/Feeds" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.avatarBg" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The basic background of all avatars, graphical and generic]]></phrase>
   <phrase title="style_prop_desc.avatarBorderRadius" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Controls the size of the rounded corners on avatars - a sufficiently large value will make avatars circular]]></phrase>
   <phrase title="style_prop_desc.avatarDefaultImage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The image URL specified here will be used as the image within the default avatar. Only applies if the "Image" type is selected above.]]></phrase>
@@ -16622,6 +16980,7 @@ Use the following code in your "message_macros" template:<br>
   <phrase title="style_prop_desc.wt_tab_style" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.zIndexMultiplier" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Controls the relative 'height' of elements in the Z-dimension (perpendicular to the screen). Unless you have a specific reason to change this, leave it alone...]]></phrase>
   <phrase title="style_prop_group.afAwardSystem" addon_id="AddonFlare/AwardSystem" version_id="1000070" version_string="1.0.0"><![CDATA[[AddonFlare] XF2 Awards System]]></phrase>
+  <phrase title="style_prop_group.audfeeds" addon_id="Audentio/Feeds" version_id="1000055" version_string="1.0.0 Release Candidate 5"><![CDATA[[Audentio] Feeds]]></phrase>
   <phrase title="style_prop_group.avatar" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Avatars]]></phrase>
   <phrase title="style_prop_group.basic" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Basic options]]></phrase>
   <phrase title="style_prop_group.bbCode" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[BB code elements]]></phrase>
@@ -16660,6 +17019,7 @@ Use the following code in your "message_macros" template:<br>
   <phrase title="style_prop_group.thnodes_styling" addon_id="ThemeHouse/Nodes" version_id="1000731" version_string="1.0.7 Beta 1"><![CDATA[[TH] Nodes: Styling]]></phrase>
   <phrase title="style_prop_group.tooltip" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tooltips]]></phrase>
   <phrase title="style_prop_group_desc.afAwardSystem" addon_id="AddonFlare/AwardSystem" version_id="1000170" version_string="1.0.1"><![CDATA[A number of properties to control the appearance of the XF2 Awards System add-on]]></phrase>
+  <phrase title="style_prop_group_desc.audfeeds" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[]]></phrase>
   <phrase title="style_prop_group_desc.avatar" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Avatars are graphical representations of users. Some users may upload their own images, while others will use the default letter-based imagery. Styling for both of these types is controlled here.]]></phrase>
   <phrase title="style_prop_group_desc.basic" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Defines the location of various commonly-used assets etc.]]></phrase>
   <phrase title="style_prop_group_desc.bbCode" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This section contains properties and options relating to BB codes used to style messages and other user-generated content.]]></phrase>
@@ -17494,6 +17854,7 @@ By continuing to use this site, you are consenting to our use of cookies.]]></ph
   <phrase title="this_will_test_x_connected_account_provider_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This will test the {title} connected account provider. You must have a {title} account to perform this test.]]></phrase>
   <phrase title="this_will_usually_be_email_address_for_google_account" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[This will usually be the email address for the Google account.]]></phrase>
   <phrase title="this_would_ban_all_email_addresses" addon_id="XF" version_id="0" version_string=""><![CDATA[This would ban all email addresses.]]></phrase>
+  <phrase title="thlessons_selected_category_not_found" addon_id="Audentio/Feeds" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Selected category could not be found.]]></phrase>
   <phrase title="thnodes_background_color_description" addon_id="ThemeHouse/Nodes" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[This option allows you to define a background color that will be applied to the node container.]]></phrase>
   <phrase title="thnodes_background_image_url_description" addon_id="ThemeHouse/Nodes" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[This option allows you to define a background image that will be applied to the node container.]]></phrase>
   <phrase title="thnodes_banner_image_url" addon_id="ThemeHouse/Nodes" version_id="1000792" version_string="1.0.7 Patch Level 2"><![CDATA[Banner image]]></phrase>
@@ -18581,6 +18942,7 @@ Your account's access may be limited based on these actions. Please keep this in
   <phrase title="watch_forum" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Watch forum]]></phrase>
   <phrase title="watch_this_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Watch this thread]]></phrase>
   <phrase title="watch_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Watch thread]]></phrase>
+  <phrase title="watched_audfeeds_thread_promote" addon_id="Audentio/Feeds" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[<p>{replier} posted a new thread to a feed you are watching at {board}.</p>]]></phrase>
   <phrase title="watched_categories" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Watched categories]]></phrase>
   <phrase title="watched_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Watched content]]></phrase>
   <phrase title="watched_forum_email_html_footer" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p class="minorText">Please do not reply to this message. You must visit the forum to reply.</p>
@@ -18645,10 +19007,11 @@ Your account's access may be limited based on these actions. Please keep this in
   <phrase title="widget.dbtech_shop_wallet" addon_id="" version_id="0" version_string=""><![CDATA[Wallet]]></phrase>
   <phrase title="widget.dbtech_shop_whats_new_overview_new_items" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.feature_grid" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="widget.feature_widget" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.fhb" addon_id="" version_id="0" version_string=""><![CDATA[Rich list]]></phrase>
   <phrase title="widget.forum_overview_new_profile_posts" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.forum_statistics" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="widget.friend_link" addon_id="" version_id="0" version_string=""><![CDATA[友情链接]]></phrase>
+  <phrase title="widget.friend_link" addon_id="" version_id="0" version_string=""><![CDATA[Friend links]]></phrase>
   <phrase title="widget.friend_links" addon_id="" version_id="0" version_string=""><![CDATA[Links]]></phrase>
   <phrase title="widget.good_resources" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.google_adsense" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -18691,6 +19054,7 @@ Your account's access may be limited based on these actions. Please keep this in
   <phrase title="widget.xfrm_list_top_resources" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.xfrm_overview_latest_reviews" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.xfrm_overview_top_authors" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="widget.xfrm_resource_statistics" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.zhenghe" addon_id="" version_id="0" version_string=""><![CDATA[The latest contents]]></phrase>
   <phrase title="widget_def.WidgetTabs" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[[cXF] Widget Tabs]]></phrase>
   <phrase title="widget_def.birthdays" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Today's birthdays]]></phrase>
@@ -18738,6 +19102,7 @@ Your account's access may be limited based on these actions. Please keep this in
   <phrase title="widget_def.thread_poll" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread poll]]></phrase>
   <phrase title="widget_def.thuix_socialMedia" addon_id="ThemeHouse/UIX" version_id="2000670" version_string="2.0.6"><![CDATA[[TH] UI.X social media feed]]></phrase>
   <phrase title="widget_def.visitor_panel" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Visitor panel]]></phrase>
+  <phrase title="widget_def.xFRMResourceStatistics" addon_id="Andy/XFRMResourceStatistics" version_id="10" version_string="1.0"><![CDATA[XFRM resource statistics]]></phrase>
   <phrase title="widget_def.xfes_similar_threads" addon_id="XFES" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[XFES: Similar threads]]></phrase>
   <phrase title="widget_def.xfrm_featured_resources" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[XFRM: Featured resources]]></phrase>
   <phrase title="widget_def.xfrm_latest_reviews" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[XFRM: Latest reviews]]></phrase>
@@ -18789,6 +19154,7 @@ Your account's access may be limited based on these actions. Please keep this in
   <phrase title="widget_def_desc.thread_poll" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Displays the specified poll in a widget.]]></phrase>
   <phrase title="widget_def_desc.thuix_socialMedia" addon_id="ThemeHouse/UIX" version_id="2000670" version_string="2.0.6"><![CDATA[]]></phrase>
   <phrase title="widget_def_desc.visitor_panel" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Displays the visitor's avatar and basic information to the visitor about themselves.]]></phrase>
+  <phrase title="widget_def_desc.xFRMResourceStatistics" addon_id="Andy/XFRMResourceStatistics" version_id="10" version_string="1.0"><![CDATA[Displays a block containing XFRM resource statistics.]]></phrase>
   <phrase title="widget_def_desc.xfes_similar_threads" addon_id="XFES" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Displays a block containing a list of X threads which are similar to the current thread. This widget will only work in "thread view" positions.]]></phrase>
   <phrase title="widget_def_desc.xfrm_featured_resources" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Displays the featured resources.]]></phrase>
   <phrase title="widget_def_desc.xfrm_latest_reviews" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Displays the latest resource reviews.]]></phrase>
@@ -18809,6 +19175,10 @@ Callback arguments:
   <phrase title="widget_keys_must_be_unique" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Widget keys must be unique. The specified key is already in use.]]></phrase>
   <phrase title="widget_no_position_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Widgets with no position will not appear anywhere, but you can call the configured widget instance directly in templates using the <code>&lt;xf:widget key="widget_key" /&gt;</code> syntax.]]></phrase>
   <phrase title="widget_option_names_may_only_contain_alphanumeric_underscore" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Widget option names may only contain A-Z, 0-9 and underscores.]]></phrase>
+  <phrase title="widget_pos.audfeeds_feed_view_above_content" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[[Audentio] Feeds: Feed view above content]]></phrase>
+  <phrase title="widget_pos.audfeeds_feed_view_below_content" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[[Audentio] Feeds: Feed view below content]]></phrase>
+  <phrase title="widget_pos.audfeeds_feed_view_sidebar" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[[Audentio] Feeds: Feed view sidebar]]></phrase>
+  <phrase title="widget_pos.audfeeds_feed_view_sidenav" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[[Audentio] Feeds: Feed view sidenav]]></phrase>
   <phrase title="widget_pos.category_view_sidebar" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Category view: Sidebar]]></phrase>
   <phrase title="widget_pos.conversation_list_sidebar" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Conversation list: Sidebar]]></phrase>
   <phrase title="widget_pos.conversation_view_sidebar" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Conversation view: Sidebar]]></phrase>
@@ -18865,6 +19235,10 @@ Callback arguments:
   <phrase title="widget_pos.xfrm_category_sidenav" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Resource category: Sidenav]]></phrase>
   <phrase title="widget_pos.xfrm_overview_above_resources" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Resource overview: Above resources]]></phrase>
   <phrase title="widget_pos.xfrm_overview_sidenav" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Resource overview: Sidenav]]></phrase>
+  <phrase title="widget_pos_desc.audfeeds_feed_view_above_content" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[]]></phrase>
+  <phrase title="widget_pos_desc.audfeeds_feed_view_below_content" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[]]></phrase>
+  <phrase title="widget_pos_desc.audfeeds_feed_view_sidebar" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[]]></phrase>
+  <phrase title="widget_pos_desc.audfeeds_feed_view_sidenav" addon_id="Audentio/Feeds" version_id="1000013" version_string="1.0.0 Alpha 3"><![CDATA[]]></phrase>
   <phrase title="widget_pos_desc.category_view_sidebar" addon_id="XF" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Position in the sidebar of the category_view template. Widget templates rendered in this position can use the current category entity in the <code>{$context.category}</code> param. Widgets here will only be visible if the 'Create pages for categories' option is enabled.]]></phrase>
   <phrase title="widget_pos_desc.conversation_list_sidebar" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Position in the sidebar while viewing a list of conversations.]]></phrase>
   <phrase title="widget_pos_desc.conversation_view_sidebar" addon_id="XF" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Position in the conversation_view template sidebar. Widget templates rendered in this position can use the current conversation entity in the <code>{$context.conversation}</code> param.]]></phrase>
@@ -19467,6 +19841,11 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_your_review_to_resource_x_was_submitted" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Your review to the resource {title} was submitted.]]></phrase>
   <phrase title="xfrm_your_update_x_for_y_was_deleted" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Your update {update} for {resource} was deleted.]]></phrase>
   <phrase title="xfrm_your_update_x_for_y_was_edited" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Your update {update} for {resource} was edited.]]></phrase>
+  <phrase title="xfrmresourcestatistics_resource_statistics" addon_id="Andy/XFRMResourceStatistics" version_id="10" version_string="1.0"><![CDATA[Resource statistics]]></phrase>
+  <phrase title="xfrmresourcestatistics_total_downloads" addon_id="Andy/XFRMResourceStatistics" version_id="10" version_string="1.0"><![CDATA[Total downloads]]></phrase>
+  <phrase title="xfrmresourcestatistics_total_downloads_24_hours" addon_id="Andy/XFRMResourceStatistics" version_id="12" version_string="1.2"><![CDATA[Downloads last 24 hours]]></phrase>
+  <phrase title="xfrmresourcestatistics_total_resources" addon_id="Andy/XFRMResourceStatistics" version_id="10" version_string="1.0"><![CDATA[Total resources]]></phrase>
+  <phrase title="xfrmresourcestatistics_total_reviews" addon_id="Andy/XFRMResourceStatistics" version_id="12" version_string="1.2"><![CDATA[Total reviews]]></phrase>
   <phrase title="xml_file_based_on_newer_version_than_installed" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[This XML file is based on a newer version than you have installed. This may cause errors or unexpected behavior.]]></phrase>
   <phrase title="xml_file_relates_add_on_not_installed_install_first" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[This XML file relates to a particular add-on that is not installed. The add-on should be installed first.]]></phrase>
   <phrase title="xs_latest_activity" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name}'s latest activity]]></phrase>
