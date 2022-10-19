@@ -1327,9 +1327,9 @@ JS代码:
   <phrase title="buttons_menus_may_not_be_duplicated" addon_id="XF" version_id="2010035" version_string="2.1.0 Beta 5"><![CDATA[按钮和菜单不能重复。]]></phrase>
   <phrase title="buttons_visible" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[按钮可见]]></phrase>
   <phrase title="by" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[作者]]></phrase>
-  <phrase title="by_registering_you_agree_to_our_privacy_policy" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[通过注册，您必须同意我们的<a href="{privacy}" target="_blank">条款和规则</a>。]]></phrase>
-  <phrase title="by_registering_you_agree_to_our_terms_and_privacy_policy" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[通过注册，您必须同意我们的<a href="{tos}" target="_blank">条款</a>和<a href="{privacy}" target="_blank">隐私权政策</a>。]]></phrase>
-  <phrase title="by_registering_you_agree_to_our_terms_and_rules" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[通过注册，您必须同意我们的<a href="{tos}" target="_blank">条款和规则</a>。]]></phrase>
+  <phrase title="by_registering_you_agree_to_our_privacy_policy" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[我同意<a href="{privacy}" target="_blank">隐私政策</a>。]]></phrase>
+  <phrase title="by_registering_you_agree_to_our_terms_and_privacy_policy" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[我同意<a href="{tos}" target="_blank">条款</a>和<a href="{privacy}" target="_blank">隐私政策</a>。]]></phrase>
+  <phrase title="by_registering_you_agree_to_our_terms_and_rules" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[我同意<a href="{tos}" target="_blank">条款和规则</a>。]]></phrase>
   <phrase title="by_url" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[按 URL]]></phrase>
   <phrase title="by_user_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[作者 {name}]]></phrase>
   <phrase title="bypass_all_https_requests" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[绕过所有HTTPS请求]]></phrase>
@@ -9220,7 +9220,7 @@ This is the message they left:
   <phrase title="for_time_period" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[时间周期]]></phrase>
   <phrase title="force_privacy_policy_agreement" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[强制同意隐私政策]]></phrase>
   <phrase title="force_terms_and_rules_agreement" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[强制同意条款和规则]]></phrase>
-  <phrase title="forgot_your_password" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[忘记密码了吗？]]></phrase>
+  <phrase title="forgot_your_password" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[忘记密码了？]]></phrase>
   <phrase title="format_parameters" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[格式化参数]]></phrase>
   <phrase title="formatted" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[格式化]]></phrase>
   <phrase title="forum" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[论坛]]></phrase>
@@ -10107,7 +10107,7 @@ Multiple styles can be combined.
   <phrase title="last_administrator_cannot_be_deleted" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[无法删除最后一个管理员。]]></phrase>
   <phrase title="last_day" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[最后一天]]></phrase>
   <phrase title="last_edited" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[最后编辑]]></phrase>
-  <phrase title="last_edited_by_moderator" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[由版主最后编辑]]></phrase>
+  <phrase title="last_edited_by_moderator" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[最后由版主编辑于]]></phrase>
   <phrase title="last_login" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[最后登录]]></phrase>
   <phrase title="last_message" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[最后发表]]></phrase>
   <phrase title="last_modified" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[最后修改]]></phrase>
@@ -10234,11 +10234,11 @@ Multiple styles can be combined.
   <phrase title="log_details" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[日志详细信息]]></phrase>
   <phrase title="log_in" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[登录]]></phrase>
   <phrase title="log_in_or_register_now" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[现在登录或注册。]]></phrase>
-  <phrase title="log_in_or_register_to_post" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[您必须登录或注册才可以在发帖。]]></phrase>
-  <phrase title="log_in_or_register_to_reply" addon_id="XF" version_id="2000033" version_string="2.0.0 Beta 3"><![CDATA[您必须登录或注册才可回复。]]></phrase>
-  <phrase title="log_in_using" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[登录使用]]></phrase>
+  <phrase title="log_in_or_register_to_post" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[登录或注册后才能发帖]]></phrase>
+  <phrase title="log_in_or_register_to_reply" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[登录或注册后才能回复]]></phrase>
+  <phrase title="log_in_using" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[用下列方式登录]]></phrase>
   <phrase title="log_out" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[退出]]></phrase>
-  <phrase title="log_table_is_valid_but_it_must_not_contain_content_enter_different_name" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[日志表是有效的，但它不能包含内容。请输入一个不同的表名。]]></phrase>
+  <phrase title="log_table_is_valid_but_it_must_not_contain_content_enter_different_name" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[日志表有效，但不能包含内容。 请输入不同的表名。]]></phrase>
   <phrase title="logged_activity" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[登录活动]]></phrase>
   <phrase title="logging_in_as" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[登录为]]></phrase>
   <phrase title="login" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[登录]]></phrase>
@@ -10380,7 +10380,7 @@ Multiple styles can be combined.
   <phrase title="members_who_liked_this" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[支持的会员]]></phrase>
   <phrase title="members_who_reacted_to_message_by_x" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[对{user}消息做出反馈的会员]]></phrase>
   <phrase title="members_who_reacted_to_message_x" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[对#{position}消息做出反馈的会员]]></phrase>
-  <phrase title="members_who_reacted_to_this" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[对此有所反馈的会员]]></phrase>
+  <phrase title="members_who_reacted_to_this" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[对此表态的用户]]></phrase>
   <phrase title="members_who_voted_for_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA['{response}' 的投票会员]]></phrase>
   <phrase title="members_x_is_following" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name} 正在关注]]></phrase>
   <phrase title="members_you_follow" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[您关注的会员]]></phrase>
@@ -14140,7 +14140,7 @@ Before your content can be posted, please take a few moments to login to your us
   <phrase title="receive_email_when_new_conversation_message_is_received" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[收到私信消息后邮件提醒]]></phrase>
   <phrase title="receive_notification_when_someone" addon_id="XF" version_id="2020270" version_string="2.2.2"><![CDATA[发送通知，当有人]]></phrase>
   <phrase title="receive_push_notification_when_new_conversation_message_is_received" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[收到新的私信消息时接收推送通知]]></phrase>
-  <phrase title="receive_site_mailings" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[接受来自论坛的邮件]]></phrase>
+  <phrase title="receive_site_mailings" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[通过电子邮件收到我们的消息和通知]]></phrase>
   <phrase title="receive_site_mailings_hint" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[]]></phrase>
   <phrase title="receive_site_mailings_option" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[接收新闻和更新电子邮件]]></phrase>
   <phrase title="receive_summary_activity_email" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[接收活动摘要电子邮件]]></phrase>
@@ -14231,7 +14231,7 @@ Before your content can be posted, please take a few moments to login to your us
   <phrase title="removing_reactions" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[删除反馈]]></phrase>
   <phrase title="rename_this_user_to" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[将此用户重命名为]]></phrase>
   <phrase title="reopen_via_admin_control_panel" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[进入管理后台重新开放]]></phrase>
-  <phrase title="repeated_characters_such_as_aaa_easy_to_guess" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[重复的字符如“aaa”很容易猜到。]]></phrase>
+  <phrase title="repeated_characters_such_as_aaa_easy_to_guess" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[像“aaa”这样的重复字符会很容易被猜到噢！]]></phrase>
   <phrase title="repeated_characters_such_as_abcabcabc_only_slightly_more_difficult" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[诸如“abcabcabc”之类的重复字符比“abc”稍微难以猜测。]]></phrase>
   <phrase title="replace" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[替换]]></phrase>
   <phrase title="replace_all" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[全部替换]]></phrase>
@@ -14621,7 +14621,7 @@ Before your content can be posted, please take a few moments to login to your us
   <phrase title="send_welcome_email_on_registration" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[注册时发送电子邮件欢迎信]]></phrase>
   <phrase title="sending" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Sending]]></phrase>
   <phrase title="separate_names_with_comma" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[用逗号分开名称。]]></phrase>
-  <phrase title="sequences_like_abc_or_6543_easy_to_guess" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[像“ABC”或“6543”这样的序列很容易猜测。]]></phrase>
+  <phrase title="sequences_like_abc_or_6543_easy_to_guess" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[像“abc”或“6543”这样的序列字很容易被猜到噢！]]></phrase>
   <phrase title="serve_from_preferred_cdn" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[从首选 CDN 提供服务]]></phrase>
   <phrase title="server_based_trigger" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[基于服务器的触发器]]></phrase>
   <phrase title="server_did_not_respond_in_time_try_again" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[服务器响应超时，请重试。]]></phrase>
@@ -17675,7 +17675,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="this_is_how_you_will_refer_to_property_in_template" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[指导如何在模板中引用属性。]]></phrase>
   <phrase title="this_is_last_position_for_this_widget_permanently_delete" addon_id="XF" version_id="2010034" version_string="2.1.0 Beta 4"><![CDATA[这是此小工具的最后一个位置。永久删除小工具。]]></phrase>
   <phrase title="this_is_maximum_number_of_responses_voter_may_select_when_voting" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[这是投票人在投票时可以选择的最多选项。]]></phrase>
-  <phrase title="this_is_name_that_will_be_shown_with_your_messages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[请输入您所支持的用于登陆和在此站点为人知晓的名字。注册后无法更改。]]></phrase>
+  <phrase title="this_is_name_that_will_be_shown_with_your_messages" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[这是将与你的消息一起显示的名称。选择任何你喜欢的名字吧~]]></phrase>
   <phrase title="this_is_preview_of_your_button_layout" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[这是按钮布局的预览]]></phrase>
   <phrase title="this_is_reasonably_strong_password" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[这是一个相当强大的密码。]]></phrase>
   <phrase title="this_is_unique_identifier_for_field_cannot_be_changed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[这是栏目的唯 一标识 ID，一旦设置不能更改。]]></phrase>
@@ -17695,8 +17695,8 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="this_node_type_does_not_support_api_manipulation" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[此节点类型不支持API操作。]]></phrase>
   <phrase title="this_option_must_belong_to_at_least_one_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[选项至少要属于一个分组。]]></phrase>
   <phrase title="this_page_is_only_available_when_development_mode_is_enabled" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[此页面仅在启用开发模式时可用。]]></phrase>
-  <phrase title="this_password_appears_in_top_100_most_common_passwords_list" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[此密码显示在前100个最常用的密码列表中。]]></phrase>
-  <phrase title="this_password_appears_in_top_10_most_common_passwords_list" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[此密码显示在十大最常见的密码列表中。]]></phrase>
+  <phrase title="this_password_appears_in_top_100_most_common_passwords_list" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[这好像是100个最常用的密码之一！]]></phrase>
+  <phrase title="this_password_appears_in_top_10_most_common_passwords_list" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[这好像是10大最常见的密码之一！]]></phrase>
   <phrase title="this_password_is_similar_to_commonly_used_password" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[此密码类似于常用密码。]]></phrase>
   <phrase title="this_password_is_very_common_password" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[此密码是一种非常常见的密码。]]></phrase>
   <phrase title="this_password_reset_was_requested_by_admin_of_x_on_your_behalf" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[此密码重置是由 {board_title} 的管理员请求的。]]></phrase>
@@ -17707,7 +17707,8 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="this_requires_new_tags_to_match_given_regular_expression" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[新标签必须符合指定的正规表示法。您必须包含分隔符号与修饰词（例如： /example/siU）。]]></phrase>
   <phrase title="this_section_is_currently_empty" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[本区域当前为空。]]></phrase>
   <phrase title="this_should_be_entered_as_template_style_expression" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[这里应该输入模板风格语法。]]></phrase>
-  <phrase title="this_site_uses_cookies_notice" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[本站需要使用 Cookie。如果您继续使用本站，则表示同意我们使用 Cookie。]]></phrase>
+  <phrase title="this_site_uses_cookies_notice" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[MineBBS 需要 cookies 来个性化内容、定制体验和保持登录。<br />
+继续使用本网站，即表示您同意我们使用 cookies。]]></phrase>
   <phrase title="this_style_xml_file_was_not_built_for_this_version_of_xenforo" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[此风格 XML文件不兼容此版本的 XenForo。]]></phrase>
   <phrase title="this_subscription_cannot_be_cancelled_maybe_already_cancelled" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[此订阅无法取消，因为先前已取消过了。]]></phrase>
   <phrase title="this_table_contains_mappings_from_old_ids_to_new_ids" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[此表包含从旧ID到新ID的映射。您可能需要重定向脚本。]]></phrase>
@@ -19514,7 +19515,7 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_public_deletion_reason_explain" addon_id="XFRM" version_id="2010051" version_string="2.1.0 Release Candidate 1"><![CDATA[此处提供的任何原因都将包含在消息中，消息将自动发布在资源讨论主题中，解释资源不再可用。]]></phrase>
   <phrase title="xfrm_rate_this_resource" addon_id="XFRM" version_id="2020270" version_string="2.2.2"><![CDATA[评价此资源]]></phrase>
   <phrase title="xfrm_ratings" addon_id="XFRM" version_id="2010131" version_string="2.1.1 Beta 1"><![CDATA[Ratings]]></phrase>
-  <phrase title="xfrm_read_more" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[阅读全文]]></phrase>
+  <phrase title="xfrm_read_more" addon_id="XFRM" version_id="2020470" version_string="2.2.4"><![CDATA[查看更多]]></phrase>
   <phrase title="xfrm_reassign_resource" addon_id="XFRM" version_id="2020170" version_string="2.2.1"><![CDATA[转让资源]]></phrase>
   <phrase title="xfrm_reassign_resources" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[重新分配资源]]></phrase>
   <phrase title="xfrm_rebuild_resource_categories" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[重建资源分类]]></phrase>
