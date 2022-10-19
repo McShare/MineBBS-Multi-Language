@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<language title="简体中文 (zh-CHS)" date_format="Y/m/d" time_format="H:i" currency_format="{value}{symbol}" week_start="0" decimal_point="." thousands_separator="," label_separator="：" comma_separator="、" ellipsis="..." parenthesis_open="（" parenthesis_close="）" language_code="zh-Hans" text_direction="LTR" user_selectable="1" base_version_id="2021071" export_version="2">
+<language title="简体中文 (zh-CHS)" date_format="Y/m/d" time_format="H:i" currency_format="{value}{symbol}" week_start="0" decimal_point="." thousands_separator="," label_separator="：" comma_separator="、" ellipsis="..." parenthesis_open="（" parenthesis_close="）" language_code="zh-Hans" text_direction="LTR" user_selectable="1" base_version_id="2021171" export_version="2">
   <phrase title="1_day_ago" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[一天前]]></phrase>
   <phrase title="1_month_ago" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[一个月前]]></phrase>
   <phrase title="1_time" addon_id="XF" version_id="2010670" version_string="2.1.6"><![CDATA[一次]]></phrase>
@@ -314,7 +314,7 @@
   <phrase title="admin_navigation.development" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[扩展]]></phrase>
   <phrase title="admin_navigation.discouragedIps" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[阻止的 IP 地址]]></phrase>
   <phrase title="admin_navigation.em" addon_id="KL/EditorManager" version_id="2000070" version_string="2.0.0"><![CDATA[编辑器管理器]]></phrase>
-  <phrase title="admin_navigation.emBBCode" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[BB codes]]></phrase>
+  <phrase title="admin_navigation.emBBCode" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[BB代码]]></phrase>
   <phrase title="admin_navigation.emFonts" addon_id="KL/EditorManager" version_id="2000070" version_string="2.0.0"><![CDATA[字体]]></phrase>
   <phrase title="admin_navigation.emLayout" addon_id="KL/EditorManager" version_id="1010070" version_string="1.1.0"><![CDATA[Toolbar layout]]></phrase>
   <phrase title="admin_navigation.emOptions" addon_id="KL/EditorManager" version_id="1010070" version_string="1.1.0"><![CDATA[Options]]></phrase>
@@ -336,9 +336,9 @@
   <phrase title="admin_navigation.klEMSpecialChars" addon_id="KL/EditorManager" version_id="2000070" version_string="2.0.0"><![CDATA[特殊字符]]></phrase>
   <phrase title="admin_navigation.klEMVideoProxyLog" addon_id="KL/EditorManager" version_id="2000070" version_string="2.0.0"><![CDATA[视频代理日志]]></phrase>
   <phrase title="admin_navigation.klUIRewardTrophies" addon_id="KL/UserImprovements" version_id="1020270" version_string="1.2.2"><![CDATA[颁发勋章]]></phrase>
-  <phrase title="admin_navigation.kl_em_bbMedia" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[BB Code media sites]]></phrase>
+  <phrase title="admin_navigation.kl_em_bbMedia" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[BB代码媒体网站]]></phrase>
   <phrase title="admin_navigation.kl_em_bbc" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[BB codes]]></phrase>
-  <phrase title="admin_navigation.kl_em_customBBC" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Custom BB codes]]></phrase>
+  <phrase title="admin_navigation.kl_em_customBBC" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[自定义BB代码]]></phrase>
   <phrase title="admin_navigation.kl_em_editor" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Editor]]></phrase>
   <phrase title="admin_navigation.languages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[语言列表]]></phrase>
   <phrase title="admin_navigation.languagesAndPhrases" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[语言 &amp; 短语]]></phrase>
@@ -387,7 +387,7 @@
   <phrase title="admin_navigation.qAndACaptcha" addon_id="XF" version_id="2010670" version_string="2.1.6"><![CDATA[问答验证]]></phrase>
   <phrase title="admin_navigation.reactions" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[反馈]]></phrase>
   <phrase title="admin_navigation.rebuildCaches" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[重建缓存]]></phrase>
-  <phrase title="admin_navigation.redisInfo" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[Redis Info]]></phrase>
+  <phrase title="admin_navigation.redisInfo" addon_id="SV/RedisCache" version_id="20110302" version_string="2.11.3"><![CDATA[Redis信息]]></phrase>
   <phrase title="admin_navigation.rejectedUserLog" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[拒绝用户日志]]></phrase>
   <phrase title="admin_navigation.routeFilters" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[路径变更]]></phrase>
   <phrase title="admin_navigation.routes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[路径]]></phrase>
@@ -528,6 +528,7 @@
   <phrase title="admin_permission.help" addon_id="XF" version_id="2010670" version_string="2.1.6"><![CDATA[帮助管理]]></phrase>
   <phrase title="admin_permission.import" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[导入数据]]></phrase>
   <phrase title="admin_permission.language" addon_id="XF" version_id="2010670" version_string="2.1.6"><![CDATA[语言 & 短语管理]]></phrase>
+  <phrase title="admin_permission.mjcCredits" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[[BR] 积分]]></phrase>
   <phrase title="admin_permission.navigation" addon_id="XF" version_id="2010670" version_string="2.1.6"><![CDATA[导航管理]]></phrase>
   <phrase title="admin_permission.node" addon_id="XF" version_id="2010670" version_string="2.1.6"><![CDATA[节点管理]]></phrase>
   <phrase title="admin_permission.notice" addon_id="XF" version_id="2010670" version_string="2.1.6"><![CDATA[公告管理]]></phrase>
@@ -582,7 +583,7 @@
   <phrase title="af_as_allow_multiple_explain" addon_id="AddonFlare/AwardSystem" version_id="1010071" version_string="1.1.0.1"><![CDATA[允许用户拥有一个以上的奖章]]></phrase>
   <phrase title="af_as_allow_view_profile" addon_id="AddonFlare/AwardSystem" version_id="1040070" version_string="1.4.0"><![CDATA[View awards tab on profile]]></phrase>
   <phrase title="af_as_amount_needed_levelup_increasesby" addon_id="AddonFlare/AwardSystem" version_id="1010071" version_string="1.1.0.1"><![CDATA[用于升级的点数提升]]></phrase>
-  <phrase title="af_as_auto" addon_id="AddonFlare/AwardSystem" version_id="1040070" version_string="1.4.0"><![CDATA[Auto]]></phrase>
+  <phrase title="af_as_auto" addon_id="AddonFlare/AwardSystem" version_id="1040170" version_string="1.4.1"><![CDATA[自动]]></phrase>
   <phrase title="af_as_auto_award_features" addon_id="AddonFlare/AwardSystem" version_id="1010170" version_string="1.1.1"><![CDATA[Auto award features]]></phrase>
   <phrase title="af_as_auto_feature_awards" addon_id="AddonFlare/AwardSystem" version_id="1030071" version_string="1.3.0.1"><![CDATA[自动展出勋章]]></phrase>
   <phrase title="af_as_auto_feature_awards_hint" addon_id="AddonFlare/AwardSystem" version_id="1030071" version_string="1.3.0.1"><![CDATA[获取勋章时自动展出]]></phrase>
@@ -681,7 +682,7 @@
   <phrase title="af_as_featuredAwards" addon_id="AddonFlare/AwardSystem" version_id="1030071" version_string="1.3.0.1"><![CDATA[展出勋章]]></phrase>
   <phrase title="af_as_featuredAwards_instructions" addon_id="AddonFlare/AwardSystem" version_id="1010071" version_string="1.1.0.1"><![CDATA[单击箭头取消展示。拖动改变展示排序。]]></phrase>
   <phrase title="af_as_give_award_if" addon_id="AddonFlare/AwardSystem" version_id="1040070" version_string="1.4.0"><![CDATA[Give this award if]]></phrase>
-  <phrase title="af_as_given_by" addon_id="AddonFlare/AwardSystem" version_id="1040070" version_string="1.4.0"><![CDATA[Given By]]></phrase>
+  <phrase title="af_as_given_by" addon_id="AddonFlare/AwardSystem" version_id="1040170" version_string="1.4.1"><![CDATA[颁发者]]></phrase>
   <phrase title="af_as_inline_css" addon_id="AddonFlare/AwardSystem" version_id="1010170" version_string="1.1.1"><![CDATA[Inline CSS]]></phrase>
   <phrase title="af_as_invalid_award_specified" addon_id="AddonFlare/AwardSystem" version_id="1000070" version_string="1.0.0"><![CDATA[指定的勋章无效]]></phrase>
   <phrase title="af_as_invalid_recipients" addon_id="AddonFlare/AwardSystem" version_id="1000070" version_string="1.0.0"><![CDATA[指定的接受者无效]]></phrase>
@@ -1435,6 +1436,8 @@ JS代码:
   <phrase title="closed_reports" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[关闭举报]]></phrase>
   <phrase title="closed_reports_x_y" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[关闭举报： {from} - {to}]]></phrase>
   <phrase title="cnxfans_gave_you_a_red_ennelope" addon_id="MJ/Credits" version_id="1010300" version_string="1.1.3"><![CDATA[{name} 在主题<a href="{target}"> {thread} </a>中的帖子内给您发了红包！]]></phrase>
+  <phrase title="cnxfans_gave_you_a_red_envelope" addon_id="" version_id="0" version_string=""><![CDATA[{name} 在主题<a href="{target}"> {thread} </a>中的帖子内给您发了红包！
+]]></phrase>
   <phrase title="cnxfans_the_transfer_amount_is_not_enough" addon_id="MJ/Credits" version_id="1020301" version_string="1.2.3"><![CDATA[转账金额不抵税金，请输入合适的金额。]]></phrase>
   <phrase title="code" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[代码]]></phrase>
   <phrase title="code_event_execution_order_desc" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[按 ID 顺序执行。注意：未指定事件的监听器优先运行。]]></phrase>
@@ -9637,9 +9640,9 @@ Web服务器用户必须可以写入各种目录以从存档进行安装，这�
   <phrase title="kl_em_aliases" addon_id="KL/EditorManager" version_id="1010070" version_string="1.1.0"><![CDATA[Aliases]]></phrase>
   <phrase title="kl_em_align_justify" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[Align justify]]></phrase>
   <phrase title="kl_em_alternate_rows" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Alternate rows]]></phrase>
-  <phrase title="kl_em_audio" addon_id="KL/EditorManager" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[Audio]]></phrase>
-  <phrase title="kl_em_audio_proxy_details" addon_id="KL/EditorManager" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[Audio proxy details]]></phrase>
-  <phrase title="kl_em_audio_proxy_log" addon_id="KL/EditorManager" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[Audio proxy log]]></phrase>
+  <phrase title="kl_em_audio" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[音频]]></phrase>
+  <phrase title="kl_em_audio_proxy_details" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[音频代理详情]]></phrase>
+  <phrase title="kl_em_audio_proxy_log" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[音频代理日志]]></phrase>
   <phrase title="kl_em_available_buttons" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[Available buttons]]></phrase>
   <phrase title="kl_em_background_color" addon_id="KL/EditorManager" version_id="2000070" version_string="2.0.0"><![CDATA[背景色]]></phrase>
   <phrase title="kl_em_bb_code_b_u_i_s_desc" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Basic text formatting for the wrapped text.]]></phrase>
@@ -9831,7 +9834,7 @@ Multiple styles can be combined.
   <phrase title="kl_em_position_of_this_item" addon_id="KL/EditorManager" version_id="1010070" version_string="1.1.0"><![CDATA[The position of this item.]]></phrase>
   <phrase title="kl_em_prefix" addon_id="KL/EditorManager" version_id="2000070" version_string="2.0.0"><![CDATA[前缀]]></phrase>
   <phrase title="kl_em_private" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Private]]></phrase>
-  <phrase title="kl_em_proxy_audios" addon_id="KL/EditorManager" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[Proxy audios]]></phrase>
+  <phrase title="kl_em_proxy_audios" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[代理音频]]></phrase>
   <phrase title="kl_em_proxy_videos" addon_id="KL/EditorManager" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[Proxy videos]]></phrase>
   <phrase title="kl_em_public" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Public]]></phrase>
   <phrase title="kl_em_remove_emoji" addon_id="KL/EditorManager" version_id="2000070" version_string="2.0.0"><![CDATA[从 emojis 选择器中删除表情符号]]></phrase>
@@ -10497,6 +10500,7 @@ Multiple styles can be combined.
   <phrase title="mjc_choose_event_definition" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[选择事件定义]]></phrase>
   <phrase title="mjc_clear_all_transactions" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[清除所有交易]]></phrase>
   <phrase title="mjc_clear_all_user_credits" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[清除所有用户积分]]></phrase>
+  <phrase title="mjc_clock" addon_id="MJ/Credits" version_id="1020810" version_string="1.2.8.1"><![CDATA[每日签到]]></phrase>
   <phrase title="mjc_code" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[代码]]></phrase>
   <phrase title="mjc_column_x_was_not_found" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[找不到列{column}。]]></phrase>
   <phrase title="mjc_comment" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[评论]]></phrase>
@@ -10586,7 +10590,7 @@ Multiple styles can be combined.
   <phrase title="mjc_event.45" addon_id="" version_id="0" version_string=""><![CDATA[收到回帖]]></phrase>
   <phrase title="mjc_event.46" addon_id="" version_id="0" version_string=""><![CDATA[失去回帖]]></phrase>
   <phrase title="mjc_event.47" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="mjc_event.48" addon_id="" version_id="0" version_string=""><![CDATA[发红包]]></phrase>
+  <phrase title="mjc_event.48" addon_id="" version_id="0" version_string=""><![CDATA[领取红包]]></phrase>
   <phrase title="mjc_event.49" addon_id="" version_id="0" version_string=""><![CDATA[领红包]]></phrase>
   <phrase title="mjc_event.5" addon_id="" version_id="0" version_string=""><![CDATA[初始资金]]></phrase>
   <phrase title="mjc_event.50" addon_id="" version_id="0" version_string=""><![CDATA[小水贴]]></phrase>
@@ -10623,6 +10627,7 @@ Multiple styles can be combined.
   <phrase title="mjc_event_def_desc.conversation_reply_lose" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_event_def_desc.conversation_reply_new" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_event_def_desc.conversation_reply_receive" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="mjc_event_def_desc.daily_clock" addon_id="MJ/Credits" version_id="1020810" version_string="1.2.8.1"><![CDATA[]]></phrase>
   <phrase title="mjc_event_def_desc.daily_login" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_event_def_desc.exchange" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[会员兑换积分从一种货币到另一种货币。]]></phrase>
   <phrase title="mjc_event_def_desc.follow" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[会员关注某人。]]></phrase>
@@ -10689,6 +10694,7 @@ Multiple styles can be combined.
   <phrase title="mjc_event_def_title.conversation_reply_lose" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[失去会话回复]]></phrase>
   <phrase title="mjc_event_def_title.conversation_reply_new" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[回复会话]]></phrase>
   <phrase title="mjc_event_def_title.conversation_reply_receive" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[收到会话回复]]></phrase>
+  <phrase title="mjc_event_def_title.daily_clock" addon_id="MJ/Credits" version_id="1020810" version_string="1.2.8.1"><![CDATA[每日签到]]></phrase>
   <phrase title="mjc_event_def_title.daily_login" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[每日登录]]></phrase>
   <phrase title="mjc_event_def_title.exchange" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[货币兑换]]></phrase>
   <phrase title="mjc_event_def_title.follow" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[关注]]></phrase>
@@ -10797,6 +10803,7 @@ Multiple styles can be combined.
   <phrase title="mjc_format_options" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[格式选项]]></phrase>
   <phrase title="mjc_forums" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[版面]]></phrase>
   <phrase title="mjc_from_currency" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[通过]]></phrase>
+  <phrase title="mjc_has_clock" addon_id="MJ/Credits" version_id="1020810" version_string="1.2.8.1"><![CDATA[今日已签到]]></phrase>
   <phrase title="mjc_hide_this_transaction" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[隐藏此交易]]></phrase>
   <phrase title="mjc_id" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[ID]]></phrase>
   <phrase title="mjc_import" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[导入]]></phrase>
@@ -10862,6 +10869,7 @@ Multiple styles can be combined.
   <phrase title="mjc_resetting" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[重置]]></phrase>
   <phrase title="mjc_reverted" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[还原]]></phrase>
   <phrase title="mjc_reward_edit" addon_id="MJ/Credits" version_id="0" version_string=""><![CDATA[悬赏金额更改]]></phrase>
+  <phrase title="mjc_reward_this_month" addon_id="MJ/Credits" version_id="1020810" version_string="1.2.8.1"><![CDATA[本月奖励]]></phrase>
   <phrase title="mjc_richest_statistics" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[富豪统计]]></phrase>
   <phrase title="mjc_send" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[发送]]></phrase>
   <phrase title="mjc_send_alert" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[发送提醒]]></phrase>
@@ -10869,6 +10877,7 @@ Multiple styles can be combined.
   <phrase title="mjc_send_credits" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[转账]]></phrase>
   <phrase title="mjc_send_red_envelope" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[发红包给]]></phrase>
   <phrase title="mjc_sender" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[发送者]]></phrase>
+  <phrase title="mjc_sign_in_times" addon_id="MJ/Credits" version_id="1020810" version_string="1.2.8.1"><![CDATA[签到次数]]></phrase>
   <phrase title="mjc_source_currency" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[源币种]]></phrase>
   <phrase title="mjc_specific_forums_this_event_can_trigger_in" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[此事件可以触发的特定版面]]></phrase>
   <phrase title="mjc_spend" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[花费]]></phrase>
@@ -11886,7 +11895,7 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.klEMColorStep" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Colors per row]]></phrase>
   <phrase title="option.klEMColors" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Available text colors]]></phrase>
   <phrase title="option.klEMDefaultHide" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Default hide version]]></phrase>
-  <phrase title="option.klEMEnabledBBCodes" addon_id="KL/EditorManager" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[Enabled BB Codes]]></phrase>
+  <phrase title="option.klEMEnabledBBCodes" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[启用BB代码]]></phrase>
   <phrase title="option.klEMExternalFontPolling" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Enable external font polling]]></phrase>
   <phrase title="option.klEMFontSizes" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Font sizes]]></phrase>
   <phrase title="option.klEMGeneralOptions" addon_id="KL/EditorManager" version_id="2000070" version_string="2.0.0"><![CDATA[常规设置]]></phrase>
@@ -11924,6 +11933,8 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.mjc_credits_event_content_currency" addon_id="MJ/Credits" version_id="1000400" version_string="1.0.4"><![CDATA[内容收费：货币]]></phrase>
   <phrase title="option.mjc_credits_event_trigger_content_bbcode" addon_id="MJ/Credits" version_id="1020600" version_string="1.2.6"><![CDATA[付费]]></phrase>
   <phrase title="option.mjc_credits_event_trigger_content_currency" addon_id="MJ/Credits" version_id="1020600" version_string="1.2.6"><![CDATA[收费事件触发条件：货币]]></phrase>
+  <phrase title="option.mjc_credits_every_day_limit" addon_id="MJ/Credits" version_id="1020810" version_string="1.2.8.1"><![CDATA[每日获取积分额度]]></phrase>
+  <phrase title="option.mjc_credits_every_day_limit_currency" addon_id="MJ/Credits" version_id="1020810" version_string="1.2.8.1"><![CDATA[每日获取积分限制]]></phrase>
   <phrase title="option.mjc_credits_navbar" addon_id="MJ/Credits" version_id="1020401" version_string="1.2.4"><![CDATA[选项卡名称]]></phrase>
   <phrase title="option.mjc_display_postbit" addon_id="MJ/Credits" version_id="1010800" version_string="1.1.8"><![CDATA[显示积分]]></phrase>
   <phrase title="option.mjrcpPurchaseDiscountPercent" addon_id="MJ/ResourceCreditsPayment" version_id="1000432" version_string="1.0.4"><![CDATA[折扣]]></phrase>
@@ -12093,7 +12104,7 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.spamUserCriteria" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[用户适用规则：]]></phrase>
   <phrase title="option.sticky_resources_mode" addon_id="CnXFans/StickyResources" version_id="1000000" version_string="1.0.0"><![CDATA[资源置顶方式]]></phrase>
   <phrase title="option.stopForumSpam" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[垃圾信息过滤]]></phrase>
-  <phrase title="option.svCacheUsersOnline" addon_id="SV/RedisCache" version_id="2090300" version_string="2.9.3"><![CDATA[Cache users online]]></phrase>
+  <phrase title="option.svCacheUsersOnline" addon_id="SV/RedisCache" version_id="20110302" version_string="2.11.3"><![CDATA[Cache在线用户]]></phrase>
   <phrase title="option.svRmsItemCountCaching" addon_id="SV/RedisCache" version_id="20110200" version_string="2.11.2"><![CDATA[Review Management System item count caching]]></phrase>
   <phrase title="option.svRmsItemCountLongExpiry" addon_id="SV/RedisCache" version_id="20110301" version_string="2.11.3"><![CDATA[RMS Expiry time]]></phrase>
   <phrase title="option.svRmsItemCountShortExpiry" addon_id="SV/RedisCache" version_id="20110301" version_string="2.11.3"><![CDATA[Short RMS Expiry time]]></phrase>
@@ -12197,8 +12208,6 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.wt_title_6" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Tab title 6]]></phrase>
   <phrase title="option.wt_title_7" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Tab title 7]]></phrase>
   <phrase title="option.wt_title_8" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Tab title 8]]></phrase>
-  <phrase title="option.xfa_md_debug_mode" addon_id="XFA/ModeDebug" version_id="901000090" version_string="1.0.0"><![CDATA[Enable debug mode]]></phrase>
-  <phrase title="option.xfa_md_dev_mode" addon_id="XFA/ModeDebug" version_id="901000090" version_string="1.0.0"><![CDATA[Enable development mode]]></phrase>
   <phrase title="option.xfesConfig" addon_id="XFES" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[增强搜索配置]]></phrase>
   <phrase title="option.xfesEnabled" addon_id="XFES" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[增强搜索启用]]></phrase>
   <phrase title="option.xfesRecencyRelevance" addon_id="XFES" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[增强搜索内容关联性]]></phrase>
@@ -12606,6 +12615,10 @@ JS最近更新（Unix时间），更改后强制刷新 JS缓存，即使不更�
   <phrase title="option_explain.mjc_credits_event_content_currency" addon_id="MJ/Credits" version_id="1000400" version_string="1.0.4"><![CDATA[]]></phrase>
   <phrase title="option_explain.mjc_credits_event_trigger_content_bbcode" addon_id="MJ/Credits" version_id="1020600" version_string="1.2.6"><![CDATA[此BBCode将用于指定收费内容。 将此更改为其他内容以接管其它内容隐藏插件中的标签。 清除此设置可禁用收费内容功能，该功能将免费提供此类内容。]]></phrase>
   <phrase title="option_explain.mjc_credits_event_trigger_content_currency" addon_id="MJ/Credits" version_id="1020600" version_string="1.2.6"><![CDATA[用于收费内容交易的货币。 确保将相应事件设置为也使用该货币。]]></phrase>
+  <phrase title="option_explain.mjc_credits_every_day_limit" addon_id="MJ/Credits" version_id="1020810" version_string="1.2.8.1"><![CDATA[请填写大于或等于积分事件里获取积分的最大值。]]></phrase>
+  <phrase title="option_explain.mjc_credits_every_day_limit_currency" addon_id="MJ/Credits" version_id="1020810" version_string="1.2.8.1"><![CDATA[选择每日限制获取积分上限。
+选择一个则只统计该积分当日获取的上限，超过上限后则不再获得积分。
+选择两个或多个则统计所选积分当日获取合计的上限，超过上限后则不再获得积分。]]></phrase>
   <phrase title="option_explain.mjc_credits_navbar" addon_id="MJ/Credits" version_id="1020401" version_string="1.2.4"><![CDATA[]]></phrase>
   <phrase title="option_explain.mjc_display_postbit" addon_id="MJ/Credits" version_id="1010800" version_string="1.1.8"><![CDATA[]]></phrase>
   <phrase title="option_explain.mjrcpPurchaseDiscountPercent" addon_id="MJ/ResourceCreditsPayment" version_id="1000432" version_string="1.0.4"><![CDATA[]]></phrase>
@@ -12897,8 +12910,6 @@ Once you have provided a unique path and hit the save button, the directory will
   <phrase title="option_explain.wt_title_6" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="option_explain.wt_title_7" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="option_explain.wt_title_8" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
-  <phrase title="option_explain.xfa_md_debug_mode" addon_id="XFA/ModeDebug" version_id="901000090" version_string="1.0.0"><![CDATA[]]></phrase>
-  <phrase title="option_explain.xfa_md_dev_mode" addon_id="XFA/ModeDebug" version_id="901000090" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="option_explain.xfesConfig" addon_id="XFES" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[请通过“增强搜索”选项进行编辑。]]></phrase>
   <phrase title="option_explain.xfesEnabled" addon_id="XFES" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="option_explain.xfesRecencyRelevance" addon_id="XFES" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[请通过“增强搜索”选项进行编辑。]]></phrase>
@@ -12908,7 +12919,7 @@ Once you have provided a unique path and hit the save button, the directory will
   <phrase title="option_explain.xfrmAllowIcons" addon_id="XFRM" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[如果启用，当用户提交一个资源时，他们将可以指定一个小于(96x96)图标的选项。此图标将显示在资源列表中，并在查看资源时显示。]]></phrase>
   <phrase title="option_explain.xfrmAuthorOtherResourcesCount" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[从资源作者处显示的其他资源的最大数量。使用0禁用此模块。]]></phrase>
   <phrase title="option_explain.xfrmEnableTeams" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[如果启用，则资源所有者将能够为每个资源添加最多10个其他用户作为团队成员。 团队成员将能够像对待自己的资源一样对资源进行操作，但删除只能由所有者执行。]]></phrase>
-  <phrase title="option_explain.xfrmFilelessViewFull" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[如果选定，无法下载资源的用户将仅从文件的资源描述中看到该字符数而无需文件。]]></phrase>
+  <phrase title="option_explain.xfrmFilelessViewFull" addon_id="XFRM" version_id="2020470" version_string="2.2.4"><![CDATA[如果选中此选项，则无法下载资源的用户将只能从没有文件的资源描述中看到此数量的字符。]]></phrase>
   <phrase title="option_explain.xfrmListDefaultOrder" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[查看资源索引或分类概览页时，这将是资源的默认顺序。]]></phrase>
   <phrase title="option_explain.xfrmMinimumReviewLength" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[输入的评价内容必须达到指定字符数，否则将不显示。如果没有必须评价，则无须填写评价内容，此设置将被忽略。]]></phrase>
   <phrase title="option_explain.xfrmPaidResourceThreadTitleTemplate" addon_id="XFRM" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[一般来说, 资源主题自动创建后, 主题名字就是资源的名字. 该选项允许您指定付费资源的格式. 使用{title} 资源标题应该出现在那里。]]></phrase>
@@ -12983,7 +12994,6 @@ Once you have provided a unique path and hit the save button, the directory will
   <phrase title="option_group.thusernamecolor" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[[TH] User Name Color]]></phrase>
   <phrase title="option_group.users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[用户列表选项]]></phrase>
   <phrase title="option_group.usersAndRegistration" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[用户注册选项]]></phrase>
-  <phrase title="option_group.xfa_md" addon_id="XFA/ModeDebug" version_id="901000090" version_string="1.0.0"><![CDATA[[XFA] Mode Debug]]></phrase>
   <phrase title="option_group.xfrm" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[资源管理器]]></phrase>
   <phrase title="option_group.xfrmResourceStatistics" addon_id="Andy/XFRMResourceStatistics" version_id="14" version_string="1.4"><![CDATA[XFRM 资源统计]]></phrase>
   <phrase title="option_group_belongs_to_disabled_addon" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[此插件 <em>{addon}</em>，所属选项组是禁用的。<br />
@@ -13049,7 +13059,6 @@ Once you have provided a unique path and hit the save button, the directory will
   <phrase title="option_group_description.thusernamecolor" addon_id="ThemeHouse/UserNameColor" version_id="1000070" version_string="1.0.0"><![CDATA[[TH] User Name Color 插件的选项。]]></phrase>
   <phrase title="option_group_description.users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="option_group_description.usersAndRegistration" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
-  <phrase title="option_group_description.xfa_md" addon_id="XFA/ModeDebug" version_id="901000090" version_string="1.0.0"><![CDATA[Allow to enable debug mode from admincp]]></phrase>
   <phrase title="option_group_description.xfrm" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[控制资源管理器的附加选项。]]></phrase>
   <phrase title="option_group_description.xfrmResourceStatistics" addon_id="Andy/XFRMResourceStatistics" version_id="14" version_string="1.4"><![CDATA[这里的选项控制XFRM资源统计插件。]]></phrase>
   <phrase title="option_group_ids_must_be_unique" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[选项 ID 必须唯一，您输入的 ID 已经被使用。]]></phrase>
@@ -15879,7 +15888,8 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="siropu_referral_contests_your_referrals" addon_id="Siropu/ReferralContests" version_id="2020970" version_string="2.2.9"><![CDATA[我的推广]]></phrase>
   <phrase title="siropu_referrals_view_prizes" addon_id="Siropu/ReferralContests" version_id="2020970" version_string="2.2.9"><![CDATA[查看奖品]]></phrase>
   <phrase title="siropu_referrals_view_top_referrers" addon_id="Siropu/ReferralContests" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[查看最强推广者]]></phrase>
-  <phrase title="site_currently_being_upgraded" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[MineBBS正在升级噢，请等会再来吧~ヾ(≧▽≦*)o]]></phrase>
+  <phrase title="site_currently_being_upgraded" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[MineBBS正在升级噢，请等会再来吧~ヾ(≧▽≦*)o
+有其他问题可以进群反馈呀：<a href="https://jq.qq.com/?_wv=1027&k=5oijjf3">521584745</a>]]></phrase>
   <phrase title="site_key" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[网站密匙]]></phrase>
   <phrase title="site_title" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[站点标题]]></phrase>
   <phrase title="site_url" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[站点链接]]></phrase>
@@ -18588,7 +18598,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="utc_0400_cuiaba" addon_id="XF" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-04:00) 库亚巴]]></phrase>
   <phrase title="utc_0400_georgetown" addon_id="XF" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-04:00) 乔治城，拉巴斯，马瑙斯，圣胡安]]></phrase>
   <phrase title="utc_0400_santiago" addon_id="XF" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-04:00) 圣地亚哥]]></phrase>
-  <phrase title="utc_0430_caracas" addon_id="XF" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-04:30) 卡拉卡斯]]></phrase>
+  <phrase title="utc_0430_caracas" addon_id="XF" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-04:30) Caracas]]></phrase>
   <phrase title="utc_0500_bogota" addon_id="XF" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-05:00) 波哥大，利马，基多]]></phrase>
   <phrase title="utc_0500_cuba" addon_id="XF" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-05:00) 古巴]]></phrase>
   <phrase title="utc_0500_eastern_time" addon_id="XF" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-05:00) 东部时间（美国和加拿大）]]></phrase>
@@ -18637,7 +18647,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="utc_plus_0545_kathmandu" addon_id="XF" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+05:45) 加德满都]]></phrase>
   <phrase title="utc_plus_0600_almaty" addon_id="XF" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+06:00) 阿拉木图，比什凯克，克孜勒奥尔达]]></phrase>
   <phrase title="utc_plus_0600_astana" addon_id="XF" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+06:00) 阿斯塔纳，达卡]]></phrase>
-  <phrase title="utc_plus_0600_novosibirsk" addon_id="XF" version_id="1040370" version_string="1.4.3"><![CDATA[(UTC+06:00) 新西伯利亚]]></phrase>
+  <phrase title="utc_plus_0600_novosibirsk" addon_id="XF" version_id="1040370" version_string="1.4.3"><![CDATA[(UTC+06:00) Novosibirsk]]></phrase>
   <phrase title="utc_plus_0630_yangon" addon_id="XF" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+06:30) 仰光]]></phrase>
   <phrase title="utc_plus_0700_bangkok" addon_id="XF" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+07:00) 曼谷，河内，雅加达]]></phrase>
   <phrase title="utc_plus_0700_krasnoyarsk" addon_id="XF" version_id="1040370" version_string="1.4.3"><![CDATA[(UTC+07:00) 克拉斯诺亚尔斯克]]></phrase>
@@ -18908,6 +18918,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="widget.member_wrapper_newest_members" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.mhwz" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.mjc_sidenav_balance" addon_id="" version_id="0" version_string=""><![CDATA[Your Balance]]></phrase>
+  <phrase title="widget.mjc_sidenav_clock_in_every_day" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.mjc_sidenav_richest" addon_id="" version_id="0" version_string=""><![CDATA[Richest members]]></phrase>
   <phrase title="widget.new_content" addon_id="" version_id="0" version_string=""><![CDATA[新内容]]></phrase>
   <phrase title="widget.new_post" addon_id="" version_id="0" version_string=""><![CDATA[新回复]]></phrase>
@@ -18917,7 +18928,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="widget.newthreaf" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.onlineuser" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.portanewthread" addon_id="" version_id="0" version_string=""><![CDATA[新主题]]></phrase>
-  <phrase title="widget.post" addon_id="" version_id="0" version_string=""><![CDATA[新回复]]></phrase>
+  <phrase title="widget.post" addon_id="" version_id="0" version_string=""><![CDATA[回复]]></phrase>
   <phrase title="widget.qqgroup" addon_id="" version_id="0" version_string=""><![CDATA[加入QQ讨论群]]></phrase>
   <phrase title="widget.similar" addon_id="" version_id="0" version_string=""><![CDATA[相似主题]]></phrase>
   <phrase title="widget.siropu_ads_manager_adv" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -18927,7 +18938,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="widget.siropu_referral_invitations" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.siropu_referral_link" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.siropu_referral_top_referrers" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="widget.thread" addon_id="" version_id="0" version_string=""><![CDATA[新主题]]></phrase>
+  <phrase title="widget.thread" addon_id="" version_id="0" version_string=""><![CDATA[主题]]></phrase>
   <phrase title="widget.uix_sidebar_postNewThread" addon_id="" version_id="0" version_string=""><![CDATA[找不到想要的话题吗？]]></phrase>
   <phrase title="widget.unread_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[未读帖子]]></phrase>
   <phrase title="widget.xenporta_1" addon_id="" version_id="0" version_string=""><![CDATA[专题推荐]]></phrase>
@@ -18935,7 +18946,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="widget.xenporta_more" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.xenporta_side" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.xfes_thread_view_below_quick_reply_similar_threads" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="widget.xfrm_forum_overview_new_resources" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="widget.xfrm_forum_overview_new_resources" addon_id="" version_id="0" version_string=""><![CDATA[资源]]></phrase>
   <phrase title="widget.xfrm_list_featured_resources" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.xfrm_list_top_resources" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.xfrm_overview_latest_reviews" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -18961,6 +18972,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="widget_def.member_stat" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[会员属性]]></phrase>
   <phrase title="widget_def.members_online" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[在线会员]]></phrase>
   <phrase title="widget_def.mjc_balance" addon_id="MJ/Credits" version_id="1010700" version_string="1.1.7"><![CDATA[积分余额]]></phrase>
+  <phrase title="widget_def.mjc_clock_in_every_day" addon_id="MJ/Credits" version_id="1020810" version_string="1.2.8.1"><![CDATA[每日签到]]></phrase>
   <phrase title="widget_def.mjc_richest" addon_id="MJ/Credits" version_id="1000200" version_string="1.0.2"><![CDATA[积分排行]]></phrase>
   <phrase title="widget_def.new_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[最新帖子]]></phrase>
   <phrase title="widget_def.new_profile_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[最新个人空间信息]]></phrase>
@@ -18993,7 +19005,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="widget_def.xfes_similar_threads" addon_id="XFES" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[XFES: 相似主题]]></phrase>
   <phrase title="widget_def.xfrm_featured_resources" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[XFRM: 推荐资源]]></phrase>
   <phrase title="widget_def.xfrm_latest_reviews" addon_id="XFRM" version_id="2020470" version_string="2.2.4"><![CDATA[XFRM: 最新评价]]></phrase>
-  <phrase title="widget_def.xfrm_new_resources" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[XFRM: 新资源]]></phrase>
+  <phrase title="widget_def.xfrm_new_resources" addon_id="XFRM" version_id="2020470" version_string="2.2.4"><![CDATA[资源]]></phrase>
   <phrase title="widget_def.xfrm_top_resources" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[XFRM: 热门资源]]></phrase>
   <phrase title="widget_def_desc.WidgetTabs" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="widget_def_desc.birthdays" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[一个包含今天过生日用户头像的模块。]]></phrase>
@@ -19014,6 +19026,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="widget_def_desc.member_stat" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[从指定的会员统计缓存显示会员列表。]]></phrase>
   <phrase title="widget_def_desc.members_online" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[显示在线用户、游客和蜘蛛的数量，加上在线成员和您关注的会员摘要。]]></phrase>
   <phrase title="widget_def_desc.mjc_balance" addon_id="MJ/Credits" version_id="1000200" version_string="1.0.2"><![CDATA[显示包含当前用户余额的模块。]]></phrase>
+  <phrase title="widget_def_desc.mjc_clock_in_every_day" addon_id="MJ/Credits" version_id="1020810" version_string="1.2.8.1"><![CDATA[用于论坛用户BR积分手动签到]]></phrase>
   <phrase title="widget_def_desc.mjc_richest" addon_id="MJ/Credits" version_id="1000200" version_string="1.0.2"><![CDATA[显示包含积分排行模块。]]></phrase>
   <phrase title="widget_def_desc.new_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[显示目前最新回复的主题列表。]]></phrase>
   <phrase title="widget_def_desc.new_profile_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[显示个人动态列表。]]></phrase>
@@ -19196,7 +19209,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="wrapper_template_html_description" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[如果不为空，则可以格式化该字段的包含标记及其选择的值。 这样可以提供更大的灵活性和自定义性，但是必须使用<b> {$value} </b>占位符才能显示所选的字段值。 （可选）您还可以使用<b> {$title} </b>-字段的标题，<b> {$description} </b>-字段的描述，以及<b> {$fieldId} </b> -该字段的ID（<span id ="FieldId"> {fieldId} </span>）。]]></phrase>
   <phrase title="write_comment" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[写评论]]></phrase>
   <phrase title="write_something" addon_id="XF" version_id="2000053" version_string="2.0.0 Release Candidate 3"><![CDATA[留下您的人生感悟]]></phrase>
-  <phrase title="x_advanced_options_hidden" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[{count}个高级选项已被隐藏。]]></phrase>
+  <phrase title="x_advanced_options_hidden" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[{count} advanced option(s) have been hidden.]]></phrase>
   <phrase title="x_also_commented_on_ys_profile_post" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name}对<a {poster_params}>{poster}的主页留言</a>进行了评论]]></phrase>
   <phrase title="x_also_commented_on_ys_status" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name}在<a {poster_params}>{poster}的状态</a>页面留言了]]></phrase>
   <phrase title="x_b" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{number}B]]></phrase>
@@ -19273,11 +19286,11 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="xenforo_importers_now_installed_as_separate_add_on_downloadable_from" addon_id="XF" version_id="2000370" version_string="2.0.3"><![CDATA[XenForo 导入程序现在是一个插件形式安装， 从您的 <a href="https://xenforo.com/customers" target="_blank">客户区</a>下载。]]></phrase>
   <phrase title="xenforo_is_signing_your_outgoing_emails_with_dkim" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[XenForo is signing your outgoing emails with DKIM.]]></phrase>
   <phrase title="xenforo_version_x_available_for_installation" addon_id="XF" version_id="2020670" version_string="2.2.6"><![CDATA[XenForo {version} is now available for installation.]]></phrase>
-  <phrase title="xenforo_x_available_explain" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[XenForo {version}现在可以安装。<br />
+  <phrase title="xenforo_x_available_explain" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[XenForo {version} is now available for installation.<br />
 <br />
-您可以从控制面板中升级到此版本。 如果继续，将下载新版本，复制文件，并应用升级。<br />
+You may upgrade to this version from within your control panel. If you proceed, the new version will be downloaded, files copied, and the upgrade will be applied.<br />
 <br />
-请注意，如果建议进行CLI升级，您将有机会使用CLI升级程序而不是Web升级程序。]]></phrase>
+Note that if a CLI upgrade is recommended, you will be given an opportunity to use that instead of the web upgrader.]]></phrase>
   <phrase title="xenforo_x_is_now_available" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[XenForo {version}现已推出。]]></phrase>
   <phrase title="xf_one_click_upgrade_significant_explain" addon_id="XF" version_id="2020670" version_string="2.2.6"><![CDATA[This is a significant upgrade that add new features and contains many changes. Newer versions of styles and add-ons may need to be installed after the upgrade is completed.<br />
 <br />
@@ -19977,7 +19990,7 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="youre_ready_start_import_will_run_browser_window_open" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[现在就可以开始导入了。启动后, 该浏览器窗口打开时, 导入将继续运行。导入所有数据后, 将显示进一步的说明。]]></phrase>
   <phrase title="zhenghe.post" addon_id="" version_id="0" version_string=""><![CDATA[新回帖]]></phrase>
   <phrase title="zhenghe.thread" addon_id="" version_id="0" version_string=""><![CDATA[新主题]]></phrase>
-  <phrase title="zhenghe.xfrm" addon_id="" version_id="0" version_string=""><![CDATA[新资源]]></phrase>
+  <phrase title="zhenghe.xfrm" addon_id="" version_id="0" version_string=""><![CDATA[资源]]></phrase>
   <phrase title="ziparchive_support" addon_id="XF" version_id="2010037" version_string="2.1.0 Beta 7"><![CDATA[<code>ZipArchive</code> 支持]]></phrase>
   <phrase title="zoom" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[缩放]]></phrase>
 </language>

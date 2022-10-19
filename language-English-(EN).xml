@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<language title="English (EN)" date_format="M j, Y" time_format="g:i A" currency_format="{symbol}{value}" week_start="0" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="…" parenthesis_open="(" parenthesis_close=")" language_code="en-US" text_direction="LTR" user_selectable="1" base_version_id="2021071" export_version="2">
+<language title="English (EN)" date_format="M j, Y" time_format="g:i A" currency_format="{symbol}{value}" week_start="0" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="…" parenthesis_open="(" parenthesis_close=")" language_code="en-US" text_direction="LTR" user_selectable="1" base_version_id="2021171" export_version="2">
   <phrase title="1_day_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[One day ago]]></phrase>
   <phrase title="1_month_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[One month ago]]></phrase>
   <phrase title="1_time" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[1 time]]></phrase>
@@ -527,6 +527,7 @@
   <phrase title="admin_permission.help" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage help]]></phrase>
   <phrase title="admin_permission.import" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Import data]]></phrase>
   <phrase title="admin_permission.language" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage languages and phrases]]></phrase>
+  <phrase title="admin_permission.mjcCredits" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[[BR] 积分]]></phrase>
   <phrase title="admin_permission.navigation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage navigation]]></phrase>
   <phrase title="admin_permission.node" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage nodes]]></phrase>
   <phrase title="admin_permission.notice" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Manage notices]]></phrase>
@@ -10311,6 +10312,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_choose_event_definition" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[选择事件定义]]></phrase>
   <phrase title="mjc_clear_all_transactions" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[清除所有交易]]></phrase>
   <phrase title="mjc_clear_all_user_credits" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[Clear all user credits]]></phrase>
+  <phrase title="mjc_clock" addon_id="MJ/Credits" version_id="1020810" version_string="1.2.8.1"><![CDATA[每日签到]]></phrase>
   <phrase title="mjc_code" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Code]]></phrase>
   <phrase title="mjc_column_x_was_not_found" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[找不到列{column}。]]></phrase>
   <phrase title="mjc_comment" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Comment]]></phrase>
@@ -10436,6 +10438,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_event_def_desc.conversation_reply_lose" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_event_def_desc.conversation_reply_new" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_event_def_desc.conversation_reply_receive" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="mjc_event_def_desc.daily_clock" addon_id="MJ/Credits" version_id="1020810" version_string="1.2.8.1"><![CDATA[]]></phrase>
   <phrase title="mjc_event_def_desc.daily_login" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[Daily gold washing]]></phrase>
   <phrase title="mjc_event_def_desc.exchange" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[用户兑换积分从一种货币到另一种货币。]]></phrase>
   <phrase title="mjc_event_def_desc.follow" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Members follow someone.]]></phrase>
@@ -10502,6 +10505,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_event_def_title.conversation_reply_lose" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[失去会话回复]]></phrase>
   <phrase title="mjc_event_def_title.conversation_reply_new" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Reply to the session]]></phrase>
   <phrase title="mjc_event_def_title.conversation_reply_receive" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[收到会话回复]]></phrase>
+  <phrase title="mjc_event_def_title.daily_clock" addon_id="MJ/Credits" version_id="1020810" version_string="1.2.8.1"><![CDATA[每日签到]]></phrase>
   <phrase title="mjc_event_def_title.daily_login" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[The daily login]]></phrase>
   <phrase title="mjc_event_def_title.exchange" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[货币兑换]]></phrase>
   <phrase title="mjc_event_def_title.follow" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Follow]]></phrase>
@@ -10610,6 +10614,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_format_options" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[格式选项]]></phrase>
   <phrase title="mjc_forums" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[版面]]></phrase>
   <phrase title="mjc_from_currency" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[From currency]]></phrase>
+  <phrase title="mjc_has_clock" addon_id="MJ/Credits" version_id="1020810" version_string="1.2.8.1"><![CDATA[今日已签到]]></phrase>
   <phrase title="mjc_hide_this_transaction" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[隐藏此交易]]></phrase>
   <phrase title="mjc_id" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[ID]]></phrase>
   <phrase title="mjc_import" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[Import]]></phrase>
@@ -10675,6 +10680,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_resetting" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Reset]]></phrase>
   <phrase title="mjc_reverted" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[Reverted]]></phrase>
   <phrase title="mjc_reward_edit" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[Edit reward amount]]></phrase>
+  <phrase title="mjc_reward_this_month" addon_id="MJ/Credits" version_id="1020810" version_string="1.2.8.1"><![CDATA[本月奖励]]></phrase>
   <phrase title="mjc_richest_statistics" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Rich statistics]]></phrase>
   <phrase title="mjc_send" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[Send]]></phrase>
   <phrase title="mjc_send_alert" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Send alert]]></phrase>
@@ -10682,6 +10688,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_send_credits" addon_id="MJ/Credits" version_id="1010700" version_string="1.1.7"><![CDATA[Transfer]]></phrase>
   <phrase title="mjc_send_red_envelope" addon_id="MJ/Credits" version_id="1010300" version_string="1.1.3"><![CDATA[Give a red envelope to]]></phrase>
   <phrase title="mjc_sender" addon_id="MJ/Credits" version_id="1010700" version_string="1.1.7"><![CDATA[Sender]]></phrase>
+  <phrase title="mjc_sign_in_times" addon_id="MJ/Credits" version_id="1020810" version_string="1.2.8.1"><![CDATA[签到次数]]></phrase>
   <phrase title="mjc_source_currency" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[源币种]]></phrase>
   <phrase title="mjc_specific_forums_this_event_can_trigger_in" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[此事件可以触发的特定版面]]></phrase>
   <phrase title="mjc_spend" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[Spend]]></phrase>
@@ -11735,6 +11742,8 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.mjc_credits_event_content_currency" addon_id="MJ/Credits" version_id="1000400" version_string="1.0.4"><![CDATA[内容收费：货币]]></phrase>
   <phrase title="option.mjc_credits_event_trigger_content_bbcode" addon_id="MJ/Credits" version_id="1020600" version_string="1.2.6"><![CDATA[付费]]></phrase>
   <phrase title="option.mjc_credits_event_trigger_content_currency" addon_id="MJ/Credits" version_id="1020600" version_string="1.2.6"><![CDATA[收费事件触发条件：货币]]></phrase>
+  <phrase title="option.mjc_credits_every_day_limit" addon_id="MJ/Credits" version_id="1020810" version_string="1.2.8.1"><![CDATA[每日获取积分额度]]></phrase>
+  <phrase title="option.mjc_credits_every_day_limit_currency" addon_id="MJ/Credits" version_id="1020810" version_string="1.2.8.1"><![CDATA[每日获取积分限制]]></phrase>
   <phrase title="option.mjc_credits_navbar" addon_id="MJ/Credits" version_id="1020401" version_string="1.2.4"><![CDATA[选项卡名称]]></phrase>
   <phrase title="option.mjc_display_postbit" addon_id="MJ/Credits" version_id="1010800" version_string="1.1.8"><![CDATA[Show credit]]></phrase>
   <phrase title="option.mjrcpPurchaseDiscountPercent" addon_id="MJ/ResourceCreditsPayment" version_id="1000432" version_string="1.0.4"><![CDATA[折扣]]></phrase>
@@ -12006,8 +12015,6 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.wt_title_6" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Tab title 6]]></phrase>
   <phrase title="option.wt_title_7" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Tab title 7]]></phrase>
   <phrase title="option.wt_title_8" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Tab title 8]]></phrase>
-  <phrase title="option.xfa_md_debug_mode" addon_id="XFA/ModeDebug" version_id="901000090" version_string="1.0.0"><![CDATA[Enable debug mode]]></phrase>
-  <phrase title="option.xfa_md_dev_mode" addon_id="XFA/ModeDebug" version_id="901000090" version_string="1.0.0"><![CDATA[Enable development mode]]></phrase>
   <phrase title="option.xfesConfig" addon_id="XFES" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enhanced search config]]></phrase>
   <phrase title="option.xfesEnabled" addon_id="XFES" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enhanced search enabled]]></phrase>
   <phrase title="option.xfesRecencyRelevance" addon_id="XFES" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enhanced search recency relevance]]></phrase>
@@ -12414,6 +12421,10 @@ This option requires that the specified account is a catch-all account or suppor
   <phrase title="option_explain.mjc_credits_event_content_currency" addon_id="MJ/Credits" version_id="1000400" version_string="1.0.4"><![CDATA[]]></phrase>
   <phrase title="option_explain.mjc_credits_event_trigger_content_bbcode" addon_id="MJ/Credits" version_id="1020600" version_string="1.2.6"><![CDATA[此BBCode将用于指定收费内容。 将此更改为其他内容以接管其它内容隐藏插件中的标签。 清除此设置可禁用收费内容功能，该功能将免费提供此类内容。]]></phrase>
   <phrase title="option_explain.mjc_credits_event_trigger_content_currency" addon_id="MJ/Credits" version_id="1020600" version_string="1.2.6"><![CDATA[用于收费内容交易的货币。 确保将相应事件设置为也使用该货币。]]></phrase>
+  <phrase title="option_explain.mjc_credits_every_day_limit" addon_id="MJ/Credits" version_id="1020810" version_string="1.2.8.1"><![CDATA[请填写大于或等于积分事件里获取积分的最大值。]]></phrase>
+  <phrase title="option_explain.mjc_credits_every_day_limit_currency" addon_id="MJ/Credits" version_id="1020810" version_string="1.2.8.1"><![CDATA[选择每日限制获取积分上限。
+选择一个则只统计该积分当日获取的上限，超过上限后则不再获得积分。
+选择两个或多个则统计所选积分当日获取合计的上限，超过上限后则不再获得积分。]]></phrase>
   <phrase title="option_explain.mjc_credits_navbar" addon_id="MJ/Credits" version_id="1020401" version_string="1.2.4"><![CDATA[]]></phrase>
   <phrase title="option_explain.mjc_display_postbit" addon_id="MJ/Credits" version_id="1010800" version_string="1.1.8"><![CDATA[]]></phrase>
   <phrase title="option_explain.mjrcpPurchaseDiscountPercent" addon_id="MJ/ResourceCreditsPayment" version_id="1000432" version_string="1.0.4"><![CDATA[]]></phrase>
@@ -12704,8 +12715,6 @@ Use the textbox above to specify a format. <b>{title}</b> will be replaced with 
   <phrase title="option_explain.wt_title_6" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="option_explain.wt_title_7" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="option_explain.wt_title_8" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
-  <phrase title="option_explain.xfa_md_debug_mode" addon_id="XFA/ModeDebug" version_id="901000090" version_string="1.0.0"><![CDATA[]]></phrase>
-  <phrase title="option_explain.xfa_md_dev_mode" addon_id="XFA/ModeDebug" version_id="901000090" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="option_explain.xfesConfig" addon_id="XFES" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Please edit this via the "Enhanced search" section.]]></phrase>
   <phrase title="option_explain.xfesEnabled" addon_id="XFES" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="option_explain.xfesRecencyRelevance" addon_id="XFES" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Please edit this via the "Enhanced search" section.]]></phrase>
@@ -12788,7 +12797,6 @@ Use the textbox above to specify a format. <b>{title}</b> will be replaced with 
   <phrase title="option_group.thusernamecolor" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[[TH] User Name Color]]></phrase>
   <phrase title="option_group.users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User options]]></phrase>
   <phrase title="option_group.usersAndRegistration" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User registration]]></phrase>
-  <phrase title="option_group.xfa_md" addon_id="XFA/ModeDebug" version_id="901000090" version_string="1.0.0"><![CDATA[[XFA] Mode Debug]]></phrase>
   <phrase title="option_group.xfrm" addon_id="XFRM" version_id="2000270" version_string="2.0.2"><![CDATA[XenForo Resource Manager]]></phrase>
   <phrase title="option_group.xfrmResourceStatistics" addon_id="Andy/XFRMResourceStatistics" version_id="10" version_string="1.0"><![CDATA[XFRM resource statistics]]></phrase>
   <phrase title="option_group_belongs_to_disabled_addon" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The add-on <em>{addon}</em>, to which this option group belongs, is currently disabled.<br />
@@ -12852,7 +12860,6 @@ It is possible to filter the news feed down to just users you follow, or a singl
   <phrase title="option_group_description.thusernamecolor" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Options for the [TH] User Name Color add-on.]]></phrase>
   <phrase title="option_group_description.users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="option_group_description.usersAndRegistration" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
-  <phrase title="option_group_description.xfa_md" addon_id="XFA/ModeDebug" version_id="901000090" version_string="1.0.0"><![CDATA[Allow to enable debug mode from admincp]]></phrase>
   <phrase title="option_group_description.xfrm" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Options that control the resource manager add-on.]]></phrase>
   <phrase title="option_group_description.xfrmResourceStatistics" addon_id="Andy/XFRMResourceStatistics" version_id="10" version_string="1.0"><![CDATA[Options here control the XFRM resource statistics add-on.]]></phrase>
   <phrase title="option_group_ids_must_be_unique" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Option group IDs must be unique. The specified ID is already in use.]]></phrase>
@@ -18676,6 +18683,7 @@ Your account's access may be limited based on these actions. Please keep this in
   <phrase title="widget.member_wrapper_newest_members" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.mhwz" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.mjc_sidenav_balance" addon_id="" version_id="0" version_string=""><![CDATA[Your Balance]]></phrase>
+  <phrase title="widget.mjc_sidenav_clock_in_every_day" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.mjc_sidenav_richest" addon_id="" version_id="0" version_string=""><![CDATA[Richest members]]></phrase>
   <phrase title="widget.new_content" addon_id="" version_id="0" version_string=""><![CDATA[新内容]]></phrase>
   <phrase title="widget.new_post" addon_id="" version_id="0" version_string=""><![CDATA[New post]]></phrase>
@@ -18726,6 +18734,7 @@ Your account's access may be limited based on these actions. Please keep this in
   <phrase title="widget_def.member_stat" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Member stat]]></phrase>
   <phrase title="widget_def.members_online" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Members online]]></phrase>
   <phrase title="widget_def.mjc_balance" addon_id="MJ/Credits" version_id="1010700" version_string="1.1.7"><![CDATA[积分余额]]></phrase>
+  <phrase title="widget_def.mjc_clock_in_every_day" addon_id="MJ/Credits" version_id="1020810" version_string="1.2.8.1"><![CDATA[每日签到]]></phrase>
   <phrase title="widget_def.mjc_richest" addon_id="MJ/Credits" version_id="1000200" version_string="1.0.2"><![CDATA[积分Ranking]]></phrase>
   <phrase title="widget_def.new_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[New posts]]></phrase>
   <phrase title="widget_def.new_profile_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[New profile posts]]></phrase>
@@ -18778,6 +18787,7 @@ Your account's access may be limited based on these actions. Please keep this in
   <phrase title="widget_def_desc.member_stat" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Displays the list of users from the specified member stat cache.]]></phrase>
   <phrase title="widget_def_desc.members_online" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Displays a summary of the number of online users, guests and robots, plus a summary of online members and people you follow.]]></phrase>
   <phrase title="widget_def_desc.mjc_balance" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[Displays the module that contains the current user balance.]]></phrase>
+  <phrase title="widget_def_desc.mjc_clock_in_every_day" addon_id="MJ/Credits" version_id="1020810" version_string="1.2.8.1"><![CDATA[用于论坛用户BR积分手动签到]]></phrase>
   <phrase title="widget_def_desc.mjc_richest" addon_id="MJ/Credits" version_id="1000200" version_string="1.0.2"><![CDATA[显示包含积分排行模块。]]></phrase>
   <phrase title="widget_def_desc.new_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Displays a block containing a list of X threads which have most recently been posted in.]]></phrase>
   <phrase title="widget_def_desc.new_profile_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Displays a block containing a list of X recent profile posts.]]></phrase>
