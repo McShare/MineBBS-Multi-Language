@@ -464,7 +464,7 @@
   <phrase title="admin_navigation.th_unco_styles" addon_id="ThemeHouse/UserNameColor" version_id="1000070" version_string="1.0.0"><![CDATA[用户名样式]]></phrase>
   <phrase title="admin_navigation.thcovers_options" addon_id="ThemeHouse/Covers" version_id="1000091" version_string="1.0.0 Patch Level 1"><![CDATA[选项]]></phrase>
   <phrase title="admin_navigation.thfeature" addon_id="ThemeHouse/Feature" version_id="1000991" version_string="1.0.9 Patch Level 1"><![CDATA[[TH] 精选主题和内容]]></phrase>
-  <phrase title="admin_navigation.thfeature_autoFeature" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[自动推荐标准]]></phrase>
+  <phrase title="admin_navigation.thfeature_autoFeature" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[自动精选标准]]></phrase>
   <phrase title="admin_navigation.threadContent" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[主题内容]]></phrase>
   <phrase title="admin_navigation.threadFields" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[自定义主题字段]]></phrase>
   <phrase title="admin_navigation.threadPrefixes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[主题前缀]]></phrase>
@@ -581,7 +581,7 @@
   <phrase title="af_as_all_categories" addon_id="AddonFlare/AwardSystem" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[全部分类]]></phrase>
   <phrase title="af_as_allow_multiple" addon_id="AddonFlare/AwardSystem" version_id="1010071" version_string="1.1.0.1"><![CDATA[允许重复]]></phrase>
   <phrase title="af_as_allow_multiple_explain" addon_id="AddonFlare/AwardSystem" version_id="1010071" version_string="1.1.0.1"><![CDATA[允许用户拥有一个以上的奖章]]></phrase>
-  <phrase title="af_as_allow_view_profile" addon_id="AddonFlare/AwardSystem" version_id="1040070" version_string="1.4.0"><![CDATA[View awards tab on profile]]></phrase>
+  <phrase title="af_as_allow_view_profile" addon_id="AddonFlare/AwardSystem" version_id="1040170" version_string="1.4.1"><![CDATA[在个人资料上查看勋章]]></phrase>
   <phrase title="af_as_amount_needed_levelup_increasesby" addon_id="AddonFlare/AwardSystem" version_id="1010071" version_string="1.1.0.1"><![CDATA[用于升级的点数提升]]></phrase>
   <phrase title="af_as_auto" addon_id="AddonFlare/AwardSystem" version_id="1040170" version_string="1.4.1"><![CDATA[自动]]></phrase>
   <phrase title="af_as_auto_award_features" addon_id="AddonFlare/AwardSystem" version_id="1010170" version_string="1.1.1"><![CDATA[Auto award features]]></phrase>
@@ -743,7 +743,7 @@
   <phrase title="af_as_user_has_reached_at_least_award_level_x" addon_id="AddonFlare/AwardSystem" version_id="1020070" version_string="1.2.0"><![CDATA[User has reached at least award level X]]></phrase>
   <phrase title="af_as_user_has_thread_in_x_forums_at_least_y_replies" addon_id="AddonFlare/AwardSystem" version_id="1020070" version_string="1.2.0"><![CDATA[User has posted a thread in X forum(s) that has at least Y replies]]></phrase>
   <phrase title="af_as_view_your_awards_tab_on_your_profile_page" addon_id="AddonFlare/AwardSystem" version_id="1040070" version_string="1.4.0"><![CDATA[在您的个人空间显示您的勋章页]]></phrase>
-  <phrase title="af_as_viewing_awards_list" addon_id="AddonFlare/AwardSystem" version_id="1040070" version_string="1.4.0"><![CDATA[Viewing awards list]]></phrase>
+  <phrase title="af_as_viewing_awards_list" addon_id="AddonFlare/AwardSystem" version_id="1040170" version_string="1.4.1"><![CDATA[查看勋章列表]]></phrase>
   <phrase title="af_as_x_pending_awards" addon_id="AddonFlare/AwardSystem" version_id="1000370" version_string="1.0.3"><![CDATA[{total} 待定勋章]]></phrase>
   <phrase title="af_as_x_points_until_level_y" addon_id="AddonFlare/AwardSystem" version_id="1010071" version_string="1.1.0.1"><![CDATA[{points} 点到 {level} 级]]></phrase>
   <phrase title="af_as_x_request_award" addon_id="AddonFlare/AwardSystem" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[{request} 勋章]]></phrase>
@@ -1070,7 +1070,7 @@
   <phrase title="attachment_thumbnails" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[附件缩略图]]></phrase>
   <phrase title="attachment_upload" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[上传附件]]></phrase>
   <phrase title="attachments" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[附件]]></phrase>
-  <phrase title="attempting_to_verify_your_dns_record_but_it_may_take_up_to_24_hours_for" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Attempting to verify your DNS record but it may take up to 24 hours for DNS changes to propagate. If it has been longer, you may need to verify your entries.]]></phrase>
+  <phrase title="attempting_to_verify_your_dns_record_but_it_may_take_up_to_24_hours_for" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[正在尝试验证您的 DNS 记录，但 DNS 更改可能需要长达 24 小时才能传播。 如果时间较长，您可能需要验证您的输入。]]></phrase>
   <phrase title="attempts_to_email_x_have_failed_please_update" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[尝试发送邮件至 {email} 失败。请更新您的邮箱地址。]]></phrase>
   <phrase title="authentication" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[认证]]></phrase>
   <phrase title="author" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[作者]]></phrase>
@@ -5267,7 +5267,7 @@ This is the message they left:
   <phrase title="dob_day" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[出生日]]></phrase>
   <phrase title="dob_month" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[出生月份]]></phrase>
   <phrase title="dob_year" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[出生年份]]></phrase>
-  <phrase title="domain" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Domain]]></phrase>
+  <phrase title="domain" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[域名]]></phrase>
   <phrase title="dont_have_account_question" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[没有帐号？]]></phrase>
   <phrase title="dont_send_notifications" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[不要发送通知]]></phrase>
   <phrase title="downgrade" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[降级]]></phrase>
@@ -5383,6 +5383,7 @@ This is the message they left:
   <phrase title="editable_only_once" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[修改后不可更改]]></phrase>
   <phrase title="edited_by_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[由 {name} 编辑]]></phrase>
   <phrase title="editing_master_embed_html_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[您目前正在编辑此模板的“主”版本。更改可能不反映在修改的子样式中。]]></phrase>
+  <phrase title="editor_dropdown.hide" addon_id="" version_id="0" version_string=""><![CDATA[隐藏]]></phrase>
   <phrase title="editor_dropdown.mh_hide" addon_id="" version_id="0" version_string=""><![CDATA[隐藏]]></phrase>
   <phrase title="editor_dropdown.video" addon_id="" version_id="0" version_string=""><![CDATA[视频]]></phrase>
   <phrase title="editor_dropdown.xfInsert" addon_id="" version_id="0" version_string=""><![CDATA[更多插入]]></phrase>
@@ -6491,7 +6492,7 @@ This is the message they left:
   <phrase title="emoji.frowning" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Frowning face with open mouth]]></phrase>
   <phrase title="emoji.frowning2" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Frowning face]]></phrase>
   <phrase title="emoji.fuelpump" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Fuel pump]]></phrase>
-  <phrase title="emoji.full_moon" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Full moon]]></phrase>
+  <phrase title="emoji.full_moon" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[满月]]></phrase>
   <phrase title="emoji.full_moon_with_face" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Full moon face]]></phrase>
   <phrase title="emoji.game_die" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Game die]]></phrase>
   <phrase title="emoji.garlic" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Garlic]]></phrase>
@@ -8980,7 +8981,7 @@ This is the message they left:
   <phrase title="empty_values_always_allowed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[始终允许空值。]]></phrase>
   <phrase title="enable" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[启用]]></phrase>
   <phrase title="enable_activity_summary_email" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[启用活动摘要电子邮件]]></phrase>
-  <phrase title="enable_advanced_mode" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Enable advanced mode.]]></phrase>
+  <phrase title="enable_advanced_mode" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[启用高级模式。]]></phrase>
   <phrase title="enable_alerts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[启用提醒]]></phrase>
   <phrase title="enable_apple_pay_support" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[启用Apple Pay支持]]></phrase>
   <phrase title="enable_apple_pay_support_braintree_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[需要一个Apple开发者账户和其它安装在您的仪表盘。]]></phrase>
@@ -9082,8 +9083,8 @@ This is the message they left:
   <phrase title="export_style_as_archive" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[导出风格为归档]]></phrase>
   <phrase title="export_style_as_xml" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[导出风格为XML]]></phrase>
   <phrase title="export_user" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[导出用户]]></phrase>
-  <phrase title="export_user_list" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Export user list]]></phrase>
-  <phrase title="export_user_list_desc" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Export a CSV list of all users that match the current search parameters.]]></phrase>
+  <phrase title="export_user_list" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[导出用户列表]]></phrase>
+  <phrase title="export_user_list_desc" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[导出与当前搜索参数匹配的所有用户的 CSV 列表。]]></phrase>
   <phrase title="extension_class_name" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[扩展类的名字]]></phrase>
   <phrase title="extension_names_may_only_contain_alphanumeric_underscore" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[扩展名只能包含A-Z，0-9和_。]]></phrase>
   <phrase title="extension_names_must_be_literal_strings" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[扩展名必须是文字字符串。]]></phrase>
@@ -9168,7 +9169,7 @@ This is the message they left:
   <phrase title="find_reports_for_member" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[查找来自会员的举报]]></phrase>
   <phrase title="find_route" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[初始链接]]></phrase>
   <phrase title="find_route_must_start_with_route_prefix" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[查找路径必须以路径前缀开头。]]></phrase>
-  <phrase title="finish_setting_up_dkim_email_authentication" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Finish setting up DKIM email authentication]]></phrase>
+  <phrase title="finish_setting_up_dkim_email_authentication" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[完成设置 DKIM 电子邮件身份验证]]></phrase>
   <phrase title="first" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[首个]]></phrase>
   <phrase title="first_message" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[首个消息]]></phrase>
   <phrase title="first_message_reaction_score" addon_id="XF" version_id="2020270" version_string="2.2.2"><![CDATA[主题获赞]]></phrase>
@@ -9214,7 +9215,7 @@ This is the message they left:
   <phrase title="font_awesome_icon" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Font Awesome icon]]></phrase>
   <phrase title="font_family" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[字体集]]></phrase>
   <phrase title="font_size" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[字号]]></phrase>
-  <phrase title="for_additional_security_it_is_also_recommended_to_input_your_signing" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[For additional security, it is also recommended to input your "Signing secret" below.]]></phrase>
+  <phrase title="for_additional_security_it_is_also_recommended_to_input_your_signing" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[为了增加安全性，还建议在下面输入您的“签名密码”。]]></phrase>
   <phrase title="for_length" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[指定时效]]></phrase>
   <phrase title="for_security_reasons_please_choose_different_password" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[出于安全原因，请选择其它密码。]]></phrase>
   <phrase title="for_time_period" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[时间周期]]></phrase>
@@ -9497,7 +9498,7 @@ This is the message they left:
   <phrase title="importing_exporting_style_archives_only_supported_if_meet_requirements" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[仅当您具有<code>ZipArchive</code>支持时，才支持导入风格归档文件/导出风格归档文件。 您可能需要询问您的主机以启用此功能。]]></phrase>
   <phrase title="in_a_minute" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[一分钟]]></phrase>
   <phrase title="in_a_moment" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[片刻之内]]></phrase>
-  <phrase title="in_most_cases_this_will_be_your_board_url_or_root_domain_minus_any" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[In most cases, this will be your board URL or root domain minus any protocols or paths. The URL should look similar to this: example.com]]></phrase>
+  <phrase title="in_most_cases_this_will_be_your_board_url_or_root_domain_minus_any" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[在大多数情况下，这将是您的主页 URL 或根域名去除任何协议或路径。 URL 应该类似于：example.com]]></phrase>
   <phrase title="in_x_minutes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{minutes} 分钟内]]></phrase>
   <phrase title="inactive_providers" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[无效提供商]]></phrase>
   <phrase title="inactive_questions_are_not_presented_to_visitors" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[不向访问者展示不活跃的问题。]]></phrase>
@@ -9658,7 +9659,7 @@ Web服务器用户必须可以写入各种目录以从存档进行安装，这�
   <phrase title="kl_em_bb_code_help_bold_example" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[This is [B]bold[/B] text.]]></phrase>
   <phrase title="kl_em_bb_code_help_color_example" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[This is [COLOR=red]red[/COLOR] and [COLOR=#0000cc]blue[/COLOR] text.]]></phrase>
   <phrase title="kl_em_bb_code_help_font_example" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[This is [FONT=Courier New]Courier New[/FONT] text.]]></phrase>
-  <phrase title="kl_em_bb_code_help_hide_desc" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Hides wrapped text until certain conditions are fullfilled.]]></phrase>
+  <phrase title="kl_em_bb_code_help_hide_desc" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[隐藏换行的文本，直到满足某些条件。]]></phrase>
   <phrase title="kl_em_bb_code_help_hide_example" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[[HIDE]Hides wrapped content.[/HIDE]
 
 [HIDEPOSTS]Hides until user reached number of posts.[/HIDEPOSTS]
@@ -9796,13 +9797,13 @@ Multiple styles can be combined.
   <phrase title="kl_em_hide" addon_id="KL/EditorManager" version_id="2000070" version_string="2.0.0"><![CDATA[隐藏]]></phrase>
   <phrase title="kl_em_hide_date" addon_id="KL/EditorManager" version_id="2000070" version_string="2.0.0"><![CDATA[某日期后可见]]></phrase>
   <phrase title="kl_em_hide_default_option" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[默认隐藏版本]]></phrase>
-  <phrase title="kl_em_hide_group" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[隐藏，除非在用户组中]]></phrase>
+  <phrase title="kl_em_hide_group" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[某用户组可见]]></phrase>
   <phrase title="kl_em_hide_members" addon_id="KL/EditorManager" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[对游客隐藏]]></phrase>
   <phrase title="kl_em_hide_number_of_posts" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[Number of posts for post hide]]></phrase>
   <phrase title="kl_em_hide_posts" addon_id="KL/EditorManager" version_id="2000070" version_string="2.0.0"><![CDATA[达到一定回复量后可见]]></phrase>
   <phrase title="kl_em_hide_reply" addon_id="KL/EditorManager" version_id="2000070" version_string="2.0.0"><![CDATA[回复后可见]]></phrase>
-  <phrase title="kl_em_hide_reply_thanks" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Hide until replied or reacted]]></phrase>
-  <phrase title="kl_em_hide_thanks" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Hide until reacted]]></phrase>
+  <phrase title="kl_em_hide_reply_thanks" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[回复或点赞可见]]></phrase>
+  <phrase title="kl_em_hide_thanks" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[点赞后可见]]></phrase>
   <phrase title="kl_em_horizontal_align" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[Horizontal align]]></phrase>
   <phrase title="kl_em_horizontal_ruler" addon_id="KL/EditorManager" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[Horizontal ruler]]></phrase>
   <phrase title="kl_em_hoster" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[Hosting service]]></phrase>
@@ -9828,7 +9829,7 @@ Multiple styles can be combined.
   <phrase title="kl_em_no_public_templates_yet" addon_id="KL/EditorManager" version_id="1010070" version_string="1.1.0"><![CDATA[There are no public editor templates yet.]]></phrase>
   <phrase title="kl_em_not_allowed_to_view_this_content" addon_id="KL/EditorManager" version_id="1020093" version_string="1.2.0 Patch Level 3"><![CDATA[You are not allowed to view this content]]></phrase>
   <phrase title="kl_em_option_debug_mode_only" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[This option is visible in debug mode only.]]></phrase>
-  <phrase title="kl_em_parse_html" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[ParseHtml]]></phrase>
+  <phrase title="kl_em_parse_html" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[解析HTML]]></phrase>
   <phrase title="kl_em_paste_plain" addon_id="KL/EditorManager" version_id="2000070" version_string="2.0.0"><![CDATA[删除粘贴上的格式]]></phrase>
   <phrase title="kl_em_please_upload_valid_xml_file" addon_id="KL/EditorManager" version_id="1010070" version_string="1.1.0"><![CDATA[Please upload a valid XML file.]]></phrase>
   <phrase title="kl_em_position_of_this_item" addon_id="KL/EditorManager" version_id="1010070" version_string="1.1.0"><![CDATA[The position of this item.]]></phrase>
@@ -10212,7 +10213,7 @@ Multiple styles can be combined.
   <phrase title="list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[列表]]></phrase>
   <phrase title="list_arguments_that_this_advertising_position_requires" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[列出该广告位置所需参数。]]></phrase>
   <phrase title="list_child_nodes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[列出子版块]]></phrase>
-  <phrase title="list_contains_advanced_options_hidden" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[This list contains advanced options which may be hidden.]]></phrase>
+  <phrase title="list_contains_advanced_options_hidden" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[此列表包含可能隐藏的高级选项。]]></phrase>
   <phrase title="list_sibling_nodes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[同级节点列表]]></phrase>
   <phrase title="list_usernames_of_users_who_will_be_invited_to_this_conversation" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[列出将被邀请加入此私信的用户。第一个用户将成为私信发起人。新用户将自动添加到私信中。]]></phrase>
   <phrase title="listed_below_node" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[列出在节点下方]]></phrase>
@@ -11837,7 +11838,7 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.editorToolbarConfig" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[编辑器工具栏配置]]></phrase>
   <phrase title="option.emailBounceHandler" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[邮件自动退信处理程序]]></phrase>
   <phrase title="option.emailConversationIncludeMessage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[私信通知邮件中包含完整的消息文本。]]></phrase>
-  <phrase title="option.emailDkim" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[DKIM email authentication]]></phrase>
+  <phrase title="option.emailDkim" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[DKIM 电子邮件身份验证]]></phrase>
   <phrase title="option.emailFileCheckWarning" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[发送文件健康检查警告邮件：]]></phrase>
   <phrase title="option.emailSenderName" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[默认邮件发送名]]></phrase>
   <phrase title="option.emailShare" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[启用邮件分享按钮]]></phrase>
@@ -11878,7 +11879,7 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.imageLinkProxyReferrer" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[X天记录图像和链接代理引荐：]]></phrase>
   <phrase title="option.imageProxyBypass" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[绕过图像代理]]></phrase>
   <phrase title="option.imageProxyMaxSize" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[图片缓存最大尺寸（KB）]]></phrase>
-  <phrase title="option.includeCaptchaPrivacyPolicy" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Include CAPTCHA privacy policy]]></phrase>
+  <phrase title="option.includeCaptchaPrivacyPolicy" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[包括验证码隐私政策]]></phrase>
   <phrase title="option.includeTitleInUrls" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[链接中包含内容标题]]></phrase>
   <phrase title="option.indexRoute" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[首页路径]]></phrase>
   <phrase title="option.ipInfoUrl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[IP详情地址 (IPv4)]]></phrase>
@@ -12153,15 +12154,15 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.thcovers_ogImages" addon_id="ThemeHouse/Covers" version_id="1000292" version_string="1.0.2 Patch Level 2"><![CDATA[使用封面作为 Open Graph 图片]]></phrase>
   <phrase title="option.thfeature_applyPrefixToFeaturedResources" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[将前缀应用于精选资源]]></phrase>
   <phrase title="option.thfeature_applyPrefixToFeaturedThreads" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[将前缀应用于精选主题]]></phrase>
-  <phrase title="option.thfeature_defaultFeatureLength" addon_id="ThemeHouse/Feature" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Default feature length]]></phrase>
-  <phrase title="option.thfeature_enableFeaturePage" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Enable featured content page]]></phrase>
-  <phrase title="option.thfeature_enableMemberProfileTab" addon_id="ThemeHouse/Feature" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Enable member profile tab]]></phrase>
+  <phrase title="option.thfeature_defaultFeatureLength" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[默认精选长度]]></phrase>
+  <phrase title="option.thfeature_enableFeaturePage" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[启用精选内容页面]]></phrase>
+  <phrase title="option.thfeature_enableMemberProfileTab" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[启用成员配置文件选项卡]]></phrase>
   <phrase title="option.thfeature_featurePageGrid" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[在精选页面上显示网格]]></phrase>
   <phrase title="option.thfeature_featurePageGridLimit" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[网格中显示的项目数]]></phrase>
   <phrase title="option.thfeature_featurePageSlider" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[在精选页面上显示滑块]]></phrase>
   <phrase title="option.thfeature_featurePageSliderAutoplaySpeed" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[滑块自动播放速度]]></phrase>
   <phrase title="option.thfeature_featurePageSliderLimit" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[滑块中显示的项目数]]></phrase>
-  <phrase title="option.thfeature_featuredContentPerPage" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Featured content per page]]></phrase>
+  <phrase title="option.thfeature_featuredContentPerPage" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[每页精选内容]]></phrase>
   <phrase title="option.thfeature_maxMessageLength" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[最大摘录长度]]></phrase>
   <phrase title="option.thfeature_overrideResourcePrefixOnFeature" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[覆盖现有前缀]]></phrase>
   <phrase title="option.thfeature_overrideThreadPrefixOnFeature" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[覆盖现有前缀]]></phrase>
@@ -12487,9 +12488,9 @@ Note: Heavily customised skins may render parts of this setting unusable.]]></ph
 <br />
 此选项将读取和处理时从指定帐户中删除邮件。它必须指定一个用户且唯一目的是在 XenForo 搜集退信邮件的帐户。必须为“退信邮箱地址”选项输入一个值。]]></phrase>
   <phrase title="option_explain.emailConversationIncludeMessage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[启用此选项，通知邮件中将包含用户私信的完整消息文本。关闭此选项，用户则需要访问论坛查看消息。]]></phrase>
-  <phrase title="option_explain.emailDkim" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[DomainKeys Identified Mail (DKIM) is a method of email authentication to detect forged sender addresses which are often used in phishing and email spam. DKIM allows the receiver to verify that an email claimed to have originated from a particular domain was authorised by the owner of that domain.<br />
+  <phrase title="option_explain.emailDkim" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[DomainKeys Identified Mail (DKIM) 是一种电子邮件身份验证方法，用于检测经常用于网络钓鱼和垃圾邮件的伪造发件人地址。 DKIM 允许接收者验证声称来自特定域的电子邮件是否由该域的所有者授权。<br />
 <br />
-<strong>Note:</strong> You can only enable this option if you have the <a href="https://secure.php.net/manual/en/book.openssl.php" target="_blank"><code>openssl</code></a> extension installed and enabled.]]></phrase>
+<strong>注意：</strong>只有当你有 <a href="https://secure.php.net/manual/en/book.openssl.php" target="_blank"> <code>openssl</code></a> 扩展已安装并启用时，你才可以启用该选项。]]></phrase>
   <phrase title="option_explain.emailFileCheckWarning" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[如果启用，并且没有提供邮箱地址，则警告邮件将发送到<a href="admin.php?options/contactEmailAddress/view">联系人邮箱地址</a>.]]></phrase>
   <phrase title="option_explain.emailSenderName" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[如果指定则在发送邮件时，此地址默认为发送人。留空则使用论坛名称。]]></phrase>
   <phrase title="option_explain.emailShare" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[如果用户单击此按钮，将提示用户使用默认的邮件客户端创建新邮件。]]></phrase>
@@ -12547,7 +12548,7 @@ Note: Heavily customised skins may render parts of this setting unusable.]]></ph
 <br />
 <b>注意：</b>未使用HTTPS请求的图像将始终被代理。]]></phrase>
   <phrase title="option_explain.imageProxyMaxSize" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[通过图像代理系统显示的图像的最大文件大小。当图像大于此大小将返回一个占位符图像来代替。您可以使用0来禁用此限制。]]></phrase>
-  <phrase title="option_explain.includeCaptchaPrivacyPolicy" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Some CAPTCHA providers may provide their own privacy policy that will be appended to the end of your site's privacy policy. You may wish to disable this if your privacy policy already covers the use of CAPTCHA.]]></phrase>
+  <phrase title="option_explain.includeCaptchaPrivacyPolicy" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[一些 CAPTCHA 提供商可能会提供他们自己的隐私政策，这些政策将附加到您网站的隐私政策的末尾。 如果您的隐私政策已涵盖 CAPTCHA 的使用，您可能希望禁用此功能。]]></phrase>
   <phrase title="option_explain.includeTitleInUrls" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[关闭此选项，网址中的字符将会被移除。例如: /threads/my-thread.128/ 将更改为 /threads/128/ 。]]></phrase>
   <phrase title="option_explain.indexRoute" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[如果您想更改论坛首页默认地址，在这里输入路径。此路径为论坛网址链接中页面部分，例如 forums/ 或 pages/page-name/。在这里不要使用路径变更。]]></phrase>
   <phrase title="option_explain.ipInfoUrl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[指定一个地址用于查询IPv4地址。此地址必须包含<strong>{ip}</strong>，将会替换为实际的IP地址。]]></phrase>
@@ -12858,12 +12859,12 @@ Once you have provided a unique path and hit the save button, the directory will
   <phrase title="option_explain.thfeature_featurePageGrid" addon_id="ThemeHouse/Feature" version_id="1000410" version_string="1.0.4 Alpha"><![CDATA[]]></phrase>
   <phrase title="option_explain.thfeature_featurePageGridLimit" addon_id="ThemeHouse/Feature" version_id="1000510" version_string="1.0.5 Alpha"><![CDATA[]]></phrase>
   <phrase title="option_explain.thfeature_featurePageSlider" addon_id="ThemeHouse/Feature" version_id="1000410" version_string="1.0.4 Alpha"><![CDATA[]]></phrase>
-  <phrase title="option_explain.thfeature_featurePageSliderAutoplaySpeed" addon_id="ThemeHouse/Feature" version_id="1000510" version_string="1.0.5 Alpha"><![CDATA[Set to 0 to disable autoplay, otherwise the speed is the number of milliseconds it will wait before switching to the next item]]></phrase>
+  <phrase title="option_explain.thfeature_featurePageSliderAutoplaySpeed" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[设置为 0 禁用自动播放，否则速度是切换到下一项之前将等待的毫秒数]]></phrase>
   <phrase title="option_explain.thfeature_featurePageSliderLimit" addon_id="ThemeHouse/Feature" version_id="1000510" version_string="1.0.5 Alpha"><![CDATA[]]></phrase>
-  <phrase title="option_explain.thfeature_featuredContentPerPage" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[The number of featured items to be displayed per page]]></phrase>
-  <phrase title="option_explain.thfeature_maxMessageLength" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[This is the maximum length of the message on a feature. The message will be pulled from the content and truncated to this length when possible.]]></phrase>
+  <phrase title="option_explain.thfeature_featuredContentPerPage" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[每页显示的精选项目数]]></phrase>
+  <phrase title="option_explain.thfeature_maxMessageLength" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[这是精选消息的最大长度。消息将从内容中提取并在可能的情况下截断到此长度。]]></phrase>
   <phrase title="option_explain.thfeature_overrideResourcePrefixOnFeature" addon_id="ThemeHouse/Feature" version_id="1000610" version_string="1.0.6 Alpha"><![CDATA[If selected, the prefix above will override an existing prefix on resources when featured.]]></phrase>
-  <phrase title="option_explain.thfeature_overrideThreadPrefixOnFeature" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[If selected, the prefix above will override an existing prefix on threads when featured.]]></phrase>
+  <phrase title="option_explain.thfeature_overrideThreadPrefixOnFeature" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[如果选中，上面的前缀将在出现时覆盖主题上的现有前缀。]]></phrase>
   <phrase title="option_explain.thfeature_separateFirstPost" addon_id="ThemeHouse/Feature" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[]]></phrase>
   <phrase title="option_explain.thfeature_separateFirstPostAllPages" addon_id="ThemeHouse/Feature" version_id="1000410" version_string="1.0.4 Alpha"><![CDATA[]]></phrase>
   <phrase title="option_explain.thfeature_sliderDimensions" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[所有上传的滑块背景图像都将调整大小以填充指定的尺寸。 如果上传的图像小于尺寸，它将被放大以适应。]]></phrase>
@@ -13524,7 +13525,7 @@ Once you have provided a unique path and hit the save button, the directory will
   <phrase title="permission.th_unco_bypassCustomColorRestrict" addon_id="ThemeHouse/UserNameColor" version_id="1000070" version_string="1.0.0"><![CDATA[绕过自定义颜色限制]]></phrase>
   <phrase title="permission.th_unco_use" addon_id="ThemeHouse/UserNameColor" version_id="1000070" version_string="1.0.0"><![CDATA[更改用户名样式]]></phrase>
   <phrase title="permission.th_unco_useCustom" addon_id="ThemeHouse/UserNameColor" version_id="1000070" version_string="1.0.0"><![CDATA[设置自定义用户名颜色]]></phrase>
-  <phrase title="permission.thfeature_dismissFeatures" addon_id="ThemeHouse/Feature" version_id="1000991" version_string="1.0.9 Patch Level 1"><![CDATA[忽略推荐]]></phrase>
+  <phrase title="permission.thfeature_dismissFeatures" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[忽略精选]]></phrase>
   <phrase title="permission.thfeature_viewFeatureUser" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[查看谁精选了内容]]></phrase>
   <phrase title="permission.widgetTabs_hideTab1" addon_id="BassMan/WidgetTabs" version_id="1000170" version_string="1.0.1"><![CDATA[Hide Tab 1]]></phrase>
   <phrase title="permission.widgetTabs_hideTab2" addon_id="BassMan/WidgetTabs" version_id="1000170" version_string="1.0.1"><![CDATA[Hide Tab 2]]></phrase>
@@ -13885,8 +13886,8 @@ Once you have provided a unique path and hit the save button, the directory will
   <phrase title="powered_by_giphy" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[由GIPHY提供支持]]></phrase>
   <phrase title="pre_reg_action_content_matched_x" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[预注册操作内容匹配（{details}）]]></phrase>
   <phrase title="pre_reg_action_notice" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[感谢您的贡献。 要发布您的内容，请先注册一个帐户。]]></phrase>
-  <phrase title="pre_reg_action_notice_login" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Thanks for your contribution. 
-Before your content can be posted, please take a few moments to login to your user account.]]></phrase>
+  <phrase title="pre_reg_action_notice_login" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[感谢您的贡献。
+在发布您的内容之前，请先登录您的用户帐户。]]></phrase>
   <phrase title="pre_reg_content_could_not_be_automatically_submitted" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[很不幸，您在注册之前创建的内容无法自动提交。]]></phrase>
   <phrase title="pre_registration_action" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Pre-registration action]]></phrase>
   <phrase title="preferences" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[提醒偏好]]></phrase>
@@ -14179,7 +14180,7 @@ Before your content can be posted, please take a few moments to login to your us
   <phrase title="redis_phpredis" addon_id="SV/RedisCache" version_id="20110302" version_string="2.11.3"><![CDATA[phpredis 版本]]></phrase>
   <phrase title="redis_serializer" addon_id="SV/RedisCache" version_id="2010100" version_string="2.1.1"><![CDATA[Serializer]]></phrase>
   <phrase title="redis_slave_address" addon_id="SV/RedisCache" version_id="20110302" version_string="2.11.3"><![CDATA[地址]]></phrase>
-  <phrase title="redis_slave_lag" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[Replication Lag (seconds)]]></phrase>
+  <phrase title="redis_slave_lag" addon_id="SV/RedisCache" version_id="20110302" version_string="2.11.3"><![CDATA[复制延迟（秒）]]></phrase>
   <phrase title="redis_slave_state" addon_id="SV/RedisCache" version_id="20110302" version_string="2.11.3"><![CDATA[状态]]></phrase>
   <phrase title="redis_slave_x" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[Slave {i}]]></phrase>
   <phrase title="redis_slaves" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[Slaves]]></phrase>
@@ -14643,7 +14644,7 @@ Before your content can be posted, please take a few moments to login to your us
   <phrase title="set_user_state" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[设置用户状态]]></phrase>
   <phrase title="settings" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[设置]]></phrase>
   <phrase title="setup" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[设定]]></phrase>
-  <phrase title="setup_dkim_email_authentication" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Setup DKIM email authentication]]></phrase>
+  <phrase title="setup_dkim_email_authentication" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[设置 DKIM 电子邮件身份验证]]></phrase>
   <phrase title="sfs_matched_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[StopForumSpam 匹配（{matches}）]]></phrase>
   <phrase title="share" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[分享]]></phrase>
   <phrase title="share_this_content" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[分享此内容]]></phrase>
@@ -14691,7 +14692,7 @@ Before your content can be posted, please take a few moments to login to your us
   <phrase title="show_signatures_with_messages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[显示签名]]></phrase>
   <phrase title="show_staff_and_group_banner" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[显示管理人员和用户组标识]]></phrase>
   <phrase title="show_staff_banner" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[显示管理人员标识]]></phrase>
-  <phrase title="show_them" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Show them.]]></phrase>
+  <phrase title="show_them" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[展示他们]]></phrase>
   <phrase title="show_this_site_on_list_of_supported_sites_shown_to_visitors" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[将此站点名称显示在嵌入视频私信框的“可用”站点列表中]]></phrase>
   <phrase title="show_this_smilie_in_the_text_editor" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[在文本编辑器中显示此表情符号]]></phrase>
   <phrase title="show_value" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[显示值]]></phrase>
@@ -15441,7 +15442,7 @@ You can use multiple IDs separated by comma.]]></phrase>
   <phrase title="siropu_ads_manager_promo_code_not_applies_to_package" addon_id="Siropu/AdsManager" version_id="2000052" version_string="2.0.0-RC-2"><![CDATA[We are sorry, the promo code does not apply to this package.]]></phrase>
   <phrase title="siropu_ads_manager_promo_code_not_valid" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[The promo code you provided is not valid.]]></phrase>
   <phrase title="siropu_ads_manager_promo_code_required" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[需要促销代码。]]></phrase>
-  <phrase title="siropu_ads_manager_promo_code_successfully_applied" addon_id="Siropu/AdsManager" version_id="2000052" version_string="2.0.0-RC-2"><![CDATA[Promo code has been successfully applied.]]></phrase>
+  <phrase title="siropu_ads_manager_promo_code_successfully_applied" addon_id="Siropu/AdsManager" version_id="2041270" version_string="2.4.12"><![CDATA[促销代码已成功申请。]]></phrase>
   <phrase title="siropu_ads_manager_promo_code_user_usage_limit_reached" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[We are sorry, you cannot use this promo code more than {limit} time(s).]]></phrase>
   <phrase title="siropu_ads_manager_promo_codes" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Promo codes]]></phrase>
   <phrase title="siropu_ads_manager_promo_thread_ad_explain" addon_id="Siropu/AdsManager" version_id="2030070" version_string="2.3.0"><![CDATA[Use this ad type if you want to create a promo thread.]]></phrase>
@@ -17328,7 +17329,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="th_uix_expand_signature" addon_id="ThemeHouse/UIX" version_id="2010294" version_string="2.1.2 Patch Level 4"><![CDATA[展开签名]]></phrase>
   <phrase title="th_uix_icon" addon_id="ThemeHouse/UIX" version_id="2010270" version_string="2.1.2"><![CDATA[Ui.X Icon]]></phrase>
   <phrase title="th_uix_icon_explain" addon_id="ThemeHouse/UIX" version_id="2020092" version_string="2.2.0 Patch Level 2"><![CDATA[注意在所有图标都基于UI.X的风格。您可以使用FontAwome或材料设计图标与他们各自的前缀。]]></phrase>
-  <phrase title="th_uix_image_successfully_uploaded" addon_id="ThemeHouse/UIX" version_id="2010231" version_string="2.1.2 Beta 1"><![CDATA[Image successfully uploaded]]></phrase>
+  <phrase title="th_uix_image_successfully_uploaded" addon_id="ThemeHouse/UIX" version_id="2020092" version_string="2.2.0 Patch Level 2"><![CDATA[图片上传成功]]></phrase>
   <phrase title="th_uix_posted" addon_id="ThemeHouse/UIX" version_id="2010293" version_string="2.1.2 Patch Level 3"><![CDATA[发布]]></phrase>
   <phrase title="th_uix_replied" addon_id="ThemeHouse/UIX" version_id="2010070" version_string="2.1.0"><![CDATA[回复]]></phrase>
   <phrase title="th_uix_sp_upload_allowed_file_types" addon_id="ThemeHouse/UIX" version_id="2010231" version_string="2.1.2 Beta 1"><![CDATA[Allowed file extensions are: .jpg, .jpeg, .jpe, .png, .gif]]></phrase>
@@ -17506,9 +17507,9 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="these_settings_reflect_default_style_x" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[这些设置反映了默认样式{title}。]]></phrase>
   <phrase title="thfeature_add_auto_feature" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[增加自动精选]]></phrase>
   <phrase title="thfeature_at" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[在]]></phrase>
-  <phrase title="thfeature_auto_feature_execution_order_explain" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[The order in which auto feature criteria will be checked. Lower values will run first and once a criteria has succeeded it will be immediately applied and no others will be checked.]]></phrase>
+  <phrase title="thfeature_auto_feature_execution_order_explain" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[检查自动特征推荐的顺序。较低的值将首先运行，一旦一个标准成功，它将立即应用，不会检查其他的。]]></phrase>
   <phrase title="thfeature_auto_feature_options" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[自动精选选项]]></phrase>
-  <phrase title="thfeature_auto_play_speed" addon_id="ThemeHouse/Feature" version_id="1000510" version_string="1.0.5 Alpha"><![CDATA[Auto play speed]]></phrase>
+  <phrase title="thfeature_auto_play_speed" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[自动播放速度]]></phrase>
   <phrase title="thfeature_auto_play_speed_explain" addon_id="ThemeHouse/Feature" version_id="1000510" version_string="1.0.5 Alpha"><![CDATA[Set to 0 to disable autoplay, otherwise the speed is the number of milliseconds it will wait before switching to the next item]]></phrase>
   <phrase title="thfeature_bypass_feature_dismissal" addon_id="ThemeHouse/Feature" version_id="1000991" version_string="1.0.9 Patch Level 1"><![CDATA[绕过精选内容忽略]]></phrase>
   <phrase title="thfeature_bypass_feature_dismissal_explain" addon_id="ThemeHouse/Feature" version_id="1000991" version_string="1.0.9 Patch Level 1"><![CDATA[If this option is enabled features will be displayed even if they have been dismissed by the user]]></phrase>
@@ -17526,16 +17527,16 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="thfeature_expires" addon_id="ThemeHouse/Feature" version_id="1000991" version_string="1.0.9 Patch Level 1"><![CDATA[过期]]></phrase>
   <phrase title="thfeature_feature_background_image" addon_id="ThemeHouse/Feature" version_id="1000991" version_string="1.0.9 Patch Level 1"><![CDATA[背景图]]></phrase>
   <phrase title="thfeature_feature_count" addon_id="ThemeHouse/Feature" version_id="1000610" version_string="1.0.6 Alpha"><![CDATA[Feature count]]></phrase>
-  <phrase title="thfeature_feature_date" addon_id="ThemeHouse/Feature" version_id="1000991" version_string="1.0.9 Patch Level 1"><![CDATA[推荐日期]]></phrase>
+  <phrase title="thfeature_feature_date" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[精选日期]]></phrase>
   <phrase title="thfeature_feature_media_item" addon_id="ThemeHouse/Feature" version_id="1000610" version_string="1.0.6 Alpha"><![CDATA[Feature media item]]></phrase>
   <phrase title="thfeature_feature_page_options" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Feature page options]]></phrase>
   <phrase title="thfeature_feature_poll" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[精选投票]]></phrase>
   <phrase title="thfeature_feature_resource" addon_id="ThemeHouse/Feature" version_id="1000991" version_string="1.0.9 Patch Level 1"><![CDATA[精选资源]]></phrase>
   <phrase title="thfeature_feature_thread" addon_id="ThemeHouse/Feature" version_id="1000991" version_string="1.0.9 Patch Level 1"><![CDATA[精选主题]]></phrase>
-  <phrase title="thfeature_feature_will_automatically_expire_on" addon_id="ThemeHouse/Feature" version_id="1000991" version_string="1.0.9 Patch Level 1"><![CDATA[推荐会自动过期于]]></phrase>
+  <phrase title="thfeature_feature_will_automatically_expire_on" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[精选会自动过期于]]></phrase>
   <phrase title="thfeature_featured" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Featured]]></phrase>
   <phrase title="thfeature_featured_by" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[精选者]]></phrase>
-  <phrase title="thfeature_featured_content" addon_id="ThemeHouse/Feature" version_id="1000991" version_string="1.0.9 Patch Level 1"><![CDATA[推荐内容]]></phrase>
+  <phrase title="thfeature_featured_content" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[精选内容]]></phrase>
   <phrase title="thfeature_featured_content_by_x" addon_id="ThemeHouse/Feature" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Featured content by {name}]]></phrase>
   <phrase title="thfeature_featured_content_grid_widget" addon_id="ThemeHouse/Feature" version_id="1000991" version_string="1.0.9 Patch Level 1"><![CDATA[精选内容网格小部件]]></phrase>
   <phrase title="thfeature_featured_content_page" addon_id="ThemeHouse/Feature" version_id="1000991" version_string="1.0.9 Patch Level 1"><![CDATA[精选内容页面]]></phrase>
@@ -17543,7 +17544,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="thfeature_featured_poll_options" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Featured poll options]]></phrase>
   <phrase title="thfeature_featured_threads_options" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Featured threads options]]></phrase>
   <phrase title="thfeature_featured_x" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[精选于 {date}]]></phrase>
-  <phrase title="thfeature_featured_x_by_y" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Featured {date} by {name}]]></phrase>
+  <phrase title="thfeature_featured_x_by_y" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[由 {name} 精选于 {date}]]></phrase>
   <phrase title="thfeature_first_post" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[First post]]></phrase>
   <phrase title="thfeature_first_post_has_a_maximum_reaction_score_of_x" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[First post has a maximum reaction score of X]]></phrase>
   <phrase title="thfeature_first_post_has_a_minimum_reaction_score_of_x" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[First post has a minimum reaction score of X]]></phrase>
@@ -17569,9 +17570,9 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="thfeature_media_item_is_not_in_any_of_selected_categories" addon_id="ThemeHouse/Feature" version_id="1000610" version_string="1.0.6 Alpha"><![CDATA[Media item is in none of the selected categories]]></phrase>
   <phrase title="thfeature_member_options" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[用户选项]]></phrase>
   <phrase title="thfeature_no_auto_feature_criteria_currently_exist" addon_id="ThemeHouse/Feature" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[No auto feature criteria currently exist]]></phrase>
-  <phrase title="thfeature_no_content_has_been_featured_yet" addon_id="ThemeHouse/Feature" version_id="1000991" version_string="1.0.9 Patch Level 1"><![CDATA[目前还没有任何内容被推荐。]]></phrase>
+  <phrase title="thfeature_no_content_has_been_featured_yet" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[目前还没有任何内容被精选。]]></phrase>
   <phrase title="thfeature_no_content_matching_your_filters" addon_id="ThemeHouse/Feature" version_id="1000991" version_string="1.0.9 Patch Level 1"><![CDATA[没有内容符合你的筛选条件噢~]]></phrase>
-  <phrase title="thfeature_no_options_exist_for_this_group" addon_id="ThemeHouse/Feature" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[No options exist for this group.]]></phrase>
+  <phrase title="thfeature_no_options_exist_for_this_group" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[该组不存在任何选项。]]></phrase>
   <phrase title="thfeature_order" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[顺序]]></phrase>
   <phrase title="thfeature_please_confirm_that_you_want_to_unfeature_the_following_content" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Please confirm that you want to unfeature the following content]]></phrase>
   <phrase title="thfeature_postbit_style" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[Postbit样式]]></phrase>
@@ -18076,18 +18077,18 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="thuix_writeable_error" addon_id="ThemeHouse/UIX" version_id="2000791" version_string="2.0.7 Patch Level 1"><![CDATA[Your XenForo directory is not writable by the PHP user. You can contact your host and recommend they use a method that allows PHP to run as the same user that owns the XenForo files or alternatively you can <a href="https://www.themehouse.com/help/documentation/uix2/installing-uix-2-manually">install your style manually</a>.<br> Alternatively, you can enable the option to install via FTP <a href="{url}" target="_BLANK">here</a> which should allow you to proceed.]]></phrase>
   <phrase title="thuix_zip_extension_error" addon_id="ThemeHouse/UIX" version_id="2000791" version_string="2.0.7 Patch Level 1"><![CDATA[The PHP zip extension has not been installed and is required for this functionality to work. Please contact your host to get this issue resolved as this is not something we're able to fix from the add-on.]]></phrase>
   <phrase title="thumbnail" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[缩略图]]></phrase>
-  <phrase title="time.day" addon_id="" version_id="0" version_string=""><![CDATA[{count} day]]></phrase>
+  <phrase title="time.day" addon_id="" version_id="0" version_string=""><![CDATA[{count} 天]]></phrase>
   <phrase title="time.days" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[{count} 天]]></phrase>
-  <phrase title="time.hour" addon_id="" version_id="0" version_string=""><![CDATA[{count} hour]]></phrase>
+  <phrase title="time.hour" addon_id="" version_id="0" version_string=""><![CDATA[{count} 小时]]></phrase>
   <phrase title="time.hours" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[{count} 小时]]></phrase>
-  <phrase title="time.minute" addon_id="" version_id="0" version_string=""><![CDATA[{count} minute]]></phrase>
+  <phrase title="time.minute" addon_id="" version_id="0" version_string=""><![CDATA[{count} 分钟]]></phrase>
   <phrase title="time.minutes" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[{count} 分钟]]></phrase>
-  <phrase title="time.month" addon_id="" version_id="0" version_string=""><![CDATA[{count} month]]></phrase>
+  <phrase title="time.month" addon_id="" version_id="0" version_string=""><![CDATA[{count} 月]]></phrase>
   <phrase title="time.months" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[{count} 月]]></phrase>
-  <phrase title="time.second" addon_id="" version_id="0" version_string=""><![CDATA[{count} second]]></phrase>
+  <phrase title="time.second" addon_id="" version_id="0" version_string=""><![CDATA[{count} 秒]]></phrase>
   <phrase title="time.seconds" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[{count} 秒]]></phrase>
   <phrase title="time.weeks" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[{count} 周]]></phrase>
-  <phrase title="time.year" addon_id="" version_id="0" version_string=""><![CDATA[{count} year]]></phrase>
+  <phrase title="time.year" addon_id="" version_id="0" version_string=""><![CDATA[{count} 年]]></phrase>
   <phrase title="time.years" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[{count} 年]]></phrase>
   <phrase title="time_am_lower" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[上午]]></phrase>
   <phrase title="time_am_upper" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[上午]]></phrase>
@@ -18117,7 +18118,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="to_avoid_unexpected_user_merges_ensure_current_user_unique_name_email" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[为了避免意外的用户合并，请确保您的 <a href="{link}" target="_blank">当前用户</a> 使用用户名和电子邮件，不被任何用户在源数据库中使用！]]></phrase>
   <phrase title="to_configure_authy_please_enter_authy_api_key" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[要配置Authy，请输入Authy API密钥。]]></phrase>
   <phrase title="to_confirm_your_identity_we_have_sent_email_to_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[为确认您的身份，我们回信到 {email} 并请您建立密码。一旦点进该连接，请在页面下输入您的新密码。]]></phrase>
-  <phrase title="to_finish_setting_up_dkim_email_authentication_you_will_need_to_add_new" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[To finish setting up DKIM email authentication, you will need to add a new TXT record for your domain. If you are unsure how to do this, please contact your host or domain registrar. Outgoing emails will not be signed with DKIM until the presence of the DNS record is verified.]]></phrase>
+  <phrase title="to_finish_setting_up_dkim_email_authentication_you_will_need_to_add_new" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[要完成设置 DKIM 电子邮件身份验证，您需要为您的域添加一条新的 TXT 记录。在验证 DNS 记录存在之前，不会使用 DKIM 对传出的电子邮件进行签名。]]></phrase>
   <phrase title="to_load_prefixes_dynamically_you_must_also_provide_listen_to_attribute" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[要动态加载前缀，您还必须提供一个“监听”属性，其中包含要更改的元素的选择器。 ]]></phrase>
   <phrase title="today_at_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[今天 {time}]]></phrase>
   <phrase title="toggle_bb_code" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[切换BB代码]]></phrase>
@@ -18599,7 +18600,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="utc_0400_cuiaba" addon_id="XF" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-04:00) 库亚巴]]></phrase>
   <phrase title="utc_0400_georgetown" addon_id="XF" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-04:00) 乔治城，拉巴斯，马瑙斯，圣胡安]]></phrase>
   <phrase title="utc_0400_santiago" addon_id="XF" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-04:00) 圣地亚哥]]></phrase>
-  <phrase title="utc_0430_caracas" addon_id="XF" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-04:30) Caracas]]></phrase>
+  <phrase title="utc_0430_caracas" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[(UTC-04:30) 加拉加斯]]></phrase>
   <phrase title="utc_0500_bogota" addon_id="XF" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-05:00) 波哥大，利马，基多]]></phrase>
   <phrase title="utc_0500_cuba" addon_id="XF" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-05:00) 古巴]]></phrase>
   <phrase title="utc_0500_eastern_time" addon_id="XF" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-05:00) 东部时间（美国和加拿大）]]></phrase>
@@ -18648,11 +18649,11 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="utc_plus_0545_kathmandu" addon_id="XF" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+05:45) 加德满都]]></phrase>
   <phrase title="utc_plus_0600_almaty" addon_id="XF" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+06:00) 阿拉木图，比什凯克，克孜勒奥尔达]]></phrase>
   <phrase title="utc_plus_0600_astana" addon_id="XF" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+06:00) 阿斯塔纳，达卡]]></phrase>
-  <phrase title="utc_plus_0600_novosibirsk" addon_id="XF" version_id="1040370" version_string="1.4.3"><![CDATA[(UTC+06:00) Novosibirsk]]></phrase>
+  <phrase title="utc_plus_0600_novosibirsk" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[(UTC+06:00) 新西伯利亚]]></phrase>
   <phrase title="utc_plus_0630_yangon" addon_id="XF" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+06:30) 仰光]]></phrase>
   <phrase title="utc_plus_0700_bangkok" addon_id="XF" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+07:00) 曼谷，河内，雅加达]]></phrase>
   <phrase title="utc_plus_0700_krasnoyarsk" addon_id="XF" version_id="1040370" version_string="1.4.3"><![CDATA[(UTC+07:00) 克拉斯诺亚尔斯克]]></phrase>
-  <phrase title="utc_plus_0700_novosibirsk" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[(UTC+07:00) Novosibirsk]]></phrase>
+  <phrase title="utc_plus_0700_novosibirsk" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[(UTC+07:00) 新西伯利亚]]></phrase>
   <phrase title="utc_plus_0800_beijing" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[(UTC+08:00) 北京、重庆、香港、乌鲁木齐]]></phrase>
   <phrase title="utc_plus_0800_irkutsk" addon_id="XF" version_id="1040370" version_string="1.4.3"><![CDATA[(UTC+08:00) 伊尔库茨克]]></phrase>
   <phrase title="utc_plus_0800_kuala_lumpur" addon_id="XF" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC+08:00) 吉隆坡，新加坡]]></phrase>
@@ -18698,7 +18699,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="verification_backup_codes_automatically_generated" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[应急验证码已生成，请务必妥善保管生成的应急验证码。当您的无法获取二次验证码时可以使用任意一组代码进行登录您的账号。每一个仅可使用一次 ，请妥善保存在一个安全的位置。]]></phrase>
   <phrase title="verification_code" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[验证码]]></phrase>
   <phrase title="verification_key" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[验证密钥]]></phrase>
-  <phrase title="verifying_dns_records_for_email_dkim" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Verifying DNS records for email DKIM]]></phrase>
+  <phrase title="verifying_dns_records_for_email_dkim" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[验证电子邮件 DKIM 的 DNS 记录]]></phrase>
   <phrase title="version" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[版本]]></phrase>
   <phrase title="version_comparison" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[版本比较]]></phrase>
   <phrase title="version_mismatch" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[版本不符]]></phrase>
@@ -18860,7 +18861,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="we_found_some_errors_while_trying_to_upgrade_following_add_on" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[我们在升级以下插件时发现了一些错误]]></phrase>
   <phrase title="we_require_you_to_change_your_password" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[为了确保您的帐户安全，我们需要您更改密码后才能继续使用MineBBS。]]></phrase>
   <phrase title="we_strongly_recommend_enabling_push_notifications" addon_id="XF" version_id="2010035" version_string="2.1.0 Beta 5"><![CDATA[我们强烈建议您在此设备上启用推送通知，以便您可以随时了解网站活动。]]></phrase>
-  <phrase title="we_were_unable_to_verify_dns_record" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[We were unable to verify the DNS record. Please try the setup process again.]]></phrase>
+  <phrase title="we_were_unable_to_verify_dns_record" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[我们无法验证 DNS 记录。请重试设置过程。]]></phrase>
   <phrase title="we_will_keep_you_updated_new_content_when_not_visited" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[一段时间没有来访时，我们将为您提供有关新内容的最新信息。]]></phrase>
   <phrase title="website" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[主页]]></phrase>
   <phrase title="week_start_day" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[一周开始]]></phrase>
@@ -19109,7 +19110,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="widget_pos.siropu_referral_contests_view_below" addon_id="Siropu/ReferralContests" version_id="2011070" version_string="2.1.1"><![CDATA[Referral Contests: Contest view below contest]]></phrase>
   <phrase title="widget_pos.th_footer_uix" addon_id="ThemeHouse/UIX" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[UI.X: 扩展页脚]]></phrase>
   <phrase title="widget_pos.th_sidebarNavigation_uix" addon_id="ThemeHouse/UIX" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[UI.X: 侧边栏导航]]></phrase>
-  <phrase title="widget_pos.thfeature_page_above_content" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[[TH] Featured Threads and Content: Featured content page: Above content]]></phrase>
+  <phrase title="widget_pos.thfeature_page_above_content" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[[TH] 精选主题和内容：精选内容页面：内容上方]]></phrase>
   <phrase title="widget_pos.thfeature_page_below_content" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[[TH] 精选主题和内容：精选内容页面：内容下方]]></phrase>
   <phrase title="widget_pos.thfeature_page_sidenav" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[[TH] 精选主题和内容： 精选内容页面： 侧导航]]></phrase>
   <phrase title="widget_pos.thread_view_above_messages" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[主题视图：消息上方]]></phrase>
@@ -19210,7 +19211,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="wrapper_template_html_description" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[如果不为空，则可以格式化该字段的包含标记及其选择的值。 这样可以提供更大的灵活性和自定义性，但是必须使用<b> {$value} </b>占位符才能显示所选的字段值。 （可选）您还可以使用<b> {$title} </b>-字段的标题，<b> {$description} </b>-字段的描述，以及<b> {$fieldId} </b> -该字段的ID（<span id ="FieldId"> {fieldId} </span>）。]]></phrase>
   <phrase title="write_comment" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[写评论]]></phrase>
   <phrase title="write_something" addon_id="XF" version_id="2000053" version_string="2.0.0 Release Candidate 3"><![CDATA[留下您的人生感悟]]></phrase>
-  <phrase title="x_advanced_options_hidden" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[{count} advanced option(s) have been hidden.]]></phrase>
+  <phrase title="x_advanced_options_hidden" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[{count} 个高级选项已被隐藏。]]></phrase>
   <phrase title="x_also_commented_on_ys_profile_post" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name}对<a {poster_params}>{poster}的主页留言</a>进行了评论]]></phrase>
   <phrase title="x_also_commented_on_ys_status" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name}在<a {poster_params}>{poster}的状态</a>页面留言了]]></phrase>
   <phrase title="x_b" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{number}B]]></phrase>
@@ -19285,13 +19286,13 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="x_wrote_on_ys_profile" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name} 在 {profile} 的个人空间上留言。]]></phrase>
   <phrase title="x_years" addon_id="XF" version_id="2000570" version_string="2.0.5"><![CDATA[{years} 年]]></phrase>
   <phrase title="xenforo_importers_now_installed_as_separate_add_on_downloadable_from" addon_id="XF" version_id="2000370" version_string="2.0.3"><![CDATA[XenForo 导入程序现在是一个插件形式安装， 从您的 <a href="https://xenforo.com/customers" target="_blank">客户区</a>下载。]]></phrase>
-  <phrase title="xenforo_is_signing_your_outgoing_emails_with_dkim" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[XenForo is signing your outgoing emails with DKIM.]]></phrase>
+  <phrase title="xenforo_is_signing_your_outgoing_emails_with_dkim" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[XenForo 正在使用 DKIM 签署您的外发电子邮件。]]></phrase>
   <phrase title="xenforo_version_x_available_for_installation" addon_id="XF" version_id="2020670" version_string="2.2.6"><![CDATA[XenForo {version} is now available for installation.]]></phrase>
-  <phrase title="xenforo_x_available_explain" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[XenForo {version} is now available for installation.<br />
+  <phrase title="xenforo_x_available_explain" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[XenForo {version} 现在可以安装了。<br />
 <br />
-You may upgrade to this version from within your control panel. If you proceed, the new version will be downloaded, files copied, and the upgrade will be applied.<br />
+您可以从控制面板中升级到此版本。 如果继续，将下载新版本、复制文件并应用升级。<br />
 <br />
-Note that if a CLI upgrade is recommended, you will be given an opportunity to use that instead of the web upgrader.]]></phrase>
+请注意，如果建议使用 CLI 升级，您将有机会使用它而不是 Web 升级程序。]]></phrase>
   <phrase title="xenforo_x_is_now_available" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[XenForo {version}现已推出。]]></phrase>
   <phrase title="xf_one_click_upgrade_significant_explain" addon_id="XF" version_id="2020670" version_string="2.2.6"><![CDATA[This is a significant upgrade that add new features and contains many changes. Newer versions of styles and add-ons may need to be installed after the upgrade is completed.<br />
 <br />
@@ -19596,7 +19597,7 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_resource_reactions" addon_id="XFRM" version_id="2010011" version_string="2.1.0 Preview 1"><![CDATA[资源反馈]]></phrase>
   <phrase title="xfrm_resource_review_fields" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[资源评价字段]]></phrase>
   <phrase title="xfrm_resource_review_in_x" addon_id="XFRM" version_id="2020270" version_string="2.2.2"><![CDATA[资源评价 【{title}】]]></phrase>
-  <phrase title="xfrm_resource_review_votes" addon_id="XFRM" version_id="2020370" version_string="2.2.3"><![CDATA[Resource review votes]]></phrase>
+  <phrase title="xfrm_resource_review_votes" addon_id="XFRM" version_id="2020470" version_string="2.2.4"><![CDATA[资源评价投票]]></phrase>
   <phrase title="xfrm_resource_team" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[资源团队]]></phrase>
   <phrase title="xfrm_resource_thread_create" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[{username} 提交新资源：
 
@@ -19620,7 +19621,7 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_resource_updates" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[资源更新]]></phrase>
   <phrase title="xfrm_resource_version" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[资源版本]]></phrase>
   <phrase title="xfrm_resource_version_in_x" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[资源版本 '{title}']]></phrase>
-  <phrase title="xfrm_resource_versions" addon_id="XFRM" version_id="2020370" version_string="2.2.3"><![CDATA[Resource versions]]></phrase>
+  <phrase title="xfrm_resource_versions" addon_id="XFRM" version_id="2020470" version_string="2.2.4"><![CDATA[资源版本]]></phrase>
   <phrase title="xfrm_resource_watched" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[关注的资源]]></phrase>
   <phrase title="xfrm_resource_x" addon_id="XFRM" version_id="2010011" version_string="2.1.0 Preview 1"><![CDATA[资源 '{title}']]></phrase>
   <phrase title="xfrm_resource_x_new_watched_category" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[{resource} - 关注的分类中有新的资源]]></phrase>
@@ -19785,7 +19786,7 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="you_have_no_recent_conversations" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[您最近没有私信。]]></phrase>
   <phrase title="you_have_not_added_any_bookmarks_yet" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[您尚未添加任何书签。]]></phrase>
   <phrase title="you_have_posted_x_messages_in_this_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[在此主题内您已经发布了 {count} 个帖子]]></phrase>
-  <phrase title="you_have_reached_the_maximum_limit_for_attachment_uploads" addon_id="XF" version_id="2021070" version_string="2.2.10"><![CDATA[You have reached the maximum limit for attachment uploads. Please try again later.]]></phrase>
+  <phrase title="you_have_reached_the_maximum_limit_for_attachment_uploads" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[您已达到附件上传的最大限制。请稍后再试。]]></phrase>
   <phrase title="you_have_saved_draft_click_to_load" addon_id="XF" version_id="2000053" version_string="2.0.0 Release Candidate 3"><![CDATA[您有保存的草稿。点击这里加载它。]]></phrase>
   <phrase title="you_may_also_use_phrase_title_which_will_be_replaced" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[您也可以使用 {phrase:phrase_title} 将被替换为收件人语言的短语文本。]]></phrase>
   <phrase title="you_may_choose_enter_title_for_section_if_not_default" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[您可以选择为此部分输入特定标题。 如果您不输入，则该部分将显示适当的标题。]]></phrase>
@@ -19954,11 +19955,11 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="your_old_config_file_at_library_config_is_still_available" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[您在 <code>library/config.php</code> 上的旧配置文件仍然在服务器上可用。如果您不再需要它, 请删除或重命名它。当前的配置文件存储在 <code>src/config.php</code> 中。]]></phrase>
   <phrase title="your_password" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[您的密码]]></phrase>
   <phrase title="your_password_has_been_reset" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[您的密码已重置。]]></phrase>
-  <phrase title="your_post_in_another_thread_was_moved_to_y" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Your post in another thread was moved to {target}.]]></phrase>
+  <phrase title="your_post_in_another_thread_was_moved_to_y" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[您在另一个主题中的帖子已移至 {target}。]]></phrase>
   <phrase title="your_post_in_thread_x_was_copied_to_y" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[您在主题 {title} 中的帖子已经复制到 {target}。]]></phrase>
   <phrase title="your_post_in_thread_x_was_deleted" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[您在主题 {title} 中的帖子已经删除。]]></phrase>
   <phrase title="your_post_in_thread_x_was_edited" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[您发表的主题 {title} 已被编辑。]]></phrase>
-  <phrase title="your_post_in_thread_x_was_moved_to_another_thread" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Your post in thread {title} was moved to another thread.]]></phrase>
+  <phrase title="your_post_in_thread_x_was_moved_to_another_thread" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[您在主题 {title} 中的帖子已移至另一个主题。]]></phrase>
   <phrase title="your_post_in_thread_x_was_moved_to_y" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[您在主题 {title} 中的帖子已经移动到 {target}。]]></phrase>
   <phrase title="your_posts_in_thread_x_were_merged_together" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[您发表在主题 {source} 中的帖子已被合并。]]></phrase>
   <phrase title="your_profile" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[个人空间]]></phrase>
