@@ -11419,11 +11419,11 @@ Multiple styles can be combined.
   <phrase title="news_feed_dbtech_shop_trade_post_insert_own" addon_id="DBTech/Shop" version_id="906010015" version_string="6.1.0 Alpha 5"><![CDATA[{username} posted in their own <a href="{href}">trade</a>.]]></phrase>
   <phrase title="news_feed_disabled" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[新信息反馈功能已经关闭，这可能是因为网站负载过大而采取的临时措施。]]></phrase>
   <phrase title="news_feed_is_currently_empty" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[即时推送信息为空。]]></phrase>
-  <phrase title="news_feed_post_insert" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{username}回复主题：{threadTitle}。]]></phrase>
+  <phrase title="news_feed_post_insert" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[{username} 回复了主题 {threadTitle}。]]></phrase>
   <phrase title="news_feed_profile_post_comment_insert" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{usernamePoster} 评论了 {usernameReceiver}的个人空间信息。]]></phrase>
   <phrase title="news_feed_profile_post_insert" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{usernamePoster}留言了 {usernameReceiver}的个人空间。]]></phrase>
   <phrase title="news_feed_profile_post_insert_status" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{username} 更新了<a href="{href}">状态</a>。]]></phrase>
-  <phrase title="news_feed_thread_insert" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{username}在{forumTitle}发布新主题 {threadTitle} 。]]></phrase>
+  <phrase title="news_feed_thread_insert" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[{username} 在 {forumTitle} 发布了新主题 {threadTitle} 。]]></phrase>
   <phrase title="next" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[下一页]]></phrase>
   <phrase title="next_allowed_username_change" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[下次允许用户名更改]]></phrase>
   <phrase title="next_allowed_username_change_message" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[如果您现在决定更改用户名，则您必须等到{date}才能再次更改用户名。]]></phrase>
@@ -17519,7 +17519,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="thfeature_content_post_date" addon_id="ThemeHouse/Feature" version_id="1000991" version_string="1.0.9 Patch Level 1"><![CDATA[发布日期]]></phrase>
   <phrase title="thfeature_content_type_x_doesnt_support_auto_feature" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Content type '{contentType}' doesn't support auto feature.]]></phrase>
   <phrase title="thfeature_create_feature" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Create feature]]></phrase>
-  <phrase title="thfeature_criteria_is_active" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Criteria is active]]></phrase>
+  <phrase title="thfeature_criteria_is_active" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[标准已启用]]></phrase>
   <phrase title="thfeature_default_style" addon_id="ThemeHouse/Feature" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Default style]]></phrase>
   <phrase title="thfeature_dismiss" addon_id="ThemeHouse/Feature" version_id="1000991" version_string="1.0.9 Patch Level 1"><![CDATA[忽略]]></phrase>
   <phrase title="thfeature_display" addon_id="ThemeHouse/Feature" version_id="1000991" version_string="1.0.9 Patch Level 1"><![CDATA[显示]]></phrase>
@@ -19266,11 +19266,11 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="x_reacted_to_ys_comment_on_your_profile_post" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name}通过{reaction}对您的个人空间帖子中的<a {postt_params}> {poster}评论</a>做出了反馈。]]></phrase>
   <phrase title="x_reacted_to_ys_comment_on_zs_profile_post" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name}对{profile}的个人空间帖子{response}的{{postt_params}> {poster}的评论</a>做出了反馈。]]></phrase>
   <phrase title="x_reacted_to_ys_message_in_the_conversation_z" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name}通过{reaction}私信{title}中的<a {postterParams}> {poster}的消息</a>做出了反馈。]]></phrase>
-  <phrase title="x_reacted_to_ys_post_in_the_thread_z" addon_id="XF" version_id="2020270" version_string="2.2.2"><![CDATA[{name}对帖子{title}中的<a {postterParams}> {poster}的帖子</a>表示{reaction}。]]></phrase>
+  <phrase title="x_reacted_to_ys_post_in_the_thread_z" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[{name} 对主题 {title} 中 <a {postterParams}>{poster}的帖子</a> 表示 {reaction}。]]></phrase>
   <phrase title="x_reacted_to_ys_post_on_your_profile" addon_id="XF" version_id="2020270" version_string="2.2.2"><![CDATA[{name}对您个人空间中的<a {postt_params}> {poster}发布消息</a>表示{reaction}。]]></phrase>
   <phrase title="x_reacted_to_ys_post_on_zs_profile" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name}通过{reaction}对{profile}的个人空间中的<a {postt_params}> {poster}帖子</a>做出了反馈。]]></phrase>
   <phrase title="x_reacted_to_ys_status" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name}通过{reaction}对<a {status_params}> {poster}的动态态</a>作出反馈。]]></phrase>
-  <phrase title="x_replied_to_thread_y_may_be_more" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name} 回复了主题 {title}。]]></phrase>
+  <phrase title="x_replied_to_thread_y_may_be_more" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[{name} 回复了主题 {title}。之后可能会有更多帖子。]]></phrase>
   <phrase title="x_restricts_who_may_view_their_latest_activity" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[限制 {name} 可以查看他们最新动态。]]></phrase>
   <phrase title="x_said" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name} 说]]></phrase>
   <phrase title="x_seconds" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[{count} 秒]]></phrase>
@@ -19694,7 +19694,7 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_will_require_users_provide_at_least_tags_when_creating_resource" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[这将需要用户在创建资源时至少输入的标签数。]]></phrase>
   <phrase title="xfrm_x_added_you_as_team_member_for_resource_y" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[{name}将您添加为资源{title}的团队成员。]]></phrase>
   <phrase title="xfrm_x_created_resource_y" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name} 创建了资源 {title}。]]></phrase>
-  <phrase title="xfrm_x_created_resource_y_in_category_z" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{username} 在 {category} 中创建了资源 {title}。]]></phrase>
+  <phrase title="xfrm_x_created_resource_y_in_category_z" addon_id="XFRM" version_id="2020470" version_string="2.2.4"><![CDATA[{username} 在 {category} 发布了新资源 {title}。]]></phrase>
   <phrase title="xfrm_x_has_not_posted_any_resources_yet" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name} 未发布过任何资源。]]></phrase>
   <phrase title="xfrm_x_left_resource_team_for_resource_y" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[{name}离开了资源{title}的资源团队。]]></phrase>
   <phrase title="xfrm_x_mentioned_you_in_resource_y" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name} 在资源 {title} 中提到您。]]></phrase>
