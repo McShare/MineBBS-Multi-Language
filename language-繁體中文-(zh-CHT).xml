@@ -354,6 +354,8 @@
   <phrase title="admin_navigation.memberStats" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[會員統計]]></phrase>
   <phrase title="admin_navigation.messageUsers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[傳訊給會員]]></phrase>
   <phrase title="admin_navigation.mjcCredits" addon_id="MJ/Credits" version_id="1000400" version_string="1.0.4"><![CDATA[積分]]></phrase>
+  <phrase title="admin_navigation.mjcCreditsOption" addon_id="MJ/Credits" version_id="1030030" version_string="1.3.3"><![CDATA[選項]]></phrase>
+  <phrase title="admin_navigation.mjcCreditsOptions" addon_id="MJ/Credits" version_id="1030030" version_string="1.3.3"><![CDATA[選項]]></phrase>
   <phrase title="admin_navigation.mjcCurrencies" addon_id="MJ/Credits" version_id="1000400" version_string="1.0.4"><![CDATA[貨幣]]></phrase>
   <phrase title="admin_navigation.mjcDevCredits" addon_id="MJ/Credits" version_id="1000400" version_string="1.0.4"><![CDATA[積分]]></phrase>
   <phrase title="admin_navigation.mjcEventDefinitions" addon_id="MJ/Credits" version_id="1000400" version_string="1.0.4"><![CDATA[事件定義]]></phrase>
@@ -527,7 +529,7 @@
   <phrase title="admin_permission.help" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[說明管理]]></phrase>
   <phrase title="admin_permission.import" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[匯入資料]]></phrase>
   <phrase title="admin_permission.language" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[管理語言與詞句]]></phrase>
-  <phrase title="admin_permission.mjcCredits" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[[BR] 积分]]></phrase>
+  <phrase title="admin_permission.mjcCredits" addon_id="MJ/Credits" version_id="1030030" version_string="1.3.3"><![CDATA[[BR] 積分]]></phrase>
   <phrase title="admin_permission.navigation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[導航列管理]]></phrase>
   <phrase title="admin_permission.node" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[討論板管理]]></phrase>
   <phrase title="admin_permission.notice" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[通知訊息管理]]></phrase>
@@ -1431,8 +1433,8 @@ To support recurring billing and automatically reversing purchases when a paymen
   <phrase title="closed_prefixes_desc" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[These prefixes represent a suggestion that has been closed (but not implemented). Closed suggestions will no longer be votable. Only available prefixes can be selected.]]></phrase>
   <phrase title="closed_reports" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[已關閉的報告]]></phrase>
   <phrase title="closed_reports_x_y" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[關閉的報告：{from} 到 {to}]]></phrase>
-  <phrase title="cnxfans_gave_you_a_red_ennelope" addon_id="MJ/Credits" version_id="1010300" version_string="1.1.3"><![CDATA[{name} 在主题<a href="{target}"> {thread} </a>中的帖子内给您发了红包！]]></phrase>
-  <phrase title="cnxfans_the_transfer_amount_is_not_enough" addon_id="MJ/Credits" version_id="1010900" version_string="1.1.9"><![CDATA[转账金额不够扣税，请输入合适的金额。]]></phrase>
+  <phrase title="cnxfans_gave_you_a_red_ennelope" addon_id="MJ/Credits" version_id="1030030" version_string="1.3.3"><![CDATA[{name} 在主題<a href="{target}"> {thread} </a>中的帖子内給您發了紅包！]]></phrase>
+  <phrase title="cnxfans_the_transfer_amount_is_not_enough" addon_id="MJ/Credits" version_id="1030030" version_string="1.3.3"><![CDATA[轉賬金額不抵稅款，請輸入合適的金額。]]></phrase>
   <phrase title="code" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[代碼]]></phrase>
   <phrase title="code_event_execution_order_desc" addon_id="XF" version_id="1020035" version_string="1.2.0 Beta 5"><![CDATA[會從較小的執行順序開始執行。請注意，沒有指定事件提示的監聽程式會優先執行。]]></phrase>
   <phrase title="code_event_ids_must_be_unique" addon_id="XF" version_id="0" version_string=""><![CDATA[代碼事件 ID 不能重複。指定的 ID 已經使用在其他地方了。]]></phrase>
@@ -1683,7 +1685,7 @@ To support recurring billing and automatically reversing purchases when a paymen
   <phrase title="cron_entry.mjcBirthday" addon_id="MJ/Credits" version_id="1000400" version_string="1.0.4"><![CDATA[[BRC] 觸發生日活動]]></phrase>
   <phrase title="cron_entry.mjcCounters" addon_id="MJ/Credits" version_id="1000400" version_string="1.0.4"><![CDATA[[BRC] 記錄每日統計數據]]></phrase>
   <phrase title="cron_entry.rebuildSearchForumCache" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Rebuild expired search forum caches]]></phrase>
-  <phrase title="cron_entry.referralsrcContest" addon_id="CnXFans/ReferralContestsReward" version_id="1000000" version_string="1.0.0"><![CDATA[推荐竞赛积分奖励]]></phrase>
+  <phrase title="cron_entry.referralsrcContest" addon_id="CnXFans/ReferralContestsReward" version_id="1000000" version_string="1.0.0"><![CDATA[推薦競賽積分獎勵]]></phrase>
   <phrase title="cron_entry.run_successfully" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[排程項目成功運行。]]></phrase>
   <phrase title="cron_entry.samDailyCleanUp" addon_id="Siropu/AdsManager" version_id="2041270" version_string="2.4.12"><![CDATA[Ads Manager: Daily clean up]]></phrase>
   <phrase title="cron_entry.samDailyImpressionDistrib" addon_id="Siropu/AdsManager" version_id="2020070" version_string="2.2.0"><![CDATA[Ads Manager: Daily impression distribution]]></phrase>
@@ -1853,7 +1855,7 @@ To support recurring billing and automatically reversing purchases when a paymen
   <phrase title="current_visitors" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[目前訪客]]></phrase>
   <phrase title="custom_bb_code_callback_will_receive_parameters" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[此回傳函數接受以下參數：$tagChildren, $tagOption, $tag,  array $options, \XF\BbCode\Renderer\AbstractRenderer $renderer。]]></phrase>
   <phrase title="custom_bb_code_desc.anchor" addon_id="" version_id="0" version_string=""><![CDATA[设置一个锚点]]></phrase>
-  <phrase title="custom_bb_code_desc.fees" addon_id="MJ/Credits" version_id="1020502" version_string="1.2.5"><![CDATA[向用户收费以查看您的内容。]]></phrase>
+  <phrase title="custom_bb_code_desc.fees" addon_id="MJ/Credits" version_id="1030030" version_string="1.3.3"><![CDATA[用戶支付積分以查看您的内容。]]></phrase>
   <phrase title="custom_bb_code_desc.line" addon_id="" version_id="0" version_string=""><![CDATA[分隔线]]></phrase>
   <phrase title="custom_bb_code_desc.md" addon_id="" version_id="0" version_string=""><![CDATA[插入markdown的识别标签]]></phrase>
   <phrase title="custom_bb_code_desc.product" addon_id="DBTech/eCommerce" version_id="1040070" version_string="1.4.0"><![CDATA[BB code for displaying products.]]></phrase>
@@ -1863,7 +1865,7 @@ To support recurring billing and automatically reversing purchases when a paymen
   <phrase title="custom_bb_code_desc.toanchor" addon_id="" version_id="0" version_string=""><![CDATA[前往指定锚点]]></phrase>
   <phrase title="custom_bb_code_desc.tr2" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="custom_bb_code_example.anchor" addon_id="" version_id="0" version_string=""><![CDATA[[ANCHOR=aboutus]关于我们[/ANCHOR]]]></phrase>
-  <phrase title="custom_bb_code_example.fees" addon_id="MJ/Credits" version_id="1020502" version_string="1.2.5"><![CDATA[[FEES=5]查看内容需要花费5积分。[/FEES]]]></phrase>
+  <phrase title="custom_bb_code_example.fees" addon_id="MJ/Credits" version_id="1030030" version_string="1.3.3"><![CDATA[[FEES=5]查看内容需要花費5金粒。[/FEES]]]></phrase>
   <phrase title="custom_bb_code_example.line" addon_id="" version_id="0" version_string=""><![CDATA[这是划分线上方
 [LINE][/LINE]
 这是划分线下方]]></phrase>
@@ -1888,7 +1890,7 @@ To support recurring billing and automatically reversing purchases when a paymen
   <phrase title="custom_bb_code_output.toanchor" addon_id="" version_id="0" version_string=""><![CDATA[<a href="#aboutus">关于我们</a>]]></phrase>
   <phrase title="custom_bb_code_output.tr2" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="custom_bb_code_title.anchor" addon_id="" version_id="0" version_string=""><![CDATA[设置锚点]]></phrase>
-  <phrase title="custom_bb_code_title.fees" addon_id="MJ/Credits" version_id="1020502" version_string="1.2.5"><![CDATA[内容收费]]></phrase>
+  <phrase title="custom_bb_code_title.fees" addon_id="MJ/Credits" version_id="1030030" version_string="1.3.3"><![CDATA[付費可見]]></phrase>
   <phrase title="custom_bb_code_title.line" addon_id="" version_id="0" version_string=""><![CDATA[分隔线]]></phrase>
   <phrase title="custom_bb_code_title.md" addon_id="" version_id="0" version_string=""><![CDATA[Markdown]]></phrase>
   <phrase title="custom_bb_code_title.product" addon_id="DBTech/eCommerce" version_id="1040070" version_string="1.4.0"><![CDATA[Product embed]]></phrase>
@@ -5237,6 +5239,7 @@ This is the message they left:
   <phrase title="editable_only_once" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[編輯後未來將無法修改]]></phrase>
   <phrase title="edited_by_x" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[編輯：{name}]]></phrase>
   <phrase title="editing_master_embed_html_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[你正在編輯此範本的「主版本」。你所做的變更可能不會影響其他已修改的子樣式。]]></phrase>
+  <phrase title="editor_dropdown.hide" addon_id="" version_id="0" version_string=""><![CDATA[隐藏]]></phrase>
   <phrase title="editor_dropdown.mh_hide" addon_id="" version_id="0" version_string=""><![CDATA[隐藏]]></phrase>
   <phrase title="editor_dropdown.video" addon_id="" version_id="0" version_string=""><![CDATA[视频]]></phrase>
   <phrase title="editor_dropdown.xfInsert" addon_id="" version_id="0" version_string=""><![CDATA[更多插入]]></phrase>
@@ -10220,6 +10223,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_all" addon_id="MJ/Credits" version_id="1000400" version_string="1.0.4"><![CDATA[所有]]></phrase>
   <phrase title="mjc_all_currencies" addon_id="MJ/Credits" version_id="1000400" version_string="1.0.4"><![CDATA[所有貨幣]]></phrase>
   <phrase title="mjc_allowed_attachment_file_extensions" addon_id="MJ/Credits" version_id="1000400" version_string="1.0.4"><![CDATA[允許的附件文件擴展名]]></phrase>
+  <phrase title="mjc_already_signed_in" addon_id="MJ/Credits" version_id="1030030" version_string="1.3.3"><![CDATA[您已經簽過到了]]></phrase>
   <phrase title="mjc_amount" addon_id="MJ/Credits" version_id="1000400" version_string="1.0.4"><![CDATA[數額]]></phrase>
   <phrase title="mjc_amount_explain" addon_id="MJ/Credits" version_id="1000400" version_string="1.0.4"><![CDATA[輸入此操作發生時將借記的積分數量。]]></phrase>
   <phrase title="mjc_amount_receive" addon_id="MJ/Credits" version_id="1000400" version_string="1.0.4"><![CDATA[金額接收]]></phrase>
@@ -10230,17 +10234,17 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_available_balance" addon_id="MJ/Credits" version_id="1000400" version_string="1.0.4"><![CDATA[可用餘額]]></phrase>
   <phrase title="mjc_board_statistics" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[管理統計]]></phrase>
   <phrase title="mjc_both" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[共同]]></phrase>
-  <phrase title="mjc_bulk_delete" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[批量删除]]></phrase>
-  <phrase title="mjc_by_quantity" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[按数量]]></phrase>
-  <phrase title="mjc_by_value" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[按价值]]></phrase>
-  <phrase title="mjc_choose_currency" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[选择货币]]></phrase>
-  <phrase title="mjc_choose_event_definition" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[选择事件定义]]></phrase>
-  <phrase title="mjc_clear_all_transactions" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[清除所有交易]]></phrase>
+  <phrase title="mjc_bulk_delete" addon_id="MJ/Credits" version_id="1030030" version_string="1.3.3"><![CDATA[批量刪除]]></phrase>
+  <phrase title="mjc_by_quantity" addon_id="MJ/Credits" version_id="1030030" version_string="1.3.3"><![CDATA[按數量]]></phrase>
+  <phrase title="mjc_by_value" addon_id="MJ/Credits" version_id="1030030" version_string="1.3.3"><![CDATA[按價值]]></phrase>
+  <phrase title="mjc_choose_currency" addon_id="MJ/Credits" version_id="1030030" version_string="1.3.3"><![CDATA[選擇貨幣]]></phrase>
+  <phrase title="mjc_choose_event_definition" addon_id="MJ/Credits" version_id="1030030" version_string="1.3.3"><![CDATA[選擇事件]]></phrase>
+  <phrase title="mjc_clear_all_transactions" addon_id="MJ/Credits" version_id="1030030" version_string="1.3.3"><![CDATA[清除所有交易記錄]]></phrase>
   <phrase title="mjc_clear_all_user_credits" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[清除所有用戶積分]]></phrase>
-  <phrase title="mjc_clock" addon_id="MJ/Credits" version_id="1020810" version_string="1.2.8.1"><![CDATA[每日签到]]></phrase>
-  <phrase title="mjc_code" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[代码]]></phrase>
+  <phrase title="mjc_clock" addon_id="MJ/Credits" version_id="1030030" version_string="1.3.3"><![CDATA[每日簽到]]></phrase>
+  <phrase title="mjc_code" addon_id="MJ/Credits" version_id="1030030" version_string="1.3.3"><![CDATA[代碼]]></phrase>
   <phrase title="mjc_column_x_was_not_found" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[找不到列{column}。]]></phrase>
-  <phrase title="mjc_comment" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[评论]]></phrase>
+  <phrase title="mjc_comment" addon_id="MJ/Credits" version_id="1030030" version_string="1.3.3"><![CDATA[評論]]></phrase>
   <phrase title="mjc_complete" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[完成]]></phrase>
   <phrase title="mjc_complete_date" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[完成日期]]></phrase>
   <phrase title="mjc_completed" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[已完成]]></phrase>
@@ -10248,7 +10252,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_created_date" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[創建日期]]></phrase>
   <phrase title="mjc_credit" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[積分]]></phrase>
   <phrase title="mjc_credits" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[積分]]></phrase>
-  <phrase title="mjc_credits_are_you_sure_view_for_x_y" addon_id="MJ/Credits" version_id="1000400" version_string="1.0.4"><![CDATA[您确定要花费{param1} {param2}来解锁此内容吗？]]></phrase>
+  <phrase title="mjc_credits_are_you_sure_view_for_x_y" addon_id="MJ/Credits" version_id="1030030" version_string="1.3.3"><![CDATA[您确定要花费 {param1} {param2} 来解锁此内容吗？]]></phrase>
   <phrase title="mjc_credits_charge_for_content" addon_id="MJ/Credits" version_id="1000500" version_string="1.0.5"><![CDATA[收取内容费用]]></phrase>
   <phrase title="mjc_credits_costs_x_y" addon_id="MJ/Credits" version_id="1000500" version_string="1.0.5"><![CDATA[花费 {param1} {param2}]]></phrase>
   <phrase title="mjc_credits_credits_charged" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[積分價格]]></phrase>
@@ -10284,6 +10288,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_currency_desc.5" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_currency_desc.6" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_currency_limit" addon_id="MJ/Credits" version_id="1000200" version_string="1.0.2"><![CDATA[货币限制]]></phrase>
+  <phrase title="mjc_currency_options" addon_id="MJ/Credits" version_id="1020920" version_string="1.2.9.2"><![CDATA[货币选项]]></phrase>
   <phrase title="mjc_currency_title.1" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[黄金]]></phrase>
   <phrase title="mjc_currency_title.2" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[白银]]></phrase>
   <phrase title="mjc_currency_title.3" addon_id="" version_id="0" version_string=""><![CDATA[金粒]]></phrase>
@@ -10434,7 +10439,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_event_def_title.follow" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[關注]]></phrase>
   <phrase title="mjc_event_def_title.follower_lose" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[失去关注者]]></phrase>
   <phrase title="mjc_event_def_title.follower_receive" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[获得关注者]]></phrase>
-  <phrase title="mjc_event_def_title.invitation_credit_reward" addon_id="CnXFans/ReferralContestsReward" version_id="1000000" version_string="1.0.0"><![CDATA[邀请积分奖励]]></phrase>
+  <phrase title="mjc_event_def_title.invitation_credit_reward" addon_id="CnXFans/ReferralContestsReward" version_id="1000000" version_string="1.0.0"><![CDATA[邀請積分獎勵]]></phrase>
   <phrase title="mjc_event_def_title.mjrcp_buy_resource" addon_id="MJ/ResourceCreditsPayment" version_id="1000031" version_string="1.0.0"><![CDATA[購買資源]]></phrase>
   <phrase title="mjc_event_def_title.mjrcp_sell_resource" addon_id="MJ/ResourceCreditsPayment" version_id="1000031" version_string="1.0.0"><![CDATA[出售資源]]></phrase>
   <phrase title="mjc_event_def_title.offerReward" addon_id="MJ/Credits" version_id="1020235" version_string="1.2.2"><![CDATA[悬赏]]></phrase>
@@ -10460,7 +10465,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_event_def_title.profile_post_receive" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[收到个人空间信息]]></phrase>
   <phrase title="mjc_event_def_title.profile_post_unlike" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[取消支持个人空间信息]]></phrase>
   <phrase title="mjc_event_def_title.red_envelope" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[红包]]></phrase>
-  <phrase title="mjc_event_def_title.referral_contest_credit_reward" addon_id="CnXFans/ReferralContestsReward" version_id="1000000" version_string="1.0.0"><![CDATA[推荐竞赛积分奖励]]></phrase>
+  <phrase title="mjc_event_def_title.referral_contest_credit_reward" addon_id="CnXFans/ReferralContestsReward" version_id="1000000" version_string="1.0.0"><![CDATA[推薦競賽積分獎勵]]></phrase>
   <phrase title="mjc_event_def_title.register" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[注冊]]></phrase>
   <phrase title="mjc_event_def_title.reward" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[打賞]]></phrase>
   <phrase title="mjc_event_def_title.thread_delete" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[主題被刪除]]></phrase>
@@ -10570,7 +10575,9 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_not_enough_x_to_payment" addon_id="MJ/Credits" version_id="1010700" version_string="1.1.7"><![CDATA[您的金额不足 {amount}]]></phrase>
   <phrase title="mjc_not_enough_x_to_reward" addon_id="MJ/Credits" version_id="1020301" version_string="1.2.3"><![CDATA[您没有足够的{x}打赏其他用户。]]></phrase>
   <phrase title="mjc_not_enough_x_to_transfer" addon_id="MJ/Credits" version_id="1001000" version_string="1.1.0"><![CDATA[转账金额不足 {amount}]]></phrase>
+  <phrase title="mjc_not_enough_x_unable_to_action" addon_id="MJ/Credits" version_id="1030000" version_string="1.3.0"><![CDATA[您没有足够的 {amount} 进行{title}操作。]]></phrase>
   <phrase title="mjc_only_balance_of_selected_currencies" addon_id="MJ/Credits" version_id="1000400" version_string="1.0.4"><![CDATA[僅限所選貨幣的餘額。]]></phrase>
+  <phrase title="mjc_only_positive_numbers_are_allowed" addon_id="MJ/Credits" version_id="1020920" version_string="1.2.9.2"><![CDATA[仅允许正数货币]]></phrase>
   <phrase title="mjc_only_richest_members_has_selected_currencies" addon_id="MJ/Credits" version_id="1000200" version_string="1.0.2"><![CDATA[只有最富有的会员才能拥有所选的货币。]]></phrase>
   <phrase title="mjc_override_credits" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[覆蓋積分]]></phrase>
   <phrase title="mjc_overview" addon_id="MJ/Credits" version_id="1000400" version_string="1.0.4"><![CDATA[賬單]]></phrase>
@@ -10809,11 +10816,11 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mod_log.resource_rating_warning_given" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Resource rating warning given]]></phrase>
   <phrase title="mod_log.resource_rating_warning_removed" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Resource rating warning removed]]></phrase>
   <phrase title="mod_log.resource_reassign" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Resource reassigned (from {from})]]></phrase>
-  <phrase title="mod_log.resource_stick" addon_id="CnXFans/StickyResources" version_id="1000070" version_string="1.0.0"><![CDATA[置顶资源]]></phrase>
+  <phrase title="mod_log.resource_stick" addon_id="CnXFans/StickyResources" version_id="1000000" version_string="1.0.0"><![CDATA[置頂資源]]></phrase>
   <phrase title="mod_log.resource_unapprove" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Resource unapproved]]></phrase>
   <phrase title="mod_log.resource_undelete" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Resource undeleted]]></phrase>
   <phrase title="mod_log.resource_unfeature" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Resource unfeatured]]></phrase>
-  <phrase title="mod_log.resource_unstick" addon_id="CnXFans/StickyResources" version_id="1000070" version_string="1.0.0"><![CDATA[取消置顶资源]]></phrase>
+  <phrase title="mod_log.resource_unstick" addon_id="CnXFans/StickyResources" version_id="1000000" version_string="1.0.0"><![CDATA[取消置頂]]></phrase>
   <phrase title="mod_log.resource_update_approve" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Resource update approved]]></phrase>
   <phrase title="mod_log.resource_update_attachment_deleted" addon_id="XFRM" version_id="2010670" version_string="2.1.6"><![CDATA[Resource update attachment deleted]]></phrase>
   <phrase title="mod_log.resource_update_delete_hard" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Resource update permanently deleted]]></phrase>
@@ -11680,6 +11687,7 @@ If a CLI upgrade is recommended, you will be given an opportunity to use that in
   <phrase title="option.oEmbedLogLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[oEmbed 媒體紀錄保留期限]]></phrase>
   <phrase title="option.oEmbedRequestReferrer" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[oEmbed 請求引用紀錄保留 X 天：]]></phrase>
   <phrase title="option.onlineStatusTimeout" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[線上狀態逾時]]></phrase>
+  <phrase title="option.openBonusPostNew" addon_id="MJ/Credits" version_id="1030010" version_string="1.3.1"><![CDATA[抢红包是否发贴]]></phrase>
   <phrase title="option.pinterestShare" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[啟用 Pinterest 分享按鈕]]></phrase>
   <phrase title="option.pollMaximumResponses" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[投票選項數量上限]]></phrase>
   <phrase title="option.preRegAction" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Writing before registering setup]]></phrase>
@@ -11832,7 +11840,7 @@ If a CLI upgrade is recommended, you will be given an opportunity to use that in
   <phrase title="option.spamPhrases" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[封鎖的詞句]]></phrase>
   <phrase title="option.spamThreadAction" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[垃圾訊息清理工具的主題運作方式]]></phrase>
   <phrase title="option.spamUserCriteria" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[垃圾訊息清理工具會員套用條件]]></phrase>
-  <phrase title="option.sticky_resources_mode" addon_id="CnXFans/StickyResources" version_id="1000000" version_string="1.0.0"><![CDATA[资源置顶方式]]></phrase>
+  <phrase title="option.sticky_resources_mode" addon_id="CnXFans/StickyResources" version_id="1000000" version_string="1.0.0"><![CDATA[資源置頂方式]]></phrase>
   <phrase title="option.stopForumSpam" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Stop Forum Spam]]></phrase>
   <phrase title="option.svCacheUsersOnline" addon_id="SV/RedisCache" version_id="2090300" version_string="2.9.3"><![CDATA[Cache users online]]></phrase>
   <phrase title="option.svRmsItemCountCaching" addon_id="SV/RedisCache" version_id="20110200" version_string="2.11.2"><![CDATA[Review Management System item count caching]]></phrase>
@@ -12360,6 +12368,7 @@ $(this).closest('dd').get('input').val(d.getTime()/1000|0);
   <phrase title="option_explain.oEmbedLogLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[控制 oEmbed 紀錄自最新請求的 oEmbed 引用資料至今所保留的期限。且只有過期或已清除的 oEmbed 資料紀錄會被移除。設 0 以停用紀錄清除。]]></phrase>
   <phrase title="option_explain.oEmbedRequestReferrer" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[啟用後，每當訪問 oEmbed 資料時，將會保留引用資訊。可閱覽紀錄來核對嵌入媒體所在的內容。填 0 則永久保留引用資訊。]]></phrase>
   <phrase title="option_explain.onlineStatusTimeout" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[一旦會員與系統互動（點選連結等）就會視為人在「線上」。如果在指定時間內沒有再跟系統互動後，系統則會判斷該會員已「離線」。]]></phrase>
+  <phrase title="option_explain.openBonusPostNew" addon_id="MJ/Credits" version_id="1030010" version_string="1.3.1"><![CDATA[]]></phrase>
   <phrase title="option_explain.pinterestShare" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[讓會員可以將內容釘選到 Pinterest 板上。]]></phrase>
   <phrase title="option_explain.pollMaximumResponses" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[此項可限制投票選項的數量。]]></phrase>
   <phrase title="option_explain.preRegAction" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[If enabled, guests will be able to write supported content but asked to register before it is submitted and publicly viewable. In most circumstances, the permissions should be inherited from the group or groups that a newly registered user would be placed into. By default, this is the "Registered" group.]]></phrase>
@@ -12704,7 +12713,7 @@ Once you have provided a unique path and hit the save button, the directory will
   <phrase title="option_group.sitemap" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[XML Sitemap 生成]]></phrase>
   <phrase title="option_group.spam" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[垃圾訊息管理]]></phrase>
   <phrase title="option_group.stats" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[統計和指標]]></phrase>
-  <phrase title="option_group.sticky_resources" addon_id="CnXFans/StickyResources" version_id="1000000" version_string="1.0.0"><![CDATA[置顶资源]]></phrase>
+  <phrase title="option_group.sticky_resources" addon_id="CnXFans/StickyResources" version_id="1000000" version_string="1.0.0"><![CDATA[置頂資源]]></phrase>
   <phrase title="option_group.tagging" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[內容標籤]]></phrase>
   <phrase title="option_group.tckChangeContentOwner" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Change content owner]]></phrase>
   <phrase title="option_group.thCovers" addon_id="ThemeHouse/Covers" version_id="901010193" version_string="1.1.1 Patch Level 3"><![CDATA[[OzzModz] Covers]]></phrase>
@@ -12767,7 +12776,7 @@ Once you have provided a unique path and hit the save button, the directory will
   <phrase title="option_group_description.sitemap" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[這些選項可以控制 XML sitemap 如何產生並題交給尋引擎。Sitemap 用於加快搜尋引擎索引你的網站。]]></phrase>
   <phrase title="option_group_description.spam" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[垃圾訊息清理工具與預防系統的預設選項。]]></phrase>
   <phrase title="option_group_description.stats" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
-  <phrase title="option_group_description.sticky_resources" addon_id="CnXFans/StickyResources" version_id="1000000" version_string="1.0.0"><![CDATA[置顶资源选项]]></phrase>
+  <phrase title="option_group_description.sticky_resources" addon_id="CnXFans/StickyResources" version_id="1000000" version_string="1.0.0"><![CDATA[置頂資源選項]]></phrase>
   <phrase title="option_group_description.tagging" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[控制如何標記內容的選項。]]></phrase>
   <phrase title="option_group_description.tckChangeContentOwner" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Options that control the change content owner add-on.]]></phrase>
   <phrase title="option_group_description.thCovers" addon_id="ThemeHouse/Covers" version_id="901010193" version_string="1.1.1 Patch Level 3"><![CDATA[Options for the [OzzModz] Covers add-on.]]></phrase>
@@ -13147,7 +13156,7 @@ Callback arguments:
   <phrase title="permission.resource_react" addon_id="XFRM" version_id="2010370" version_string="2.1.3"><![CDATA[回應資源/升級信息]]></phrase>
   <phrase title="permission.resource_reassign" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Reassign resources]]></phrase>
   <phrase title="permission.resource_reviewReply" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Can reply to reviews for own resources]]></phrase>
-  <phrase title="permission.resource_stickUnstickResource" addon_id="CnXFans/StickyResources" version_id="1000070" version_string="1.0.0"><![CDATA[置顶/取消置顶资源]]></phrase>
+  <phrase title="permission.resource_stickUnstickResource" addon_id="CnXFans/StickyResources" version_id="1000000" version_string="1.0.0"><![CDATA[取消/置頂資源]]></phrase>
   <phrase title="permission.resource_tagAnyResource" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tag any resource]]></phrase>
   <phrase title="permission.resource_tagOwnResource" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tag own resource]]></phrase>
   <phrase title="permission.resource_thfeat_featureOwnResource" addon_id="ThemeHouse/Feature" version_id="1000610" version_string="1.0.6 Alpha"><![CDATA[Feature own resource]]></phrase>
@@ -15701,8 +15710,8 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="status_update_by_x" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[{username} 狀態更新]]></phrase>
   <phrase title="stay_logged_in" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[保持登入狀態]]></phrase>
   <phrase title="step_x_of_y" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Step {current} of {total}]]></phrase>
-  <phrase title="stick_resource" addon_id="CnXFans/StickyResources" version_id="1000070" version_string="1.0.0"><![CDATA[置顶资源]]></phrase>
-  <phrase title="stick_resources" addon_id="CnXFans/StickyResources" version_id="1000070" version_string="1.0.0"><![CDATA[置顶资源]]></phrase>
+  <phrase title="stick_resource" addon_id="CnXFans/StickyResources" version_id="1000000" version_string="1.0.0"><![CDATA[置頂資源]]></phrase>
+  <phrase title="stick_resources" addon_id="CnXFans/StickyResources" version_id="1000000" version_string="1.0.0"><![CDATA[置頂資源]]></phrase>
   <phrase title="stick_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Stick thread]]></phrase>
   <phrase title="stick_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[置頂主題]]></phrase>
   <phrase title="sticky" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[主題置頂]]></phrase>
@@ -17312,6 +17321,22 @@ For example: if you set "orange" as a class on a category, each forum within tha
   <phrase title="thfeatured_medium" addon_id="ThemeHouse/Feature" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Medium]]></phrase>
   <phrase title="thfeatured_original" addon_id="ThemeHouse/Feature" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Original]]></phrase>
   <phrase title="thfeatured_small" addon_id="ThemeHouse/Feature" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Small]]></phrase>
+  <phrase title="thholidays_holiday.1" addon_id="" version_id="0" version_string=""><![CDATA[Winter]]></phrase>
+  <phrase title="thholidays_holiday.10" addon_id="" version_id="0" version_string=""><![CDATA[复活节]]></phrase>
+  <phrase title="thholidays_holiday.11" addon_id="" version_id="0" version_string=""><![CDATA[Cinco de Mayo]]></phrase>
+  <phrase title="thholidays_holiday.12" addon_id="" version_id="0" version_string=""><![CDATA[Hannukah]]></phrase>
+  <phrase title="thholidays_holiday.13" addon_id="" version_id="0" version_string=""><![CDATA[Chinese New Year]]></phrase>
+  <phrase title="thholidays_holiday.14" addon_id="" version_id="0" version_string=""><![CDATA[Dia de los Muertos]]></phrase>
+  <phrase title="thholidays_holiday.15" addon_id="" version_id="0" version_string=""><![CDATA[Oktoberfest]]></phrase>
+  <phrase title="thholidays_holiday.16" addon_id="" version_id="0" version_string=""><![CDATA[International Day of Peace]]></phrase>
+  <phrase title="thholidays_holiday.2" addon_id="" version_id="0" version_string=""><![CDATA[New Year]]></phrase>
+  <phrase title="thholidays_holiday.3" addon_id="" version_id="0" version_string=""><![CDATA[Valentine's Day]]></phrase>
+  <phrase title="thholidays_holiday.4" addon_id="" version_id="0" version_string=""><![CDATA[Thanksgiving]]></phrase>
+  <phrase title="thholidays_holiday.5" addon_id="" version_id="0" version_string=""><![CDATA[万圣节]]></phrase>
+  <phrase title="thholidays_holiday.6" addon_id="" version_id="0" version_string=""><![CDATA[Birthday]]></phrase>
+  <phrase title="thholidays_holiday.7" addon_id="" version_id="0" version_string=""><![CDATA[4th of July]]></phrase>
+  <phrase title="thholidays_holiday.8" addon_id="" version_id="0" version_string=""><![CDATA[Christmas]]></phrase>
+  <phrase title="thholidays_holiday.9" addon_id="" version_id="0" version_string=""><![CDATA[St. Patrick's Day]]></phrase>
   <phrase title="thimageoptimizer_content_type_is" addon_id="ThemeHouse/ImageOptimizer" version_id="1010170" version_string="1.1.1"><![CDATA[Content type is]]></phrase>
   <phrase title="thimageoptimizer_received_invalid_url" addon_id="ThemeHouse/ImageOptimizer" version_id="1010191" version_string="1.1.1 Patch Level 1"><![CDATA[Received invalid URL: {url}]]></phrase>
   <phrase title="this_account_cannot_be_confirmed_without_email_address" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[帳號需要電子郵件地址才能進行確認。]]></phrase>
@@ -18031,8 +18056,8 @@ A code will then be generated for you by the Authy app which you will need to en
   <phrase title="unsolved" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Unsolved]]></phrase>
   <phrase title="unstar" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[取消標注星號]]></phrase>
   <phrase title="unstar_conversations" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[取消標注星號]]></phrase>
-  <phrase title="unstick_resource" addon_id="CnXFans/StickyResources" version_id="1000070" version_string="1.0.0"><![CDATA[取消置顶资源]]></phrase>
-  <phrase title="unstick_resources" addon_id="CnXFans/StickyResources" version_id="1000070" version_string="1.0.0"><![CDATA[取消置顶资源]]></phrase>
+  <phrase title="unstick_resource" addon_id="CnXFans/StickyResources" version_id="1000000" version_string="1.0.0"><![CDATA[取消置頂]]></phrase>
+  <phrase title="unstick_resources" addon_id="CnXFans/StickyResources" version_id="1000000" version_string="1.0.0"><![CDATA[取消置頂]]></phrase>
   <phrase title="unstick_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unstick thread]]></phrase>
   <phrase title="unstick_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[主題取消置頂]]></phrase>
   <phrase title="unsubscribe_from_mailing_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[停止訂閱信件]]></phrase>
@@ -18492,10 +18517,19 @@ Select the updates you want to install below. The selected updates will be downl
 這樣的行為與我們的網站規範相違背。你的文章可能已經刪除或變更。
 
 因此，你的帳號可能會受到限制。在站上發佈文章時請多留意。]]></phrase>
-  <phrase title="warning_conv_title.1" addon_id="" version_id="0" version_string=""><![CDATA[不適當的內容]]></phrase>
+  <phrase title="warning_conv_text.5" addon_id="" version_id="0" version_string=""><![CDATA[{name},
+
+你的消息 ([url={url}]{title}[/url]) 存在随意水贴情节：
+[quote]{content}[/quote]
+
+这违反了我们的规定。您的信息可能已被删除或修改。
+
+请在发帖或使用我们的网站时多加注意。由于这些行为，您的帐户可能会受到限制甚至封禁。]]></phrase>
+  <phrase title="warning_conv_title.1" addon_id="" version_id="0" version_string=""><![CDATA[違規內容]]></phrase>
   <phrase title="warning_conv_title.2" addon_id="" version_id="0" version_string=""><![CDATA[不恰當的行為]]></phrase>
-  <phrase title="warning_conv_title.3" addon_id="" version_id="0" version_string=""><![CDATA[不恰當的措辭]]></phrase>
+  <phrase title="warning_conv_title.3" addon_id="" version_id="0" version_string=""><![CDATA[不文明措辭]]></phrase>
   <phrase title="warning_conv_title.4" addon_id="" version_id="0" version_string=""><![CDATA[不適當的廣告 / 垃圾訊息]]></phrase>
+  <phrase title="warning_conv_title.5" addon_id="" version_id="0" version_string=""><![CDATA[违规水贴]]></phrase>
   <phrase title="warning_for_x" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[{name} 的警告]]></phrase>
   <phrase title="warning_not_filled_try_again" addon_id="XF" version_id="1040770" version_string="1.4.7"><![CDATA[警告詳細資訊出現了意外而沒有內容。請再試一次。]]></phrase>
   <phrase title="warning_points" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[警告點數]]></phrase>
@@ -18503,6 +18537,7 @@ Select the updates you want to install below. The selected updates will be downl
   <phrase title="warning_title.2" addon_id="" version_id="0" version_string=""><![CDATA[不恰當的行為]]></phrase>
   <phrase title="warning_title.3" addon_id="" version_id="0" version_string=""><![CDATA[不恰當的措辭]]></phrase>
   <phrase title="warning_title.4" addon_id="" version_id="0" version_string=""><![CDATA[不適當的廣告 / 垃圾訊息]]></phrase>
+  <phrase title="warning_title.5" addon_id="" version_id="0" version_string=""><![CDATA[违规水贴]]></phrase>
   <phrase title="warning_type" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[警告類型別]]></phrase>
   <phrase title="warnings" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[警告]]></phrase>
   <phrase title="watch" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[關注]]></phrase>

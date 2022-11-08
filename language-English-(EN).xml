@@ -354,6 +354,8 @@
   <phrase title="admin_navigation.memberStats" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Member statistics]]></phrase>
   <phrase title="admin_navigation.messageUsers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Message users]]></phrase>
   <phrase title="admin_navigation.mjcCredits" addon_id="MJ/Credits" version_id="1000400" version_string="1.0.4"><![CDATA[Credits]]></phrase>
+  <phrase title="admin_navigation.mjcCreditsOption" addon_id="MJ/Credits" version_id="1030000" version_string="1.3.0"><![CDATA[设置]]></phrase>
+  <phrase title="admin_navigation.mjcCreditsOptions" addon_id="MJ/Credits" version_id="1030000" version_string="1.3.0"><![CDATA[设置]]></phrase>
   <phrase title="admin_navigation.mjcCurrencies" addon_id="MJ/Credits" version_id="1000400" version_string="1.0.4"><![CDATA[Currencies]]></phrase>
   <phrase title="admin_navigation.mjcDevCredits" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[Credits]]></phrase>
   <phrase title="admin_navigation.mjcEventDefinitions" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Event Definitions]]></phrase>
@@ -622,7 +624,7 @@
   <phrase title="af_as_award_desc.22" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS论坛2022年暑期对抗赛]]></phrase>
   <phrase title="af_as_award_desc.23" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS论坛2022年暑期对抗赛]]></phrase>
   <phrase title="af_as_award_desc.3" addon_id="" version_id="0" version_string=""><![CDATA[The certified member of MineBBS Republishing Group]]></phrase>
-  <phrase title="af_as_award_desc.4" addon_id="" version_id="0" version_string=""><![CDATA[The person who has excellent original work or outstanding reputation in the field of texture pack]]></phrase>
+  <phrase title="af_as_award_desc.4" addon_id="" version_id="0" version_string=""><![CDATA[Original works or excellent reputation in the field of texture creation]]></phrase>
   <phrase title="af_as_award_desc.5" addon_id="" version_id="0" version_string=""><![CDATA[A long-time active member of MineBBS]]></phrase>
   <phrase title="af_as_award_desc.6" addon_id="" version_id="0" version_string=""><![CDATA[Excellent moderators who have worked effectively and efficiently in MineBBS]]></phrase>
   <phrase title="af_as_award_desc.7" addon_id="" version_id="0" version_string=""><![CDATA[The person who has been with us since the forum's inception~]]></phrase>
@@ -1713,7 +1715,7 @@ Write the details of the resource in the resource description.</p>
   <phrase title="cron_entry.mjcBirthday" addon_id="MJ/Credits" version_id="1001000" version_string="1.1.0"><![CDATA[[BRC] Trigger birthday event]]></phrase>
   <phrase title="cron_entry.mjcCounters" addon_id="MJ/Credits" version_id="1000200" version_string="1.0.2"><![CDATA[[BRC] Record everyday's statistics]]></phrase>
   <phrase title="cron_entry.rebuildSearchForumCache" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Rebuild expired search forum caches]]></phrase>
-  <phrase title="cron_entry.referralsrcContest" addon_id="CnXFans/ReferralContestsReward" version_id="1000000" version_string="1.0.0"><![CDATA[推荐竞赛积分奖励]]></phrase>
+  <phrase title="cron_entry.referralsrcContest" addon_id="CnXFans/ReferralContestsReward" version_id="1000000" version_string="1.0.0"><![CDATA[Referral Contest credits rewards]]></phrase>
   <phrase title="cron_entry.run_successfully" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cron entry was run successfully.]]></phrase>
   <phrase title="cron_entry.samDailyCleanUp" addon_id="Siropu/AdsManager" version_id="2041270" version_string="2.4.12"><![CDATA[Ads Manager: Daily clean up]]></phrase>
   <phrase title="cron_entry.samDailyImpressionDistrib" addon_id="Siropu/AdsManager" version_id="2020070" version_string="2.2.0"><![CDATA[Ads Manager: Daily impression distribution]]></phrase>
@@ -5268,6 +5270,7 @@ This is the message they left:
   <phrase title="editable_only_once" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Editable only once]]></phrase>
   <phrase title="edited_by_x" addon_id="XF" version_id="1030010" version_string="1.3.0 Alpha"><![CDATA[Edited by {name}]]></phrase>
   <phrase title="editing_master_embed_html_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[You are currently editing the "Master" version of this template. Changes may not be reflected in modified child styles.]]></phrase>
+  <phrase title="editor_dropdown.hide" addon_id="" version_id="0" version_string=""><![CDATA[隐藏]]></phrase>
   <phrase title="editor_dropdown.mh_hide" addon_id="" version_id="0" version_string=""><![CDATA[隐藏]]></phrase>
   <phrase title="editor_dropdown.video" addon_id="" version_id="0" version_string=""><![CDATA[视频]]></phrase>
   <phrase title="editor_dropdown.xfInsert" addon_id="" version_id="0" version_string=""><![CDATA[更多插入]]></phrase>
@@ -10290,11 +10293,12 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_add_event" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[添加事件]]></phrase>
   <phrase title="mjc_add_event_definition" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[添加事件定义]]></phrase>
   <phrase title="mjc_advanced_options" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[高级选项]]></phrase>
-  <phrase title="mjc_alert_your_balance_credited_x_for_y" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[<strong class =“subject”>Your balance </strong>credited {amount} for<strong>{event} </strong>.]]></phrase>
-  <phrase title="mjc_alert_your_balance_debited_x_for_y" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[<strong class =“subject”>Your balance </strong>debited {amount} for<strong>{event} </strong>.]]></phrase>
+  <phrase title="mjc_alert_your_balance_credited_x_for_y" addon_id="MJ/Credits" version_id="1030020" version_string="1.3.2"><![CDATA[<strong class =“subject”>Your balance </strong>credited {amount} for <strong>{event} </strong>.]]></phrase>
+  <phrase title="mjc_alert_your_balance_debited_x_for_y" addon_id="MJ/Credits" version_id="1030020" version_string="1.3.2"><![CDATA[<strong class =“subject”>Your balance </strong>debited {amount} for <strong>{event} </strong>.]]></phrase>
   <phrase title="mjc_all" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[All]]></phrase>
   <phrase title="mjc_all_currencies" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[All currencies]]></phrase>
   <phrase title="mjc_allowed_attachment_file_extensions" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Allowed attachment file extension]]></phrase>
+  <phrase title="mjc_already_signed_in" addon_id="MJ/Credits" version_id="1030000" version_string="1.3.0"><![CDATA[您已经签到了。]]></phrase>
   <phrase title="mjc_amount" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[Amount]]></phrase>
   <phrase title="mjc_amount_explain" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[输入此操作发生时将借记/贷记的积分数量。]]></phrase>
   <phrase title="mjc_amount_receive" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[Amount receive]]></phrase>
@@ -10359,6 +10363,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_currency_desc.5" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_currency_desc.6" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_currency_limit" addon_id="MJ/Credits" version_id="1000200" version_string="1.0.2"><![CDATA[货币限制]]></phrase>
+  <phrase title="mjc_currency_options" addon_id="MJ/Credits" version_id="1020920" version_string="1.2.9.2"><![CDATA[货币选项]]></phrase>
   <phrase title="mjc_currency_title.1" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[Gold]]></phrase>
   <phrase title="mjc_currency_title.2" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[Diamond]]></phrase>
   <phrase title="mjc_currency_title.3" addon_id="" version_id="0" version_string=""><![CDATA[Gold]]></phrase>
@@ -10511,7 +10516,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_event_def_title.follow" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Follow]]></phrase>
   <phrase title="mjc_event_def_title.follower_lose" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Loss follower]]></phrase>
   <phrase title="mjc_event_def_title.follower_receive" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Get follower]]></phrase>
-  <phrase title="mjc_event_def_title.invitation_credit_reward" addon_id="CnXFans/ReferralContestsReward" version_id="1000000" version_string="1.0.0"><![CDATA[邀请积分奖励]]></phrase>
+  <phrase title="mjc_event_def_title.invitation_credit_reward" addon_id="CnXFans/ReferralContestsReward" version_id="1000000" version_string="1.0.0"><![CDATA[Invitation credits rewards]]></phrase>
   <phrase title="mjc_event_def_title.mjrcp_buy_resource" addon_id="MJ/ResourceCreditsPayment" version_id="1000701" version_string="1.0.7"><![CDATA[Buy resource]]></phrase>
   <phrase title="mjc_event_def_title.mjrcp_sell_resource" addon_id="MJ/ResourceCreditsPayment" version_id="1000700" version_string="1.0.7"><![CDATA[ Sell resource]]></phrase>
   <phrase title="mjc_event_def_title.offerReward" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[Reward]]></phrase>
@@ -10537,7 +10542,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_event_def_title.profile_post_receive" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[收到个人空间信息]]></phrase>
   <phrase title="mjc_event_def_title.profile_post_unlike" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[取消支持个人空间信息]]></phrase>
   <phrase title="mjc_event_def_title.red_envelope" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[Red envelope]]></phrase>
-  <phrase title="mjc_event_def_title.referral_contest_credit_reward" addon_id="CnXFans/ReferralContestsReward" version_id="1000000" version_string="1.0.0"><![CDATA[推荐竞赛积分奖励]]></phrase>
+  <phrase title="mjc_event_def_title.referral_contest_credit_reward" addon_id="CnXFans/ReferralContestsReward" version_id="1000000" version_string="1.0.0"><![CDATA[Referral Contest credits rewards]]></phrase>
   <phrase title="mjc_event_def_title.register" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[Register]]></phrase>
   <phrase title="mjc_event_def_title.reward" addon_id="MJ/Credits" version_id="1020301" version_string="1.2.3"><![CDATA[Reward]]></phrase>
   <phrase title="mjc_event_def_title.thread_delete" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[Thread deleted]]></phrase>
@@ -10649,7 +10654,9 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_not_enough_x_to_payment" addon_id="MJ/Credits" version_id="1010700" version_string="1.1.7"><![CDATA[您的金额不足 {amount}]]></phrase>
   <phrase title="mjc_not_enough_x_to_reward" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[You don't have enough {x} to tip other users.]]></phrase>
   <phrase title="mjc_not_enough_x_to_transfer" addon_id="MJ/Credits" version_id="1001000" version_string="1.1.0"><![CDATA[转账金额不足 {amount}]]></phrase>
+  <phrase title="mjc_not_enough_x_unable_to_action" addon_id="MJ/Credits" version_id="1030000" version_string="1.3.0"><![CDATA[您没有足够的 {amount} 进行{title}操作。]]></phrase>
   <phrase title="mjc_only_balance_of_selected_currencies" addon_id="MJ/Credits" version_id="1000200" version_string="1.0.2"><![CDATA[仅限所选货币的余额。]]></phrase>
+  <phrase title="mjc_only_positive_numbers_are_allowed" addon_id="MJ/Credits" version_id="1020920" version_string="1.2.9.2"><![CDATA[仅允许正数货币]]></phrase>
   <phrase title="mjc_only_richest_members_has_selected_currencies" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[Only the richest members can has the selected currencies.]]></phrase>
   <phrase title="mjc_override_credits" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[覆盖积分]]></phrase>
   <phrase title="mjc_overview" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[Overview]]></phrase>
@@ -11759,6 +11766,7 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.oEmbedLogLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[oEmbed media log length]]></phrase>
   <phrase title="option.oEmbedRequestReferrer" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Log oEmbed request referrers for x days:]]></phrase>
   <phrase title="option.onlineStatusTimeout" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Online status timeout]]></phrase>
+  <phrase title="option.openBonusPostNew" addon_id="MJ/Credits" version_id="1030010" version_string="1.3.1"><![CDATA[抢红包是否发贴]]></phrase>
   <phrase title="option.pinterestShare" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable Pinterest share button]]></phrase>
   <phrase title="option.pollMaximumResponses" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maximum number of poll choices]]></phrase>
   <phrase title="option.preRegAction" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Writing before registering setup]]></phrase>
@@ -12440,6 +12448,7 @@ This option requires that the specified account is a catch-all account or suppor
   <phrase title="option_explain.oEmbedLogLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Controls how long oEmbed logs are retained after the most recent request for the referenced oEmbed data. Logs are only removed if the oEmbed data has expired and been pruned. Set this to 0 to disable log pruning.]]></phrase>
   <phrase title="option_explain.oEmbedRequestReferrer" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[If enabled, whenever oEmbed data is accessed, referrer information will be maintained. This can be viewed in the logs to determine where the embedded media has been mentioned. Use 0 to keep the referrer data forever.]]></phrase>
   <phrase title="option_explain.onlineStatusTimeout" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[After a user interacts with the system (by clicking a link etc.) they will be considered 'online'. They will be considered to be offline if they do not interact with the system again within the time specified here.]]></phrase>
+  <phrase title="option_explain.openBonusPostNew" addon_id="MJ/Credits" version_id="1030010" version_string="1.3.1"><![CDATA[]]></phrase>
   <phrase title="option_explain.pinterestShare" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This button will let your users pin your content to any Pinterest board.]]></phrase>
   <phrase title="option_explain.pollMaximumResponses" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This will limit the number of choices that can be given as responses to a poll.]]></phrase>
   <phrase title="option_explain.preRegAction" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[If enabled, guests will be able to write supported content but asked to register before it is submitted and publicly viewable. In most circumstances, the permissions should be inherited from the group or groups that a newly registered user would be placed into. By default, this is the "Registered" group.]]></phrase>
@@ -14133,7 +14142,7 @@ Content being reported:
   <phrase title="resource_prefix.35" addon_id="" version_id="0" version_string=""><![CDATA[JS Plugins]]></phrase>
   <phrase title="resource_prefix.36" addon_id="" version_id="0" version_string=""><![CDATA[Other]]></phrase>
   <phrase title="resource_prefix.37" addon_id="" version_id="0" version_string=""><![CDATA[Source Code]]></phrase>
-  <phrase title="resource_prefix.38" addon_id="" version_id="0" version_string=""><![CDATA[Texture Pack]]></phrase>
+  <phrase title="resource_prefix.38" addon_id="" version_id="0" version_string=""><![CDATA[Texture]]></phrase>
   <phrase title="resource_prefix.39" addon_id="" version_id="0" version_string=""><![CDATA[Shader]]></phrase>
   <phrase title="resource_prefix.40" addon_id="" version_id="0" version_string=""><![CDATA[Skin]]></phrase>
   <phrase title="resource_prefix.41" addon_id="" version_id="0" version_string=""><![CDATA[Add-on]]></phrase>
@@ -17400,6 +17409,22 @@ Error message: <span class="exceptionMessage">{message}</span>]]></phrase>
   <phrase title="thfeatured_medium" addon_id="ThemeHouse/Feature" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Medium]]></phrase>
   <phrase title="thfeatured_original" addon_id="ThemeHouse/Feature" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Original]]></phrase>
   <phrase title="thfeatured_small" addon_id="ThemeHouse/Feature" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Small]]></phrase>
+  <phrase title="thholidays_holiday.1" addon_id="" version_id="0" version_string=""><![CDATA[Winter]]></phrase>
+  <phrase title="thholidays_holiday.10" addon_id="" version_id="0" version_string=""><![CDATA[复活节]]></phrase>
+  <phrase title="thholidays_holiday.11" addon_id="" version_id="0" version_string=""><![CDATA[Cinco de Mayo]]></phrase>
+  <phrase title="thholidays_holiday.12" addon_id="" version_id="0" version_string=""><![CDATA[Hannukah]]></phrase>
+  <phrase title="thholidays_holiday.13" addon_id="" version_id="0" version_string=""><![CDATA[Chinese New Year]]></phrase>
+  <phrase title="thholidays_holiday.14" addon_id="" version_id="0" version_string=""><![CDATA[Dia de los Muertos]]></phrase>
+  <phrase title="thholidays_holiday.15" addon_id="" version_id="0" version_string=""><![CDATA[Oktoberfest]]></phrase>
+  <phrase title="thholidays_holiday.16" addon_id="" version_id="0" version_string=""><![CDATA[International Day of Peace]]></phrase>
+  <phrase title="thholidays_holiday.2" addon_id="" version_id="0" version_string=""><![CDATA[New Year]]></phrase>
+  <phrase title="thholidays_holiday.3" addon_id="" version_id="0" version_string=""><![CDATA[Valentine's Day]]></phrase>
+  <phrase title="thholidays_holiday.4" addon_id="" version_id="0" version_string=""><![CDATA[Thanksgiving]]></phrase>
+  <phrase title="thholidays_holiday.5" addon_id="" version_id="0" version_string=""><![CDATA[万圣节]]></phrase>
+  <phrase title="thholidays_holiday.6" addon_id="" version_id="0" version_string=""><![CDATA[Birthday]]></phrase>
+  <phrase title="thholidays_holiday.7" addon_id="" version_id="0" version_string=""><![CDATA[4th of July]]></phrase>
+  <phrase title="thholidays_holiday.8" addon_id="" version_id="0" version_string=""><![CDATA[Christmas]]></phrase>
+  <phrase title="thholidays_holiday.9" addon_id="" version_id="0" version_string=""><![CDATA[St. Patrick's Day]]></phrase>
   <phrase title="thimageoptimizer_content_type_is" addon_id="ThemeHouse/ImageOptimizer" version_id="1010170" version_string="1.1.1"><![CDATA[Content type is]]></phrase>
   <phrase title="thimageoptimizer_received_invalid_url" addon_id="ThemeHouse/ImageOptimizer" version_id="1010191" version_string="1.1.1 Patch Level 1"><![CDATA[Received invalid URL: {url}]]></phrase>
   <phrase title="this_account_cannot_be_confirmed_without_email_address" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This account cannot be confirmed without an email address.]]></phrase>
@@ -18582,10 +18607,19 @@ Your message ([url={url}]{title}[/url]) contains inappropriate advertising or sp
 This does not follow our rules. Your message may have been removed or altered.
 
 Your account's access may be limited based on these actions. Please keep this in mind when posting or using our site.]]></phrase>
+  <phrase title="warning_conv_text.5" addon_id="" version_id="0" version_string=""><![CDATA[{name},
+
+Your message ([url={url}]{title}[/url]) contains over-posting:
+[quote]{content}[/quote]
+
+This does not follow our rules. Your message may have been removed or altered.
+
+Your account's access may be limited based on these actions. Please keep this in mind when posting or using our site.]]></phrase>
   <phrase title="warning_conv_title.1" addon_id="" version_id="0" version_string=""><![CDATA[Inappropriate content]]></phrase>
   <phrase title="warning_conv_title.2" addon_id="" version_id="0" version_string=""><![CDATA[Inappropriate behavior]]></phrase>
   <phrase title="warning_conv_title.3" addon_id="" version_id="0" version_string=""><![CDATA[Inappropriate language]]></phrase>
   <phrase title="warning_conv_title.4" addon_id="" version_id="0" version_string=""><![CDATA[Inappropriate advertising / spam]]></phrase>
+  <phrase title="warning_conv_title.5" addon_id="" version_id="0" version_string=""><![CDATA[Over-posting]]></phrase>
   <phrase title="warning_for_x" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Warning for {name}]]></phrase>
   <phrase title="warning_not_filled_try_again" addon_id="XF" version_id="1040770" version_string="1.4.7"><![CDATA[The warning details were not filled as expected. Please try again.]]></phrase>
   <phrase title="warning_points" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Warning points]]></phrase>
@@ -18593,6 +18627,7 @@ Your account's access may be limited based on these actions. Please keep this in
   <phrase title="warning_title.2" addon_id="" version_id="0" version_string=""><![CDATA[Misconduct]]></phrase>
   <phrase title="warning_title.3" addon_id="" version_id="0" version_string=""><![CDATA[Inappropriate terminology]]></phrase>
   <phrase title="warning_title.4" addon_id="" version_id="0" version_string=""><![CDATA[Inappropriate advertising / Spam]]></phrase>
+  <phrase title="warning_title.5" addon_id="" version_id="0" version_string=""><![CDATA[违规水贴]]></phrase>
   <phrase title="warning_type" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Warning type]]></phrase>
   <phrase title="warnings" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Warnings]]></phrase>
   <phrase title="watch" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Watch]]></phrase>

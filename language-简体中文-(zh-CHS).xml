@@ -9,9 +9,9 @@
   <phrase title="2_weeks_ago" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[两周前]]></phrase>
   <phrase title="2_years_ago" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[两年前]]></phrase>
   <phrase title="2x_image_replacement_url" addon_id="XF" version_id="2010670" version_string="2.1.6"><![CDATA[2倍的图片替换 URL]]></phrase>
-  <phrase title="2x_image_replacement_url_explain" addon_id="XF" version_id="2010670" version_string="2.1.6"><![CDATA[在高清分辨率的设备上，将显示两倍大小图片尺寸的图片链接。<br />
+  <phrase title="2x_image_replacement_url_explain" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[如果提供，2x 图像将在能够显示更高像素分辨率的设备上自动显示，而不是上面的图像 URL。<br />
 <br />
-<strong>注意：该选项在子画面模式下无效。</strong>]]></phrase>
+<strong>注意：此选项在子画面模式下无效。</strong>]]></phrase>
   <phrase title="3_months_ago" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[三个月前]]></phrase>
   <phrase title="6_months_ago" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[六个月前]]></phrase>
   <phrase title="9_months_ago" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[九个月前]]></phrase>
@@ -29,7 +29,7 @@
   <phrase title="account_details" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[账户详情]]></phrase>
   <phrase title="account_upgrade" addon_id="XF" version_id="2020270" version_string="2.2.2"><![CDATA[兑换VIP]]></phrase>
   <phrase title="account_upgrades" addon_id="XF" version_id="2020270" version_string="2.2.2"><![CDATA[兑换VIP]]></phrase>
-  <phrase title="account_upgrades_cannot_be_purchased_account_unconfirmed" addon_id="XF" version_id="2010670" version_string="2.1.6"><![CDATA[帐户未确认时，无法购买帐户升级。]]></phrase>
+  <phrase title="account_upgrades_cannot_be_purchased_account_unconfirmed" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[帐户未验证时，无法兑换帐户升级。]]></phrase>
   <phrase title="action" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[操作]]></phrase>
   <phrase title="action_available_via_post_only" addon_id="XF" version_id="2010670" version_string="2.1.6"><![CDATA[此操作只可通过 POST 提交，请按后退按钮再试一次。]]></phrase>
   <phrase title="action_completed_successfully" addon_id="XF" version_id="2010670" version_string="2.1.6"><![CDATA[操作成功完成！]]></phrase>
@@ -50,7 +50,7 @@
   <phrase title="activity_summary_def.xfrm_latest_reviews" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[XFRM: 最新评价]]></phrase>
   <phrase title="activity_summary_def_desc.latest_posts" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[呈现在显示活动摘要电子邮件中最新帖子的部分。]]></phrase>
   <phrase title="activity_summary_def_desc.latest_threads" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[呈现在显示活动摘要电子邮件显示最新主题的部分。 可以根据各种条件过滤主题。]]></phrase>
-  <phrase title="activity_summary_def_desc.xfrm_latest_resources" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[呈现活动摘要电子邮件中显示最新资源的部分。可以根据各种标准筛选资源。]]></phrase>
+  <phrase title="activity_summary_def_desc.xfrm_latest_resources" addon_id="XFRM" version_id="2020470" version_string="2.2.4"><![CDATA[在活动摘要电子邮件中呈现显示最新资源的部分。 可以根据各种标准过滤资源。]]></phrase>
   <phrase title="activity_summary_def_desc.xfrm_latest_reviews" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[呈现活动摘要电子邮件中显示最新评价的部分。]]></phrase>
   <phrase title="activity_summary_definition" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[活动摘要定义]]></phrase>
   <phrase title="activity_summary_definitions" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[活动摘要定义]]></phrase>
@@ -114,9 +114,9 @@
   <phrase title="ad_pos_desc.thread_view_above_messages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[浏览主题时，显示在帖子列表上方。]]></phrase>
   <phrase title="ad_pos_desc.thread_view_below_messages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[浏览主题时，显示在帖子列表下方。]]></phrase>
   <phrase title="add" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[添加]]></phrase>
-  <phrase title="add_activity_summary" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Add activity summary]]></phrase>
-  <phrase title="add_activity_summary_definition" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Add activity summary definition]]></phrase>
-  <phrase title="add_activity_summary_section" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Add activity summary section]]></phrase>
+  <phrase title="add_activity_summary" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[添加活动摘要]]></phrase>
+  <phrase title="add_activity_summary_definition" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[添加活动摘要定义]]></phrase>
+  <phrase title="add_activity_summary_section" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[添加活动摘要部分]]></phrase>
   <phrase title="add_admin_permission" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[添加管理员权限]]></phrase>
   <phrase title="add_administrator" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[添加管理员]]></phrase>
   <phrase title="add_advertisement" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[添加广告]]></phrase>
@@ -175,7 +175,7 @@
   <phrase title="add_route" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[添加路径]]></phrase>
   <phrase title="add_route_filter" addon_id="XF" version_id="2010670" version_string="2.1.6"><![CDATA[添加路径变更]]></phrase>
   <phrase title="add_search_forum" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[添加搜索论坛]]></phrase>
-  <phrase title="add_secondary_user_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[添加辅助用户组]]></phrase>
+  <phrase title="add_secondary_user_group" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[添加次用户组]]></phrase>
   <phrase title="add_section" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[添加栏目]]></phrase>
   <phrase title="add_smilie" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[添加表情符号]]></phrase>
   <phrase title="add_smilie_category" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[添加表情符号分类]]></phrase>
@@ -355,9 +355,11 @@
   <phrase title="admin_navigation.memberStats" addon_id="XF" version_id="2020270" version_string="2.2.2"><![CDATA[用户统计]]></phrase>
   <phrase title="admin_navigation.messageUsers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[用户私信]]></phrase>
   <phrase title="admin_navigation.mjcCredits" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[积分]]></phrase>
+  <phrase title="admin_navigation.mjcCreditsOption" addon_id="MJ/Credits" version_id="1030030" version_string="1.3.3"><![CDATA[设置]]></phrase>
+  <phrase title="admin_navigation.mjcCreditsOptions" addon_id="MJ/Credits" version_id="1030030" version_string="1.3.3"><![CDATA[设置]]></phrase>
   <phrase title="admin_navigation.mjcCurrencies" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[货币]]></phrase>
   <phrase title="admin_navigation.mjcDevCredits" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[积分]]></phrase>
-  <phrase title="admin_navigation.mjcEventDefinitions" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[事件定义]]></phrase>
+  <phrase title="admin_navigation.mjcEventDefinitions" addon_id="MJ/Credits" version_id="1030030" version_string="1.3.3"><![CDATA[事件类型]]></phrase>
   <phrase title="admin_navigation.mjcEvents" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[事件]]></phrase>
   <phrase title="admin_navigation.mjcImport" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[导入积分]]></phrase>
   <phrase title="admin_navigation.mjcListAllEvents" addon_id="MJ/Credits" version_id="1020700" version_string="1.2.7"><![CDATA[全部积分事件]]></phrase>
@@ -959,37 +961,37 @@
   <phrase title="api_scope.dbtech_ecommerce_category_write" addon_id="DBTech/eCommerce" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[涵盖更新或创建产品分类。]]></phrase>
   <phrase title="api_scope.dbtech_ecommerce_download_delete_hard" addon_id="DBTech/eCommerce" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[涵盖永久删除下载。]]></phrase>
   <phrase title="api_scope.dbtech_ecommerce_download_read" addon_id="DBTech/eCommerce" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[涵盖查看发布数据]]></phrase>
-  <phrase title="api_scope.dbtech_ecommerce_download_write" addon_id="DBTech/eCommerce" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[涵盖创建和临时删除下载。]]></phrase>
+  <phrase title="api_scope.dbtech_ecommerce_download_write" addon_id="DBTech/eCommerce" version_id="2040370" version_string="2.4.3"><![CDATA[涵盖创建和软删除下载。]]></phrase>
   <phrase title="api_scope.dbtech_ecommerce_license_read" addon_id="DBTech/eCommerce" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[涵盖查看许可证数据]]></phrase>
   <phrase title="api_scope.dbtech_ecommerce_product_delete_hard" addon_id="DBTech/eCommerce" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[涵盖永久删除产品。]]></phrase>
   <phrase title="api_scope.dbtech_ecommerce_product_read" addon_id="DBTech/eCommerce" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[涵盖查看产品数据]]></phrase>
-  <phrase title="api_scope.dbtech_ecommerce_product_write" addon_id="DBTech/eCommerce" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[涵盖创建和临时删除产品。]]></phrase>
+  <phrase title="api_scope.dbtech_ecommerce_product_write" addon_id="DBTech/eCommerce" version_id="2040370" version_string="2.4.3"><![CDATA[涵盖创建和软删除产品。]]></phrase>
   <phrase title="api_scope.dbtech_ecommerce_rating_delete_hard" addon_id="DBTech/eCommerce" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[涵盖永久删除的产品评分/评论。]]></phrase>
   <phrase title="api_scope.dbtech_ecommerce_rating_read" addon_id="DBTech/eCommerce" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[涵盖查看产品评分/评论。]]></phrase>
   <phrase title="api_scope.dbtech_ecommerce_rating_write" addon_id="DBTech/eCommerce" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[涵盖创建和永久删除产品评分/评论。]]></phrase>
   <phrase title="api_scope.dbtech_shop_trade_post_delete_hard" addon_id="DBTech/Shop" version_id="906010015" version_string="6.1.0 Alpha 5"><![CDATA[Covers hard-deleting trade posts and trade post comments.]]></phrase>
   <phrase title="api_scope.dbtech_shop_trade_post_read" addon_id="DBTech/Shop" version_id="906010015" version_string="6.1.0 Alpha 5"><![CDATA[Covers viewing trade posts and trade post comments.]]></phrase>
-  <phrase title="api_scope.dbtech_shop_trade_post_write" addon_id="DBTech/Shop" version_id="906040570" version_string="6.4.5"><![CDATA[涵盖创建、更新和临时删除交易帖子和交易帖子评论。]]></phrase>
+  <phrase title="api_scope.dbtech_shop_trade_post_write" addon_id="DBTech/Shop" version_id="906041270" version_string="6.4.12"><![CDATA[涵盖创建、更新和软删除交易帖子和交易帖子评论。]]></phrase>
   <phrase title="api_scope.node_delete" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[包括删除节点。]]></phrase>
   <phrase title="api_scope.node_read" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[包括读取节点列表或单个节点。]]></phrase>
   <phrase title="api_scope.node_write" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[包括创建或更新节点。 节点删除不包括在内。]]></phrase>
   <phrase title="api_scope.profile_post_delete_hard" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[包括永久删除个人空间帖子和个人空间发布评论。]]></phrase>
   <phrase title="api_scope.profile_post_read" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[包括查看个人空间帖子和个人空间发布评论。]]></phrase>
-  <phrase title="api_scope.profile_post_write" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[包括创建、更新和临时删除个人空间帖子和个人空间发布评论。]]></phrase>
+  <phrase title="api_scope.profile_post_write" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[包括创建、更新和软删除个人空间帖子和个人空间发布评论。]]></phrase>
   <phrase title="api_scope.resource_category_delete" addon_id="XFRM" version_id="2010011" version_string="2.1.0 Preview 1"><![CDATA[包含删除资源分类。]]></phrase>
   <phrase title="api_scope.resource_category_read" addon_id="XFRM" version_id="2010011" version_string="2.1.0 Preview 1"><![CDATA[包含查看资源分类或分类列表。]]></phrase>
   <phrase title="api_scope.resource_category_write" addon_id="XFRM" version_id="2010011" version_string="2.1.0 Preview 1"><![CDATA[包含更新或创建资源分类。]]></phrase>
   <phrase title="api_scope.resource_delete_hard" addon_id="XFRM" version_id="2010011" version_string="2.1.0 Preview 1"><![CDATA[包含永久删除资源。]]></phrase>
   <phrase title="api_scope.resource_rating_delete_hard" addon_id="XFRM" version_id="2010011" version_string="2.1.0 Preview 1"><![CDATA[包含永久删除资源评级/评价。]]></phrase>
   <phrase title="api_scope.resource_rating_read" addon_id="XFRM" version_id="2010011" version_string="2.1.0 Preview 1"><![CDATA[包含查看资源评级/评价。]]></phrase>
-  <phrase title="api_scope.resource_rating_write" addon_id="XFRM" version_id="2010011" version_string="2.1.0 Preview 1"><![CDATA[包含创建，更新和临时删除资源评级/评价。]]></phrase>
+  <phrase title="api_scope.resource_rating_write" addon_id="XFRM" version_id="2020470" version_string="2.2.4"><![CDATA[包含创建，更新和软删除资源评级/评价。]]></phrase>
   <phrase title="api_scope.resource_read" addon_id="XFRM" version_id="2010011" version_string="2.1.0 Preview 1"><![CDATA[包含查看资源及其内容。]]></phrase>
-  <phrase title="api_scope.resource_write" addon_id="XFRM" version_id="2010011" version_string="2.1.0 Preview 1"><![CDATA[包含创建，更新和临时删除资源及其内容。]]></phrase>
+  <phrase title="api_scope.resource_write" addon_id="XFRM" version_id="2020470" version_string="2.2.4"><![CDATA[包含创建，更新和软删除资源及其内容。]]></phrase>
   <phrase title="api_scope.thcover_delete" addon_id="ThemeHouse/Covers" version_id="1000370" version_string="1.0.3"><![CDATA[删除封面]]></phrase>
   <phrase title="api_scope.thcover_get" addon_id="ThemeHouse/Covers" version_id="1000370" version_string="1.0.3"><![CDATA[获取封面]]></phrase>
   <phrase title="api_scope.thread_delete_hard" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[包括永久删除的主题和帖子。]]></phrase>
   <phrase title="api_scope.thread_read" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[包括阅读帖子和发布信息。]]></phrase>
-  <phrase title="api_scope.thread_write" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[包括创建、更新和临时删除主题和帖子。]]></phrase>
+  <phrase title="api_scope.thread_write" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[包括创建、更新和软删除主题和帖子。]]></phrase>
   <phrase title="api_scope.user_delete" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[包括删除用户。]]></phrase>
   <phrase title="api_scope.user_read" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[包括读取用户配置文件信息。请注意，一些配置文件细节可以与其他数据一起返回。]]></phrase>
   <phrase title="api_scope.user_write" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[包括更新用户个人资料信息。]]></phrase>
@@ -1438,7 +1440,7 @@ JS代码:
   <phrase title="cnxfans_gave_you_a_red_ennelope" addon_id="MJ/Credits" version_id="1010300" version_string="1.1.3"><![CDATA[{name} 在主题<a href="{target}"> {thread} </a>中的帖子内给您发了红包！]]></phrase>
   <phrase title="cnxfans_gave_you_a_red_envelope" addon_id="" version_id="0" version_string=""><![CDATA[{name} 在主题<a href="{target}"> {thread} </a>中的帖子内给您发了红包！
 ]]></phrase>
-  <phrase title="cnxfans_the_transfer_amount_is_not_enough" addon_id="MJ/Credits" version_id="1020301" version_string="1.2.3"><![CDATA[转账金额不抵税金，请输入合适的金额。]]></phrase>
+  <phrase title="cnxfans_the_transfer_amount_is_not_enough" addon_id="MJ/Credits" version_id="1030030" version_string="1.3.3"><![CDATA[转账金额不抵税款，请输入合适的金额。]]></phrase>
   <phrase title="code" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[代码]]></phrase>
   <phrase title="code_event_execution_order_desc" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[按 ID 顺序执行。注意：未指定事件的监听器优先运行。]]></phrase>
   <phrase title="code_event_ids_must_be_unique" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[代码事件 ID 必须唯一，您输入的 ID 已经被使用。]]></phrase>
@@ -3577,7 +3579,7 @@ Useful for if this category is more exclusive than a "normal" category.</dfn>]]>
   <phrase title="dbtech_shop_collect_interest_x_hours_y_minutes_s_seconds" addon_id="DBTech/Shop" version_id="906040970" version_string="6.4.9"><![CDATA[收取利息于：{param1} 时， {param2} 分， {param3} 秒]]></phrase>
   <phrase title="dbtech_shop_color" addon_id="DBTech/Shop" version_id="906010037" version_string="6.1.0 Beta 7"><![CDATA[Color]]></phrase>
   <phrase title="dbtech_shop_color_descr" addon_id="DBTech/Shop" version_id="906010037" version_string="6.1.0 Beta 7"><![CDATA[Use the hex code of the color you wish to use. Example: Enter #FFFFFF for white.]]></phrase>
-  <phrase title="dbtech_shop_community" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA["Community" Menu]]></phrase>
+  <phrase title="dbtech_shop_community" addon_id="DBTech/Shop" version_id="906041270" version_string="6.4.12"><![CDATA[“社区”菜单]]></phrase>
   <phrase title="dbtech_shop_completed_trades" addon_id="DBTech/Shop" version_id="906040970" version_string="6.4.9"><![CDATA[已完成交易]]></phrase>
   <phrase title="dbtech_shop_configuration" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Configuration]]></phrase>
   <phrase title="dbtech_shop_configuration_bold" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Bold]]></phrase>
@@ -4633,7 +4635,7 @@ If this column does not exist on the above table, it will be added.]]></phrase>
   <phrase title="dbtech_shop_push_x_reacted_to_your_post_in_ys_trade_z" addon_id="DBTech/Shop" version_id="906010015" version_string="6.1.0 Alpha 5"><![CDATA[{name} reacted to your post on {tradeOwner}'s trade #{tradeId} with {reaction}.]]></phrase>
   <phrase title="dbtech_shop_push_x_wrote_a_message_in_your_trade_z" addon_id="DBTech/Shop" version_id="906010015" version_string="6.1.0 Alpha 5"><![CDATA[{username} wrote a message in your trade #{tradeId}.]]></phrase>
   <phrase title="dbtech_shop_quantity" addon_id="DBTech/Shop" version_id="906040970" version_string="6.4.9"><![CDATA[数量]]></phrase>
-  <phrase title="dbtech_shop_quicklinks" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA["Quick Links" Menu]]></phrase>
+  <phrase title="dbtech_shop_quicklinks" addon_id="DBTech/Shop" version_id="906041270" version_string="6.4.12"><![CDATA[“快速链接”菜单]]></phrase>
   <phrase title="dbtech_shop_rate_this_item" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Rate this item]]></phrase>
   <phrase title="dbtech_shop_rating" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Rating]]></phrase>
   <phrase title="dbtech_shop_reassign_item" addon_id="DBTech/Shop" version_id="906040970" version_string="6.4.9"><![CDATA[转让道具]]></phrase>
@@ -9497,7 +9499,7 @@ This is the message they left:
   <phrase title="importing" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[导入中]]></phrase>
   <phrase title="importing_exporting_style_archives_only_supported_if_meet_requirements" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[仅当您具有<code>ZipArchive</code>支持时，才支持导入风格归档文件/导出风格归档文件。 您可能需要询问您的主机以启用此功能。]]></phrase>
   <phrase title="in_a_minute" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[一分钟]]></phrase>
-  <phrase title="in_a_moment" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[片刻之内]]></phrase>
+  <phrase title="in_a_moment" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[刚刚]]></phrase>
   <phrase title="in_most_cases_this_will_be_your_board_url_or_root_domain_minus_any" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[在大多数情况下，这将是您的主页 URL 或根域名去除任何协议或路径。 URL 应该类似于：example.com]]></phrase>
   <phrase title="in_x_minutes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{minutes} 分钟内]]></phrase>
   <phrase title="inactive_providers" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[无效提供商]]></phrase>
@@ -10477,13 +10479,14 @@ Multiple styles can be combined.
   <phrase title="mjc_active" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[活跃]]></phrase>
   <phrase title="mjc_add_currency" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[添加货币]]></phrase>
   <phrase title="mjc_add_event" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[添加事件]]></phrase>
-  <phrase title="mjc_add_event_definition" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[添加事件定义]]></phrase>
+  <phrase title="mjc_add_event_definition" addon_id="MJ/Credits" version_id="1030030" version_string="1.3.3"><![CDATA[添加事件类型]]></phrase>
   <phrase title="mjc_advanced_options" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[高级选项]]></phrase>
   <phrase title="mjc_alert_your_balance_credited_x_for_y" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[<strong class =“subject”>您的余额</strong>被扣除 {amount} 因<strong>{event} </strong>。]]></phrase>
   <phrase title="mjc_alert_your_balance_debited_x_for_y" addon_id="MJ/Credits" version_id="1010900" version_string="1.1.9"><![CDATA[<strong class =“subject”>您</strong>获得了 {amount} 因<strong> {event} </strong>。]]></phrase>
   <phrase title="mjc_all" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[所有]]></phrase>
   <phrase title="mjc_all_currencies" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[所有货币]]></phrase>
   <phrase title="mjc_allowed_attachment_file_extensions" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[允许的附件文件扩展名]]></phrase>
+  <phrase title="mjc_already_signed_in" addon_id="MJ/Credits" version_id="1030000" version_string="1.3.0"><![CDATA[您已经签到了。]]></phrase>
   <phrase title="mjc_amount" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[数额]]></phrase>
   <phrase title="mjc_amount_explain" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[输入此操作发生时将借记/贷记的积分数量。]]></phrase>
   <phrase title="mjc_amount_receive" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[金额接收]]></phrase>
@@ -10498,7 +10501,7 @@ Multiple styles can be combined.
   <phrase title="mjc_by_quantity" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[按数量]]></phrase>
   <phrase title="mjc_by_value" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[按价值]]></phrase>
   <phrase title="mjc_choose_currency" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[选择货币]]></phrase>
-  <phrase title="mjc_choose_event_definition" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[选择事件定义]]></phrase>
+  <phrase title="mjc_choose_event_definition" addon_id="MJ/Credits" version_id="1030030" version_string="1.3.3"><![CDATA[选择事件类型]]></phrase>
   <phrase title="mjc_clear_all_transactions" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[清除所有交易]]></phrase>
   <phrase title="mjc_clear_all_user_credits" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[清除所有用户积分]]></phrase>
   <phrase title="mjc_clock" addon_id="MJ/Credits" version_id="1020810" version_string="1.2.8.1"><![CDATA[每日签到]]></phrase>
@@ -10548,6 +10551,7 @@ Multiple styles can be combined.
   <phrase title="mjc_currency_desc.5" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_currency_desc.6" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_currency_limit" addon_id="MJ/Credits" version_id="1000200" version_string="1.0.2"><![CDATA[货币限制]]></phrase>
+  <phrase title="mjc_currency_options" addon_id="MJ/Credits" version_id="1020920" version_string="1.2.9.2"><![CDATA[货币选项]]></phrase>
   <phrase title="mjc_currency_title.1" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[金粒]]></phrase>
   <phrase title="mjc_currency_title.2" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[钻石]]></phrase>
   <phrase title="mjc_currency_title.3" addon_id="" version_id="0" version_string=""><![CDATA[金粒]]></phrase>
@@ -10564,7 +10568,7 @@ Multiple styles can be combined.
   <phrase title="mjc_edit" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[编辑]]></phrase>
   <phrase title="mjc_edit_currency" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[编辑货币]]></phrase>
   <phrase title="mjc_edit_event" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[编辑事件]]></phrase>
-  <phrase title="mjc_edit_event_definition" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[编辑事件定义]]></phrase>
+  <phrase title="mjc_edit_event_definition" addon_id="MJ/Credits" version_id="1030030" version_string="1.3.3"><![CDATA[编辑事件类型]]></phrase>
   <phrase title="mjc_edit_transaction" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[编辑交易记录]]></phrase>
   <phrase title="mjc_event" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[事件]]></phrase>
   <phrase title="mjc_event.10" addon_id="" version_id="0" version_string=""><![CDATA[收到支持]]></phrase>
@@ -10745,8 +10749,8 @@ Multiple styles can be combined.
   <phrase title="mjc_event_def_title.transfer" addon_id="MJ/Credits" version_id="1001000" version_string="1.1.0"><![CDATA[转账]]></phrase>
   <phrase title="mjc_event_def_title.unfollow" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[取消关注]]></phrase>
   <phrase title="mjc_event_def_title.update_status" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[更新状态]]></phrase>
-  <phrase title="mjc_event_definition" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[事件定义]]></phrase>
-  <phrase title="mjc_event_definitions" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[事件定义]]></phrase>
+  <phrase title="mjc_event_definition" addon_id="MJ/Credits" version_id="1030030" version_string="1.3.3"><![CDATA[事件类型]]></phrase>
+  <phrase title="mjc_event_definitions" addon_id="MJ/Credits" version_id="1030030" version_string="1.3.3"><![CDATA[事件类型]]></phrase>
   <phrase title="mjc_event_desc.10" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_desc.11" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_desc.13" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -10828,7 +10832,7 @@ Multiple styles can be combined.
   <phrase title="mjc_moderate" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[审核]]></phrase>
   <phrase title="mjc_moderate_debit_transactions" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[审核借方交易记录]]></phrase>
   <phrase title="mjc_moderate_transactions_explain" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[审核的记录]]></phrase>
-  <phrase title="mjc_no_event_definition_exists_with_definition_id_of_x" addon_id="MJ/Credits" version_id="1001300" version_string="1.1.3"><![CDATA[不存在带有{identifier}的definition_class的事件定义]]></phrase>
+  <phrase title="mjc_no_event_definition_exists_with_definition_id_of_x" addon_id="MJ/Credits" version_id="1030030" version_string="1.3.3"><![CDATA[不存在带有{identifier}的definition_class的事件类型]]></phrase>
   <phrase title="mjc_no_event_handler_for_x" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[找不到 {identifier} 的事件处理程序]]></phrase>
   <phrase title="mjc_no_events_defined_with_x" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[没有添加名称为  {event}  的事件]]></phrase>
   <phrase title="mjc_no_transactions_have_been_created_yet" addon_id="MJ/Credits" version_id="1000200" version_string="1.0.2"><![CDATA[尚未创建任何交易。]]></phrase>
@@ -10839,7 +10843,9 @@ Multiple styles can be combined.
   <phrase title="mjc_not_enough_x_to_payment" addon_id="MJ/Credits" version_id="1010700" version_string="1.1.7"><![CDATA[您的金额不足 {amount}]]></phrase>
   <phrase title="mjc_not_enough_x_to_reward" addon_id="MJ/Credits" version_id="1020301" version_string="1.2.3"><![CDATA[您没有足够的{x}打赏其他用户。]]></phrase>
   <phrase title="mjc_not_enough_x_to_transfer" addon_id="MJ/Credits" version_id="1001000" version_string="1.1.0"><![CDATA[转账金额不足 {amount}]]></phrase>
+  <phrase title="mjc_not_enough_x_unable_to_action" addon_id="MJ/Credits" version_id="1030000" version_string="1.3.0"><![CDATA[您没有足够的 {amount} 进行{title}操作。]]></phrase>
   <phrase title="mjc_only_balance_of_selected_currencies" addon_id="MJ/Credits" version_id="1000200" version_string="1.0.2"><![CDATA[仅限所选货币的余额。]]></phrase>
+  <phrase title="mjc_only_positive_numbers_are_allowed" addon_id="MJ/Credits" version_id="1020920" version_string="1.2.9.2"><![CDATA[仅允许正数货币]]></phrase>
   <phrase title="mjc_only_richest_members_has_selected_currencies" addon_id="MJ/Credits" version_id="1000200" version_string="1.0.2"><![CDATA[只有最富有的会员才能拥有所选的货币。]]></phrase>
   <phrase title="mjc_override_credits" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[覆盖积分]]></phrase>
   <phrase title="mjc_overview" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[账单]]></phrase>
@@ -10931,7 +10937,7 @@ Multiple styles can be combined.
   <phrase title="mjc_you_have_not_created_any_transactions_yet" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[您尚未创建任何交易。]]></phrase>
   <phrase title="mjc_you_may_not_reward_yourself" addon_id="MJ/Credits" version_id="1001000" version_string="1.1.0"><![CDATA[您不能打赏自己！]]></phrase>
   <phrase title="mjc_you_may_not_send_credit_yourself" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[您不可向自己转账。]]></phrase>
-  <phrase title="mjc_you_must_select_event_definition_to_use_for_your_new_event" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[您必须选择要用于新事件的事件定义。]]></phrase>
+  <phrase title="mjc_you_must_select_event_definition_to_use_for_your_new_event" addon_id="MJ/Credits" version_id="1030030" version_string="1.3.3"><![CDATA[您必须选择要用于新事件的事件类型。]]></phrase>
   <phrase title="mjc_you_sent_x_to_y" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[您已将 {amount} 转账至 {name}]]></phrase>
   <phrase title="mjc_your_transactions" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[您的交易]]></phrase>
   <phrase title="mjc_your_wallet" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[您的钱包]]></phrase>
@@ -11056,7 +11062,7 @@ Multiple styles can be combined.
   <phrase title="mod_log.profile_post_comment_warning_given" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[个人空间信息评论作者给了警告]]></phrase>
   <phrase title="mod_log.profile_post_comment_warning_removed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[个人空间信息评论作者警告已移除]]></phrase>
   <phrase title="mod_log.profile_post_delete_hard" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[个人空间信息已彻底删除]]></phrase>
-  <phrase title="mod_log.profile_post_delete_soft" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[个人空间信息已临时删除 查看（原因 {reason}）]]></phrase>
+  <phrase title="mod_log.profile_post_delete_soft" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[个人空间信息已从公众视野中删除（原因 {reason}）]]></phrase>
   <phrase title="mod_log.profile_post_edit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[个人空间信息已编辑]]></phrase>
   <phrase title="mod_log.profile_post_unapprove" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[个人空间信息撤销批准]]></phrase>
   <phrase title="mod_log.profile_post_undelete" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[个人空间信息撤销删除]]></phrase>
@@ -11073,7 +11079,7 @@ Multiple styles can be combined.
   <phrase title="mod_log.resource_prefix" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[资源前缀编辑 '{old}']]></phrase>
   <phrase title="mod_log.resource_rating_delete_hard" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[永久删除资源评价]]></phrase>
   <phrase title="mod_log.resource_rating_delete_response" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[删除资评价回复]]></phrase>
-  <phrase title="mod_log.resource_rating_delete_soft" addon_id="XFRM" version_id="2010051" version_string="2.1.0 Release Candidate 1"><![CDATA[临时删除资源评价]]></phrase>
+  <phrase title="mod_log.resource_rating_delete_soft" addon_id="XFRM" version_id="2020470" version_string="2.2.4"><![CDATA[软删除资源评价]]></phrase>
   <phrase title="mod_log.resource_rating_undelete" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[撤销删除资源评价]]></phrase>
   <phrase title="mod_log.resource_rating_warning_given" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[给予资源评分警告]]></phrase>
   <phrase title="mod_log.resource_rating_warning_removed" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[删除资源评分警告]]></phrase>
@@ -11086,14 +11092,14 @@ Multiple styles can be combined.
   <phrase title="mod_log.resource_update_approve" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[批准资源更新]]></phrase>
   <phrase title="mod_log.resource_update_attachment_deleted" addon_id="XFRM" version_id="2010670" version_string="2.1.6"><![CDATA[资源更新附件已删除]]></phrase>
   <phrase title="mod_log.resource_update_delete_hard" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[永久删除资源更新]]></phrase>
-  <phrase title="mod_log.resource_update_delete_soft" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[临时删除资源更新（原因: {reason}）]]></phrase>
+  <phrase title="mod_log.resource_update_delete_soft" addon_id="XFRM" version_id="2020470" version_string="2.2.4"><![CDATA[资源更新已从公众视野中删除（原因: {reason}）]]></phrase>
   <phrase title="mod_log.resource_update_edit" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[编辑资源更新]]></phrase>
   <phrase title="mod_log.resource_update_unapprove" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[撤销批准资源更新]]></phrase>
   <phrase title="mod_log.resource_update_undelete" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[撤销删除资源更新]]></phrase>
   <phrase title="mod_log.resource_version_approve" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[批准资源版本]]></phrase>
   <phrase title="mod_log.resource_version_attachment_deleted" addon_id="XFRM" version_id="2010670" version_string="2.1.6"><![CDATA[资源版本附件已删除]]></phrase>
   <phrase title="mod_log.resource_version_delete_hard" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[永久删除资源版本]]></phrase>
-  <phrase title="mod_log.resource_version_delete_soft" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[临时删除资源更新（原因: {reason}）]]></phrase>
+  <phrase title="mod_log.resource_version_delete_soft" addon_id="XFRM" version_id="2020470" version_string="2.2.4"><![CDATA[资源更新已从公众视野中删除（原因: {reason}）]]></phrase>
   <phrase title="mod_log.resource_version_edit" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[编辑资源版本]]></phrase>
   <phrase title="mod_log.thread_approve" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[主题已批注]]></phrase>
   <phrase title="mod_log.thread_change_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Thread time bumped]]></phrase>
@@ -11112,7 +11118,7 @@ Multiple styles can be combined.
   <phrase title="mod_log.thread_change_time_bmp" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Thread time changed. Time was also bumped.]]></phrase>
   <phrase title="mod_log.thread_custom_fields_edit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[主题自定义字段已编辑]]></phrase>
   <phrase title="mod_log.thread_delete_hard" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[主题已彻底删除]]></phrase>
-  <phrase title="mod_log.thread_delete_soft" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[主题已临时删除 查看（原因 {reason}）]]></phrase>
+  <phrase title="mod_log.thread_delete_soft" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[主题已从公众视野中删除（原因 {reason}）]]></phrase>
   <phrase title="mod_log.thread_discussion_type" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[主题类型从“{old}”更改为]]></phrase>
   <phrase title="mod_log.thread_edit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[主题已编辑（{elements}）]]></phrase>
   <phrase title="mod_log.thread_lock" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[主题已关闭]]></phrase>
@@ -11858,7 +11864,7 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.enableVerp" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[启用退信地址字段]]></phrase>
   <phrase title="option.extraCaptchaKeys" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[附加 CAPTCHA 密钥]]></phrase>
   <phrase title="option.facebookLike" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[启用 Facebook 支持/推荐功能]]></phrase>
-  <phrase title="option.floodCheckLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[发帖时间间隔（秒）]]></phrase>
+  <phrase title="option.floodCheckLength" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[发帖间隔（秒）]]></phrase>
   <phrase title="option.floodCheckLengthDiscussion" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[讨论之间的最短时间]]></phrase>
   <phrase title="option.forceThreadType" addon_id="CnXFans/QuickPrefixChange" version_id="1000000" version_string="1.0.0"><![CDATA[强制主题类型为问题主题]]></phrase>
   <phrase title="option.forumsDefaultPage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[论坛首页]]></phrase>
@@ -11951,6 +11957,7 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.oEmbedLogLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[嵌入媒体日志长度]]></phrase>
   <phrase title="option.oEmbedRequestReferrer" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[嵌入日志请求引荐X天：]]></phrase>
   <phrase title="option.onlineStatusTimeout" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[在线状态超时]]></phrase>
+  <phrase title="option.openBonusPostNew" addon_id="MJ/Credits" version_id="1030010" version_string="1.3.1"><![CDATA[抢红包是否发贴]]></phrase>
   <phrase title="option.pinterestShare" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[启用照片分享按钮]]></phrase>
   <phrase title="option.pollMaximumResponses" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[投票最多选项]]></phrase>
   <phrase title="option.preRegAction" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[注册设置前写入]]></phrase>
@@ -12118,7 +12125,7 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.tagCloudMinUses" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[标签云最小值]]></phrase>
   <phrase title="option.tagLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tag标签长度限制]]></phrase>
   <phrase title="option.tagValidation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[标签验证]]></phrase>
-  <phrase title="option.tckChangeContentOwner_defaultTimeInterval" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[默认时间间隔]]></phrase>
+  <phrase title="option.tckChangeContentOwner_defaultTimeInterval" addon_id="TickTackk/ChangeContentOwner" version_id="2001570" version_string="2.0.15"><![CDATA[默认时间差]]></phrase>
   <phrase title="option.templateHistoryLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[模板历史记录（天）]]></phrase>
   <phrase title="option.termsLastUpdate" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[最近更新条款和规则]]></phrase>
   <phrase title="option.th_apiKey_uix" addon_id="ThemeHouse/UIX" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[API密钥]]></phrase>
@@ -12471,7 +12478,7 @@ Note: Heavily customised skins may render parts of this setting unusable.]]></ph
   <phrase title="option_explain.disallowedCustomTitles" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[自定义头衔中要屏蔽的词语，每行一个。]]></phrase>
   <phrase title="option_explain.discourageBlankChance" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[您被“封禁”用户频繁访问时将按照上述机率出现空白页面。]]></phrase>
   <phrase title="option_explain.discourageDelay" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[被“封禁”用户的访问页面将会延迟加载，请输入延时加载值的区间。]]></phrase>
-  <phrase title="option_explain.discourageFloodMultiplier" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[延长“封禁”用户发帖时的时间间隔，请输入默认时限的倍率。]]></phrase>
+  <phrase title="option_explain.discourageFloodMultiplier" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[延长“封禁”用户发帖间隔，请输入默认时限的倍率。]]></phrase>
   <phrase title="option_explain.discourageRedirectChance" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[输入重定向机率百分比，“封禁”用户将按照此机率被自动定向至指定页面。]]></phrase>
   <phrase title="option_explain.discourageRedirectUrl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[您可以指定任何网址作为重定向的目标页面，留空将重定向至论坛的主页。]]></phrase>
   <phrase title="option_explain.discourageSearchChance" addon_id="XF" version_id="2000033" version_string="2.0.0 Beta 3"><![CDATA[当被阻止的用户试图搜索时，该选项定义了他们将发现它被禁用的百分比概率。（0 =永久，100 =始终）]]></phrase>
@@ -12635,6 +12642,7 @@ JS最近更新（Unix时间），更改后强制刷新 JS缓存，即使不更�
   <phrase title="option_explain.oEmbedLogLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[设置在引用 oEmbed 数据的最近请求之后保留 oEmbed 日志的时间。仅当 oEmbed 数据已过期并被精简时才会删除日志。 将其设置为 0 以禁用日志精简。]]></phrase>
   <phrase title="option_explain.oEmbedRequestReferrer" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[如果启用，每当oEmbed数据访问，推荐信息将保持。可以在日志中查看这一点，以确定已提到的嵌入式媒体的位置。使用0推荐数据永久保留。]]></phrase>
   <phrase title="option_explain.onlineStatusTimeout" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[当用户与系统交互（通过点击链接等），他们将被视为“在线”。如果他们不在指定的时间内再次与系统交互，他们将被视为脱机。]]></phrase>
+  <phrase title="option_explain.openBonusPostNew" addon_id="MJ/Credits" version_id="1030010" version_string="1.3.1"><![CDATA[]]></phrase>
   <phrase title="option_explain.pinterestShare" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[此按钮会让您的用户把您的内容分享到任何Pinterest网站。]]></phrase>
   <phrase title="option_explain.pollMaximumResponses" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[限制投票最多选项。]]></phrase>
   <phrase title="option_explain.preRegAction" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[如果启用，则游客将能够编写受支持的内容，但要求其在提交并公开显示之前进行注册。 在大多数情况下，权限应从新注册用户所在的组继承。 默认情况下，这是“已注册”组。]]></phrase>
@@ -12733,7 +12741,7 @@ Once you have provided a unique path and hit the save button, the directory will
   <phrase title="option_explain.siropuAdsManagerMaxImageSize" addon_id="Siropu/AdsManager" version_id="2000036" version_string="2.0.0-Beta-6"><![CDATA[横幅图像允许的最大大小（kb）。]]></phrase>
   <phrase title="option_explain.siropuAdsManagerMaxPromoThreadStickies" addon_id="Siropu/AdsManager" version_id="2030070" version_string="2.3.0"><![CDATA[每个论坛可以购买的最大便笺数量。]]></phrase>
   <phrase title="option_explain.siropuAdsManagerMaxUserPromoThreads" addon_id="Siropu/AdsManager" version_id="2030070" version_string="2.3.0"><![CDATA[The maximum number of promo threads a user can purchase per forum.]]></phrase>
-  <phrase title="option_explain.siropuAdsManagerMenuLink" addon_id="Siropu/AdsManager" version_id="2013070" version_string="2.1.3"><![CDATA[If enabled, the link to the advertiser section will be displayed in the user drop down menu, instead of the main navigation.]]></phrase>
+  <phrase title="option_explain.siropuAdsManagerMenuLink" addon_id="Siropu/AdsManager" version_id="2041270" version_string="2.4.12"><![CDATA[如果启用，指向广告商部分的链接将显示在用户下拉菜单中，而不是主导航中。]]></phrase>
   <phrase title="option_explain.siropuAdsManagerNodeIdNot" addon_id="Siropu/AdsManager" version_id="2030870" version_string="2.3.8"><![CDATA[This option allows you to globally hide ads in certain nodes, by adding each ID separated by comma.]]></phrase>
   <phrase title="option_explain.siropuAdsManagerPageInfo" addon_id="Siropu/AdsManager" version_id="2030970" version_string="2.3.9"><![CDATA[If enabled, this will display the controller class, controller action, view class and the content template name of any page (to use in page criteria).]]></phrase>
   <phrase title="option_explain.siropuAdsManagerPaymentInstructions" addon_id="Siropu/AdsManager" version_id="2041270" version_string="2.4.12"><![CDATA[这允许您在使用替代付款选项时为广告商提供自定义付款说明。]]></phrase>
@@ -13112,13 +13120,13 @@ Once you have provided a unique path and hit the save button, the directory will
 </ol>]]></phrase>
   <phrase title="page_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[页面内容]]></phrase>
   <phrase title="page_could_not_be_loaded" addon_id="XF" version_id="2020570" version_string="2.2.5"><![CDATA[页面无法加载 QAQ]]></phrase>
-  <phrase title="page_could_not_be_loaded_explain" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[加载不出来，怎么想都加载不出来呀！〒▽〒
+  <phrase title="page_could_not_be_loaded_explain" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[加载不出来，怎么样都加载不出来呀！〒▽〒
 
 <ul>
 	<li>检查一下设备的网络连接并尝试重新加载。</li>
 	<li>某些浏览器扩展可能会阻止页面加载，比如广告拦截器。试试禁用他？</li>
-        <!-- <li>如果你从minebbs.com来，访问 <a href="https://www.minebbs.net/">www.minebbs.net</a> 试试？</li>  -->
-	<li>{title} 当前可能无法访问，请等会再试试吧！( •̀ ω •́ )✧</li>
+	<li>{title} 当前可能确实无法访问，请等会再试试吧！( •̀ ω •́ )✧</li>
+        <p>当然也欢迎你进群咨询：<a href="https://jq.qq.com/?_wv=1027&k=5oijjf3">521584745</a>
 </ul>]]></phrase>
   <phrase title="page_criteria" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[页面适用规则]]></phrase>
   <phrase title="page_information" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[页信信息]]></phrase>
@@ -13826,7 +13834,7 @@ Once you have provided a unique path and hit the save button, the directory will
   <phrase title="please_wait_x_seconds" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[请稍后 {seconds} 秒]]></phrase>
   <phrase title="plus_x_previous" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[+ {count} 上一个]]></phrase>
   <phrase title="points" addon_id="XF" version_id="2020270" version_string="2.2.2"><![CDATA[成就点]]></phrase>
-  <phrase title="points_and_expiry_time_editable_when_giving_warning" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[给予警告处罚点数及过期时间可以随后更改]]></phrase>
+  <phrase title="points_and_expiry_time_editable_when_giving_warning" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[发出警告时可选择警告值和到期时间]]></phrase>
   <phrase title="points_can_be_used_track_progression_and_change_title" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[成就值是用户头衔等级的判断依据]]></phrase>
   <phrase title="points_expire_after" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[警告值过期于]]></phrase>
   <phrase title="points_expiry" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[点数过期]]></phrase>
@@ -13878,7 +13886,7 @@ Once you have provided a unique path and hit the save button, the directory will
   <phrase title="posted_by" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[作者]]></phrase>
   <phrase title="posted_in_thread_x_in_forum_y" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[发布主题<a href="{postLink}">{threadTitle}</a>在论坛<a href="{forumLink}">{forumTitle}</a>]]></phrase>
   <phrase title="posted_on_profile_post_by_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<a href="{commentLink}">{user}</a> 发表了个人动态]]></phrase>
-  <phrase title="posted_on_profile_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[发表在 <a href="{profilePostLink}">{user}</a> 个人动态]]></phrase>
+  <phrase title="posted_on_profile_x" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[发表在 <a href="{profilePostLink}">{user}</a> 的个人空间]]></phrase>
   <phrase title="posted_on_the_profile_of_member" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[主页用户名]]></phrase>
   <phrase title="posting_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[发布作者]]></phrase>
   <phrase title="postings" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[近期信息]]></phrase>
@@ -14221,7 +14229,7 @@ Once you have provided a unique path and hit the save button, the directory will
   <phrase title="remove" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[移除]]></phrase>
   <phrase title="remove_avatars" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[移除头像]]></phrase>
   <phrase title="remove_formatting" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[移除格式]]></phrase>
-  <phrase title="remove_from_public_view" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[临时删除]]></phrase>
+  <phrase title="remove_from_public_view" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[软删除]]></phrase>
   <phrase title="remove_reactions" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[删除反馈]]></phrase>
   <phrase title="remove_reactions_within_last" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[删除最后一个内部反馈]]></phrase>
   <phrase title="remove_secondary_user_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[移除辅助用户组]]></phrase>
@@ -15919,7 +15927,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
 <font style="color:blue;"><b>注意:</b></font>如果您不包含错误，则问题将是可选的，并且不会强制用户回答。<br />
 <font style="color:blue;"><b>注意:</b></font>如果这是一个主题前缀问题，并且在此表单的主题报告选项中选择了一个主题前缀，如果您在此处包含错误，则将永远不会显示该错误，并且将使用该表单的默认前缀。<br /><font style="color:red;"><b>警告:</b></font>如果您通过投票提升用户到论坛版主，您必须输入“单选板块”的列表的错误答案类型。]]></phrase>
   <phrase title="soft_bounce_logged" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[已记录软退信]]></phrase>
-  <phrase title="soft_delete_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[临时删除]]></phrase>
+  <phrase title="soft_delete_threads" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[软删除]]></phrase>
   <phrase title="solution" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[解决方案]]></phrase>
   <phrase title="solutions" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[解决方案]]></phrase>
   <phrase title="solved" addon_id="XF" version_id="2020036" version_string="2.2.0 Beta 6"><![CDATA[已解决]]></phrase>
@@ -16720,7 +16728,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="style_prop_desc.nodeIconUnreadColor" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[节点图标实现判断访客是否已读取节点内容的标识。未读图标颜色应从其背景颜色中脱颖而出，以便快速识别]]></phrase>
   <phrase title="style_prop_desc.nodeListDescriptionDisplay" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[为了节省垂直空间，可以隐藏节点描述，直到节点标题悬停，此时描述将显示在工具提示中]]></phrase>
   <phrase title="style_prop_desc.nodeListSubDisplay" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[根据您想要占用的页面空间大小，选择在特定节点元素中显示子论坛的风格]]></phrase>
-  <phrase title="style_prop_desc.noticeScrollInterval" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[每个可滚动通知显示之间的时间间隔。悬停或与通知进行交互操作将阻止其自动切换。]]></phrase>
+  <phrase title="style_prop_desc.noticeScrollInterval" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[每个滚动通知将在这段时间内显示，然后再显示下一个。 悬停或与通知交互将阻止自动滚动。]]></phrase>
   <phrase title="style_prop_desc.overlayHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[叠加层使用头部元素来标识其内容，在此输入其样式]]></phrase>
   <phrase title="style_prop_desc.overlayMaskBlur" addon_id="XF" version_id="2010034" version_string="2.1.0 Beta 4"><![CDATA[显示叠加层时，页面内容将按此处指定的数值模糊。 这有助于将重点放在叠加内容上。]]></phrase>
   <phrase title="style_prop_desc.overlayMaskColor" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[当显示叠加层时，后面的页面被这里定义的颜色进行遮罩。使用RGBA透明度来使页面显示]]></phrase>
@@ -17065,7 +17073,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="target_tag" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[目标标签]]></phrase>
   <phrase title="target_user" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[目标会员]]></phrase>
   <phrase title="tckChangeContentOwner_bump_time" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Bump time]]></phrase>
-  <phrase title="tckChangeContentOwner_bump_time_explain" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Bump content time by specific hours, minutes or seconds.]]></phrase>
+  <phrase title="tckChangeContentOwner_bump_time_explain" addon_id="TickTackk/ChangeContentOwner" version_id="2001570" version_string="2.0.15"><![CDATA[按指定的时、分或秒来增加内容时间。]]></phrase>
   <phrase title="tckChangeContentOwner_change_date" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[更改日期]]></phrase>
   <phrase title="tckChangeContentOwner_change_owner" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[更改所有者]]></phrase>
   <phrase title="tckChangeContentOwner_change_owner_of_x" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[更改{content_title}的所有者]]></phrase>
@@ -17080,11 +17088,11 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="tckChangeContentOwner_new_owner" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[新所有者]]></phrase>
   <phrase title="tckChangeContentOwner_new_owner_must_be_able_to_view_this_content" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[新所有者必须能够查看此内容。]]></phrase>
   <phrase title="tckChangeContentOwner_new_owner_name_explain" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[输入新内容所有者的名称。]]></phrase>
-  <phrase title="tckChangeContentOwner_new_time" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[New time]]></phrase>
+  <phrase title="tckChangeContentOwner_new_time" addon_id="TickTackk/ChangeContentOwner" version_id="2001570" version_string="2.0.15"><![CDATA[新时间]]></phrase>
   <phrase title="tckChangeContentOwner_please_select_valid_change_date_type" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[请选择有效的更改日期类型。]]></phrase>
   <phrase title="tckChangeContentOwner_post_in_thread_x_page_title" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[主题“{title}”中的帖子]]></phrase>
-  <phrase title="tckChangeContentOwner_time_interval" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[时间间隔]]></phrase>
-  <phrase title="tckChangeContentOwner_time_interval_explain" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[当更改多个内容的日期时，将此时间间隔添加到最终日期，以获得更多唯一的时间戳。]]></phrase>
+  <phrase title="tckChangeContentOwner_time_interval" addon_id="TickTackk/ChangeContentOwner" version_id="2001570" version_string="2.0.15"><![CDATA[时间差]]></phrase>
+  <phrase title="tckChangeContentOwner_time_interval_explain" addon_id="TickTackk/ChangeContentOwner" version_id="2001570" version_string="2.0.15"><![CDATA[当更改多个内容的日期时，将此时间差添加到最终日期，以获得更多不重复的时间戳。]]></phrase>
   <phrase title="tckChangeContentOwner_units_hour" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[小时]]></phrase>
   <phrase title="tckChangeContentOwner_units_minute" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[分钟]]></phrase>
   <phrase title="tckChangeContentOwner_units_second" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[秒]]></phrase>
@@ -17634,6 +17642,22 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="thfeatured_medium" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[中]]></phrase>
   <phrase title="thfeatured_original" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[原始]]></phrase>
   <phrase title="thfeatured_small" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[小]]></phrase>
+  <phrase title="thholidays_holiday.1" addon_id="" version_id="0" version_string=""><![CDATA[Winter]]></phrase>
+  <phrase title="thholidays_holiday.10" addon_id="" version_id="0" version_string=""><![CDATA[复活节]]></phrase>
+  <phrase title="thholidays_holiday.11" addon_id="" version_id="0" version_string=""><![CDATA[Cinco de Mayo]]></phrase>
+  <phrase title="thholidays_holiday.12" addon_id="" version_id="0" version_string=""><![CDATA[Hannukah]]></phrase>
+  <phrase title="thholidays_holiday.13" addon_id="" version_id="0" version_string=""><![CDATA[Chinese New Year]]></phrase>
+  <phrase title="thholidays_holiday.14" addon_id="" version_id="0" version_string=""><![CDATA[Dia de los Muertos]]></phrase>
+  <phrase title="thholidays_holiday.15" addon_id="" version_id="0" version_string=""><![CDATA[Oktoberfest]]></phrase>
+  <phrase title="thholidays_holiday.16" addon_id="" version_id="0" version_string=""><![CDATA[International Day of Peace]]></phrase>
+  <phrase title="thholidays_holiday.2" addon_id="" version_id="0" version_string=""><![CDATA[New Year]]></phrase>
+  <phrase title="thholidays_holiday.3" addon_id="" version_id="0" version_string=""><![CDATA[Valentine's Day]]></phrase>
+  <phrase title="thholidays_holiday.4" addon_id="" version_id="0" version_string=""><![CDATA[Thanksgiving]]></phrase>
+  <phrase title="thholidays_holiday.5" addon_id="" version_id="0" version_string=""><![CDATA[万圣节]]></phrase>
+  <phrase title="thholidays_holiday.6" addon_id="" version_id="0" version_string=""><![CDATA[Birthday]]></phrase>
+  <phrase title="thholidays_holiday.7" addon_id="" version_id="0" version_string=""><![CDATA[4th of July]]></phrase>
+  <phrase title="thholidays_holiday.8" addon_id="" version_id="0" version_string=""><![CDATA[Christmas]]></phrase>
+  <phrase title="thholidays_holiday.9" addon_id="" version_id="0" version_string=""><![CDATA[St. Patrick's Day]]></phrase>
   <phrase title="thimageoptimizer_content_type_is" addon_id="ThemeHouse/ImageOptimizer" version_id="1010170" version_string="1.1.1"><![CDATA[内容类型为]]></phrase>
   <phrase title="thimageoptimizer_received_invalid_url" addon_id="ThemeHouse/ImageOptimizer" version_id="1010191" version_string="1.1.1 Patch Level 1"><![CDATA[Received invalid URL: {url}]]></phrase>
   <phrase title="this_account_cannot_be_confirmed_without_email_address" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[账号需要邮箱地址才能进行确认。]]></phrase>
@@ -18794,7 +18818,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
 
 请勿在我们的网站上讨论这种性质的内容。这不符合我们的规定。您的信息可能已被删除或更改。
 
-基于这些操作，您的帐户访问可能会受到限制。请在发帖或使用我们的网站时注意这一点。]]></phrase>
+请在发帖或使用我们的网站时多加注意。由于这些行为，您的帐户可能会受到限制甚至封禁。]]></phrase>
   <phrase title="warning_conv_text.2" addon_id="" version_id="0" version_string=""><![CDATA[{name},
 
 你在此信息中 ([url={url}]{title}[/url]) 的行为不当
@@ -18802,15 +18826,15 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
 
 我们不能允许用户滥用、过度攻击、威胁或引战。这不符合我们的规定。您的信息可能已被删除或更改。
 
-基于这些操作，您的帐户访问可能会受到限制。请在发帖或使用我们的网站时注意这一点。]]></phrase>
+请在发帖或使用我们的网站时多加注意。由于这些行为，您的帐户可能会受到限制甚至封禁。]]></phrase>
   <phrase title="warning_conv_text.3" addon_id="" version_id="0" version_string=""><![CDATA[{name},
 
 你的信息 ([url={url}]{title}[/url]) 包含不当用语：
 [quote]{content}[/quote]
 
-这不符合我们文明和谐交流的主张和规定。您的信息可能已被删除或更改。
+这不符合我们文明讨论、和谐交流的主张和规定。您的信息可能已被删除或更改。
 
-基于这些操作，您的帐户访问可能会受到限制。请在发帖或使用我们的网站时注意这一点。]]></phrase>
+请在发帖或使用我们的网站时多加注意。由于这些行为，您的帐户可能会受到限制甚至封禁。]]></phrase>
   <phrase title="warning_conv_text.4" addon_id="" version_id="0" version_string=""><![CDATA[{name},
 
 你的信息 ([url={url}]{title}[/url]) 包含不当广告 / 垃圾邮件：
@@ -18818,11 +18842,20 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
 
 这不符合我们的规定。您的信息可能已被删除或更改。
 
-基于这些操作，您的帐户访问可能会受到限制。请在发帖或使用我们的网站时注意这一点。]]></phrase>
-  <phrase title="warning_conv_title.1" addon_id="" version_id="0" version_string=""><![CDATA[不当内容]]></phrase>
+请在发帖或使用我们的网站时多加注意。由于这些行为，您的帐户可能会受到限制甚至封禁。]]></phrase>
+  <phrase title="warning_conv_text.5" addon_id="" version_id="0" version_string=""><![CDATA[{name},
+
+你的消息 ([url={url}]{title}[/url]) 存在随意水贴情节：
+[quote]{content}[/quote]
+
+这违反了我们的规定。您的信息可能已被删除或修改。
+
+请在发帖或使用我们的网站时多加注意。由于这些行为，您的帐户可能会受到限制甚至封禁。]]></phrase>
+  <phrase title="warning_conv_title.1" addon_id="" version_id="0" version_string=""><![CDATA[违规内容]]></phrase>
   <phrase title="warning_conv_title.2" addon_id="" version_id="0" version_string=""><![CDATA[不当行为]]></phrase>
-  <phrase title="warning_conv_title.3" addon_id="" version_id="0" version_string=""><![CDATA[不当语言]]></phrase>
-  <phrase title="warning_conv_title.4" addon_id="" version_id="0" version_string=""><![CDATA[不当广告 / 垃圾邮件]]></phrase>
+  <phrase title="warning_conv_title.3" addon_id="" version_id="0" version_string=""><![CDATA[不文明语言]]></phrase>
+  <phrase title="warning_conv_title.4" addon_id="" version_id="0" version_string=""><![CDATA[不当广告 / 垃圾信息]]></phrase>
+  <phrase title="warning_conv_title.5" addon_id="" version_id="0" version_string=""><![CDATA[违规水贴]]></phrase>
   <phrase title="warning_for_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[给予 {name} 警告]]></phrase>
   <phrase title="warning_not_filled_try_again" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[警告细节未按预期填充。请再试一次。]]></phrase>
   <phrase title="warning_points" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[警告值]]></phrase>
@@ -18830,6 +18863,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="warning_title.2" addon_id="" version_id="0" version_string=""><![CDATA[不当行为]]></phrase>
   <phrase title="warning_title.3" addon_id="" version_id="0" version_string=""><![CDATA[不当语言]]></phrase>
   <phrase title="warning_title.4" addon_id="" version_id="0" version_string=""><![CDATA[不当广告 / 垃圾邮件]]></phrase>
+  <phrase title="warning_title.5" addon_id="" version_id="0" version_string=""><![CDATA[违规水贴]]></phrase>
   <phrase title="warning_type" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[警告类型]]></phrase>
   <phrase title="warnings" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[警告]]></phrase>
   <phrase title="watch" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[关注]]></phrase>
