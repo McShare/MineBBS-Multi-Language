@@ -825,7 +825,7 @@
   <phrase title="alert_opt_out.dbtech_shop_trade_modify" addon_id="DBTech/Shop" version_id="906010015" version_string="6.1.0 Alpha 5"><![CDATA[和你进行交易]]></phrase>
   <phrase title="alert_opt_out.dbtech_shop_trade_post_insert" addon_id="DBTech/Shop" version_id="906010015" version_string="6.1.0 Alpha 5"><![CDATA[回复你的交易]]></phrase>
   <phrase title="alert_opt_out.dbtech_shop_trade_post_mention" addon_id="DBTech/Shop" version_id="906010015" version_string="6.1.0 Alpha 5"><![CDATA[在一个交易贴或者回复中提到了你]]></phrase>
-  <phrase title="alert_opt_out.dbtech_shop_trade_post_reaction" addon_id="DBTech/Shop" version_id="906010015" version_string="6.1.0 Alpha 5"><![CDATA[Reacts to your trade post]]></phrase>
+  <phrase title="alert_opt_out.dbtech_shop_trade_post_reaction" addon_id="DBTech/Shop" version_id="906041270" version_string="6.4.12"><![CDATA[对您的交易帖作出反应]]></phrase>
   <phrase title="alert_opt_out.post_forumwatch_insert" addon_id="XF" version_id="2020270" version_string="2.2.2"><![CDATA[在我关注的版块中发帖]]></phrase>
   <phrase title="alert_opt_out.post_insert" addon_id="XF" version_id="2020270" version_string="2.2.2"><![CDATA[回复了我关注的主题]]></phrase>
   <phrase title="alert_opt_out.post_mention" addon_id="XF" version_id="2020270" version_string="2.2.2"><![CDATA[在帖子里@我]]></phrase>
@@ -898,7 +898,7 @@
   <phrase title="already_have_account" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[已经有账户了?]]></phrase>
   <phrase title="alt" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[Alt键]]></phrase>
   <phrase title="alt_text" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Alt文字]]></phrase>
-  <phrase title="alternative_upgrade_xenforo_x" addon_id="XF" version_id="2020670" version_string="2.2.6"><![CDATA[Alternative upgrade: XenForo {version}]]></phrase>
+  <phrase title="alternative_upgrade_xenforo_x" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[替代升级：XenForo {版本}]]></phrase>
   <phrase title="alternatively_use_ip_discouragement" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[您可以使用“被屏蔽的 IP 地址”功能设置指定的 IP 地址。]]></phrase>
   <phrase title="alternatively_you_may_cancel_this_import_to_start_new_one" addon_id="XF" version_id="2010670" version_string="2.1.6"><![CDATA[或者，您可以取消此导入来启动一个全新的。 ]]></phrase>
   <phrase title="analyze" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[分析]]></phrase>
@@ -1026,12 +1026,12 @@
   <phrase title="approved" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[已批准]]></phrase>
   <phrase title="approved_by" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[通过批准]]></phrase>
   <phrase title="approved_sites" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[可用的站点]]></phrase>
-  <phrase title="are_you_sure_want_to_delete_dbtech_shop_category_x" addon_id="DBTech/Shop" version_id="20170223" version_string="6.0.0"><![CDATA[Are you <b>sure</b> you want to delete the Category called '{param1}'?<br /><span class="smallfont">({param2}: {param3})</span><br /><br /> {param4} This action can not be undone.]]></phrase>
-  <phrase title="are_you_sure_want_to_delete_dbtech_shop_currency_x" addon_id="DBTech/Shop" version_id="20170223" version_string="6.0.0"><![CDATA[Are you <b>sure</b> you want to delete the Currency called '{param1}'?<br /><span class="smallfont">({param2}: {param3})</span><br /><br /> {param4} This action can not be undone.<br /><br />This will not erase accumulated points, if you re-add the currency with the same table and column later, the points will be restored.]]></phrase>
-  <phrase title="are_you_sure_want_to_delete_dbtech_shop_item_x" addon_id="DBTech/Shop" version_id="20170223" version_string="6.0.0"><![CDATA[Are you <b>sure</b> you want to delete the Item called '{param1}'?<br /><span class="smallfont">({param2}: {param3})</span><br /><br /> {param4} This action can not be undone.]]></phrase>
-  <phrase title="are_you_sure_want_to_delete_dbtech_shop_lottery_x" addon_id="DBTech/Shop" version_id="20170223" version_string="6.0.0"><![CDATA[Are you <b>sure</b> you want to delete the Lottery called '{param1}'?<br /><span class="smallfont">({param2}: {param3})</span><br /><br /> {param4} This action can not be undone.]]></phrase>
-  <phrase title="are_you_sure_want_to_delete_dbtech_shop_lotteryprize_x" addon_id="DBTech/Shop" version_id="20170223" version_string="6.0.0"><![CDATA[Are you <b>sure</b> you want to delete the Lottery Prize called '{param1}'?<br /><span class="smallfont">({param2}: {param3})</span><br /><br /> {param4} This action can not be undone.]]></phrase>
-  <phrase title="are_you_sure_want_to_delete_dbtech_shop_shop_x" addon_id="DBTech/Shop" version_id="20170223" version_string="6.0.0"><![CDATA[Are you <b>sure</b> you want to delete the Shop called '{param1}'?<br /><span class="smallfont">({param2}: {param3})</span><br /><br /> {param4} This action can not be undone.]]></phrase>
+  <phrase title="are_you_sure_want_to_delete_dbtech_shop_category_x" addon_id="DBTech/Shop" version_id="906041270" version_string="6.4.12"><![CDATA[您<b>确定</b>要删除名为“{param1}”的类别吗？<br /><span class="smallfont">({param2}: {param3})</span><br /><br /> {param4} 此操作无法撤消。]]></phrase>
+  <phrase title="are_you_sure_want_to_delete_dbtech_shop_currency_x" addon_id="DBTech/Shop" version_id="906041270" version_string="6.4.12"><![CDATA[您<b>确定</b>要删除名为“{param1}”的货币吗？<br /><span class="smallfont">({param2}: {param3})</span><br /><br /> {param4} 此操作不可撤销。<br /><br />此操作不会清除累积的积分，如果您稍后重新添加相同表和列的货币，积分将被恢复。]]></phrase>
+  <phrase title="are_you_sure_want_to_delete_dbtech_shop_item_x" addon_id="DBTech/Shop" version_id="906041270" version_string="6.4.12"><![CDATA[您<b>确定</b>要删除名为“{param1}”的项目吗？<br /><span class="smallfont">({param2}: {param3})</span><br /><br /> {param4} 此操作无法撤消。]]></phrase>
+  <phrase title="are_you_sure_want_to_delete_dbtech_shop_lottery_x" addon_id="DBTech/Shop" version_id="906041270" version_string="6.4.12"><![CDATA[您<b>确定</b>要删除名为“{param1}”的彩票吗？<br /><span class="smallfont">({param2}: {param3})</span><br /><br /> {param4} 此操作无法撤消。]]></phrase>
+  <phrase title="are_you_sure_want_to_delete_dbtech_shop_lotteryprize_x" addon_id="DBTech/Shop" version_id="906041270" version_string="6.4.12"><![CDATA[您<b>确定</b>要删除名为“{param1}”的彩票吗？<br /><span class="smallfont">({param2}: {param3})</span>< br /><br /> {param4} 此操作无法撤消。]]></phrase>
+  <phrase title="are_you_sure_want_to_delete_dbtech_shop_shop_x" addon_id="DBTech/Shop" version_id="906041270" version_string="6.4.12"><![CDATA[您<b>确定</b>要删除名为“{param1}”的商店吗？<br /><span class="smallfont">({param2}: {param3})</span><br /><br /> {param4} 此操作无法撤消。]]></phrase>
   <phrase title="are_you_sure_you_want_to_stop_emails_for_all_forums" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[您确定要停止所有版块的邮件通知吗？]]></phrase>
   <phrase title="are_you_sure_you_want_to_stop_emails_for_all_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[您确定要停止所有主题的邮件通知吗？]]></phrase>
   <phrase title="are_you_sure_you_want_to_stop_emails_for_one_forum" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[您确定要停止某个版块的邮件通知吗？]]></phrase>
@@ -14052,10 +14052,10 @@ Once you have provided a unique path and hit the save button, the directory will
   <phrase title="push_x_commented_on_ys_post_on_your_profile" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name}对您个人空间中{poster}的帖子发表了评论。]]></phrase>
   <phrase title="push_x_mentioned_you_comment_on_ys_profile" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name}在{profile}的个人空间评论中提到了你。]]></phrase>
   <phrase title="push_x_mentioned_you_message_on_ys_profile" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name}在{profile}的个人空间中提到了你。]]></phrase>
-  <phrase title="push_x_reacted_to_your_comment_on_your_profile_post" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name}通过{reaction}对您的个人空间帖子中的评论做出了反馈。]]></phrase>
-  <phrase title="push_x_reacted_to_your_comment_on_ys_profile_post" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name}对您在{poster}的个人空间帖子中对{reaction}的评论做出了反馈。]]></phrase>
-  <phrase title="push_x_reacted_to_your_post_on_ys_profile" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name}通过{reaction}对您在{profile}的个人空间中的帖子做出了反馈。]]></phrase>
-  <phrase title="push_x_reacted_to_your_status" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name}通过{reaction}对您的动态做出了反馈。]]></phrase>
+  <phrase title="push_x_reacted_to_your_comment_on_your_profile_post" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[{name} 对您的个人空间帖子中的评论表示  {reaction}。]]></phrase>
+  <phrase title="push_x_reacted_to_your_comment_on_ys_profile_post" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[{name} 对您在 {poster} 的个人空间帖子中的评论表示 {reaction}。]]></phrase>
+  <phrase title="push_x_reacted_to_your_post_on_ys_profile" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[{name} 对您在 {profile} 的个人空间中的帖子表示 {reaction}。]]></phrase>
+  <phrase title="push_x_reacted_to_your_status" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[{name} 对您的动态表示 {reaction}。]]></phrase>
   <phrase title="push_your_status_update_was_edited" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[您的动态更新已被修改。]]></phrase>
   <phrase title="pwa_setup" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[PWA 设置]]></phrase>
   <phrase title="question" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[问题]]></phrase>
@@ -14530,7 +14530,7 @@ Once you have provided a unique path and hit the save button, the directory will
   <phrase title="route_type" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[路径类型]]></phrase>
   <phrase title="routes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[路径]]></phrase>
   <phrase title="row" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[行]]></phrase>
-  <phrase title="rpgs_reactivate_location" addon_id="KL/EditorManager" version_id="1020093" version_string="1.2.0 Patch Level 3"><![CDATA[Reactivate location]]></phrase>
+  <phrase title="rpgs_reactivate_location" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[重新激活位置]]></phrase>
   <phrase title="rss" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[RSS]]></phrase>
   <phrase title="rss_feed_for_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[用 RSS 订阅 {title}]]></phrase>
   <phrase title="rss_feed_importer" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[导入RSS订阅]]></phrase>
@@ -15964,7 +15964,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="spam_cleaner_ip_address_check" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[垃圾信息 IP 地址校验]]></phrase>
   <phrase title="spam_cleaner_log" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[垃圾清理日志]]></phrase>
   <phrase title="spam_cleaner_no_admins_or_mods" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[无法使用垃圾清理器处理管理员或版主。]]></phrase>
-  <phrase title="spam_cleaner_reaction_score_too_high" addon_id="XF" version_id="2020270" version_string="2.2.2"><![CDATA[对于反馈分高于{reaction_score}的用户，您不得使用垃圾邮件清理程序。]]></phrase>
+  <phrase title="spam_cleaner_reaction_score_too_high" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[对于反馈分高于 {reaction_score} 的用户，不得使用垃圾信息清理。]]></phrase>
   <phrase title="spam_cleaner_registered_too_long" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[您无法使用垃圾清理功能管理已注册 {register_days} 天的用户。]]></phrase>
   <phrase title="spam_cleaner_too_many_messages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[您无法使用垃圾清理功能管理发帖超过 {message_count} 的用户。]]></phrase>
   <phrase title="spam_cleanings" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[最近清理的垃圾信息]]></phrase>
@@ -17554,8 +17554,8 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="thfeature_featured_x" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[精选于 {date}]]></phrase>
   <phrase title="thfeature_featured_x_by_y" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[由 {name} 精选于 {date}]]></phrase>
   <phrase title="thfeature_first_post" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[First post]]></phrase>
-  <phrase title="thfeature_first_post_has_a_maximum_reaction_score_of_x" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[First post has a maximum reaction score of X]]></phrase>
-  <phrase title="thfeature_first_post_has_a_minimum_reaction_score_of_x" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[First post has a minimum reaction score of X]]></phrase>
+  <phrase title="thfeature_first_post_has_a_maximum_reaction_score_of_x" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[一楼的最高反馈分为 X]]></phrase>
+  <phrase title="thfeature_first_post_has_a_minimum_reaction_score_of_x" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[一楼的最低反馈分为 X]]></phrase>
   <phrase title="thfeature_first_post_has_image_attachments" addon_id="ThemeHouse/Feature" version_id="1000410" version_string="1.0.4 Alpha"><![CDATA[First post has image attachments]]></phrase>
   <phrase title="thfeature_for" addon_id="ThemeHouse/Feature" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[For]]></phrase>
   <phrase title="thfeature_grid_style" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[网格]]></phrase>
@@ -17589,8 +17589,8 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="thfeature_resource_contains_all_of_the_following_tags" addon_id="ThemeHouse/Feature" version_id="1000610" version_string="1.0.6 Alpha"><![CDATA[Resource contains all of the following tags]]></phrase>
   <phrase title="thfeature_resource_contains_at_least_one_of_the_following_tags" addon_id="ThemeHouse/Feature" version_id="1000610" version_string="1.0.6 Alpha"><![CDATA[Resource contains at least one of the following tags]]></phrase>
   <phrase title="thfeature_resource_criteria" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[资源标准]]></phrase>
-  <phrase title="thfeature_resource_has_a_maximum_reaction_score_of_x" addon_id="ThemeHouse/Feature" version_id="1000610" version_string="1.0.6 Alpha"><![CDATA[Resource has a maximum reaction score of X]]></phrase>
-  <phrase title="thfeature_resource_has_a_minimum_reaction_score_of_x" addon_id="ThemeHouse/Feature" version_id="1000610" version_string="1.0.6 Alpha"><![CDATA[Resource has a minimum reaction score of X]]></phrase>
+  <phrase title="thfeature_resource_has_a_maximum_reaction_score_of_x" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[资源的最大反馈分为 X]]></phrase>
+  <phrase title="thfeature_resource_has_a_minimum_reaction_score_of_x" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[资源的最低反馈分为 X]]></phrase>
   <phrase title="thfeature_resource_has_at_least_x_comments" addon_id="ThemeHouse/Feature" version_id="1000610" version_string="1.0.6 Alpha"><![CDATA[Resource has at least X comments]]></phrase>
   <phrase title="thfeature_resource_has_at_least_x_downloads" addon_id="ThemeHouse/Feature" version_id="1000610" version_string="1.0.6 Alpha"><![CDATA[Resource has at least X downloads]]></phrase>
   <phrase title="thfeature_resource_has_at_least_x_views" addon_id="ThemeHouse/Feature" version_id="1000610" version_string="1.0.6 Alpha"><![CDATA[Resource has at least X views]]></phrase>
@@ -19291,18 +19291,18 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="x_per_year" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{cost} / 年]]></phrase>
   <phrase title="x_quoted_your_post_in_thread_y" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name} 引用您的帖子回复主题 {title}]]></phrase>
   <phrase title="x_ratings" addon_id="XF" version_id="2020270" version_string="2.2.2"><![CDATA[{count} 个评分]]></phrase>
-  <phrase title="x_reacted_to_your_comment_on_your_profile_post" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name}通过{reaction}对您的个人空间帖子中的<a {postt_attributes}>您的评论</a>做出了反馈。]]></phrase>
-  <phrase title="x_reacted_to_your_comment_on_ys_profile_post" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name}通过{reaction}对{poster}的个人空间帖子中的<a {postt_attributes}>您的评论</a>做出了反馈。]]></phrase>
-  <phrase title="x_reacted_to_your_message_in_the_conversation_y" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name}通过{reaction}在私信{title}中对您的邮件做出了反馈。]]></phrase>
-  <phrase title="x_reacted_to_your_post_in_the_thread_y" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[{name} 对主题 {title} 中您的回贴表示 {reaction}。]]></phrase>
-  <phrase title="x_reacted_to_your_post_on_ys_profile" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name}通过{reaction}对{profile}的个人空间中的<a {postt_attributes}>您的帖子</a>做出了反馈。]]></phrase>
-  <phrase title="x_reacted_to_your_status" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name}通过{reaction}对您的<a {status_attributes}>动态</a>做出了反馈。]]></phrase>
-  <phrase title="x_reacted_to_ys_comment_on_your_profile_post" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name}通过{reaction}对您的个人空间帖子中的<a {postt_params}> {poster}评论</a>做出了反馈。]]></phrase>
+  <phrase title="x_reacted_to_your_comment_on_your_profile_post" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[{name} 对您的个人空间动态中<a {postt_attributes}>您的评论</a>表示 {reaction}。]]></phrase>
+  <phrase title="x_reacted_to_your_comment_on_ys_profile_post" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[{name} 对 {poster} 的个人空间动态中<a {postt_attributes}>您的评论</a>表示 {reaction}。]]></phrase>
+  <phrase title="x_reacted_to_your_message_in_the_conversation_y" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[{name} 在私信 {title} 中对您的消息表示 {reaction}。]]></phrase>
+  <phrase title="x_reacted_to_your_post_in_the_thread_y" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[{name} 对主题 {title} 中<a {posterParams}>你的帖子</a>表示  {reaction}。]]></phrase>
+  <phrase title="x_reacted_to_your_post_on_ys_profile" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[{name} 对 {profile} 的个人空间中<a {postt_attributes}>你的帖子</a>表示 {reaction}。]]></phrase>
+  <phrase title="x_reacted_to_your_status" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[{name} 对你的<a {status_attributes}>动态</a>表示 {reaction}。]]></phrase>
+  <phrase title="x_reacted_to_ys_comment_on_your_profile_post" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[{name} 对你空间动态中 <a {post_params}>{poster} 的评论</a>表示 {reaction} 。]]></phrase>
   <phrase title="x_reacted_to_ys_comment_on_zs_profile_post" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name}对{profile}的个人空间帖子{response}的{{postt_params}> {poster}的评论</a>做出了反馈。]]></phrase>
-  <phrase title="x_reacted_to_ys_message_in_the_conversation_z" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name}通过{reaction}私信{title}中的<a {postterParams}> {poster}的消息</a>做出了反馈。]]></phrase>
+  <phrase title="x_reacted_to_ys_message_in_the_conversation_z" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[{name} 对私信 {title} 中 <a {postterParams}> {poster} 的消息</a>表示 {reaction}。]]></phrase>
   <phrase title="x_reacted_to_ys_post_in_the_thread_z" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[{name} 对主题 {title} 中 <a {postterParams}>{poster}的帖子</a> 表示 {reaction}。]]></phrase>
-  <phrase title="x_reacted_to_ys_post_on_your_profile" addon_id="XF" version_id="2020270" version_string="2.2.2"><![CDATA[{name}对您个人空间中的<a {postt_params}> {poster}发布消息</a>表示{reaction}。]]></phrase>
-  <phrase title="x_reacted_to_ys_post_on_zs_profile" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name}通过{reaction}对{profile}的个人空间中的<a {postt_params}> {poster}帖子</a>做出了反馈。]]></phrase>
+  <phrase title="x_reacted_to_ys_post_on_your_profile" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[{name} 对你空间中 <a {postt_params}> {poster} 发布的动态</a>表示 {reaction}。]]></phrase>
+  <phrase title="x_reacted_to_ys_post_on_zs_profile" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[{name} 对 {profile} 空间中<a {postt_params}> {poster} 发布的动态</a>表示 {reaction}。]]></phrase>
   <phrase title="x_reacted_to_ys_status" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{name}通过{reaction}对<a {status_params}> {poster}的动态态</a>作出反馈。]]></phrase>
   <phrase title="x_replied_to_thread_y_may_be_more" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[{name} 回复了主题 {title}。之后可能会有更多帖子。]]></phrase>
   <phrase title="x_restricts_who_may_view_their_latest_activity" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[限制 {name} 可以查看他们最新动态。]]></phrase>
@@ -19733,10 +19733,10 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_x_left_resource_team_for_resource_y" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[{name}离开了资源{title}的资源团队。]]></phrase>
   <phrase title="xfrm_x_mentioned_you_in_resource_y" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name} 在资源 {title} 中提到您。]]></phrase>
   <phrase title="xfrm_x_mentioned_you_in_update_resource_y" addon_id="XFRM" version_id="2020270" version_string="2.2.2"><![CDATA[{name} 在资源更新 {title} 中提到了您。]]></phrase>
-  <phrase title="xfrm_x_reacted_to_your_resource_y" addon_id="XFRM" version_id="2020170" version_string="2.2.1"><![CDATA[{name}对您的资源{title}表示{reaction}。]]></phrase>
-  <phrase title="xfrm_x_reacted_to_your_update_resource_y" addon_id="XFRM" version_id="2020170" version_string="2.2.1"><![CDATA[{name}对资源{title}的更新表示{reaction}。]]></phrase>
-  <phrase title="xfrm_x_reacted_to_ys_resource_z" addon_id="XFRM" version_id="2020170" version_string="2.2.1"><![CDATA[{name}对{author}的资源{title}表示{reaction}。]]></phrase>
-  <phrase title="xfrm_x_reacted_to_ys_update_for_resource_z" addon_id="XFRM" version_id="2020170" version_string="2.2.1"><![CDATA[{name}对{author}的资源{title}的更新表示{reaction}。]]></phrase>
+  <phrase title="xfrm_x_reacted_to_your_resource_y" addon_id="XFRM" version_id="2020470" version_string="2.2.4"><![CDATA[{name} 对您的资源 {title} 表示 {reaction}。]]></phrase>
+  <phrase title="xfrm_x_reacted_to_your_update_resource_y" addon_id="XFRM" version_id="2020470" version_string="2.2.4"><![CDATA[{name} 对你资源 {title} 的更新表示 {reaction}。]]></phrase>
+  <phrase title="xfrm_x_reacted_to_ys_resource_z" addon_id="XFRM" version_id="2020470" version_string="2.2.4"><![CDATA[{name} 对 {author} 的资源 {title} 表示了 {reaction}。]]></phrase>
+  <phrase title="xfrm_x_reacted_to_ys_update_for_resource_z" addon_id="XFRM" version_id="2020470" version_string="2.2.4"><![CDATA[{name} 对 {author} 的资源 {title} 的更新表示了 {reaction}。]]></phrase>
   <phrase title="xfrm_x_replied_review_resource_y" addon_id="XFRM" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[{name} 回复了您对资源 {title} 的评价。]]></phrase>
   <phrase title="xfrm_x_reviewed_resource_y" addon_id="XFRM" version_id="2020270" version_string="2.2.2"><![CDATA[{username} 对资源 {title} 进行了评价。]]></phrase>
   <phrase title="xfrm_x_updated_resource_y" addon_id="XFRM" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[{name} 更新了资源 {title}。]]></phrase>
