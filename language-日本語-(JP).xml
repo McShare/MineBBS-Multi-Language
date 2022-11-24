@@ -23,8 +23,8 @@
   <phrase title="accent" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Accent]]></phrase>
   <phrase title="accept" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Accept]]></phrase>
   <phrase title="accept_future_messages" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Accept future messages]]></phrase>
-  <phrase title="accepted_privacy_policy" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Accepted privacy policy]]></phrase>
-  <phrase title="accepted_terms_rules" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Accepted terms and rules]]></phrase>
+  <phrase title="accepted_privacy_policy" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[同意したプライバシー ポリシー]]></phrase>
+  <phrase title="accepted_terms_rules" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[利用規約に同意する]]></phrase>
   <phrase title="account_associated" addon_id="XF" version_id="2001270" version_string="2.0.12"><![CDATA[Account associated]]></phrase>
   <phrase title="account_details" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Account details]]></phrase>
   <phrase title="account_upgrade" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Account upgrade]]></phrase>
@@ -286,8 +286,8 @@
   <phrase title="admin_navigation.emailUsers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Email users]]></phrase>
   <phrase title="admin_navigation.executionManipulation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Execution manipulation]]></phrase>
   <phrase title="admin_navigation.fileCheck" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[File health check]]></phrase>
-  <phrase title="admin_navigation.forceAgreementPrivacy" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Force privacy policy agreement]]></phrase>
-  <phrase title="admin_navigation.forceAgreementTerms" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Force terms and rules agreement]]></phrase>
+  <phrase title="admin_navigation.forceAgreementPrivacy" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[プライバシー ポリシーの同意を強制する]]></phrase>
+  <phrase title="admin_navigation.forceAgreementTerms" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[規約と規則の同意を強制する]]></phrase>
   <phrase title="admin_navigation.forumNodePermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Node permissions]]></phrase>
   <phrase title="admin_navigation.forums" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[フォーラム]]></phrase>
   <phrase title="admin_navigation.groupsAndPermissions" addon_id="XF" version_id="2000170" version_string="2.0.1"><![CDATA[Groups &amp; permissions]]></phrase>
@@ -1244,9 +1244,9 @@ To support recurring billing and automatically reversing purchases when a paymen
   <phrase title="buttons_menus_may_not_be_duplicated" addon_id="XF" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Buttons and menus may not be duplicated.]]></phrase>
   <phrase title="buttons_visible" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Buttons visible]]></phrase>
   <phrase title="by" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[By]]></phrase>
-  <phrase title="by_registering_you_agree_to_our_privacy_policy" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[I agree to the <a href="{privacy}" target="_blank">privacy policy</a>.]]></phrase>
-  <phrase title="by_registering_you_agree_to_our_terms_and_privacy_policy" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[I agree to the <a href="{tos}" target="_blank">terms</a> and <a href="{privacy}" target="_blank">privacy policy</a>.]]></phrase>
-  <phrase title="by_registering_you_agree_to_our_terms_and_rules" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[I agree to the <a href="{tos}" target="_blank">terms and rules</a>.]]></phrase>
+  <phrase title="by_registering_you_agree_to_our_privacy_policy" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[<a href="{privacy}" target="_blank">プライバシー ポリシー</a>に同意します。]]></phrase>
+  <phrase title="by_registering_you_agree_to_our_terms_and_privacy_policy" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[<a href="{tos}" target="_blank">利用規約</a>と<a href="{privacy}" target="_blank">プライバシー ポリシー</a>に同意します。]]></phrase>
+  <phrase title="by_registering_you_agree_to_our_terms_and_rules" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[<a href="{tos}" target="_blank">利用規約</a>に同意します。]]></phrase>
   <phrase title="by_url" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[By URL]]></phrase>
   <phrase title="by_user_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[By {name}]]></phrase>
   <phrase title="bypass_all_https_requests" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Bypass all HTTPS requests]]></phrase>
@@ -1276,7 +1276,7 @@ To support recurring billing and automatically reversing purchases when a paymen
   <phrase title="cannot_verify_that_your_key_x_is_valid" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Cannot verify that your {keyName} is valid. Please check and try again.]]></phrase>
   <phrase title="cannot_view_template_modifications_of_this_type" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cannot view template modifications of this type]]></phrase>
   <phrase title="captcha" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[CAPTCHA]]></phrase>
-  <phrase title="captcha_privacy_policy" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[CAPTCHA privacy policy]]></phrase>
+  <phrase title="captcha_privacy_policy" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[CAPTCHA プライバシー ポリシー]]></phrase>
   <phrase title="captcha_question" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[CAPTCHA question]]></phrase>
   <phrase title="captcha_question_answers_explain" addon_id="XF" version_id="1000036" version_string="1.0.0 Beta 6"><![CDATA[You may add as many correct answers as you like. Empty answer fields will be ignored. Answers are not case-sensitive.]]></phrase>
   <phrase title="captcha_questions" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[CAPTCHA questions]]></phrase>
@@ -7743,8 +7743,8 @@ Please download this version from the <a href="https://xenforo.com/customers/" t
   <phrase title="for_length" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[For length]]></phrase>
   <phrase title="for_security_reasons_please_choose_different_password" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[For security reasons please choose a different password.]]></phrase>
   <phrase title="for_time_period" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[For time period]]></phrase>
-  <phrase title="force_privacy_policy_agreement" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Force privacy policy agreement]]></phrase>
-  <phrase title="force_terms_and_rules_agreement" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Force terms and rules agreement]]></phrase>
+  <phrase title="force_privacy_policy_agreement" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[プライバシー ポリシーの同意を強制する]]></phrase>
+  <phrase title="force_terms_and_rules_agreement" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[規約と規則の同意を強制する]]></phrase>
   <phrase title="forgot_your_password" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Forgot your password?]]></phrase>
   <phrase title="format_parameters" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Format parameters]]></phrase>
   <phrase title="formatted" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Formatted]]></phrase>
@@ -7798,7 +7798,7 @@ Please download this version from the <a href="https://xenforo.com/customers/" t
   <phrase title="future_message_handling" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Future message handling]]></phrase>
   <phrase title="gd_jpeg_support_missing" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[The required PHP extension GD was found, but JPEG support is missing. Please ask your host to add support for JPEG images.]]></phrase>
   <phrase title="general_options" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[General options]]></phrase>
-  <phrase title="general_privacy" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[General privacy]]></phrase>
+  <phrase title="general_privacy" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[一般的なプライバシー]]></phrase>
   <phrase title="generate_new_backup_codes" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[Generate new backup codes]]></phrase>
   <phrase title="generated_by" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Generated by]]></phrase>
   <phrase title="get_unmodified_phrases" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Get unmodified phrases]]></phrase>
@@ -7840,75 +7840,75 @@ Please download this version from the <a href="https://xenforo.com/customers/" t
   <phrase title="hard_bounce" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hard bounce]]></phrase>
   <phrase title="hashes_file_for_this_add_on_missing" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The hashes.json file for this add-on is missing so no file health check can be performed.]]></phrase>
   <phrase title="hcaptcha_config_hint" addon_id="XF" version_id="2020570" version_string="2.2.5"><![CDATA[No extra configuration is required for this CAPTCHA. But if you would like additional features, such as difficulty preferences and analytics, you should get your own API keys from <a href="https://www.hcaptcha.com/" target="_blank">https://www.hcaptcha.com/</a> and enter them below.]]></phrase>
-  <phrase title="hcaptcha_privacy_policy" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[<p>This site is protected by hCaptcha and its <a href="https://hcaptcha.com/privacy" target="_blank">privacy policy</a> and <a href="https://hcaptcha.com/terms" target="_blank">terms of service</a> apply.</p>]]></phrase>
+  <phrase title="hcaptcha_privacy_policy" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[<p>このサイトは hCaptcha とその <a href="https://hcaptcha.com/privacy" target="_blank">プライバシー ポリシー</a> および <a href="https://hcaptcha. com/terms" target="_blank">利用規約</a>が適用されます。</p>]]></phrase>
   <phrase title="heading_1" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Heading 1]]></phrase>
   <phrase title="heading_2" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Heading 2]]></phrase>
   <phrase title="heading_3" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Heading 3]]></phrase>
   <phrase title="height" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Height]]></phrase>
   <phrase title="help" addon_id="XF" global_cache="1" version_id="0" version_string=""><![CDATA[Help]]></phrase>
-  <phrase title="help_cookies_description" addon_id="XF" version_id="2001270" version_string="2.0.12"><![CDATA[<p>This page discusses how cookies are used by this site. If you continue to use this site, you are consenting to our use of cookies.</p>
+  <phrase title="help_cookies_description" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[<p>このページでは、このサイトで Cookie がどのように使用されているかについて説明します。このサイトを引き続き使用する場合、Cookie の使用に同意したことになります。</p>
 
-<h3 class="textHeading">What are cookies?</h3>
-<p>Cookies are small text files stored on your computer by your web browser at the request of a site you're viewing. This allows the site you're viewing to remember things about you, such as your preferences and history or to keep you logged in.</p>
+<h3 class="textHeading">Cookie とは?</h3>
+<p>Cookie は、表示しているサイトの要求に応じて、Web ブラウザによってコンピュータに保存される小さなテキスト ファイルです。これにより、閲覧しているサイトは、設定や履歴など、あなたに関する情報を記憶したり、ログイン状態を維持したりできます。</p>
 
-<p>Cookies may be stored on your computer for a short time (such as only while your browser is open) or for an extended period of time, even years. Cookies not set by this site will not be accessible to us.</p>
+<p>Cookie は、短期間 (ブラウザが開いている間のみなど)、または長期間、場合によっては数年間、コンピュータに保存される場合があります。このサイトによって設定されていない Cookie にはアクセスできません。</p>
 
-<h3 class="textHeading">Our cookie usage</h3>
-<p>This site uses cookies for numerous things, including:</p>
+<h3 class="textHeading">Cookie の使用</h3>
+<p>このサイトでは、以下を含む多くの目的で Cookie を使用しています:</p>
 <ul>
-	<li>Registration and maintaining your preferences. This includes ensuring that you can stay logged in and keeping the site in the language or appearance that you requested.</li>
-	<li>Analytics. This allows us to determine how people are using the site and improve it.</li>
-	<li>Advertising cookies (possibly third-party). If this site displays advertising, cookies may be set by the advertisers to determine who has viewed an ad or similar things. These cookies may be set by third parties, in which case this site has no ability to read or write these cookies.</li>
-	<li>Other third-party cookies for things like Facebook or Twitter sharing. These cookies will generally be set by the third-party independently, so this site will have no ability to access them.</li>
+<li>ユーザー設定の登録と維持。これには、ログイン状態を維持できるようにすることや、要求した言語または外観でサイトを維持することが含まれます。</li>
+<li>分析。これにより、人々がサイトをどのように使用しているかを判断し、改善することができます。</li>
+<li>広告 Cookie (おそらくサードパーティ)。このサイトに広告が表示される場合、広告主は Cookie を設定して、誰が広告または類似のものを見たかを判断することがあります。これらの Cookie は第三者によって設定される場合があり、その場合、このサイトはこれらの Cookie を読み書きすることができません。</li>
+<li>Facebook や Twitter の共有などのためのその他のサードパーティ Cookie。これらの Cookie は通常、サードパーティによって個別に設定されるため、このサイトからアクセスすることはできません。</li>
 </ul>
 
-<h3 class="textHeading">Standard cookies we set</h3>
+<h3 class="textHeading">当社が設定する標準 Cookie</h3>
 <p>
-	These are the main cookies we set during normal operation of the software.
+これらは、ソフトウェアの通常の操作中に設定する主な Cookie です。
 </p>
 <ul>
-	<li>
-		<strong>{cookiePrefix}csrf</strong>
-		<ul>
-			<li>Stores a token, unique to you, which is used to verify that the actions you perform on this site were intended to be performed by you.</li>
-		</ul>
-	</li>
-	<li>
-		<strong>{cookiePrefix}session</strong>
-		<ul>
-			<li>Stores the current ID of your session.</li>
-		</ul>
-	</li>
-	<li>
-		<strong>{cookiePrefix}user</strong>
-		<ul>
-			<li>Stores a key, unique to you, which allows us to keep you logged in to the software as you navigate from page to page.</li>
-		</ul>
-	</li>
-</ul>
-
-<h3 class="textHeading">Additional cookies and those set by third parties</h3>
-<p>
-	Additional cookies may be set during the use of the site to remember information as certain actions are being performed, or remembering certain preferences.
-</p>
-<p>
-	Other cookies may be set by third party service providers which may provide information such as tracking anonymously which users are visiting the site, or set by content embedded into some pages, such as YouTube or other media service providers.
-</p>
-
-<h3 class="textHeading">Removing/disabling cookies</h3>
-<p>Managing your cookies and cookie preferences must be done from within your browser's options/preferences. Here is a list of guides on how to do this for popular browser software:</p>
+<li>
+<strong>{cookiePrefix}csrf</strong>
 <ul>
-	<li><a href="https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies" target="_blank">Microsoft Internet Explorer</a></li>
-	<li><a href="https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy" target="_blank">Microsoft Edge</a></li>
-	<li><a href="https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer" target="_blank">Mozilla Firefox</a></li>
-	<li><a href="https://support.google.com/chrome/answer/95647?hl=en" target="_blank">Google Chrome</a></li>
-	<li><a href="https://support.apple.com/en-gb/guide/safari/manage-cookies-and-website-data-sfri11471/mac" target="_blank">Safari for macOS</a></li>
-	<li><a href="https://support.apple.com/en-gb/HT201265" target="_blank">Safari for iOS</a></li>
+<li>あなたに固有のトークンを保存します。このトークンは、このサイトで実行するアクションがあなたによって実行されることを意図したものであることを確認するために使用されます。</li>
+</ul>
+</li>
+<li>
+<strong>{cookiePrefix} セッション</strong>
+<ul>
+<li>セッションの現在の ID を保存します。</li>
+</ul>
+</li>
+<li>
+<strong>{cookiePrefix}ユーザー</strong>
+<ul>
+<li>あなたに固有のキーを保存します。これにより、ページからページへ移動する際に、ソフトウェアへのログイン状態を維持できます。</li>
+</ul>
+</li>
 </ul>
 
-<h3 class="textHeading">More information about cookies</h3>
+<h3 class="textHeading">追加の Cookie およびサードパーティによって設定されたもの</h3>
 <p>
-	To learn more about cookies, and find more information about blocking certain types of cookies, please visit the <a href="https://ico.org.uk/for-the-public/online/cookies/" target="_blank">ICO website Cookies page</a>.
+特定のアクションが実行されているときに情報を記憶したり、特定の設定を記憶したりするために、サイトの使用中に追加の Cookie が設定される場合があります。
+</p>
+<p>
+その他の Cookie は、サイトにアクセスしているユーザーを匿名で追跡するなどの情報を提供するサード パーティのサービス プロバイダーによって設定される場合や、YouTube やその他のメディア サービス プロバイダーなどの一部のページに埋め込まれたコンテンツによって設定される場合があります。
+</p>
+
+<h3 class="textHeading">Cookie の削除/無効化</h3>
+<p>Cookie と Cookie 設定の管理は、ブラウザのオプション/設定から行う必要があります。以下は、一般的なブラウザ ソフトウェアでこれを行う方法に関するガイドのリストです:</p>
+<ul>
+<li><a href="https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies" target="_blank">Microsoft Internet Explorer</a ></li>
+<li><a href="https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy" target="_blank">Microsoft Edge</a></li>
+<li><a href="https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer" target="_blank">Mozilla Firefox</a> </li>
+<li><a href="https://support.google.com/chrome/answer/95647?hl=en" target="_blank">Google Chrome</a></li>
+<li><a href="https://support.apple.com/en-gb/guide/safari/manage-cookies-and-website-data-sfri11471/mac" target="_blank">macOS 用 Safari</a></li>
+<li><a href="https://support.apple.com/en-gb/HT201265" target="_blank">iOS 用 Safari</a></li>
+</ul>
+
+<h3 class="textHeading">Cookie に関する詳細情報</h3>
+<p>
+Cookie の詳細、および特定の種類の Cookie のブロックに関する詳細については、<a href="https://ico.org.uk/for-the-public/online/cookies/" target="_blank">ICO ウェブサイトの Cookie ページ</a>。
 </p>]]></phrase>
   <phrase title="help_page_desc.about" addon_id="" version_id="0" version_string=""><![CDATA[关于本站以及团队的一些信息]]></phrase>
   <phrase title="help_page_desc.awards" addon_id="AddonFlare/AwardSystem" version_id="1000670" version_string="1.0.6"><![CDATA[You can earn awards by carrying out different actions. This page shows a list of the awards that are available.]]></phrase>
@@ -7917,21 +7917,21 @@ Please download this version from the <a href="https://xenforo.com/customers/" t
   <phrase title="help_page_desc.cookies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This page explains how this site uses cookies.]]></phrase>
   <phrase title="help_page_desc.credits" addon_id="" version_id="0" version_string=""><![CDATA[本站目前运行的积分机制]]></phrase>
   <phrase title="help_page_desc.partners" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="help_page_desc.privacy_policy" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[You must accept this policy before using the site.]]></phrase>
+  <phrase title="help_page_desc.privacy_policy" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[サイトを使用する前に、このポリシーに同意する必要があります。]]></phrase>
   <phrase title="help_page_desc.smilies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This shows a full list of the smilies you can insert when posting a message.]]></phrase>
-  <phrase title="help_page_desc.terms" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[You must agree to these terms and rules before using the site.]]></phrase>
+  <phrase title="help_page_desc.terms" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[サイトを使用する前に、これらの条件と規則に同意する必要があります。]]></phrase>
   <phrase title="help_page_desc.trophies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[You can earn trophies by carrying out different actions. This page shows a list of the trophies that are available.]]></phrase>
   <phrase title="help_page_names_must_be_unique" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Help page names must be unique. The specified name is already in use.]]></phrase>
   <phrase title="help_page_title.about" addon_id="" version_id="0" version_string=""><![CDATA[关于我们]]></phrase>
   <phrase title="help_page_title.awards" addon_id="AddonFlare/AwardSystem" version_id="1000570" version_string="1.0.5"><![CDATA[Awards]]></phrase>
   <phrase title="help_page_title.bb_codes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[BB codes]]></phrase>
   <phrase title="help_page_title.content" addon_id="" version_id="0" version_string=""><![CDATA[内容规范]]></phrase>
-  <phrase title="help_page_title.cookies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cookie usage]]></phrase>
+  <phrase title="help_page_title.cookies" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[Cookieの使用]]></phrase>
   <phrase title="help_page_title.credits" addon_id="" version_id="0" version_string=""><![CDATA[积分规则]]></phrase>
   <phrase title="help_page_title.partners" addon_id="" version_id="0" version_string=""><![CDATA[合作伙伴]]></phrase>
-  <phrase title="help_page_title.privacy_policy" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Privacy policy]]></phrase>
+  <phrase title="help_page_title.privacy_policy" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[プライバシーポリシー]]></phrase>
   <phrase title="help_page_title.smilies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Smilies]]></phrase>
-  <phrase title="help_page_title.terms" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Terms and rules]]></phrase>
+  <phrase title="help_page_title.terms" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[規約と条件]]></phrase>
   <phrase title="help_page_title.trophies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Trophies]]></phrase>
   <phrase title="help_pages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Help pages]]></phrase>
   <phrase title="helpful_if_wish_to_translate_language_using_xml_file" addon_id="XF" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[This is helpful if you wish to translate this language using the XML file directly.]]></phrase>
@@ -7954,8 +7954,8 @@ Please download this version from the <a href="https://xenforo.com/customers/" t
   <phrase title="html_email_replacement" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[HTML email replacement]]></phrase>
   <phrase title="html_replacement" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[HTML replacement]]></phrase>
   <phrase title="https_enabled" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[HTTPS enabled]]></phrase>
-  <phrase title="i_have_read_and_accept_your_privacy_policy" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[I have read and accept your <a href="{privacyPolicyUrl}" target="_blank">privacy policy</a>.]]></phrase>
-  <phrase title="i_have_read_and_accept_your_terms_and_rules" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[I have read and accept your <a href="{tosUrl}" target="_blank">terms and rules</a>.]]></phrase>
+  <phrase title="i_have_read_and_accept_your_privacy_policy" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[<a href="{privacyPolicyUrl}" target="_blank">プライバシー ポリシー</a>を読み、同意します。]]></phrase>
+  <phrase title="i_have_read_and_accept_your_terms_and_rules" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[<a href="{tosUrl}" target="_blank">利用規約</a>を読み、同意します。]]></phrase>
   <phrase title="i_have_reviewed_warnings_and_i_still_wish_to_proceed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[I have reviewed the warnings and I still wish to proceed]]></phrase>
   <phrase title="i_have_saved_backup_codes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[I have saved the backup codes]]></phrase>
   <phrase title="icon" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Icon]]></phrase>
@@ -9905,7 +9905,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="no_prefixes_have_been_added_to_this_group_yet" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[No prefixes have been added to this group yet.]]></phrase>
   <phrase title="no_prefixes_have_been_added_yet" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[No prefixes have been added yet.]]></phrase>
   <phrase title="no_previous_version_of_parent_could_be_found" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[No previous version of the parent could be found. Merging is not possible.]]></phrase>
-  <phrase title="no_privacy_policy" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[No privacy policy]]></phrase>
+  <phrase title="no_privacy_policy" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[プライバシーポリシーなし]]></phrase>
   <phrase title="no_promotion_history_meeting_criteria_found" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[No promotion history meeting that criteria can be found.]]></phrase>
   <phrase title="no_promotions_have_been_defined" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[No promotions have been defined.]]></phrase>
   <phrase title="no_prompts_have_been_added_to_this_group_yet" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[No prompts have been added to this group yet]]></phrase>
@@ -9922,7 +9922,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="no_step_configuration_necessary" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[No step configuration necessary.]]></phrase>
   <phrase title="no_template_modifications_have_been_defined_yet" addon_id="XF" version_id="1020034" version_string="1.2.0 Beta 4"><![CDATA[No template modifications have been defined yet.]]></phrase>
   <phrase title="no_template_specified" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[No template specified.]]></phrase>
-  <phrase title="no_terms_and_rules" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[No terms and rules]]></phrase>
+  <phrase title="no_terms_and_rules" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[利用規約なし]]></phrase>
   <phrase title="no_text_decoration" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[No text decoration]]></phrase>
   <phrase title="no_thread_could_be_found_with_id_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[No thread could be found with the ID {thread_id}.]]></phrase>
   <phrase title="no_thread_id_could_be_found_from_that_url" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[No thread ID could be found from that URL.]]></phrase>
@@ -10245,7 +10245,7 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.imageLinkProxyReferrer" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Log image and link proxy referrers for x days:]]></phrase>
   <phrase title="option.imageProxyBypass" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Image proxy bypass]]></phrase>
   <phrase title="option.imageProxyMaxSize" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Image cache max size]]></phrase>
-  <phrase title="option.includeCaptchaPrivacyPolicy" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Include CAPTCHA privacy policy]]></phrase>
+  <phrase title="option.includeCaptchaPrivacyPolicy" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[CAPTCHA プライバシー ポリシーを含める]]></phrase>
   <phrase title="option.includeTitleInUrls" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Include content title in URLs]]></phrase>
   <phrase title="option.indexRoute" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Index page route]]></phrase>
   <phrase title="option.ipInfoUrl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[IP information URL]]></phrase>
@@ -10486,7 +10486,7 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.tagValidation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tag validation]]></phrase>
   <phrase title="option.tckChangeContentOwner_defaultTimeInterval" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Default time interval]]></phrase>
   <phrase title="option.templateHistoryLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Template history length]]></phrase>
-  <phrase title="option.termsLastUpdate" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Terms and rules last update]]></phrase>
+  <phrase title="option.termsLastUpdate" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[利用規約の最終更新]]></phrase>
   <phrase title="option.th_apiKey_uix" addon_id="ThemeHouse/UIX" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[API key]]></phrase>
   <phrase title="option.th_deviantArtUrl_uix" addon_id="ThemeHouse/UIX" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[DeviantArt URL]]></phrase>
   <phrase title="option.th_discordUrl_uix" addon_id="ThemeHouse/UIX" version_id="2000591" version_string="2.0.5 Patch Level 1"><![CDATA[Discord URL]]></phrase>
@@ -10536,8 +10536,8 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.thuix_enableStyleOptions" addon_id="ThemeHouse/UIX" version_id="2001270" version_string="2.0.12"><![CDATA[Enable style options in user preferences]]></phrase>
   <phrase title="option.thuix_userStyleChangeStorage" addon_id="ThemeHouse/UIX" version_id="2001270" version_string="2.0.12"><![CDATA[Remember user style changes]]></phrase>
   <phrase title="option.thusernamecolor_disallowedColors" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Disallowed custom colors]]></phrase>
-  <phrase title="option.tosForceWhitelist" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[Force terms and rules agreement route whitelist]]></phrase>
-  <phrase title="option.tosUrl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Terms and rules URL]]></phrase>
+  <phrase title="option.tosForceWhitelist" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[規約と規則の合意ルートのホワイトリストを強制する]]></phrase>
+  <phrase title="option.tosUrl" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[利用規約リンク]]></phrase>
   <phrase title="option.tsoShowInForumStats" addon_id="Yugensoft/TimeSpentOnline" version_id="2000470" version_string="2.0.5"><![CDATA[Show aggregate members' time online in Forum Statistics]]></phrase>
   <phrase title="option.tsoShowInMemberTooltip" addon_id="Yugensoft/TimeSpentOnline" version_id="2000370" version_string="2.0.3"><![CDATA[Show in Members Tooltip]]></phrase>
   <phrase title="option.tsoShowInMembersList" addon_id="Yugensoft/TimeSpentOnline" version_id="2000070" version_string="2.0.0"><![CDATA[Show in Members List Tab]]></phrase>
@@ -10827,7 +10827,7 @@ This option requires that the specified account is a catch-all account or suppor
 <br />
 <b>Note:</b> Images not requested with HTTPS will always be proxied.]]></phrase>
   <phrase title="option_explain.imageProxyMaxSize" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This is the maximum file size for images that are displayed through the image proxy system. An image larger than this will return a placeholder image instead. You may use 0 to disable the limit.]]></phrase>
-  <phrase title="option_explain.includeCaptchaPrivacyPolicy" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Some CAPTCHA providers may provide their own privacy policy that will be appended to the end of your site's privacy policy. You may wish to disable this if your privacy policy already covers the use of CAPTCHA.]]></phrase>
+  <phrase title="option_explain.includeCaptchaPrivacyPolicy" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[一部の CAPTCHA プロバイダーは、サイトのプライバシー ポリシーの末尾に追加される独自のプライバシー ポリシーを提供している場合があります。プライバシー ポリシーで既に CAPTCHA の使用がカバーされている場合は、これを無効にすることをお勧めします。]]></phrase>
   <phrase title="option_explain.includeTitleInUrls" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[With this disabled, a URL such as /threads/my-thread.128/ would exclude the title and be output as /threads/128/]]></phrase>
   <phrase title="option_explain.indexRoute" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[If you wish to change the default index page of the forums, you may enter the route path here. The route path is the section of the URL to a page after your main forum directory URL, such as forums/ or pages/page-name/. Do not reference a route filter here.]]></phrase>
   <phrase title="option_explain.ipInfoUrl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Specify a URL to be used for requesting more information about an IP address. The URL must include <strong>{ip}</strong>, which will be replaced with the actual IP address.]]></phrase>
@@ -11097,7 +11097,7 @@ Once you have provided a unique path and hit the save button, the directory will
   <phrase title="option_explain.tagValidation" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="option_explain.tckChangeContentOwner_defaultTimeInterval" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[]]></phrase>
   <phrase title="option_explain.templateHistoryLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The number of days to maintain template edit history records. Use 0 to never remove history.]]></phrase>
-  <phrase title="option_explain.termsLastUpdate" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[The Unix time stamp of the last terms and rules update.]]></phrase>
+  <phrase title="option_explain.termsLastUpdate" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[最終利用規約更新の Unix タイム スタンプ。]]></phrase>
   <phrase title="option_explain.th_apiKey_uix" addon_id="ThemeHouse/UIX" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Your ThemeHouse API key. You can find your API key <a href="https://www.themehouse.com/customer/account/api">here</a>.]]></phrase>
   <phrase title="option_explain.th_deviantArtUrl_uix" addon_id="ThemeHouse/UIX" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="option_explain.th_discordUrl_uix" addon_id="ThemeHouse/UIX" version_id="2000591" version_string="2.0.5 Patch Level 1"><![CDATA[]]></phrase>
@@ -11147,8 +11147,8 @@ Once you have provided a unique path and hit the save button, the directory will
   <phrase title="option_explain.thuix_enableStyleOptions" addon_id="ThemeHouse/UIX" version_id="2001270" version_string="2.0.12"><![CDATA[This allows users with the appropriate permissions to override the above settings for collapsed sidebar and collapsed side navigation from their preferences page.]]></phrase>
   <phrase title="option_explain.thuix_userStyleChangeStorage" addon_id="ThemeHouse/UIX" version_id="2001270" version_string="2.0.12"><![CDATA[Select how you would like user style changes (e.g. collapsed sidebar) to be remembered. User session data is deleted after a user has been inactive for 4 hours.]]></phrase>
   <phrase title="option_explain.thusernamecolor_disallowedColors" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Hexadecimal colors without leading # and named colors only. Color ranges are supported. Enter one item per line.]]></phrase>
-  <phrase title="option_explain.tosForceWhitelist" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[If you decide to <a href="admin.php?force-agreement/terms" target="_blank">Force terms and rules agreement</a> then the routes listed here will bypass being redirected to the force agreement page. The route path is the section of the URL to a page after your main forum directory URL, such as forums/ or pages/page-name/. Do not reference a route filter here.]]></phrase>
-  <phrase title="option_explain.tosUrl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This link will be shown in the footer and users will have to agree to the terms and rules during registration.]]></phrase>
+  <phrase title="option_explain.tosForceWhitelist" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[<a href="admin.php?force-agreement/terms" target="_blank">強制的に利用規約に同意する</a>場合、ここにリストされているルートは強制同意ページへのリダイレクトをバイパスします。ルート パスは、メイン フォーラム ディレクトリ URL の後のページへの URL のセクションです (forums/ または pages/page-name/ など)。ここでルート フィルタを参照しないでください。]]></phrase>
+  <phrase title="option_explain.tosUrl" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[このリンクはフッターに表示され、ユーザーは登録時に利用規約に同意する必要があります。]]></phrase>
   <phrase title="option_explain.tsoShowInForumStats" addon_id="Yugensoft/TimeSpentOnline" version_id="2000470" version_string="2.0.5"><![CDATA[]]></phrase>
   <phrase title="option_explain.tsoShowInMemberTooltip" addon_id="Yugensoft/TimeSpentOnline" version_id="2000370" version_string="2.0.3"><![CDATA[]]></phrase>
   <phrase title="option_explain.tsoShowInMembersList" addon_id="Yugensoft/TimeSpentOnline" version_id="2000070" version_string="2.0.0"><![CDATA[]]></phrase>
@@ -12000,9 +12000,9 @@ Callback arguments:
   <phrase title="please_provide_url_of_non_redirect_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Please provide the URL of a non-redirect thread.]]></phrase>
   <phrase title="please_provide_valid_x_xml_file" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Please provide a valid {rootName} XML file.]]></phrase>
   <phrase title="please_provide_valid_xml_file" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Please provide a valid XML file.]]></phrase>
-  <phrase title="please_read_and_accept_our_privacy_policy_before_continuing" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Please read and accept our privacy policy before continuing.]]></phrase>
-  <phrase title="please_read_and_accept_our_terms_and_privacy_policy_before_continuing" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Please read and accept our terms and privacy policy before continuing.]]></phrase>
-  <phrase title="please_read_and_accept_our_terms_and_rules_before_continuing" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Please read and accept our terms and rules before continuing.]]></phrase>
+  <phrase title="please_read_and_accept_our_privacy_policy_before_continuing" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[続行する前に、当社のプライバシー ポリシーを読み、同意してください。]]></phrase>
+  <phrase title="please_read_and_accept_our_terms_and_privacy_policy_before_continuing" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[続行する前に、利用規約とプライバシー ポリシーを読み、同意してください。]]></phrase>
+  <phrase title="please_read_and_accept_our_terms_and_rules_before_continuing" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[続行する前に、利用規約を読んで同意してください。]]></phrase>
   <phrase title="please_review_files" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Please review the files]]></phrase>
   <phrase title="please_review_warnings_and_confirm_you_wish_to_proceed_installing" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Please review the warnings and confirm you wish to proceed installing the following add-on]]></phrase>
   <phrase title="please_review_warnings_and_confirm_you_wish_to_proceed_rebuilding" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Please review the warnings and confirm you wish to proceed rebuilding the following add-on's master data]]></phrase>
@@ -12125,55 +12125,55 @@ Before your content can be posted, please take a few moments to login to your us
   <phrase title="primary_and_sub_navigation_rows" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Primary and sub-navigation rows]]></phrase>
   <phrase title="primary_navigation_row_only" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Primary navigation row only]]></phrase>
   <phrase title="primary_user_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Primary user group]]></phrase>
-  <phrase title="privacy" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Privacy]]></phrase>
-  <phrase title="privacy_options" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Privacy options]]></phrase>
+  <phrase title="privacy" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[プライバシー]]></phrase>
+  <phrase title="privacy_options" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[プライバシー オプション]]></phrase>
   <phrase title="privacy_policy" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Privacy policy]]></phrase>
-  <phrase title="privacy_policy_text" addon_id="XF" version_id="2000632" version_string="2.0.6 Beta 2"><![CDATA[<p>We are {board_title} ("we", "our", "us"). We’re committed to protecting and respecting your privacy. If you have questions about your personal information please <a href="{contactUrl}">contact us</a>.</p>
+  <phrase title="privacy_policy_text" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[<p>私たちは {board_title} (「私たち」、「私たち」、「私たち」) です。私たちはあなたのプライバシーを保護し、尊重することを約束します。あなたの個人情報について質問がある場合は、<a href="{contactUrl} ">お問い合わせください</a>.</p>
 
-<h2>What information we hold about you</h2>
-<p>The type of data that we collect and process includes:</p>
+<h2>私たちがあなたについて保持している情報</h2>
+<p>当社が収集および処理するデータの種類は次のとおりです。</p>
 <ul>
-	<li>Your name or username.</li>
-	<li>Your email address.</li>
-	<li>Your IP address.</li>
+<li>あなたの名前またはユーザー名</li>
+<li>メールアドレス</li>
+<li>あなたの IP アドレス</li>
 </ul>
-<p>Further data may be collected if you choose to share it, such as if you fill out fields on your profile.</p>
-<p>We collect some or all of this information in the following cases:</p>
+<p>プロフィールのフィールドに入力するなど、共有を選択すると、さらにデータが収集される場合があります。</p>
+<p>以下の場合に、この情報の一部またはすべてを収集します:</p>
 <ul>
-	<li>You register as a member on this site.</li>
-	<li>You fill out our contact form.</li>
-	<li>You browse this site. See "Cookie policy" below.</li>
-	<li>You fill out fields on your profile.</li>
-</ul>
-
-<h2>How your personal information is used</h2>
-<p>We may use your personal information in the following ways:</p>
-<ul>
-	<li>For the purposes of making you a registered member of our site, in order for you to contribute content to this site.</li>
-	<li>We may use your email address to inform you of activity on our site.</li>
-	<li>Your IP address is recorded when you perform certain actions on our site. Your IP address is never publicly visible.</li>
+<li>このサイトでメンバーとして登録します。</li>
+<li>お問い合わせフォームに記入してください。</li>
+<li>このサイトを閲覧しています。以下の「Cookie ポリシー」を参照してください。</li>
+<li>プロフィールのフィールドに入力します。</li>
 </ul>
 
-<h2>Other ways we may use your personal information.</h2>
-<p>In addition to notifying you of activity on our site which may be relevant to you, from time to time we may wish to communicate with all members any important information such as newsletters or announcements by email. You can opt-in to or opt-out of such emails in your profile.</p>
-<p>We may collect non-personally identifiable information about you in the course of your interaction with our site. This information may include technical information about the browser or type of device you're using. This information will be used purely for the purposes of analytics and tracking the number of visitors to our site.</p>
+<h2>個人情報の使用方法</h2>
+<p>私たちはあなたの個人情報を以下の方法で使用することがあります:</p>
+<ul>
+<li>このサイトにコンテンツを提供するために、あなたを当サイトの登録メンバーにするため。</li>
+<li>お客様のメール アドレスを使用して、サイトでのアクティビティをお知らせする場合があります。</li>
+<li>当サイトで特定のアクションを実行すると、IP アドレスが記録されます。IP アドレスが公開されることはありません。</li>
+</ul>
 
-<h2>Keeping your data secure</h2>
-<p>We are committed to ensuring that any information you provide to us is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable measures and procedures to safeguard and secure the information that we collect.</p>
+<h2>当社がお客様の個人情報を使用するその他の方法</h2>
+<p>あなたに関連する可能性のある私たちのサイトでの活動をあなたに通知することに加えて、時折、すべてのメンバーにニュースレターやお知らせなどの重要な情報を電子メールで伝えたいと思うことがあります.あなたはオプトインするか、プロフィールでそのようなメールをオプトアウトしてください。</p>
+<p>当社は、お客様が当社のサイトを操作する過程で、個人を特定できない情報を収集する場合があります。この情報には、使用しているブラウザまたはデバイスの種類に関する技術情報が含まれる場合があります。この情報は、次の目的のみに使用されます。分析とサイトへの訪問者数の追跡。</p>
 
-<h2>Cookie policy</h2>
-<p>Cookies are small text files which are set by us on your computer which allow us to provide certain functionality on our site, such as being able to log in, or remembering certain preferences.</p>
-<p>We have a detailed cookie policy and more information about the cookies that we set on <a href="{cookieHelp}">this page</a>.</p>
+<h2>データを安全に保つ</h2>
+<p>私たちは、あなたが私たちに提供するすべての情報が安全であることを保証することを約束します.不正なアクセスや開示を防ぐために、私たちは収集した情報を保護および保護するための適切な手段と手順を導入しています.</p>
 
-<h2>Rights</h2>
-<p>You have a right to access the personal data we hold about you or obtain a copy of it. To do so please <a href="{contactUrl}">contact us</a>. If you believe that the information we hold for you is incomplete or inaccurate, you may <a href="{contactUrl}">contact us</a> to ask us to complete or correct that information.</p>
-<p>You also have the right to request the erasure of your personal data. Please <a href="{contactUrl}">contact us</a> if you would like us to remove your personal data.</p>
+<h2>クッキー ポリシー</h2>
+<p>Cookie は、当社がお客様のコンピューターに設定する小さなテキスト ファイルであり、ログインや特定の設定の記憶など、当社のサイトで特定の機能を提供できるようにします。</p>
+<p>詳細な Cookie ポリシーと、<a href="{cookieHelp}">このページ</a>に設定する Cookie に関する詳細情報があります。</p>
 
-<h2>Acceptance of this policy</h2>
-<p>Continued use of our site signifies your acceptance of this policy. If you do not accept the policy then please do not use this site. When registering we will further request your explicit acceptance of the privacy policy.</p>
+<h2>権利</h2>
+<p>あなたには、私たちが保持しているあなたの個人データにアクセスしたり、そのコピーを取得したりする権利があります。そのためには、<a href="{contactUrl}">私たちに連絡</a>してください。が不完全または不正確であると判断した場合は、<a href="{contactUrl}">ご連絡</a>して、その情報を完全または修正するよう依頼してください。</p>
+<p>また、個人データの消去を要求する権利もあります。個人データの削除を希望する場合は、<a href="{contactUrl}">お問い合わせ</a>ください。</p>
 
-<h2>Changes to this policy</h2>
-<p>We may make changes to this policy at any time. You may be asked to review and re-accept the information in this policy if it changes in the future.</p>]]></phrase>
+<h2>このポリシーの承認</h2>
+<p>当社のサイトを継続して使用すると、このポリシーに同意したことになります。ポリシーに同意しない場合は、このサイトを使用しないでください。登録時に、プライバシー ポリシーへの明示的な同意をさらに求めます。</p>
+
+<h2>このポリシーの変更</h2>
+<p>このポリシーはいつでも変更される可能性があります。将来、このポリシーが変更された場合は、このポリシーの情報を確認して再同意するよう求められる場合があります。</p>]]></phrase>
   <phrase title="private" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Private]]></phrase>
   <phrase title="private_category" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Private category]]></phrase>
   <phrase title="private_category_hint" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[If selected, users will only be able to view this category if they are explicitly granted permissions.]]></phrase>
@@ -15275,22 +15275,23 @@ Use the following code in your "message_macros" template:<br>
   <phrase title="templates" addon_id="XF" version_id="0" version_string=""><![CDATA[Templates]]></phrase>
   <phrase title="templates_in_this_style_can_not_be_modified" addon_id="XF" version_id="0" version_string=""><![CDATA[Templates in this style can not be modified. Please try another.]]></phrase>
   <phrase title="temporary" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Temporary]]></phrase>
-  <phrase title="terms_and_rules" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Terms and rules]]></phrase>
-  <phrase title="terms_rules_text" addon_id="XF" version_id="2000632" version_string="2.0.6 Beta 2"><![CDATA[<p>The providers ("we", "us", "our") of the service provided by this web site ("Service") are not responsible for any user-generated content and accounts. Content submitted express the views of their author only.</p>
-
-<p>This Service is only available to users who are at least {age} years old. If you are younger than this, please do not register for this Service. If you register for this Service, you represent that you are this age or older.</p>
-
-<p>All content you submit, upload, or otherwise make available to the Service ("Content") may be reviewed by staff members. All Content you submit or upload may be sent to third-party verification services (including, but not limited to, spam prevention services). Do not submit any Content that you consider to be private or confidential.</p>
-
-<p>You agree to not use the Service to submit or link to any Content which is defamatory, abusive, hateful, threatening, spam or spam-like, likely to offend, contains adult or objectionable content, contains personal information of others, risks copyright infringement, encourages unlawful activity, or otherwise violates any laws. You are entirely responsible for the content of, and any harm resulting from, that Content or your conduct.</p>
-
-<p>We may remove or modify any Content submitted at any time, with or without cause, with or without notice. Requests for Content to be removed or modified will be undertaken only at our discretion. We may terminate your access to all or any part of the Service at any time, with or without cause, with or without notice.</p>
-
-<p>You are granting us with a non-exclusive, permanent, irrevocable, unlimited license to use, publish, or re-publish your Content in connection with the Service. You retain copyright over the Content.</p>
-
-<p>These terms may be changed at any time without notice.</p>
-
-<p>If you do not agree with these terms, please do not register or use the Service. Use of the Service constitutes acceptance of these terms. If you wish to close your account, please <a href="{contactUrl}">contact us</a>.</p>]]></phrase>
+  <phrase title="terms_and_rules" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[利用規約]]></phrase>
+  <phrase title="terms_rules_text" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[<h2>このサイトにアクセスして使用する前に、必ず次の規則を読み、同意してください:</h2>
+<ol>
+<li>中華人民共和国および勤務先地域の関連法規を遵守する。 </li>
+<li>国家安全保障を危険にさらす政治的、わいせつ、宗教的、迷信的、違法な情報をこのサイトで公開しないでください。 </li>
+<li>ウイルス、バックドアなどを含む有害で危険なコンテンツをこのサイトにアップロードして公開しないでください。 </li>
+<li>インターネット文明と倫理を遵守し、コミュニティの交流に整然と参加し、お互いを尊重し、調和のとれたコミュニケーションをとります。 </li>
+<li>管理者とモデレーターは、フォーラムのコンテンツを保持または削除する権利と、すべての管理者権限を持っています。 </li>
+<li>投稿するコンテンツ、行動、およびその結果として生じる影響については、ユーザーが単独で責任を負うものとします。 </li>
+<li>このサイトは、ネットワーク攻撃、ウイルスの侵入、または政府の規制などの不可抗力による損失について責任を負いません。 </li>
+</ol>
+<h2>上記の基本用語に加えて、次の点にも注意する必要があります:</h2>
+<p>このウェブサイトのポイントは、娯楽とインセンティブのみを目的としており、取引は禁止されており、実際の富とは何の関係もありません。また、取引クレジットのリクエストも受け付けません。 </p>
+<p>このサイトの管理チームは、フォーラムから有害なコンテンツを削除するために最善を尽くしますが、すべての情報がタイムリーに確認および処理されることを保証することはできません。そのため、上映内容の信憑性・信頼性には十分ご注意ください。また、このサイトのすべてのコンテンツは発行者の個人的な見解を表しており、MineBBS フォーラムとは何の関係もありません。 </p>
+<p>MineBBS 管理チームは、理由の如何を問わず、トピックおよびリソースを削除、編集、移動、および閉鎖する権利を留保します。 MineBBS は、この条項の最終的な解釈の権利を留保します。 </p>
+<時>
+<p>これらの条件に同意しない場合は、このサイトを登録または使用しないでください。サービスの使用は、これらの条件の受諾を構成します。アカウントをキャンセルしたい場合は、<a href="{contactUrl}">お問い合わせ</a>ください。 </p>]]></phrase>
   <phrase title="terrible" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Terrible]]></phrase>
   <phrase title="test" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Test]]></phrase>
   <phrase title="test_activity_summary_email_sent_to_x_successfully" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Test activity summary email sent to {email} successfully.]]></phrase>
@@ -17852,7 +17853,7 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="you_cannot_start_conversation_with_yourself" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[You cannot start a conversation with yourself.]]></phrase>
   <phrase title="you_did_not_grant_permission_to_access_connected_account" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unfortunately, you did not grant permission to access your connected account. This is required to continue.]]></phrase>
   <phrase title="you_do_not_currently_have_privacy_policy_url" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[You do not currently have a privacy policy URL.]]></phrase>
-  <phrase title="you_do_not_currently_have_terms_and_rules_url" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[You do not currently have a terms and rules URL.]]></phrase>
+  <phrase title="you_do_not_currently_have_terms_and_rules_url" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[現在、利用規約の URL はありません。]]></phrase>
   <phrase title="you_do_not_have_any_recent_alerts" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[You do not have any recent alerts.]]></phrase>
   <phrase title="you_have_already_bookmarked_this_content" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[You have already bookmarked this content.]]></phrase>
   <phrase title="you_have_been_awarded_a_trophy_x" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[You have been awarded a trophy: {trophy}]]></phrase>

@@ -29,7 +29,7 @@
   <phrase title="account_details" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[账户详情]]></phrase>
   <phrase title="account_upgrade" addon_id="XF" version_id="2020270" version_string="2.2.2"><![CDATA[兑换VIP]]></phrase>
   <phrase title="account_upgrades" addon_id="XF" version_id="2020270" version_string="2.2.2"><![CDATA[兑换VIP]]></phrase>
-  <phrase title="account_upgrades_cannot_be_purchased_account_unconfirmed" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[帐户未验证时，无法兑换帐户升级。]]></phrase>
+  <phrase title="account_upgrades_cannot_be_purchased_account_unconfirmed" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[在您的帐户未确认时无法兑换VIP。]]></phrase>
   <phrase title="action" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[操作]]></phrase>
   <phrase title="action_available_via_post_only" addon_id="XF" version_id="2010670" version_string="2.1.6"><![CDATA[此操作只可通过 POST 提交，请按后退按钮再试一次。]]></phrase>
   <phrase title="action_completed_successfully" addon_id="XF" version_id="2010670" version_string="2.1.6"><![CDATA[操作成功完成！]]></phrase>
@@ -196,7 +196,7 @@
   <phrase title="add_widget_position" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[添加小工具位置]]></phrase>
   <phrase title="additional_contact" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[其它联系方式]]></phrase>
   <phrase title="additional_user_groups" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[其它用户组]]></phrase>
-  <phrase title="additional_user_groups_explain" addon_id="XF" version_id="2010670" version_string="2.1.6"><![CDATA[在升级期内将用户添加到所选的用户组中。]]></phrase>
+  <phrase title="additional_user_groups_explain" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[在升级处于活动状态时将用户加入选定的用户组中。]]></phrase>
   <phrase title="addon_action_pending_warning" addon_id="XF" version_id="2010670" version_string="2.1.6"><![CDATA[当前一个或多个插件有待处理的操作，并且可能处于不一致状态。 因此，某些功能可能会被阻止并可能发生意外行为。 如果不能尽快处理，请联系插件作者以获得帮助。]]></phrase>
   <phrase title="addon_force_overwrite" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[覆盖现有文件以进行插件重建/升级]]></phrase>
   <phrase title="addon_force_overwrite_hint" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[默认情况下，只会从插件归档中复制更改的文件。 要覆盖所有现有文件，请选中此选项。]]></phrase>
@@ -1541,11 +1541,11 @@ JS代码:
 
 <h2 class="textHeading">资源规范</h2>
 
-<p>资源务必发布至 <a href="https://www.minebbs.com/resources/" target="_blank">资源中心</a>，发布成功后系统将自动创建论坛主题以便用户讨论。</p>
+<p>资源务必发布至<a href="https://www.minebbs.com/resources/" target="_blank">资源中心</a>，发布成功后系统将自动生成讨论贴以便用户反馈讨论。</p>
 <p>资源标题建议形式：资源名称 - 简短描述。</p>
 <p>选择资源分类，确保资源投放于合适的分区；选择资源前缀，便于用户找到指定类型的资源。</p>
-<p>填写简介来对资源简单介绍；在资源描述中撰写资源的详细信息。</p>
-<p>部分资源需要填写版本号、适用平台、语言等预设字段。（字段待完善中）</p>
+<p>填写简介来对资源进行简单介绍；在资源描述中撰写资源的详细信息。</p>
+<p>部分资源需要填写适用版本、适用平台、支持语言等附加信息。（字段待完善中）</p>
 
 <hr>
 
@@ -1553,8 +1553,9 @@ JS代码:
 
 <h2 class="textHeading">相关说明</h2>
 <p>资源发布后会系统会自动以发布者身份在对应版块创建讨论帖。</p>
-<p>主题附件限制为5M/10个，资源文件限制为8M/4个，超过该大小将无法上传，建议使用<b>网盘或外部链接</b>到其他平台。</p>
-<p>我们支持有限的附件扩展名，如遇不支持文件格式建议压缩打包后上传。</p>]]></phrase>
+<p>主题附件限制为8M/12个，资源文件限制为16M/6个，我们更提倡使用<b>外部网盘或链接</b>来提供文件下载。</p>
+<p>我们支持有限的附件扩展名，如遇不支持文件格式建议压缩打包后上传。</p>
+<p>使用其他论坛链接作为下载方式时，请查阅<a href="https://www.minebbs.com/threads/14885/">关于外部论坛下载链接的规定</a></p>]]></phrase>
   <phrase title="content_submitted_displayed_pending_approval" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[您的内容已经提交，等候版主批准之前无法显示。]]></phrase>
   <phrase title="content_template_criteria_explain" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[在响应控制器中指定模板名称]]></phrase>
   <phrase title="content_template_is" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[内容模板为]]></phrase>
@@ -2069,7 +2070,7 @@ JS代码:
   <phrase title="dbtech_shop_added" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[added]]></phrase>
   <phrase title="dbtech_shop_added_to_cart_successfully" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[成功添加至购物车！]]></phrase>
   <phrase title="dbtech_shop_advanced_options" addon_id="DBTech/Shop" version_id="906041270" version_string="6.4.12"><![CDATA[高级选项]]></phrase>
-  <phrase title="dbtech_shop_advanced_settings" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Advanced Settings]]></phrase>
+  <phrase title="dbtech_shop_advanced_settings" addon_id="DBTech/Shop" version_id="906050071" version_string="6.5.0.1"><![CDATA[高级设置]]></phrase>
   <phrase title="dbtech_shop_all_categories" addon_id="DBTech/Shop" version_id="906040970" version_string="6.4.9"><![CDATA[所有分类]]></phrase>
   <phrase title="dbtech_shop_all_categories_or_contextual_category" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[All categories or contextual category]]></phrase>
   <phrase title="dbtech_shop_all_categories_or_contextual_explain" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[If no categories are explicitly selected, this widget will pull from all categories unless used within an item category. In this case, the items will be limited to that category and descendents.]]></phrase>
@@ -3382,9 +3383,9 @@ If this column does not exist on the above table, it will be added.]]></phrase>
   <phrase title="dbtech_shop_shop_name" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Shop Name]]></phrase>
   <phrase title="dbtech_shop_shop_navbar" addon_id="DBTech/Shop" global_cache="1" version_id="6000031" version_string="6.0.0 Beta 1"><![CDATA[Shop]]></phrase>
   <phrase title="dbtech_shop_shop_navigation" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Shop Navigation]]></phrase>
-  <phrase title="dbtech_shop_shop_owner" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Shop Owner
-<dfn>Input the User ID of the person who owns this shop. The owner of a shop can perform advanced actions such as add / remove stock, and also receives 100% of the points spent to their own wallet.<br />
-0 = No owner.</dfn>]]></phrase>
+  <phrase title="dbtech_shop_shop_owner" addon_id="DBTech/Shop" version_id="906050071" version_string="6.5.0.1"><![CDATA[商店所有者
+<dfn>输入拥有这家商店的人的用户 ID。 店主可以执行高级操作，例如添加/删除库存，还可以将 100% 的积分返还到自己的钱包中。<br />
+0 = 没有所有者。</dfn>]]></phrase>
   <phrase title="dbtech_shop_shop_owner_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Shop Owner]]></phrase>
   <phrase title="dbtech_shop_shop_purchase_counts" addon_id="DBTech/Shop" version_id="906010012" version_string="6.1.0 Alpha 2"><![CDATA[Shop purchase counts]]></phrase>
   <phrase title="dbtech_shop_shop_settings" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Shop Settings]]></phrase>
@@ -7730,8 +7731,8 @@ This is the message they left:
   <phrase title="expires_never" addon_id="XF" version_id="2020270" version_string="2.2.2"><![CDATA[过期：永不]]></phrase>
   <phrase title="expires_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[过期 {date}]]></phrase>
   <phrase title="expiry" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[有效期]]></phrase>
-  <phrase title="explain_why_you_report_this_content" addon_id="" version_id="0" version_string=""><![CDATA[在举报前请确定你已充分了解我们<a href="https://www.minebbs.com/threads/_.12386/"><b>关于举报反馈的相关要求</b></a>。<br />
-然后请详细阐释你举报该内容的原理由以便于我们进行判断。
+  <phrase title="explain_why_you_report_this_content" addon_id="" version_id="0" version_string=""><![CDATA[举报前请确定已充分了解我们<a href="https://www.minebbs.com/threads/_.12386/"><b>关于举报反馈的相关要求</b></a>。<br />
+然后详细阐释你举报该内容的理由以便于我们进行判断。
 ]]></phrase>
   <phrase title="explanation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[解释]]></phrase>
   <phrase title="export" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[导出]]></phrase>
@@ -7984,7 +7985,7 @@ This is the message they left:
   <phrase title="heading_3" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[标题 3]]></phrase>
   <phrase title="height" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[高度]]></phrase>
   <phrase title="help" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[帮助]]></phrase>
-  <phrase title="help_cookies_description" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p>此页面介绍本站使用 Cookie 做什么。如果您继续使用本站，则表示同意我们使用 Cookie。</p>
+  <phrase title="help_cookies_description" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[<p>此页面介绍本站使用 Cookie 做什么。如果您继续使用本站，则表示同意我们使用 Cookie。</p>
 
 <h3 class="textHeading">Cookie 是什么</h3>
 <p>Cookie 是由您访问的网站服务器端生成，发送给您的浏览器（例如 Internet Explorer、Firefox），这些小文件储存在您的计算机上。允许您浏览的网站保留访问信息，例如您的偏好设置、历史记录和保持登录状态。</p>
@@ -8008,6 +8009,7 @@ This is the message they left:
 <li><a href="https://support.google.com/chrome/answer/95647?hl=en">Chrome</a></li>
 <li><a href="http://support.apple.com/kb/PH17191">Safari</a></li>
 <li><a href="http://www.opera.com/help/tutorials/security/privacy/">Opera</a></li>
+<li><a href="https://support.microsoft.com/microsoft-edge/%E5%9C%A8-microsoft-edge-%E4%B8%AD%E5%88%A0%E9%99%A4-cookie-63947406-40ac-c3b8-57b9-2a946a29ae09">Edge</a></li>
 </ul>]]></phrase>
   <phrase title="help_page_desc.about" addon_id="" version_id="0" version_string=""><![CDATA[关于本站以及团队的一些信息]]></phrase>
   <phrase title="help_page_desc.awards" addon_id="AddonFlare/AwardSystem" version_id="1000670" version_string="1.0.6"><![CDATA[您可以通过执行不同的操作来获得勋章。此页面显示可用勋章列表。]]></phrase>
@@ -8307,7 +8309,7 @@ Web服务器用户必须可以写入各种目录以从存档进行安装，这�
   <phrase title="kl_em_audio_proxy_log" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[音频代理日志]]></phrase>
   <phrase title="kl_em_available_buttons" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[Available buttons]]></phrase>
   <phrase title="kl_em_background_color" addon_id="KL/EditorManager" version_id="2000070" version_string="2.0.0"><![CDATA[背景色]]></phrase>
-  <phrase title="kl_em_bb_code_b_u_i_s_desc" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Basic text formatting for the wrapped text.]]></phrase>
+  <phrase title="kl_em_bb_code_b_u_i_s_desc" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[换行文本的基本文本格式。]]></phrase>
   <phrase title="kl_em_bb_code_color_font_size_desc" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[用于换行文本的高级文本格式选项。]]></phrase>
   <phrase title="kl_em_bb_code_help_align_example" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[[LEFT]Left-aligned[/LEFT]
 [CENTER]Center-aligned[/CENTER]
@@ -8342,7 +8344,7 @@ Web服务器用户必须可以写入各种目录以从存档进行安装，这�
   <phrase title="kl_em_bb_code_help_strike_example" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[This is [S]struck-through[/S] text.]]></phrase>
   <phrase title="kl_em_bb_code_help_sub_example" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[This is [SUB]subscript[/SUB] text.]]></phrase>
   <phrase title="kl_em_bb_code_help_sup_example" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[This is [SUP]superscript[/SUP] text.]]></phrase>
-  <phrase title="kl_em_bb_code_help_table_advanced_desc" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Advanced table styling.]]></phrase>
+  <phrase title="kl_em_bb_code_help_table_advanced_desc" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[高级表格样式。]]></phrase>
   <phrase title="kl_em_bb_code_help_table_advanced_example" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Option adds additional styling.
 [TABLE=noborder]
 [TR]
@@ -8381,7 +8383,7 @@ Multiple styles can be combined.
 [TD]Content 2[/TD]
 [/TR]
 [/TABLE]]]></phrase>
-  <phrase title="kl_em_bb_code_help_table_advanced_title" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[[TABLE=<span class="block-textHeader-highlight">class</span>] - Tables (Advanced)]]></phrase>
+  <phrase title="kl_em_bb_code_help_table_advanced_title" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[[TABLE=<span class="block-textHeader-highlight">class</span>] - 表格（高级）]]></phrase>
   <phrase title="kl_em_bb_code_help_table_desc" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Special markup to display tables in your content.]]></phrase>
   <phrase title="kl_em_bb_code_help_table_example" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[[TABLE]
 [TR]
@@ -11085,7 +11087,7 @@ JS最近更新（Unix时间），更改后强制刷新 JS缓存，即使不更�
   <phrase title="option_explain.klEMGeneralOptions" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[]]></phrase>
   <phrase title="option_explain.klEMGoogleApiKey" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[If you enter a Google Font API key here, your board will be able to automatically update the google fonts list by itself once a week and provider your users with suggestions when they search for a google font in the BB Code editor.]]></phrase>
   <phrase title="option_explain.klEMHexColor" addon_id="KL/EditorManager" version_id="1010070" version_string="1.1.0"><![CDATA[If enabled, will show a hex color code input, allowing users to chose their own text color.]]></phrase>
-  <phrase title="option_explain.klEMHideControllers" addon_id="KL/EditorManager" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[<strong>This is an advanced option.</strong> It is recommended to only edit it if you know exactly what you're doing. Adding controllers here will not make the hide BB code magically work on non-forum routes, but allows you to add additional controllers from 3rd party add-ons that add functionality to threads where the hide Bb code will not be hidden. One entry per line.]]></phrase>
+  <phrase title="option_explain.klEMHideControllers" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[<strong>这是一个高级选项。</strong>建议您仅在确切知道自己在做什么时才对其进行编辑。 在此处添加控制器不会使隐藏 BB 代码在非论坛路由上神奇地工作，但允许您从第 3 方附加组件添加额外的控制器，这些附加组件将功能添加到不会隐藏隐藏 Bb 代码的线程。 每行一个条目。]]></phrase>
   <phrase title="option_explain.klEMMaxFontSize" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[The maximum font size that can be specified (in pixel). 0 for no limit.]]></phrase>
   <phrase title="option_explain.klEMMinFontSize" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[The minimum font size that can be specified (in pixel).]]></phrase>
   <phrase title="option_explain.klEMProxy" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[通过启用这些选项，您可以代理和缓存通过您自己的服务器发布在消息中的视频和音频，从而允许跟踪点击等。如果您通过 SSL (HTTPS) 运行您的网站，这一点尤其重要。]]></phrase>
@@ -12372,52 +12374,52 @@ Once you have provided a unique path and hit the save button, the directory will
   <phrase title="privacy" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[隐私设置]]></phrase>
   <phrase title="privacy_options" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[隐私选项]]></phrase>
   <phrase title="privacy_policy" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[隐私政策]]></phrase>
-  <phrase title="privacy_policy_text" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[<p>我们是 {board_title} 。我们致力于保护和尊重您的隐私。如果您对您的个人信息有疑问, 请<a href="{contactUrl}">联系我们</a>。</p>
+  <phrase title="privacy_policy_text" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[<p>{board_title}致力于保护和尊重您的个人隐私。如果您对自己的个人信息有任何疑问，请<a href="{contactUrl}">联系我们</a>。</p>
 
-<h2>我们所掌握的关于您的信息</h2>
-<p>我们收集和处理的数据类型包括:</p>
+<h2>我们持有关于您的哪些信息</h2>
+<p>我们收集和处理的数据类型包括：</p>
 <ul>
-  <li>您的姓名或用户名。</li>
-  <li>您的邮箱地址。</li>
-  <li>您的 IP 地址。</li>
+<li>您的姓名或用户名。</li>
+<li>您的电子邮件地址。</li>
+<li>您的 IP 地址。</li>
 </ul>
-<p>如果您选择共享数据, 例如在您的配置文件中填写字段, 则可能会收集到更多资料。</p>
-<p>我们收集以下情况下的部分或全部信息:</p>
+<p>如果您选择共享数据，例如您填写个人资料中的字段，可能会收集更多数据。</p>
+<p>我们会在以下情况下收集部分或全部此类信息：</p>
 <ul>
-  <li>您在本网站上注册为会员。</li>
-  <li>您填写我们的联系表格。</li>
-  <li>您浏览此网站。请参阅下面的 "Cookie 策略 "。</li>
-  <li>您可以在配置文件中填写字段。</li>
+<li>您在此网站上注册为会员。</li>
+<li>您填写我们的联系表。</li>
+<li>您浏览此站点。请参阅下条“Cookie 政策”。</li>
+<li>您填写个人资料中的字段。</li>
 </ul>
 
 <h2>如何使用您的个人信息</h2>
-<p>我们可以通过以下方式使用您的个人信息:</p>
+<p>我们可能会以下列方式使用您的个人信息：</p>
 <ul>
-  <li>为了使您成为我们网站的注册会员, 您可以向本网站投稿。</li>
-  <li>我们可以使用您的邮箱地址通知您活动在我们的网站上。</li>
-  <li>在我们的网站上执行某些操作时, 将记录您的 IP 地址。您的 IP 地址从未公开显示。</li>
+<li>为了使您成为我们网站的注册会员，以便您向该网站贡献内容。</li>
+<li>我们可能会使用您的电子邮件地址来通知您我们网站上的活动。</li>
+<li>当您在我们的网站上执行某些操作时，您的 IP 地址会被记录下来。您的 IP 地址永远不会公开显示。</li>
 </ul>
 
-<h2>其他的方式, 我们可以使用您的个人信息。</h2>
-<p>除了通知您在我们的网站上可能与您相关的活动, 我们可能会不时希望与所有成员交流任何重要信息, 如新闻稿或电子邮件公告。您可以选择或选择退出您的个人资料中的这些电子邮件。</p>
-<p>在您与我们的网站互动过程中, 我们可能会收集您的非个人身份信息。此信息可能包括有关您正在使用的浏览器或设备类型的技术信息。这些信息将纯粹用于分析和跟踪访问我们网站的访问者的数量。</p>
+<h2>我们可能会以其他方式使用您的个人信息。</h2>
+<p>除了通知您我们网站上可能与您相关的活动外，我们可能希望不时通过电子邮件与所有成员沟通任何重要信息，例如时事通讯或公告。您可以在个人资料中选择加入或退出此类电子邮件。</p>
+<p>在您与我们网站互动的过程中，我们可能会收集有关您的非个人身份信息。此信息可能包括有关您正在使用的浏览器或设备类型的技术信息。此信息将仅用于分析和跟踪我们网站的访问者数量。</p>
 
-<h2>保持数据安全</h2>
-<p>我们致力于确保您提供给我们的任何信息都是安全的。为了防止未经授权的访问或披露, 我们已制定适当的措施和程序, 以保障和保障我们收集的资料。</p>
+<h2>确保您的数据安全</h2>
+<p>我们致力于确保您提供给我们的任何信息都是安全的。为了防止未经授权的访问或披露，我们已采取适当的措施和程序来保护和保护我们收集的信息。</p>
 
-<h2>Cookie 策略</h2>
-<p>Cookie 是由我们在您的计算机上设置的小文本文件, 它允许我们在网站上提供某些功能, 例如能够登录或记住某些首选项。</p>
-<p>我们有一个详细的 Cookie 策略和有关我们在本页上设置的 cookie 的更多信息. <a href="{cookieHelp}"></a></p>
+<h2>Cookie 政策</h2>
+<p>Cookie 是我们在您的计算机上设置的小文本文件，它允许我们在我们的网站上提供某些功能，例如能够登录或记住某些偏好。</p>
+<p>我们在<a href="{cookieHelp}">此页面</a>上设置了详细的 cookie 政策和有关 cookie 的更多信息。</p>
 
 <h2>权利</h2>
-<p>您有权访问我们持有的有关您的个人数据或获取它的副本。为此, 请<a href="{contactUrl}">联系我们</a>。如果您认为我们为您保存的信息不完整或不准确, 您可以与我们联系, 要求我们完成或更正这些信息。</p>
-<p>您还有权请求删除您的个人数据。如果您希望我们删除您的个人数据, 请<a href="{contactUrl}">联系我们</a>。</p>
+<p>您有权访问我们持有的关于您的个人数据或获取其副本。为此，请<a href="{contactUrl}">联系我们</a>。如果您认为我们为您保留的信息不完整或不准确，您可以<a href="{contactUrl}">联系我们</a>要求我们完善或更正该信息。</p>
+<p>您还有权要求删除您的个人数据。如果您希望我们删除您的个人数据，请<a href="{contactUrl}">联系我们</a>。</p>
 
-<h2>接受这项政策</h2>
-<p>继续使用我们的网站意味着您接受这一政策。如果您不接受该策略, 请不要使用此网站。注册时, 我们将进一步要求您明确接受隐私政策。</p>
+<h2>接受本政策</h2>
+<p>继续使用我们的网站即表示您接受此政策。如果您不接受该政策，请不要使用本网站。注册时，我们将进一步要求您明确接受隐私政策。</p>
 
-<h2>对此策略的更改</h2>
-<p>我们可以随时对此政策进行更改。如果将来发生更改, 可能会要求您审阅并重新接受此策略中的信息。</p>]]></phrase>
+<h2>本政策的变更</h2>
+<p>我们可能随时更改此政策。如果将来发生变化，您可能会被要求查看并重新接受本政策中的信息。</p>]]></phrase>
   <phrase title="private" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[私密论坛]]></phrase>
   <phrase title="private_category" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[私人分类]]></phrase>
   <phrase title="private_category_hint" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[如果选取此项，只有已授权的会员能浏览此分类。]]></phrase>
@@ -12619,7 +12621,7 @@ Once you have provided a unique path and hit the save button, the directory will
 <strong>注意：</strong> 启用后，所有使用此付款方式的升级资格必须支持自动续费。]]></phrase>
   <phrase title="reddit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Reddit]]></phrase>
   <phrase title="redirect" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[跳转]]></phrase>
-  <phrase title="redirect_changes_saved_successfully" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[您的更改已保存。]]></phrase>
+  <phrase title="redirect_changes_saved_successfully" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[你的修改已被保存。]]></phrase>
   <phrase title="redirection_notice" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[重定向提醒]]></phrase>
   <phrase title="redis_clients" addon_id="SV/RedisCache" version_id="20110302" version_string="2.11.3"><![CDATA[连接的客户端]]></phrase>
   <phrase title="redis_db_x_avg_ttl" addon_id="SV/RedisCache" version_id="20110302" version_string="2.11.3"><![CDATA[DB {database} 平均 TTL]]></phrase>
@@ -14854,7 +14856,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="style_prop.textColorMuted" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[弱文本颜色]]></phrase>
   <phrase title="style_prop.th_backgroundSelector_nodes" addon_id="ThemeHouse/Nodes" version_id="1000791" version_string="1.0.7 Patch Level 1"><![CDATA[背景选择器]]></phrase>
   <phrase title="style_prop.th_enableGrid_nodes" addon_id="ThemeHouse/Nodes" version_id="1000791" version_string="1.0.7 Patch Level 1"><![CDATA[使网格节点]]></phrase>
-  <phrase title="style_prop.th_enableGrid_nodes_advanced" addon_id="ThemeHouse/Nodes" version_id="1010092" version_string="1.1.0 Patch Level 2"><![CDATA[Use advanced node grid]]></phrase>
+  <phrase title="style_prop.th_enableGrid_nodes_advanced" addon_id="ThemeHouse/Nodes" version_id="1010191" version_string="1.1.1 Patch Level 1"><![CDATA[使用高级节点网格]]></phrase>
   <phrase title="style_prop.th_enableNodeFooter_nodes" addon_id="ThemeHouse/Nodes" version_id="1000791" version_string="1.0.7 Patch Level 1"><![CDATA[启用节点页脚]]></phrase>
   <phrase title="style_prop.th_enableStyling_nodes" addon_id="ThemeHouse/Nodes" version_id="1000791" version_string="1.0.7 Patch Level 1"><![CDATA[启用节点样式]]></phrase>
   <phrase title="style_prop.th_imageOverlay" addon_id="ThemeHouse/Nodes" version_id="1000791" version_string="1.0.7 Patch Level 1"><![CDATA[图像覆盖]]></phrase>
@@ -15074,9 +15076,9 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="style_prop_desc.formLabel" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[在全宽度窗体中，左列包含右列控件的 label 标签。]]></phrase>
   <phrase title="style_prop_desc.formLabelWidth" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[请以百分比表示。]]></phrase>
   <phrase title="style_prop_desc.formResponsive" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[当窗口宽度低于此值时，两列布局将折叠成单列版本]]></phrase>
-  <phrase title="style_prop_desc.formRowPaddingHInner" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[该水平内边距将应用于 label 标签的接触边缘并控制各列]]></phrase>
-  <phrase title="style_prop_desc.formRowPaddingHOuter" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[该内边距将应用于表单内容与外部边缘。]]></phrase>
-  <phrase title="style_prop_desc.formRowPaddingV" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[每个表单行在其内容的上方和下方均使用此内边距。]]></phrase>
+  <phrase title="style_prop_desc.formRowPaddingHInner" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[此水平填充应用于标签和控件列的接触边缘]]></phrase>
+  <phrase title="style_prop_desc.formRowPaddingHOuter" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[此填充应用于表单内容的外边缘]]></phrase>
+  <phrase title="style_prop_desc.formRowPaddingV" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[每个表单行在其内容的上方和下方都有此填充]]></phrase>
   <phrase title="style_prop_desc.formSectionHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[有时，表单足够长，可以被划分为各个部分，每个部分由一个元素组成，这些元素使用这些样式规则。]]></phrase>
   <phrase title="style_prop_desc.formSubmitRow" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[在大多数表单的底部是一个包含提交按钮等的栏。]]></phrase>
   <phrase title="style_prop_desc.formSubmitSticky" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[如果选中，较长的表单可能在不可见的情况下将提交按钮附加到窗口底部]]></phrase>
@@ -15228,10 +15230,10 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="style_prop_desc.textColorMuted" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[使用此样式进一步淡化文字]]></phrase>
   <phrase title="style_prop_desc.th_backgroundSelector_nodes" addon_id="ThemeHouse/Nodes" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[This is the selector that should be used to place the background image and color on a node, if selected.]]></phrase>
   <phrase title="style_prop_desc.th_enableGrid_nodes" addon_id="ThemeHouse/Nodes" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[]]></phrase>
-  <phrase title="style_prop_desc.th_enableGrid_nodes_advanced" addon_id="ThemeHouse/Nodes" version_id="1010092" version_string="1.1.0 Patch Level 2"><![CDATA[Note: This enabled more advanced customization, but will use more browser resources to render. Not necessary for most users. If unchecked, The following will not be supported:<br>
-- Element width classes
-- Other helper classes
-- Maximum columns]]></phrase>
+  <phrase title="style_prop_desc.th_enableGrid_nodes_advanced" addon_id="ThemeHouse/Nodes" version_id="1010191" version_string="1.1.1 Patch Level 1"><![CDATA[注意：这启用了更高级的自定义，但会使用更多的浏览器资源来呈现。 大多数用户不需要。 如果未选中，将不支持以下内容：<br>
+- 元素宽度类
+- 其他辅助类
+- 最大列数]]></phrase>
   <phrase title="style_prop_desc.th_enableNodeFooter_nodes" addon_id="ThemeHouse/Nodes" version_id="1000731" version_string="1.0.7 Beta 1"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.th_enableStyling_nodes" addon_id="ThemeHouse/Nodes" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.th_imageOverlay" addon_id="ThemeHouse/Nodes" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[]]></phrase>
@@ -15543,21 +15545,22 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="templates_in_this_style_can_not_be_modified" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[此风格中的模板无法被修改，请修改其他风格。]]></phrase>
   <phrase title="temporary" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[临时]]></phrase>
   <phrase title="terms_and_rules" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[条款和规则]]></phrase>
-  <phrase title="terms_rules_text" addon_id="XF" version_id="2020870" version_string="2.2.8"><![CDATA[<h2>在访问和使用本站前，请务必阅读和接受如下规则：</h2>
+  <phrase title="terms_rules_text" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[<h2>在访问和使用本站前，请务必阅读和接受如下规则：</h2>
 <ol>
-<li>遵守中华人民共和国与所在当地的各项有关法律法规。</li>
+<li>遵守中华人民共和国与所在当地的各项相关法律法规。</li>
 <li>不得在本站发布任何政治、色情、宗教、迷信，以及危害国家安全的非法信息。</li>
 <li>不得在本站上传和发布任何含有病毒、后门等具有危害性和风险性的内容。</li>
-<li>互相尊重，遵守互联网络文明道德，严禁互相恶意攻击, 漫骂。</li>
-<li>承担一切因您的行为而直接或间接导致的民事或刑事法律责任。</li>
+<li>遵守互联网文明道德，有序参与社区互动，互相尊重、和谐交流。</li>
 <li>管理员及版主有权保留或删除论坛中的任意内容，且拥有一切管理权力。</li>
-<li>本站所有内容为用户直接发布，仅代表用户个人观点，任何立场纠纷及版权问题须发布者自行承担，与本站无关。</li>
-<li>由于网络攻击、病毒侵入或政府管制造成的暂时性关闭等影响网络正常运营的不可抗力而造成的损失，本网站均得免责。</li>
+<li>对您所发布内容或您的行为及由此造成的任何影响负全部责任。</li>
+<li>因网络攻击、病毒侵入或政府管制等不可抗力而造成的损失，本站不予负责。</li>
 </ol>
-<h2>除上述条款外，您仍需注意：</h2>
-<p>本网站积分仅为娱乐激励作用，禁止买卖，与现实财富无关。</p>
-<p>我们的管理员和版主会努力将所有有害信息从论坛中清除，但我们无法保证所有的信息都能够得到及时的审核。因此请自行甄别内容可靠性，且本站所有的信息均代表发布者个人观点，与MineBBS无关。</p>
-<p>MineBBS管理团队有权以任何理由删除、编辑、移动和关闭任意主题和资源。MineBBS保留对本条款的最终解释权。</p>]]></phrase>
+<h2>除上述基本条款外，您仍需注意：</h2>
+<p>本网站积分仅为娱乐激励作用，禁止买卖，与现实财富无关。也请勿接受任何交易积分请求。</p>
+<p>本站管理团队会努力将有害内容从论坛中清除，但我们无法保证所有的信息都能够得到及时的审核与处理。因此，请注意甄别内容的真实可靠性。且本站所有的内容均代表发布者个人观点，与MineBBS论坛无关。</p>
+<p>MineBBS管理团队有权以任何理由删除、编辑、移动和关闭任意主题和资源。MineBBS保留对本条款的最终解释权。</p>
+<hr>
+<p>如果您不同意这些条款，请不要注册或使用本站。使用服务即表示接受这些条款。如果您想注销您的帐户，请<a href="{contactUrl}">联系我们</a>。</p>]]></phrase>
   <phrase title="terrible" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[糟糕]]></phrase>
   <phrase title="test" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[测试]]></phrase>
   <phrase title="test_activity_summary_email_sent_to_x_successfully" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[测试活动摘要电子邮件已成功发送到{email}。]]></phrase>
@@ -16053,7 +16056,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="this_link_is_not_usable_by_you" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[您无法使用此链接。]]></phrase>
   <phrase title="this_member_has_not_been_warned" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[此用户没有被警告。]]></phrase>
   <phrase title="this_message_is_awaiting_moderator_approval_and_is_invisible_to_normal" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[此信息等待审核，管理员需要审查后方会显示在公共区域。]]></phrase>
-  <phrase title="this_navigation_customized_your_changes_maintained" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[T此导航条已有定义。当其相关的插件升级时，您的更改将保持不变。]]></phrase>
+  <phrase title="this_navigation_customized_your_changes_maintained" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[此导航条目已被定制。当其关联的附加组件升级时，您的更改将被保留。]]></phrase>
   <phrase title="this_node_type_does_not_support_api_manipulation" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[此节点类型不支持API操作。]]></phrase>
   <phrase title="this_option_must_belong_to_at_least_one_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[选项至少要属于一个分组。]]></phrase>
   <phrase title="this_page_is_only_available_when_development_mode_is_enabled" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[此页面仅在启用开发模式时可用。]]></phrase>
@@ -18277,7 +18280,7 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="your_board_meets_requirements_to_be_installable_progressive_web_app" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[您的站点符合要求，是一个可安装的渐进web应用程序。]]></phrase>
   <phrase title="your_board_must_be_served_over_https_for_progressive_web_app_support" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[您的站点必须通过HTTPS提供渐进式web应用程序支持。]]></phrase>
   <phrase title="your_browser_is_not_able_to_display_this_video" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[您的浏览器无法显示此视频。]]></phrase>
-  <phrase title="your_changes_have_been_saved" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[您的更改已被保存。]]></phrase>
+  <phrase title="your_changes_have_been_saved" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[你的修改已被保存。]]></phrase>
   <phrase title="your_comment_on_xs_profile_post_was_deleted" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[您在 <a href="{link}">{user} 的个人空间</a> 上的评论已被刪除。]]></phrase>
   <phrase title="your_comment_on_xs_profile_post_was_edited" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[您在 <a href="{link}">{user} 的个人空间</a> 上的评论已被编辑。]]></phrase>
   <phrase title="your_comment_will_only_be_visible_to_moderators" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[您的评论将仅对版主可见。]]></phrase>

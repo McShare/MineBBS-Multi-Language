@@ -15219,21 +15219,22 @@ Use the following code in your "message_macros" template:<br>
   <phrase title="templates_in_this_style_can_not_be_modified" addon_id="XF" version_id="0" version_string=""><![CDATA[不能修改此樣式中的範本。請修改其他樣式。]]></phrase>
   <phrase title="temporary" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[臨時]]></phrase>
   <phrase title="terms_and_rules" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[使用條款與網站規範]]></phrase>
-  <phrase title="terms_rules_text" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p>網站（「服務」）之營運方（「我們」）不為所有會員所產出之內容與帳號本身負擔其法律責任。內容所及皆為作者自身立場。</p>
-
-<p>所有發表或上傳的內容可能會由站方人員檢閱。所有發表或上傳的內容可能會發送到第三方驗證服務（包含但不僅限於垃圾訊息預防服務）。請勿發表任何你覺得是隱私或是機密內容。</p>
-
-<p>你同意使用本服務的同時不會發表或連結任何包含以下情形之內容：毀謗、辱罵、憎恨、威脅、惡意灌水、或形同惡意灌水、可能冒犯他人、包含成人或令人反感的內容、他人的隱私資訊、侵犯版權、鼓勵非法活動、或以其他方式違反法律的行為。</p>
-
-<p>我們可刪除或修改任何時間發布的內容，無論是否提供理由、是否事前告知。若提出移除或修改之要求，實行與否我們有其決定權。我們隨時保留對所有帳號採取行動之權利。</p>
-
-<p>你的內容將以 非獨家、永久的、不可撤銷的、無限制的授權 來 使用、發佈、重新發佈 到本服務。而你仍舊擁有內容之版權。</p>
-
-<p>本服務僅為已滿 {age} 歲的會員提供。</p>
-
-<p>本條款可能有所變更且無需主動通知。</p>
-
-<p>若你不同意這些條款，請勿註冊或使用此服務。如果你想要關閉帳號，請與我們聯絡。</p>]]></phrase>
+  <phrase title="terms_rules_text" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[<h2>在訪問和使用本站前，請務必閱讀和接受如下規則：</h2>
+<ol>
+<li>遵守中華人民共和國與所在當地的各項相關法律法規。 </li>
+<li>不得在本站發布任何政治、色情、宗教、迷信，以及危害國家安全的非法信息。 </li>
+<li>不得在本站上傳和發布任何含有病毒、後門等具有危害性和風險性的內容。 </li>
+<li>遵守互聯網文明道德，有序參與社區互動，互相尊重、和諧交流。 </li>
+<li>管理員及版主有權保留或刪除論壇中的任意內容，且擁有一切管理權力。 </li>
+<li>對您所發佈內容或您的行為及由此造成的任何影響負全部責任。 </li>
+<li>因網絡攻擊、病毒侵入或政府管制等不可抗力而造成的損失，本站不予負責。 </li>
+</ol>
+<h2>除上述基本條款外，您仍需注意：</h2>
+<p>本網站積分僅為娛樂激勵作用，禁止買賣，與現實財富無關。也請勿接受任何交易積分請求。 </p>
+<p>本站管理團隊會努力將有害內容從論壇中清除，但我們無法保證所有的信息都能夠得到及時的審核與處理。因此，請注意甄別內容的真實可靠性。且本站所有的內容均代表發布者個人觀點，與MineBBS論壇無關。 </p>
+<p>MineBBS管理團隊有權以任何理由刪除、編輯、移動和關閉任意主題和資源。 MineBBS保留對本條款的最終解釋權。 </p>
+<hr>
+<p>如果您不同意這些條款，請不要註冊或使用本站。使用服務即表示接受這些條款。如果您想註銷您的帳戶，請<a href="{contactUrl}">聯繫我們</a>。 </p>]]></phrase>
   <phrase title="terrible" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[很遭]]></phrase>
   <phrase title="test" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[測試]]></phrase>
   <phrase title="test_activity_summary_email_sent_to_x_successfully" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Test activity summary email sent to {email} successfully.]]></phrase>

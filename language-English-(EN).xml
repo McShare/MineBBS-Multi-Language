@@ -15317,17 +15317,22 @@ Use the following code in your "message_macros" template:<br>
   <phrase title="templates_in_this_style_can_not_be_modified" addon_id="XF" version_id="0" version_string=""><![CDATA[Templates in this style can not be modified. Please try another.]]></phrase>
   <phrase title="temporary" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Temporary]]></phrase>
   <phrase title="terms_and_rules" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Terms and rules]]></phrase>
-  <phrase title="terms_rules_text" addon_id="XF" version_id="2020270" version_string="2.2.2"><![CDATA[<p>1. Abide by the relevant laws and regulations of the people's Republic of China and local. </p>
-<p>2. It is not allowed to publish any pornographic, illegal and harmful remarks on this website. </p>
-<p>3. It is strictly forbidden to link illegal information such as politics, pornography, religion and superstition. </p>
-<p>4. Bear all the civil or criminal liabilities directly or indirectly caused by your behavior. </p>
-<p>5. Respect each other, abide by Internet ethics, and prohibit malicious attacks and abuse. </p>
-<p>6. Administrators and moderators have the right to retain or delete any content in the forum, and have all management rights. </p>
-<p>7. The content published on this website is directly published by the users of this website, which only represents the user's personal views. Any disputes and copyright issues arising from the user's views and positions shall be borne by the publisher. </p>
-<p>8. This website shall be exempted from any loss caused by force majeure affecting the normal operation of the network, such as Internet attack, computer virus invasion or temporary shutdown caused by government regulation. </p>
-<p>9. This site points only for entertainment virtual role, prohibit trading, has nothing to do with real wealth. </p>
-<p>Although our administrators and moderators will try their best to remove all harmful information from the forum, we can't audit all the information. All the information represents the author's personal views and can't represent the "forum operator". </p>
-<p>The owner of the website has the right to delete, edit, move and close any topic for any reason. Minebbs reserves the right of final interpretation of all terms. </p>]]></phrase>
+  <phrase title="terms_rules_text" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[<h2>Before visiting and using this site, please be sure to read and accept the following rules:</h2>
+<ol>
+<li>Comply with the relevant laws and regulations of the People's Republic of China and the local area where you are located. </li>
+<li>Do not publish any political, pornographic, religious, superstitious, and illegal information that endangers national security on this site. </li>
+<li>Do not upload and publish any harmful and risky content containing viruses, backdoors, etc. on this site. </li>
+<li>Abiding by Internet civilization and ethics, orderly participate in community interaction, respect each other, and communicate harmoniously. </li>
+<li>Administrators and moderators have the right to retain or delete any content in the forum, and have all administrative rights. </li>
+<li>You are solely responsible for the content you post or your actions and any resulting impact. </li>
+<li>This site is not responsible for losses caused by force majeure such as network attacks, virus intrusions, or government regulations. </li>
+</ol>
+<h2>In addition to the above basic terms, you still need to pay attention to:</h2>
+<p>The points on this website are only for entertainment and incentives, trading is prohibited, and have nothing to do with real wealth. Also do not accept any transaction credit requests. </p>
+<p>The management team of this site will try its best to remove harmful content from the forum, but we cannot guarantee that all information can be reviewed and processed in a timely manner. Therefore, please pay attention to the authenticity and reliability of the screening content. And all content on this site represents the personal views of the publisher, and has nothing to do with the MineBBS forum. </p>
+<p>MineBBS management team reserves the right to delete, edit, move and close any topics and resources for any reason. MineBBS reserves the right of final interpretation of this clause. </p>
+<hr>
+<p>If you do not agree to these terms, please do not register or use this site. Use of the Services constitutes acceptance of these terms. If you would like to cancel your account, please <a href="{contactUrl}">contact us</a>. </p>]]></phrase>
   <phrase title="terrible" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Terrible]]></phrase>
   <phrase title="test" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Test]]></phrase>
   <phrase title="test_activity_summary_email_sent_to_x_successfully" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Test activity summary email sent to {email} successfully.]]></phrase>
