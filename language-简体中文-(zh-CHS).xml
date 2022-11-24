@@ -281,7 +281,7 @@
   <phrase title="admin_navigation.emFonts" addon_id="KL/EditorManager" version_id="2000070" version_string="2.0.0"><![CDATA[字体]]></phrase>
   <phrase title="admin_navigation.emLayout" addon_id="KL/EditorManager" version_id="1010070" version_string="1.1.0"><![CDATA[Toolbar layout]]></phrase>
   <phrase title="admin_navigation.emOptions" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[选项]]></phrase>
-  <phrase title="admin_navigation.emTemplates" addon_id="KL/EditorManager" version_id="1010070" version_string="1.1.0"><![CDATA[Public templates]]></phrase>
+  <phrase title="admin_navigation.emTemplates" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[公共模板]]></phrase>
   <phrase title="admin_navigation.emailBounceLog" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[电子邮件恢复日志]]></phrase>
   <phrase title="admin_navigation.emailUsers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[发邮件给用户]]></phrase>
   <phrase title="admin_navigation.executionManipulation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[执行操作]]></phrase>
@@ -2416,15 +2416,15 @@ Note: Heavily customised skins may render parts of this setting unusable.</dfn>]
   <phrase title="dbtech_shop_custom_by_icongroup" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Custom Position]]></phrase>
   <phrase title="dbtech_shop_custom_field" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[]]></phrase>
   <phrase title="dbtech_shop_custom_icon" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Custom Icon]]></phrase>
-  <phrase title="dbtech_shop_custom_icon_group" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Custom Icon Group
-<dfn>This allows you to group different Custom Icon items together into separate display locations.<br />
-For instance, entering "pets" here and choosing "Custom Location" for all icons belonging to that group will allow you to place <strong>{vb:raw template_hook.dbtech_shop_icongroup_pets}</strong> in the <i>postbit</i> and/or <i>postbit_legacy</i> template to position your icons.<br />
+  <phrase title="dbtech_shop_custom_icon_group" addon_id="DBTech/Shop" version_id="906050071" version_string="6.5.0.1"><![CDATA[自定义图标组
+<dfn>这允许您将不同的自定义图标项目组合到单独的显示位置。<br />
+例如，在此处输入“宠物”并为属于该组的所有图标选择“自定义位置”将允许您将 <strong>{vb:raw template_hook.dbtech_shop_icongroup_pets}</strong> 放置在 <i>postbit</i > 和/或 <i>postbit_legacy</i> 模板来定位您的图标。<br />
 <br />
-The value of this field should be all lower case, and only letters, numbers, underscore and dashes.</dfn>]]></phrase>
+该字段的值应全部小写，并且只能是字母、数字、下划线和破折号。</dfn>]]></phrase>
   <phrase title="dbtech_shop_custom_icon_limit" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Icon Limit
 <dfn>If this item is not set to Unique, you can use this to limit the amount of icons displayed for this particular item.</dfn>]]></phrase>
-  <phrase title="dbtech_shop_custom_icon_position" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Custom Icon Position
-<dfn>Choose an existing template hook for this icon to show up in, or add it to a custom icon group via the below setting and choose "Custom Location" in this drop-down.</dfn>]]></phrase>
+  <phrase title="dbtech_shop_custom_icon_position" addon_id="DBTech/Shop" version_id="906050071" version_string="6.5.0.1"><![CDATA[自定义图标位置
+<dfn>为此图标选择一个现有的模板挂钩以显示，或通过以下设置将其添加到自定义图标组并在此下拉列表中选择“自定义位置”。</dfn>]]></phrase>
   <phrase title="dbtech_shop_custom_item_moderation" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Custom Item Moderation]]></phrase>
   <phrase title="dbtech_shop_custom_item_moderation_descr" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Below, you can moderate any custom items that your members have created for their custom shops.]]></phrase>
   <phrase title="dbtech_shop_custom_shops" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Custom Shops]]></phrase>
@@ -2952,7 +2952,7 @@ Message: {message}]]></phrase>
   <phrase title="dbtech_shop_lottery_frequency" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Lottery Frequency
 <dfn>Choose how often the lottery will draw</dfn>]]></phrase>
   <phrase title="dbtech_shop_lottery_info" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Lottery Info]]></phrase>
-  <phrase title="dbtech_shop_lottery_is_active" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Lottery is active]]></phrase>
+  <phrase title="dbtech_shop_lottery_is_active" addon_id="DBTech/Shop" version_id="906050071" version_string="6.5.0.1"><![CDATA[彩票已激活]]></phrase>
   <phrase title="dbtech_shop_lottery_liteinfo" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Your lottery will be created with 6 numbers all with a range 1-25. Your lottery will occur weekly, and the prize can only hand out points.]]></phrase>
   <phrase title="dbtech_shop_lottery_loser" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[You did not win the lottery]]></phrase>
   <phrase title="dbtech_shop_lottery_loser_message" addon_id="DBTech/Shop" version_id="906040970" version_string="6.4.9"><![CDATA[肥肠抱歉，你的没有彩票中奖，祝你下次好运!
@@ -3246,10 +3246,10 @@ If this column does not exist on the above table, it will be added.]]></phrase>
   <phrase title="dbtech_shop_purchase_date" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Purchase date]]></phrase>
   <phrase title="dbtech_shop_purchase_failed" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Purchase Failed.]]></phrase>
   <phrase title="dbtech_shop_purchase_history" addon_id="DBTech/Shop" version_id="906040970" version_string="6.4.9"><![CDATA[事务日志]]></phrase>
-  <phrase title="dbtech_shop_purchase_is_active" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Purchase is active]]></phrase>
+  <phrase title="dbtech_shop_purchase_is_active" addon_id="DBTech/Shop" version_id="906050071" version_string="6.5.0.1"><![CDATA[购买已激活]]></phrase>
   <phrase title="dbtech_shop_purchase_is_gifted" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Purchase has been gifted]]></phrase>
   <phrase title="dbtech_shop_purchase_is_hidden" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Purchase is hidden]]></phrase>
-  <phrase title="dbtech_shop_purchase_is_hidden_hint" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Hidden purchases will still be active, but will not be displayed in profiles or in the postbit.]]></phrase>
+  <phrase title="dbtech_shop_purchase_is_hidden_hint" addon_id="DBTech/Shop" version_id="906050071" version_string="6.5.0.1"><![CDATA[隐藏的购买仍将处于活动状态，但不会显示在个人资料或 postbit 中。]]></phrase>
   <phrase title="dbtech_shop_purchase_is_traded" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Purchase has been traded]]></phrase>
   <phrase title="dbtech_shop_purchase_item_x" addon_id="DBTech/Shop" version_id="906040970" version_string="6.4.9"><![CDATA[购买道具：{item}]]></phrase>
   <phrase title="dbtech_shop_purchase_list" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Inventory List]]></phrase>
@@ -8063,7 +8063,7 @@ This is the message they left:
   <phrase title="icon_indicator" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[指示图标]]></phrase>
   <phrase title="identical_text_collapsed" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[相同的文本已折叠。单击可展开。]]></phrase>
   <phrase title="identities" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[其他身份]]></phrase>
-  <phrase title="if_any_users_have_active_upgrades_recommend_disable" addon_id="XF" version_id="2020670" version_string="2.2.6"><![CDATA[If any users have active upgrades, it is recommended that you disable this upgrade instead of deleting it.]]></phrase>
+  <phrase title="if_any_users_have_active_upgrades_recommend_disable" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[如果任何用户有活动升级，建议您禁用此升级而不是删除它。]]></phrase>
   <phrase title="if_banner_stacking_disabled_staff_only_have_staff_banner" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[标识堆叠禁用时，管理人员将仅显示管理人员标识。如果启用则显示管理人员标识和最高级标识。]]></phrase>
   <phrase title="if_conflict_discovered_while_merging_no_automatic_merging" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[如果试图合并时发现冲突，合并将不会自动完全。您需要手动解决冲突。]]></phrase>
   <phrase title="if_disabled_messages_posted_will_not_contribute_to_user_message_total" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[如果禁用，用户发贴数量将不统计发表在此版块内的帖子。]]></phrase>
@@ -8295,12 +8295,12 @@ Web服务器用户必须可以写入各种目录以从存档进行安装，这�
   <phrase title="key_provided_to_api_via_header" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[应通过<code>XF-Api-Key</code>标头向API请求提供此密钥。]]></phrase>
   <phrase title="key_type" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[密匙类型]]></phrase>
   <phrase title="keywords" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[关键字]]></phrase>
-  <phrase title="kl_em_active" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Active]]></phrase>
+  <phrase title="kl_em_active" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[启用]]></phrase>
   <phrase title="kl_em_add_custom_emote" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[新增自定义表情]]></phrase>
   <phrase title="kl_em_add_dropdown" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[Add dropdown]]></phrase>
   <phrase title="kl_em_add_emote" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Add emote]]></phrase>
   <phrase title="kl_em_add_font" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[Add font]]></phrase>
-  <phrase title="kl_em_add_template" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[Add template]]></phrase>
+  <phrase title="kl_em_add_template" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[添加模板]]></phrase>
   <phrase title="kl_em_aliases" addon_id="KL/EditorManager" version_id="1010070" version_string="1.1.0"><![CDATA[Aliases]]></phrase>
   <phrase title="kl_em_align_justify" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[Align justify]]></phrase>
   <phrase title="kl_em_alternate_rows" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Alternate rows]]></phrase>
@@ -8429,9 +8429,9 @@ Multiple styles can be combined.
   <phrase title="kl_em_dropdown_edit" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[编辑下拉]]></phrase>
   <phrase title="kl_em_edit_custom_emote" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[编辑自定义表情]]></phrase>
   <phrase title="kl_em_edit_font" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[Edit font]]></phrase>
-  <phrase title="kl_em_edit_template" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[Edit template]]></phrase>
+  <phrase title="kl_em_edit_template" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[编辑模板]]></phrase>
   <phrase title="kl_em_editor_manager_bb_codes" addon_id="KL/EditorManager" version_id="1010070" version_string="1.1.0"><![CDATA[Editor Manager BB codes]]></phrase>
-  <phrase title="kl_em_editor_templates" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[Editor templates]]></phrase>
+  <phrase title="kl_em_editor_templates" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[编辑器模板]]></phrase>
   <phrase title="kl_em_emote_prefix_already_taken" addon_id="KL/EditorManager" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[This emote prefix is already taken by another user.]]></phrase>
   <phrase title="kl_em_emote_upload_failed" addon_id="KL/EditorManager" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[Emote upload failed, please try again later.]]></phrase>
   <phrase title="kl_em_enable_charcounter" addon_id="KL/EditorManager" version_id="2000070" version_string="2.0.0"><![CDATA[启用字符计数器]]></phrase>
@@ -8487,9 +8487,9 @@ Multiple styles can be combined.
   <phrase title="kl_em_no_background" addon_id="KL/EditorManager" version_id="2000070" version_string="2.0.0"><![CDATA[无背景]]></phrase>
   <phrase title="kl_em_no_border" addon_id="KL/EditorManager" version_id="2000070" version_string="2.0.0"><![CDATA[无边框]]></phrase>
   <phrase title="kl_em_no_custom_emotes_yet" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[您尚未创建任何自定义表情。]]></phrase>
-  <phrase title="kl_em_no_editor_templates_yet" addon_id="KL/EditorManager" version_id="1030031" version_string="1.3.0 Beta 1"><![CDATA[You have not created any editor templates yet.]]></phrase>
+  <phrase title="kl_em_no_editor_templates_yet" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[您还没有创建任何编辑器模板。]]></phrase>
   <phrase title="kl_em_no_emotes_have_been_added_yet" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[No emotes have been added yet.]]></phrase>
-  <phrase title="kl_em_no_public_templates_yet" addon_id="KL/EditorManager" version_id="1010070" version_string="1.1.0"><![CDATA[There are no public editor templates yet.]]></phrase>
+  <phrase title="kl_em_no_public_templates_yet" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[目前还没有公共编辑器模板。]]></phrase>
   <phrase title="kl_em_not_allowed_to_view_this_content" addon_id="KL/EditorManager" version_id="1020093" version_string="1.2.0 Patch Level 3"><![CDATA[You are not allowed to view this content]]></phrase>
   <phrase title="kl_em_option_debug_mode_only" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[This option is visible in debug mode only.]]></phrase>
   <phrase title="kl_em_parse_html" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[解析HTML]]></phrase>
@@ -8512,7 +8512,7 @@ Multiple styles can be combined.
   <phrase title="kl_em_smilie_options" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[表情选项]]></phrase>
   <phrase title="kl_em_sort_fonts" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[Sort fonts]]></phrase>
   <phrase title="kl_em_sort_special_chars" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Sort special character categories]]></phrase>
-  <phrase title="kl_em_sort_templates" addon_id="KL/EditorManager" version_id="1000291" version_string="1.0.2 Patch Level 1"><![CDATA[Sort templates]]></phrase>
+  <phrase title="kl_em_sort_templates" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[排序模板]]></phrase>
   <phrase title="kl_em_special_characters" addon_id="KL/EditorManager" version_id="2000070" version_string="2.0.0"><![CDATA[特殊字符]]></phrase>
   <phrase title="kl_em_special_chars" addon_id="KL/EditorManager" version_id="2000070" version_string="2.0.0"><![CDATA[特殊字符]]></phrase>
   <phrase title="kl_em_special_chars_add" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Add category]]></phrase>
@@ -11188,13 +11188,13 @@ JS最近更新（Unix时间），更改后强制刷新 JS缓存，即使不更�
   <phrase title="option_explain.siropuAdsManagerAdminEmailNotification" addon_id="Siropu/AdsManager" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[当广告商创建广告时，管理员将收到电子邮件通知。]]></phrase>
   <phrase title="option_explain.siropuAdsManagerAdsPerPage" addon_id="Siropu/AdsManager" version_id="2031370" version_string="2.3.13"><![CDATA[This controls the maximum number of ads that will be shown in ad list.]]></phrase>
   <phrase title="option_explain.siropuAdsManagerAdvertiserUserGroups" addon_id="Siropu/AdsManager" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[This option allows you to add advertisers to custom user groups.]]></phrase>
-  <phrase title="option_explain.siropuAdsManagerAdvertisersPage" addon_id="Siropu/AdsManager" version_id="2000036" version_string="2.0.0-Beta-6"><![CDATA[If enabled, a list with all the active code, banner, text and link ads of the current advertisers will be displayed on a custom page.]]></phrase>
+  <phrase title="option_explain.siropuAdsManagerAdvertisersPage" addon_id="Siropu/AdsManager" version_id="2041270" version_string="2.4.12"><![CDATA[如果启用，包含当前广告商的所有活动代码、横幅、文本和链接广告的列表将显示在自定义页面上。]]></phrase>
   <phrase title="option_explain.siropuAdsManagerAdvertisersWidget" addon_id="Siropu/AdsManager" version_id="2011070" version_string="2.1.1"><![CDATA[If enabled, this option allows you to display a list of your current advertisers.]]></phrase>
   <phrase title="option_explain.siropuAdsManagerAffiliateLinkThreadCustomFields" addon_id="Siropu/AdsManager" version_id="2030770" version_string="2.3.7"><![CDATA[This option allows you to enable affiliate link ads in thread custom fields.]]></phrase>
   <phrase title="option_explain.siropuAdsManagerAllowedBannerTypes" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Select which extensions you want to allow for banner ads.]]></phrase>
   <phrase title="option_explain.siropuAdsManagerAllowedFeaturedResourceCategories" addon_id="Siropu/AdsManager" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Select which categories you allow for featured resources.]]></phrase>
   <phrase title="option_explain.siropuAdsManagerAllowedStickyForums" addon_id="Siropu/AdsManager" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Select which forums you allow for sticky threads.]]></phrase>
-  <phrase title="option_explain.siropuAdsManagerArchiveInactiveAds" addon_id="Siropu/AdsManager" version_id="2000036" version_string="2.0.0-Beta-6"><![CDATA[This option allows you to archive ads that haven't been active in the last x days. Archived ads will have the status "Archived" and won't be visible in the ACP by default.]]></phrase>
+  <phrase title="option_explain.siropuAdsManagerArchiveInactiveAds" addon_id="Siropu/AdsManager" version_id="2041270" version_string="2.4.12"><![CDATA[此选项允许您存档最近 x 天内未激活的广告。 已存档广告的状态为“已存档”，默认情况下不会在 ACP 中显示。]]></phrase>
   <phrase title="option_explain.siropuAdsManagerBannerDirName" addon_id="Siropu/AdsManager" version_id="2040770" version_string="2.4.7"><![CDATA[Some Ad Blockers may block the <b>siropu/am/user</b> path to the <b>data</b> directory on your server, preventing banners from displaying. To fix that problem, you can use this option to change the path from <b>siropu/am/user</b> to something unique (avoid ad related names such as "banners", "ads", etc).
 <br>
 <br>
@@ -11207,7 +11207,7 @@ Once you have provided a unique name and hit the save button, the directory will
   <phrase title="option_explain.siropuAdsManagerDeleteDailyStats" addon_id="Siropu/AdsManager" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[This option allows you to automatically delete ad daily statistics that are older than x days. Set to 0 to disable it.]]></phrase>
   <phrase title="option_explain.siropuAdsManagerDisableLowCtrAds" addon_id="Siropu/AdsManager" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[This option allows you to automatically disable ads with a low CTR (Click-Through Rate) after x days. This option only affects ads created from the admin control panel.]]></phrase>
   <phrase title="option_explain.siropuAdsManagerDisallowedKeywords" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0-Beta-1"><![CDATA[If you don't want advertisers to use certain keywords when creating keyword ads, place them here each on a new row.]]></phrase>
-  <phrase title="option_explain.siropuAdsManagerDisallowedTemplates" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0-Beta-1"><![CDATA[You may want to prevent all ads from showing within certain templates, such as errors or other pages that may be against your ad provider's ToS. List them above.]]></phrase>
+  <phrase title="option_explain.siropuAdsManagerDisallowedTemplates" addon_id="Siropu/AdsManager" version_id="2041270" version_string="2.4.12"><![CDATA[您可能希望阻止所有广告在某些模板中显示，例如可能违反广告提供商服务条款的错误或其他页面。 在上面列出它们。]]></phrase>
   <phrase title="option_explain.siropuAdsManagerDisplayAdExpirationDate" addon_id="Siropu/AdsManager" version_id="2031470" version_string="2.3.14"><![CDATA[If enabled, this will display the expiration date in ad list]]></phrase>
   <phrase title="option_explain.siropuAdsManagerDisplayAdOwner" addon_id="Siropu/AdsManager" version_id="2031470" version_string="2.3.14"><![CDATA[If enabled, this will display the username of the ad owner in ad list.]]></phrase>
   <phrase title="option_explain.siropuAdsManagerEnableCustomThreadFields" addon_id="Siropu/AdsManager" version_id="2030870" version_string="2.3.8"><![CDATA[If enabled, advertisers will be able to set custom fields for their thread, based on the selected forum.]]></phrase>
@@ -11241,7 +11241,7 @@ Once you have provided a unique path and hit the save button, the directory will
   <phrase title="option_explain.siropuAdsManagerMaxUserPromoThreads" addon_id="Siropu/AdsManager" version_id="2030070" version_string="2.3.0"><![CDATA[The maximum number of promo threads a user can purchase per forum.]]></phrase>
   <phrase title="option_explain.siropuAdsManagerMenuLink" addon_id="Siropu/AdsManager" version_id="2041270" version_string="2.4.12"><![CDATA[如果启用，指向广告商部分的链接将显示在用户下拉菜单中，而不是主导航中。]]></phrase>
   <phrase title="option_explain.siropuAdsManagerNodeIdNot" addon_id="Siropu/AdsManager" version_id="2030870" version_string="2.3.8"><![CDATA[This option allows you to globally hide ads in certain nodes, by adding each ID separated by comma.]]></phrase>
-  <phrase title="option_explain.siropuAdsManagerPageInfo" addon_id="Siropu/AdsManager" version_id="2030970" version_string="2.3.9"><![CDATA[If enabled, this will display the controller class, controller action, view class and the content template name of any page (to use in page criteria).]]></phrase>
+  <phrase title="option_explain.siropuAdsManagerPageInfo" addon_id="Siropu/AdsManager" version_id="2041270" version_string="2.4.12"><![CDATA[如果启用，这将显示控制器类、控制器操作、视图类和任何页面的内容模板名称（用于页面标准）。]]></phrase>
   <phrase title="option_explain.siropuAdsManagerPaymentInstructions" addon_id="Siropu/AdsManager" version_id="2041270" version_string="2.4.12"><![CDATA[这允许您在使用替代付款选项时为广告商提供自定义付款说明。]]></phrase>
   <phrase title="option_explain.siropuAdsManagerPaymentProfiles" addon_id="Siropu/AdsManager" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Select which payment profiles you want to use.]]></phrase>
   <phrase title="option_explain.siropuAdsManagerPlaceholderBgColor" addon_id="Siropu/AdsManager" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[The background color of the banner placeholder for the "Advertise Here" package option.]]></phrase>
@@ -11265,7 +11265,7 @@ Once you have provided a unique path and hit the save button, the directory will
   <phrase title="option_explain.siropuAdsManagerViewCountCondition" addon_id="Siropu/AdsManager" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[此选项允许您设置同一访问者对同一广告的浏览计数之间的时间范围。]]></phrase>
   <phrase title="option_explain.siropuAdsManagerViewCountMethod" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[选择用于计算浏览量的方法。]]></phrase>
   <phrase title="option_explain.siropuReferralContestsApplyRefLinkToSocialMedia" addon_id="Siropu/ReferralContests" version_id="2020470" version_string="2.2.4"><![CDATA[This option allows you to transform the links for social media share icons into referral links.]]></phrase>
-  <phrase title="option_explain.siropuReferralContestsContestWidget" addon_id="Siropu/ReferralContests" version_id="2000170" version_string="2.0.1"><![CDATA[This option allows you to toggle on/off the widget that displays the active contests.]]></phrase>
+  <phrase title="option_explain.siropuReferralContestsContestWidget" addon_id="Siropu/ReferralContests" version_id="2020970" version_string="2.2.9"><![CDATA[此选项允许您打开/关闭显示活动比赛的小部件。]]></phrase>
   <phrase title="option_explain.siropuReferralContestsCopyToClipboard" addon_id="Siropu/ReferralContests" version_id="2020970" version_string="2.2.9"><![CDATA[如果启用，用户可以单击按钮复制他们的推广链接。]]></phrase>
   <phrase title="option_explain.siropuReferralContestsCreateInvitations" addon_id="Siropu/ReferralContests" version_id="2020970" version_string="2.2.9"><![CDATA[如果启用，此选项允许用户手动创建可以使用电子邮件以外的方法发送的邀请。]]></phrase>
   <phrase title="option_explain.siropuReferralContestsDisplayReferralCount" addon_id="Siropu/ReferralContests" version_id="2020970" version_string="2.2.9"><![CDATA[如果启用，推广数将显示在会员卡和配置文件。]]></phrase>
@@ -11375,7 +11375,7 @@ Once you have provided a unique path and hit the save button, the directory will
   <phrase title="option_explain.thnodes_customColors" addon_id="ThemeHouse/Nodes" version_id="1000791" version_string="1.0.7 Patch Level 1"><![CDATA[对于高级样式，可以向节点添加一个或多个自定义颜色，这些颜色可以作为CSS变量访问。]]></phrase>
   <phrase title="option_explain.thnodes_openPostThreadInOverlay" addon_id="ThemeHouse/Nodes" version_id="1000791" version_string="1.0.7 Patch Level 1"><![CDATA[如果启用，当用户单击节点网格页脚中的“发帖”图标时，它将以折叠方式打开。否则，用户将被重定向到适当的页面。]]></phrase>
   <phrase title="option_explain.thuix_enableStyleOptions" addon_id="ThemeHouse/UIX" version_id="2001270" version_string="2.0.12"><![CDATA[This allows users with the appropriate permissions to override the above settings for collapsed sidebar and collapsed side navigation from their preferences page.]]></phrase>
-  <phrase title="option_explain.thuix_userStyleChangeStorage" addon_id="ThemeHouse/UIX" version_id="2001270" version_string="2.0.12"><![CDATA[Select how you would like user style changes (e.g. collapsed sidebar) to be remembered. User session data is deleted after a user has been inactive for 4 hours.]]></phrase>
+  <phrase title="option_explain.thuix_userStyleChangeStorage" addon_id="ThemeHouse/UIX" version_id="2020092" version_string="2.2.0 Patch Level 2"><![CDATA[选择您希望如何记住用户样式更改（例如折叠的侧边栏）。 用户闲置 4 小时后，用户会话数据将被删除。]]></phrase>
   <phrase title="option_explain.thusernamecolor_disallowedColors" addon_id="ThemeHouse/UserNameColor" version_id="1000070" version_string="1.0.0"><![CDATA[十六进制颜色，不带前置#，仅命名颜色。支持颜色范围。每行输入一个项目。]]></phrase>
   <phrase title="option_explain.tosForceWhitelist" addon_id="XF" version_id="2020270" version_string="2.2.2"><![CDATA[如果你决定<a href="admin.php?force-agreement/terms" target="_blank">强制条款和规则协议</a>，那么这里列出的路线将绕过被重定向到强制协议页面。路由路径是在主论坛目录URL后面的页面URL部分，例如forums/ 或 pages/page-name/。此处不要引用路由过滤器。]]></phrase>
   <phrase title="option_explain.tosUrl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[此链接显示在页面底部，用户在注册时必须同意这些规则及条款才可以完成注册。]]></phrase>
@@ -11848,10 +11848,10 @@ Once you have provided a unique path and hit the save button, the directory will
   <phrase title="permission.klEM_emotes" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[使用自定义表情]]></phrase>
   <phrase title="permission.klEM_klEMBypassHide" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Bypass HIDE BB Codes]]></phrase>
   <phrase title="permission.klEM_klEMHidePostCount" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Hide posts post count]]></phrase>
-  <phrase title="permission.klEM_klEMPrivateTemplates" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Use private templates]]></phrase>
-  <phrase title="permission.klEM_klEMPrivateTemplatesMax" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Max. private template count]]></phrase>
-  <phrase title="permission.klEM_klEMPublicTemplates" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Use public templates]]></phrase>
-  <phrase title="permission.klEM_klEMTemplates" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Use templates]]></phrase>
+  <phrase title="permission.klEM_klEMPrivateTemplates" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[使用私有模板]]></phrase>
+  <phrase title="permission.klEM_klEMPrivateTemplatesMax" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[私有模板数上限]]></phrase>
+  <phrase title="permission.klEM_klEMPublicTemplates" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[使用共有模板]]></phrase>
+  <phrase title="permission.klEM_klEMTemplates" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[使用模板]]></phrase>
   <phrase title="permission.klEM_klEMUseGoogleFonts" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Use google webfonts]]></phrase>
   <phrase title="permission.klEM_maxEmotes" addon_id="KL/EditorManager" version_id="2000170" version_string="2.0.1"><![CDATA[自定义表情数上限]]></phrase>
   <phrase title="permission.mjcCredits_bypassChargeTag" addon_id="MJ/Credits" version_id="1000500" version_string="1.0.5"><![CDATA[可绕过收费标签]]></phrase>
@@ -12080,7 +12080,7 @@ Once you have provided a unique path and hit the save button, the directory will
   <phrase title="please_choose_valid_payment_profile_to_continue_with_your_purchase" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[请选择有效的付款配置文件继续购买。]]></phrase>
   <phrase title="please_choose_valid_text_color" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[请选择有效的文字颜色。]]></phrase>
   <phrase title="please_complete_required_fields" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[请完成全部必填项。]]></phrase>
-  <phrase title="please_confirm_reversion_of_customized_components_from_style" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[请确认您要把{numTemplates}模板和{numProperties}风格属性恢复成此<em>{style}</em>风格的默认值。]]></phrase>
+  <phrase title="please_confirm_reversion_of_customized_components_from_style" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[请确认您要将样式 <em>{style}</em> 中的 {numTemplates} 模板和 {numProperties} 样式属性恢复为默认值。]]></phrase>
   <phrase title="please_confirm_that_you_want_to_approve_the_following" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[请确认您要批准以下内容]]></phrase>
   <phrase title="please_confirm_that_you_want_to_ban_following_ip" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[请确认您要封禁下列 IP 地址]]]></phrase>
   <phrase title="please_confirm_that_you_want_to_cancel_following_subscription" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[请确认您要取消以下订阅]]></phrase>
@@ -13177,7 +13177,7 @@ Once you have provided a unique path and hit the save button, the directory will
   <phrase title="siropu_ads_manager_action_not_allowed_for_paid_sticky" addon_id="Siropu/AdsManager" version_id="2000037" version_string="2.0.0-Beta-7"><![CDATA[Action not allowed for paid sticky threads.]]></phrase>
   <phrase title="siropu_ads_manager_activation_date" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[激活日期]]></phrase>
   <phrase title="siropu_ads_manager_activation_date_explain" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[此选项允许您在设定的日期激活促销代码。必须启用促销代码。]]></phrase>
-  <phrase title="siropu_ads_manager_active_since" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Active since]]></phrase>
+  <phrase title="siropu_ads_manager_active_since" addon_id="Siropu/AdsManager" version_id="2041270" version_string="2.4.12"><![CDATA[启用于]]></phrase>
   <phrase title="siropu_ads_manager_ad" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[广告]]></phrase>
   <phrase title="siropu_ads_manager_ad_added_to_queue" addon_id="Siropu/AdsManager" version_id="2020070" version_string="2.2.0"><![CDATA[您的广告已添加到队列中。]]></phrase>
   <phrase title="siropu_ads_manager_ad_approve_explain" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[如果有可用的广告位，批准广告将自动为广告商生成新订单，否则广告将被添加到队列中。]]></phrase>
@@ -13203,7 +13203,7 @@ callback=\Path\To\MyCallbackClass::MyCallbackMethod<br>arguments={"arg1":"val1",
   <phrase title="siropu_ads_manager_ad_code_explain" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Paste your ad code here (AdSense, affiliate banners, etc).]]></phrase>
   <phrase title="siropu_ads_manager_ad_cost" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Ad cost]]></phrase>
   <phrase title="siropu_ads_manager_ad_create_explain" addon_id="Siropu/AdsManager" version_id="2020370" version_string="2.2.3"><![CDATA[Please note that ads are reviewed by administrators and require their approval. Once approved, an invoice will be generated for you to pay.]]></phrase>
-  <phrase title="siropu_ads_manager_ad_create_free_explain" addon_id="Siropu/AdsManager" version_id="2013070" version_string="2.1.3"><![CDATA[Please note that ads are reviewed by administrators and require their approval. Once approved, the ad will become active if there are ad spaces available, else the ad will be queued.]]></phrase>
+  <phrase title="siropu_ads_manager_ad_create_free_explain" addon_id="Siropu/AdsManager" version_id="2041270" version_string="2.4.12"><![CDATA[请注意，广告由管理员审核并需要他们的批准。 一旦获得批准，如果有可用的广告空间，广告将变为活动状态，否则广告将排队。]]></phrase>
   <phrase title="siropu_ads_manager_ad_details" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Ad details]]></phrase>
   <phrase title="siropu_ads_manager_ad_details_explain" addon_id="Siropu/AdsManager" version_id="2032970" version_string="2.3.29"><![CDATA[Please provide the ad details based on the package specifications.]]></phrase>
   <phrase title="siropu_ads_manager_ad_display_limit" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Ad display limit]]></phrase>
@@ -13277,10 +13277,10 @@ callback=\Path\To\MyCallbackClass::MyCallbackMethod<br>arguments={"arg1":"val1",
   <phrase title="siropu_ads_manager_ads_to_show" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Ads to show]]></phrase>
   <phrase title="siropu_ads_manager_advertisements" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Advertisements]]></phrase>
   <phrase title="siropu_ads_manager_advertiser" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[广告商]]></phrase>
-  <phrase title="siropu_ads_manager_advertiser_ad_limit_reached" addon_id="Siropu/AdsManager" version_id="2032370" version_string="2.3.23"><![CDATA[We are sorry, you cannot have more than {limit} active ad(s) in this package.]]></phrase>
+  <phrase title="siropu_ads_manager_advertiser_ad_limit_reached" addon_id="Siropu/AdsManager" version_id="2041270" version_string="2.4.12"><![CDATA[很抱歉，此包中的有效广告不能超过 {limit} 个。]]></phrase>
   <phrase title="siropu_ads_manager_advertiser_is_required" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[需要广告商]]></phrase>
   <phrase title="siropu_ads_manager_advertiser_purchase_limit" addon_id="Siropu/AdsManager" version_id="2013070" version_string="2.1.3"><![CDATA[广告商购买限制]]></phrase>
-  <phrase title="siropu_ads_manager_advertiser_purchase_limit_explain" addon_id="Siropu/AdsManager" version_id="2032370" version_string="2.3.23"><![CDATA[This option allows you to set a limit on how many active ads an advertiser can have.]]></phrase>
+  <phrase title="siropu_ads_manager_advertiser_purchase_limit_explain" addon_id="Siropu/AdsManager" version_id="2041270" version_string="2.4.12"><![CDATA[此选项允许您对广告商可以拥有的有效广告数量进行限制。]]></phrase>
   <phrase title="siropu_ads_manager_advertisers" addon_id="Siropu/AdsManager" version_id="2000036" version_string="2.0.0-Beta-6"><![CDATA[广告商]]></phrase>
   <phrase title="siropu_ads_manager_advertising" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Advertising]]></phrase>
   <phrase title="siropu_ads_manager_affiliate_ad_explain" addon_id="Siropu/AdsManager" version_id="2000035" version_string="2.0.0-Beta-5"><![CDATA[Use this ad type if you want to transform links into affiliate links in thread posts, conversation messages and profile posts.]]></phrase>
@@ -13383,11 +13383,11 @@ callback=\Path\To\MyCallbackClass::MyCallbackMethod<br>arguments={"arg1":"val1",
   <phrase title="siropu_ads_manager_code_ad_explain" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Use this ad type if you want to display ads such as AdSense, affiliate banners, etc.]]></phrase>
   <phrase title="siropu_ads_manager_code_package_explain" addon_id="Siropu/AdsManager" version_id="2031370" version_string="2.3.13"><![CDATA[Use this package if you want to manage your own code ads such as AdSense, affiliate banners, etc. It is not recommended to sell this ad type.]]></phrase>
   <phrase title="siropu_ads_manager_confirm_delete_position_category_footnote" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Any positions belonging to this category will be uncategorized following the deletion.]]></phrase>
-  <phrase title="siropu_ads_manager_content_template" addon_id="Siropu/AdsManager" version_id="2030970" version_string="2.3.9"><![CDATA[Content template]]></phrase>
-  <phrase title="siropu_ads_manager_content_template_criteria_explain" addon_id="Siropu/AdsManager" version_id="2031070" version_string="2.3.10"><![CDATA[The name of the template specified in the controller response. Multiple templates may be separated by commas.]]></phrase>
-  <phrase title="siropu_ads_manager_content_template_is_not" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0-Beta-1"><![CDATA[Content template is NOT]]></phrase>
-  <phrase title="siropu_ads_manager_content_template_list" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0-Beta-1"><![CDATA[Content template list]]></phrase>
-  <phrase title="siropu_ads_manager_content_template_list_explain" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0-Beta-1"><![CDATA[Below you can find a list with most of the content templates that you can use with page criteria options "Content template is" and "Content template is NOT".]]></phrase>
+  <phrase title="siropu_ads_manager_content_template" addon_id="Siropu/AdsManager" version_id="2041270" version_string="2.4.12"><![CDATA[内容模板]]></phrase>
+  <phrase title="siropu_ads_manager_content_template_criteria_explain" addon_id="Siropu/AdsManager" version_id="2041270" version_string="2.4.12"><![CDATA[控制器响应中指定的模板名称。 多个模板可以用逗号分隔。]]></phrase>
+  <phrase title="siropu_ads_manager_content_template_is_not" addon_id="Siropu/AdsManager" version_id="2041270" version_string="2.4.12"><![CDATA[内容模板不是]]></phrase>
+  <phrase title="siropu_ads_manager_content_template_list" addon_id="Siropu/AdsManager" version_id="2041270" version_string="2.4.12"><![CDATA[内容模板列表]]></phrase>
+  <phrase title="siropu_ads_manager_content_template_list_explain" addon_id="Siropu/AdsManager" version_id="2041270" version_string="2.4.12"><![CDATA[您可以在下面找到包含大部分内容模板的列表，您可以将这些模板与页面条件选项“内容模板是”和“内容模板不是”一起使用。]]></phrase>
   <phrase title="siropu_ads_manager_continent.africa" addon_id="Siropu/AdsManager" version_id="2030070" version_string="2.3.0"><![CDATA[非洲]]></phrase>
   <phrase title="siropu_ads_manager_continent.asia" addon_id="Siropu/AdsManager" version_id="2030070" version_string="2.3.0"><![CDATA[亚洲]]></phrase>
   <phrase title="siropu_ads_manager_continent.europe" addon_id="Siropu/AdsManager" version_id="2030070" version_string="2.3.0"><![CDATA[欧洲]]></phrase>
@@ -13461,7 +13461,7 @@ callback=\Path\To\MyCallbackClass::MyCallbackMethod<br>arguments={"arg1":"val1",
   <phrase title="siropu_ads_manager_custom_ad_explain" addon_id="Siropu/AdsManager" version_id="2032970" version_string="2.3.29"><![CDATA[Use this ad type if you want to keep track of custom service ads.]]></phrase>
   <phrase title="siropu_ads_manager_custom_category_cost" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Custom category cost]]></phrase>
   <phrase title="siropu_ads_manager_custom_category_cost_explain" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[This option allows you to set different costs based on the category in which the resource will be featured.]]></phrase>
-  <phrase title="siropu_ads_manager_custom_css_info" addon_id="Siropu/AdsManager" version_id="2032970" version_string="2.3.29"><![CDATA[If any of the values below are changed, you have to go to the template called <b>siropu_ads_manager_ad.less</b> and hit the save button without changing anything in the template. This will update the values you have set here in the CSS.]]></phrase>
+  <phrase title="siropu_ads_manager_custom_css_info" addon_id="Siropu/AdsManager" version_id="2041270" version_string="2.4.12"><![CDATA[如果更改了以下任何值，您必须转到名为 <b>siropu_ads_manager_ad.less</b> 的模板并点击保存按钮而不更改模板中的任何内容。 这将更新您在 CSS 中设置的值。]]></phrase>
   <phrase title="siropu_ads_manager_custom_forum_cost" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Custom forum cost]]></phrase>
   <phrase title="siropu_ads_manager_custom_forum_cost_explain" addon_id="Siropu/AdsManager" version_id="2020370" version_string="2.2.3"><![CDATA[This option allows you to set custom costs based on the forum.]]></phrase>
   <phrase title="siropu_ads_manager_custom_html" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[自定义HTML]]></phrase>
@@ -13705,7 +13705,7 @@ You can use multiple IDs separated by comma.]]></phrase>
   <phrase title="siropu_ads_manager_keyword_replace_limit_explain" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[The maximum number of keywords in a post that can be turned into ads. Set to 0 for unlimited.]]></phrase>
   <phrase title="siropu_ads_manager_keywords" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 0"><![CDATA[Keywords]]></phrase>
   <phrase title="siropu_ads_manager_keywords_not_allowed" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0-Beta-1"><![CDATA[The following keywords are not allowed: {keywords}]]></phrase>
-  <phrase title="siropu_ads_manager_last_active" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Last active]]></phrase>
+  <phrase title="siropu_ads_manager_last_active" addon_id="Siropu/AdsManager" version_id="2041270" version_string="2.4.12"><![CDATA[最后启用]]></phrase>
   <phrase title="siropu_ads_manager_last_month" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Last month]]></phrase>
   <phrase title="siropu_ads_manager_last_post_is_not_older_than_x_days" addon_id="Siropu/AdsManager" version_id="2040470" version_string="2.4.4"><![CDATA[Last post is NOT older than X days]]></phrase>
   <phrase title="siropu_ads_manager_last_post_is_older_than_x_days" addon_id="Siropu/AdsManager" version_id="2040470" version_string="2.4.4"><![CDATA[Last post is older than X days]]></phrase>
@@ -13726,8 +13726,8 @@ You can use multiple IDs separated by comma.]]></phrase>
   <phrase title="siropu_ads_manager_mass_extend_end_date" addon_id="Siropu/AdsManager" version_id="2031470" version_string="2.3.14"><![CDATA[Mass extend end date]]></phrase>
   <phrase title="siropu_ads_manager_mass_pay" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 0"><![CDATA[Mass pay]]></phrase>
   <phrase title="siropu_ads_manager_max_words_in_keyword_is_x" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0-Beta-1"><![CDATA[The maximum number of words allowed in a keyword is {limit}]]></phrase>
-  <phrase title="siropu_ads_manager_maximum_ads_allowed" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Maximum active ads allowed]]></phrase>
-  <phrase title="siropu_ads_manager_maximum_ads_allowed_explain" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[The maximum number of active ads this package can have.]]></phrase>
+  <phrase title="siropu_ads_manager_maximum_ads_allowed" addon_id="Siropu/AdsManager" version_id="2041270" version_string="2.4.12"><![CDATA[允许启用广告上限]]></phrase>
+  <phrase title="siropu_ads_manager_maximum_ads_allowed_explain" addon_id="Siropu/AdsManager" version_id="2041270" version_string="2.4.12"><![CDATA[此包可以包含的活动广告的最大数量。]]></phrase>
   <phrase title="siropu_ads_manager_maximum_purchase" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Maximum purchase]]></phrase>
   <phrase title="siropu_ads_manager_maximum_purchase_explain" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Maximum days/weeks/months/years/views/clicks an advertiser can purchase. If the value is higher that the "Minimum purchase" option, the advertiser can choose how much to purchase.]]></phrase>
   <phrase title="siropu_ads_manager_maximum_results_on_page" addon_id="Siropu/AdsManager" version_id="2030770" version_string="2.3.7"><![CDATA[Maximum results on page]]></phrase>
@@ -13751,7 +13751,7 @@ You can use multiple IDs separated by comma.]]></phrase>
   <phrase title="siropu_ads_manager_no_ads_have_been_found" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[找不到广告嘞。]]></phrase>
   <phrase title="siropu_ads_manager_no_ads_or_packages_selected" addon_id="Siropu/AdsManager" version_id="2031470" version_string="2.3.14"><![CDATA[没有选择广告或组合包。]]></phrase>
   <phrase title="siropu_ads_manager_no_ads_selected" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[No ads have been selected.]]></phrase>
-  <phrase title="siropu_ads_manager_no_advertisers" addon_id="Siropu/AdsManager" version_id="2000036" version_string="2.0.0-Beta-6"><![CDATA[We do not have active advertisers at the moment.]]></phrase>
+  <phrase title="siropu_ads_manager_no_advertisers" addon_id="Siropu/AdsManager" version_id="2041270" version_string="2.4.12"><![CDATA[我们目前没有活跃的广告商。]]></phrase>
   <phrase title="siropu_ads_manager_no_advertisers_found" addon_id="Siropu/AdsManager" version_id="2020070" version_string="2.2.0"><![CDATA[There are no advertisers.]]></phrase>
   <phrase title="siropu_ads_manager_no_category_selected_for_featured" addon_id="Siropu/AdsManager" version_id="2000033" version_string="2.0.0-Beta-3"><![CDATA[In order to allow advertisers to create featured resource ads, you have to select at least one category for "<a href="{optionsUrl}#siropuAdsManagerAllowedFeaturedResourceCategories">Allowed featured resource categories</a>" option in <a href="{optionsUrl}">Ads Manager [Advertiser]</a> admin options.]]></phrase>
   <phrase title="siropu_ads_manager_no_custom_user_groups" addon_id="Siropu/AdsManager" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[No custom user groups found.]]></phrase>
@@ -13868,7 +13868,7 @@ You can use multiple IDs separated by comma.]]></phrase>
   <phrase title="siropu_ads_manager_position_id_example" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 0"><![CDATA[例如：your_position_id]]></phrase>
   <phrase title="siropu_ads_manager_position_id_must_be_unique" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Position ID must be unique. The specified ID is already in use.]]></phrase>
   <phrase title="siropu_ads_manager_position_id_required" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Please enter a valid position ID.]]></phrase>
-  <phrase title="siropu_ads_manager_position_instructions" addon_id="Siropu/AdsManager" version_id="2020070" version_string="2.2.0"><![CDATA[To use this position, copy the syntax below and paste it in the template or in the HTML widget where you want the ads to display.
+  <phrase title="siropu_ads_manager_position_instructions" addon_id="Siropu/AdsManager" version_id="2041270" version_string="2.4.12"><![CDATA[要使用此位置，请复制以下语法并将其粘贴到模板或要显示广告的 HTML 小部件中。
 
 <b>
 	<blockquote>
@@ -13894,7 +13894,7 @@ You can use multiple IDs separated by comma.]]></phrase>
   <phrase title="siropu_ads_manager_preview_image_explain" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Upload a screenshot of the place where the ads will be displayed on the page.]]></phrase>
   <phrase title="siropu_ads_manager_profile_posts" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Profile posts]]></phrase>
   <phrase title="siropu_ads_manager_promo_code" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[促销代码]]></phrase>
-  <phrase title="siropu_ads_manager_promo_code_active_on_x" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[The promo code wil be active on {date}]]></phrase>
+  <phrase title="siropu_ads_manager_promo_code_active_on_x" addon_id="Siropu/AdsManager" version_id="2041270" version_string="2.4.12"><![CDATA[促销代码将于 {date} 生效]]></phrase>
   <phrase title="siropu_ads_manager_promo_code_cannot_be_used_by_you" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[We are sorry, you cannot use this promo code.]]></phrase>
   <phrase title="siropu_ads_manager_promo_code_expired" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[We are sorry, the promo code has expired.]]></phrase>
   <phrase title="siropu_ads_manager_promo_code_explain" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Promo code must be unique. Use only letters and numbers.]]></phrase>
@@ -14015,7 +14015,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="siropu_ads_manager_text_package_explain" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Use this package if you want to manage your own text ads or if you want to sell text ads.]]></phrase>
   <phrase title="siropu_ads_manager_thank_you" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Thank you!]]></phrase>
   <phrase title="siropu_ads_manager_thank_you_for_purchasing_advertising_at_x" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Thank you for purchasing advertising at <a href="{board_url}">{board_title}</a>.]]></phrase>
-  <phrase title="siropu_ads_manager_thank_you_message" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Thank you for advertising with us! Your ad(s) should be active by now. If not, there could be a delayed response from the payment provider, so please wait a little longer before contacting us.]]></phrase>
+  <phrase title="siropu_ads_manager_thank_you_message" addon_id="Siropu/AdsManager" version_id="2041270" version_string="2.4.12"><![CDATA[感谢您在本站投放广告！您的广告现在应该处于活动状态。或者支付提供商的响应可能会延迟，因此请稍等片刻再联系我们。]]></phrase>
   <phrase title="siropu_ads_manager_there_are_x_pending_approval_ads" addon_id="Siropu/AdsManager" version_id="2030070" version_string="2.3.0"><![CDATA[Please note that there are <b>{count}</b> ads that haven't been approved yet.]]></phrase>
   <phrase title="siropu_ads_manager_there_is_one_pending_approval_ad" addon_id="Siropu/AdsManager" version_id="2030070" version_string="2.3.0"><![CDATA[Please note that there is one ad that hasn't been approved yet.]]></phrase>
   <phrase title="siropu_ads_manager_this_month" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[This month]]></phrase>
@@ -14238,7 +14238,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="siropu_referral_contests_generate_referral_link" addon_id="Siropu/ReferralContests" version_id="2020970" version_string="2.2.9"><![CDATA[生成页面推广链接]]></phrase>
   <phrase title="siropu_referral_contests_generate_referral_link_explain" addon_id="Siropu/ReferralContests" version_id="2020970" version_string="2.2.9"><![CDATA[粘贴MineBBS的页面链接，以生成该页面的专用推广链接。]]></phrase>
   <phrase title="siropu_referral_contests_html" addon_id="Siropu/ReferralContests" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[HTML]]></phrase>
-  <phrase title="siropu_referral_contests_if_active_contests" addon_id="Siropu/ReferralContests" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[If there are active contests]]></phrase>
+  <phrase title="siropu_referral_contests_if_active_contests" addon_id="Siropu/ReferralContests" version_id="2020970" version_string="2.2.9"><![CDATA[如果有活跃的竞赛]]></phrase>
   <phrase title="siropu_referral_contests_invitation_code" addon_id="Siropu/ReferralContests" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Invitation code]]></phrase>
   <phrase title="siropu_referral_contests_invitation_expiration_date" addon_id="Siropu/ReferralContests" version_id="2020970" version_string="2.2.9"><![CDATA[截止日期]]></phrase>
   <phrase title="siropu_referral_contests_invitation_granted" addon_id="Siropu/ReferralContests" version_id="2013070" version_string="2.1.3"><![CDATA[You have been granted <a href="{link}">{count} invitation(s)</a>!]]></phrase>
@@ -15521,7 +15521,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="template" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[模板]]></phrase>
   <phrase title="template_contains" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[模板包含]]></phrase>
   <phrase title="template_contents" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[模板内容]]></phrase>
-  <phrase title="template_edit_format_params_invalid" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[当指定 "模板" 的编辑格式时，格式参数必须包含模板名称，或 template={templateName} 参数。]]></phrase>
+  <phrase title="template_edit_format_params_invalid" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[当指定 'template' 的编辑格式时，格式参数必须包含单独的模板名称，或包含 template={templateName} 参数。]]></phrase>
   <phrase title="template_history" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[模板历史]]></phrase>
   <phrase title="template_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[模板 HTML]]></phrase>
   <phrase title="template_modification_keys_must_be_unique" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[模板变更键值必须唯一。指定的键值已存在。]]></phrase>
@@ -16066,7 +16066,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="this_password_is_very_common_password" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[此密码是一种非常常见的密码。]]></phrase>
   <phrase title="this_password_reset_was_requested_by_admin_of_x_on_your_behalf" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[此密码重置是由 {board_title} 的管理员请求的。]]></phrase>
   <phrase title="this_payment_profile_cannot_be_deleted_because_it_is_in_use" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[由于以下可购买项目正在试用，此付款方式无法删除。]]></phrase>
-  <phrase title="this_payment_profile_is_no_longer_active_so_it_cannot_be_edited" addon_id="XF" version_id="2020670" version_string="2.2.6"><![CDATA[This payment profile is no longer active so it cannot be edited.]]></phrase>
+  <phrase title="this_payment_profile_is_no_longer_active_so_it_cannot_be_edited" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[此付款资料不再有效，因此无法编辑。]]></phrase>
   <phrase title="this_poll_will_close" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[投票结束]]></phrase>
   <phrase title="this_report_is_currently_assigned_to_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[此举报目前分配给 {assigned_username}。]]></phrase>
   <phrase title="this_requires_new_tags_to_match_given_regular_expression" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[新标签必须符合指定的正规表示法。您必须包含分隔符号与修饰词（例如： /example/siU）。]]></phrase>
@@ -17497,8 +17497,8 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="widget_pos_desc.conversation_list_sidebar" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[位于讨论列表旁的侧边栏内。]]></phrase>
   <phrase title="widget_pos_desc.conversation_view_sidebar" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[位于 conversation_view 实例的侧边栏内。此位置接收目前的 <code>$conversation</code> 项目作为显示内容。]]></phrase>
   <phrase title="widget_pos_desc.dbtech_shop_bank_sidebar" addon_id="DBTech/Shop" version_id="906010012" version_string="6.1.0 Alpha 2"><![CDATA[Position in the sidebar while viewing the bank.]]></phrase>
-  <phrase title="widget_pos_desc.dbtech_shop_category_sidenav" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Displays inside the side navigation on the item category pages. Widget templates rendered in this position can use the current category entity in the <code>{$context.category}</code> param.]]></phrase>
-  <phrase title="widget_pos_desc.dbtech_shop_item_sidebar" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Displays inside the sidebar on the item page. Widget templates rendered in this position can use the current item entity in the <code>{$context.item}</code> param.]]></phrase>
+  <phrase title="widget_pos_desc.dbtech_shop_category_sidenav" addon_id="DBTech/Shop" version_id="906050071" version_string="6.5.0.1"><![CDATA[显示在项目类别页面的侧边导航内。 在此位置呈现的小部件模板可以使用 <code>{$context.category}</code> 参数中的当前类别实体。]]></phrase>
+  <phrase title="widget_pos_desc.dbtech_shop_item_sidebar" addon_id="DBTech/Shop" version_id="906050071" version_string="6.5.0.1"><![CDATA[显示在项目页面的侧边栏内。 在此位置呈现的小部件模板可以使用 <code>{$context.item}</code> 参数中的当前项目实体。]]></phrase>
   <phrase title="widget_pos_desc.dbtech_shop_lottery_sidebar" addon_id="DBTech/Shop" version_id="906010012" version_string="6.1.0 Alpha 2"><![CDATA[Position in the sidebar while viewing the lotteries.]]></phrase>
   <phrase title="widget_pos_desc.dbtech_shop_overview_sidenav" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Displays inside the side navigation on the item overview page.]]></phrase>
   <phrase title="widget_pos_desc.dbtech_shop_steal_sidebar" addon_id="DBTech/Shop" version_id="906010012" version_string="6.1.0 Alpha 2"><![CDATA[Position in the sidebar while viewing the Steal page.]]></phrase>
