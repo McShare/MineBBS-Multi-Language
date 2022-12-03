@@ -15846,7 +15846,7 @@ Please confirm that you are moving the thread to the correct forum.]]></phrase>
   <phrase title="thread_prefix.30" addon_id="" version_id="0" version_string=""><![CDATA[1.14.x]]></phrase>
   <phrase title="thread_prefix.31" addon_id="" version_id="0" version_string=""><![CDATA[更新日志]]></phrase>
   <phrase title="thread_prefix.32" addon_id="" version_id="0" version_string=""><![CDATA[Bug反馈]]></phrase>
-  <phrase title="thread_prefix.33" addon_id="" version_id="0" version_string=""><![CDATA[资讯]]></phrase>
+  <phrase title="thread_prefix.33" addon_id="" version_id="0" version_string=""><![CDATA[社区新闻]]></phrase>
   <phrase title="thread_prefix.35" addon_id="" version_id="0" version_string=""><![CDATA[Java服]]></phrase>
   <phrase title="thread_prefix.36" addon_id="" version_id="0" version_string=""><![CDATA[版规]]></phrase>
   <phrase title="thread_prefix.37" addon_id="" version_id="0" version_string=""><![CDATA[事项决策]]></phrase>
@@ -15895,6 +15895,7 @@ Please confirm that you are moving the thread to the correct forum.]]></phrase>
   <phrase title="thread_prefix.83" addon_id="" version_id="0" version_string=""><![CDATA[已关闭]]></phrase>
   <phrase title="thread_prefix.84" addon_id="" version_id="0" version_string=""><![CDATA[举报投诉]]></phrase>
   <phrase title="thread_prefix.85" addon_id="" version_id="0" version_string=""><![CDATA[1.19.x]]></phrase>
+  <phrase title="thread_prefix.86" addon_id="" version_id="0" version_string=""><![CDATA[版本快讯]]></phrase>
   <phrase title="thread_prefix_desc.13" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_desc.20" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_desc.23" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -15951,13 +15952,14 @@ Please confirm that you are moving the thread to the correct forum.]]></phrase>
   <phrase title="thread_prefix_desc.83" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_desc.84" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_desc.85" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="thread_prefix_desc.86" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_group.10" addon_id="" version_id="0" version_string=""><![CDATA[编程]]></phrase>
   <phrase title="thread_prefix_group.11" addon_id="" version_id="0" version_string=""><![CDATA[建站]]></phrase>
   <phrase title="thread_prefix_group.12" addon_id="" version_id="0" version_string=""><![CDATA[互通]]></phrase>
   <phrase title="thread_prefix_group.14" addon_id="" version_id="0" version_string=""><![CDATA[Java资源]]></phrase>
   <phrase title="thread_prefix_group.15" addon_id="" version_id="0" version_string=""><![CDATA[基岩资源]]></phrase>
   <phrase title="thread_prefix_group.16" addon_id="" version_id="0" version_string=""><![CDATA[建议版块]]></phrase>
-  <phrase title="thread_prefix_group.17" addon_id="" version_id="0" version_string=""><![CDATA[你问我答]]></phrase>
+  <phrase title="thread_prefix_group.18" addon_id="" version_id="0" version_string=""><![CDATA[新闻资讯]]></phrase>
   <phrase title="thread_prefix_group.6" addon_id="" version_id="0" version_string=""><![CDATA[通用前缀]]></phrase>
   <phrase title="thread_prefix_group.7" addon_id="" version_id="0" version_string=""><![CDATA[管理区]]></phrase>
   <phrase title="thread_prefix_group.8" addon_id="" version_id="0" version_string=""><![CDATA[服务器]]></phrase>
@@ -16018,11 +16020,12 @@ Please confirm that you are moving the thread to the correct forum.]]></phrase>
   <phrase title="thread_prefix_help.83" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_help.84" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_help.85" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="thread_prefix_help.86" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefixes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[主題分類]]></phrase>
   <phrase title="thread_prompt.1" addon_id="" version_id="0" version_string=""><![CDATA[请输入标题以发布服务器]]></phrase>
   <phrase title="thread_prompt.2" addon_id="" version_id="0" version_string=""><![CDATA[分享MC资源请前往资源中心噢~]]></phrase>
   <phrase title="thread_prompt.3" addon_id="" version_id="0" version_string=""><![CDATA[请使用悬赏，而不是发红包！]]></phrase>
-  <phrase title="thread_prompt.4" addon_id="" version_id="0" version_string=""><![CDATA[请前往资源中心，勿直接发布资源～]]></phrase>
+  <phrase title="thread_prompt.4" addon_id="" version_id="0" version_string=""><![CDATA[建议请前往资源中心，勿直接发布资源帖～]]></phrase>
   <phrase title="thread_prompt.default" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[主題標題]]></phrase>
   <phrase title="thread_prompt_group.1" addon_id="" version_id="0" version_string=""><![CDATA[服务器]]></phrase>
   <phrase title="thread_prompts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[主題提示]]></phrase>
@@ -16502,13 +16505,14 @@ Select the updates you want to install below. The selected updates will be downl
   <phrase title="user_editable" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[會員可編輯]]></phrase>
   <phrase title="user_email_confirmation_body_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<p>{username}，為完成 {board} 的註冊，請點選下方連結來認證你的電子郵件地址。</p>]]></phrase>
   <phrase title="user_email_confirmation_subject" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{boardTitle} - 帳號認證信]]></phrase>
-  <phrase title="user_field_choice.sex_1" addon_id="" version_id="0" version_string=""><![CDATA[帅哥]]></phrase>
-  <phrase title="user_field_choice.sex_2" addon_id="" version_id="0" version_string=""><![CDATA[美女]]></phrase>
+  <phrase title="user_field_choice.sex_1" addon_id="" version_id="0" version_string=""><![CDATA[男]]></phrase>
+  <phrase title="user_field_choice.sex_2" addon_id="" version_id="0" version_string=""><![CDATA[女]]></phrase>
+  <phrase title="user_field_choice.sex_3" addon_id="" version_id="0" version_string=""><![CDATA[其他]]></phrase>
   <phrase title="user_field_desc.BiliBili" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="user_field_desc.beid" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="user_field_desc.facebook" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="user_field_desc.github" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="user_field_desc.sex" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="user_field_desc.sex" addon_id="" version_id="0" version_string=""><![CDATA[指生理性别，不涉及性别认同与性倾向]]></phrase>
   <phrase title="user_field_desc.siropu_invitation" addon_id="" version_id="0" version_string=""><![CDATA[Please provide a valid invitation code.]]></phrase>
   <phrase title="user_field_desc.siropu_referrer" addon_id="" version_id="0" version_string=""><![CDATA[The username of the member who referred you.]]></phrase>
   <phrase title="user_field_desc.skype" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
