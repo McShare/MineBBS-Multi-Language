@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<language title="English (EN)" date_format="M j, Y" time_format="g:i A" currency_format="{symbol}{value}" week_start="0" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="…" parenthesis_open="(" parenthesis_close=")" language_code="en-US" text_direction="LTR" user_selectable="1" base_version_id="2021171" export_version="2">
+<language title="English (EN)" date_format="M j, Y" time_format="g:i A" currency_format="{symbol}{value}" week_start="0" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="…" parenthesis_open="(" parenthesis_close=")" language_code="en-US" text_direction="LTR" user_selectable="1" base_version_id="2021270" export_version="2">
   <phrase title="1_day_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[One day ago]]></phrase>
   <phrase title="1_month_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[One month ago]]></phrase>
   <phrase title="1_time" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[1 time]]></phrase>
@@ -22,7 +22,9 @@
   <phrase title="about_you" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[About you]]></phrase>
   <phrase title="accent" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Accent]]></phrase>
   <phrase title="accept" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Accept]]></phrase>
+  <phrase title="accept_all_cookies" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Accept all cookies]]></phrase>
   <phrase title="accept_future_messages" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Accept future messages]]></phrase>
+  <phrase title="accept_third_party_cookies" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Accept third party cookies]]></phrase>
   <phrase title="accepted_privacy_policy" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Accepted privacy policy]]></phrase>
   <phrase title="accepted_terms_rules" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Accepted terms and rules]]></phrase>
   <phrase title="account_associated" addon_id="XF" version_id="2001270" version_string="2.0.12"><![CDATA[Account associated]]></phrase>
@@ -201,6 +203,8 @@
   <phrase title="addon_force_overwrite" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Overwrite existing files for add-on rebuilds / upgrades]]></phrase>
   <phrase title="addon_force_overwrite_hint" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[By default only the changed files will be copied from the add-on archive. To overwrite all existing files check this option.]]></phrase>
   <phrase title="admin" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Admin]]></phrase>
+  <phrase title="admin_add_passwordless_warning" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[This user is using a password-less method of logging in. A password reset email will be sent to them so that they may access the admin panel.]]></phrase>
+  <phrase title="admin_add_passwordless_warning_no_email" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[This user is using a password-less method of logging in but has no associated email address. Either generate a password for them or associate an email address to their account.]]></phrase>
   <phrase title="admin_control_panel" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Admin control panel]]></phrase>
   <phrase title="admin_log" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Admin log]]></phrase>
   <phrase title="admin_log_entry" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Admin log entry]]></phrase>
@@ -247,6 +251,7 @@
   <phrase title="admin_navigation.contactUsers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Contact users]]></phrase>
   <phrase title="admin_navigation.content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Content]]></phrase>
   <phrase title="admin_navigation.contentTypes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Content types]]></phrase>
+  <phrase title="admin_navigation.cookieConsentLog" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Cookie consent log]]></phrase>
   <phrase title="admin_navigation.coverlist" addon_id="ThemeHouse/Covers" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Cover list]]></phrase>
   <phrase title="admin_navigation.coverpreset" addon_id="ThemeHouse/Covers" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Cover presets]]></phrase>
   <phrase title="admin_navigation.covers" addon_id="ThemeHouse/Covers" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[[TH] Covers]]></phrase>
@@ -431,6 +436,7 @@
   <phrase title="admin_navigation.threadPrompts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread prompts]]></phrase>
   <phrase title="admin_navigation.threadProperties" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread properties]]></phrase>
   <phrase title="admin_navigation.threadReplyBans" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread reply bans]]></phrase>
+  <phrase title="admin_navigation.tl_IO_Logs" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[[tl] Image Optimizer Logs]]></phrase>
   <phrase title="admin_navigation.tools" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tools]]></phrase>
   <phrase title="admin_navigation.trophies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Trophies]]></phrase>
   <phrase title="admin_navigation.twoStepProviders" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Two-step verification]]></phrase>
@@ -511,6 +517,7 @@
   <phrase title="administrators" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Administrators]]></phrase>
   <phrase title="administrators_and_moderators_will_not_be_deleted" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Administrators and moderators will not be deleted.]]></phrase>
   <phrase title="administrators_will_not_be_security_locked" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Administrators will not be security locked.]]></phrase>
+  <phrase title="advanced" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[Advanced]]></phrase>
   <phrase title="advanced_mode" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Advanced mode]]></phrase>
   <phrase title="advanced_options" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Advanced options]]></phrase>
   <phrase title="advanced_search" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Advanced search]]></phrase>
@@ -1475,6 +1482,7 @@ If you have edited these files yourself, you may ignore this message, otherwise 
   <phrase title="connected_accounts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Connected accounts]]></phrase>
   <phrase title="connected_accounts_allow_you_to_log_in_to_this_site_more_easily" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Connected accounts allow you to log in to this site more easily by using an account you already hold at one of the sites below.]]></phrase>
   <phrase title="connection_type" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Connection type]]></phrase>
+  <phrase title="consented_groups" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Consented groups]]></phrase>
   <phrase title="consumer_key" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Consumer key]]></phrase>
   <phrase title="consumer_secret" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Consumer secret]]></phrase>
   <phrase title="contact" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Contact]]></phrase>
@@ -1568,6 +1576,91 @@ Write the details of the resource in the resource description.</p>
   <phrase title="convert_reactions_to_votes" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Convert reactions to votes]]></phrase>
   <phrase title="convert_suggestion_reactions_to_votes" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Convert suggestion reactions to votes]]></phrase>
   <phrase title="converting_reactions" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Converting reactions]]></phrase>
+  <phrase title="cookie_consent" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[Cookie consent]]></phrase>
+  <phrase title="cookie_consent.cookie_description___crossTab" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[This local storage item is used to store information used to communicate across tabs, such as the current cross-site request forgery token.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_cacheKey" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[This local storage item is used to store the cache key used for offline storage items.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_consent" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[This cookie is used to store a user's cookie consent preferences.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_csrf" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[This cookie is used to store a user's cross-site request forgery token, preventing other applications from making malicious requests on the user's behalf.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_dbWriteForced" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[This cookie is used to indicate that the request should completed using the write-only database server.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_editorDisabled" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[This local storage item is used to store whether or not a user has the rich text editor enabled.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_emoji_usage" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[This cookie is used to store which emojis a user has recently used when composing a message.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_fr_copied_html" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[This local storage item is used to store a user's copied rich text when pasting into the text editor.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_fr_copied_text" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[This local storage item is used to store a user's copied plain text when pasting into the text editor.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_from_search" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[This cookie is used to track when a user has arrived on the site from a search engine.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_guestUsername" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[This local storage item is used to store a guest user's username.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_inline_mod__wildcard" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[These cookies are used to store a user's currently selected inline moderation items.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_language_id" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[This cookie is used to store a user's selected language.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_lbSidebarDisabled" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[This local storage item is used to store whether or not a user has toggled the lightbox sidebar.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_ls" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[This cookie is used to store a user's local storage contents in the event their browser does not support the native local storage mechanism.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_multiQuote_wildcard" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[These local storage items are used to store a user's multi-quote selections.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_notice_dismiss" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[This cookie is used to store a user's dismissed notices.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_push_history_user_ids" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[This local storage item is used to store which users on this device have enabled push notifications.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_push_notice_dismiss" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[This cookie is used to determine whether or not a user has dismissed the push notification notice.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_push_subscription_updated" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[This cookie is used to determine if a user's push subscription preferences have been updated.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_session" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[This cookie is used to store a user's session identifier.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_style_id" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[This cookie is used to store a user's selected style.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_tfa_trust" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[This cookie is used to determine if a user has previously chosen to trust this device without requiring further two-step verification for a period of time.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_toggle" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[This cookie and local storage item are used to store a user's preferences for toggling various controls open or closed.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_user" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[This cookie is used to store a user's "remember me" token, allowing their credentials to persist across multiple sessions.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_visitorCounts" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[This local storage item is used to store counts of a user's unread conversations and alerts.]]></phrase>
+  <phrase title="cookie_consent.group_description__required" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[These cookies are required to enable core functionality such as security, network management, and accessibility. You may not reject these.]]></phrase>
+  <phrase title="cookie_consent.group_description__third_party" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Cookies set by third parties may be required to power functionality in conjunction with various service providers for security, analytics, performance or advertising purposes.]]></phrase>
+  <phrase title="cookie_consent.group_description_optional" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[We deliver enhanced functionality for your browsing experience by setting these cookies. If you reject them, enhanced functionality will be unavailable.]]></phrase>
+  <phrase title="cookie_consent.group_label__required" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Essential cookies]]></phrase>
+  <phrase title="cookie_consent.group_label__third_party" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[Third-party cookies]]></phrase>
+  <phrase title="cookie_consent.group_label_optional" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[Optional cookies]]></phrase>
+  <phrase title="cookie_consent.third_party_description_apple" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[These cookies are set by <a href="https://www.apple.com/legal/privacy/en-ww/" target="_blank">Apple</a>, and may be used for displaying embedded content.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_braintree" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[These cookies are set by <a href="https://www.braintreepayments.com/pl/legal/braintree-privacy-policy" target="_blank">Braintree</a>, and may be used for processing payments.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_dailymotion" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[These cookies are set by <a href="https://legal.dailymotion.com/en/privacy-policy/" target="_blank">Dailymotion</a>, and may be used for displaying embedded content.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_flickr" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[These cookies are set by <a href="https://www.flickr.com/help/privacy" target="_blank">Flickr</a>, and may be used for displaying embedded content.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_giphy" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[These cookies are set by <a href="https://support.giphy.com/hc/en-us/articles/360032872931-GIPHY-Privacy-Policy" target="_blank">Giphy</a>, and may be used for displaying embedded content.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_google" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[These cookies are set by <a href="https://policies.google.com/privacy" target="_blank">Google</a>, and may be used for analytics, verifying legitimate traffic, or other embedded content.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_h_captcha" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[These cookies are set by <a href="https://www.hcaptcha.com/privacy" target="_blank">HCaptcha</a>, and may be used for verifying legitimate traffic.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_imgur" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[These cookies are set by <a href="https://imgur.com/privacy" target="_blank">Imgur</a>, and may be used for displaying embedded content.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_key_captcha" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[These cookies are set by <a href="https://www.keycaptcha.com" target="_blank">KeyCaptcha</a>, and may be used for verifying legitimate traffic.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_meta" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[These cookies are set by <a href="https://www.facebook.com/privacy/policy/" target="_blank">Meta</a>, and may be used for displaying embedded content.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_pinterest" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[These cookies are set by <a href="https://policy.pinterest.com/en/privacy-policy" target="_blank">Pinterest</a>, and may be used for displaying embedded content.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_reddit" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[These cookies are set by <a href="https://www.reddit.com/policies/privacy-policy" target="_blank">Reddit</a>, and may be used for displaying embedded content.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_solve_media" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[These cookies are set by <a href="https://www.solvemedia.com/privacy.html" target="_blank">SolveMedia</a>, and may be used for verifying legitimate traffic.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_soundcloud" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[These cookies are set by <a href="https://soundcloud.com/pages/privacy" target="_blank">SoundCloud</a>, and may be used for displaying embedded content.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_spotify" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[These cookies are set by <a href="https://www.spotify.com/us/legal/privacy-policy/" target="_blank">Spotify</a>, and may be used for displaying embedded content.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_stripe" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[These cookies are set by <a href="https://stripe.com/privacy" target="_blank">Stripe</a>, and may be used for processing payments.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_tiktok" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[These cookies are set by <a href="https://www.tiktok.com/legal/page/us/privacy-policy/en" target="_blank">TikTok</a>, and may be used for displaying embedded content.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_tumblr" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[These cookies are set by <a href="https://www.tumblr.com/privacy" target="_blank">Tumblr</a>, and may be used for displaying embedded content.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_twitch" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[These cookies are set by <a href="https://www.twitch.tv/p/en/legal/privacy-notice/" target="_blank">Twitch</a>, and may be used for displaying embedded content.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_twitter" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[These cookies are set by <a href="https://twitter.com/privacy" target="_blank">Twitter</a>, and may be used for displaying embedded content.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_two_checkout" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[These cookies are set by <a href="https://www.2checkout.com/legal/privacy/" target="_blank">2Checkout</a>, and may be used for processing payments.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_vimeo" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[These cookies are set by <a href="https://vimeo.com/privacy" target="_blank">Vimeo</a>, and may be used for displaying embedded content.]]></phrase>
+  <phrase title="cookie_consent.third_party_label_apple" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Apple]]></phrase>
+  <phrase title="cookie_consent.third_party_label_braintree" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Braintree]]></phrase>
+  <phrase title="cookie_consent.third_party_label_dailymotion" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Dailymotion]]></phrase>
+  <phrase title="cookie_consent.third_party_label_flickr" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Flickr]]></phrase>
+  <phrase title="cookie_consent.third_party_label_giphy" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Giphy]]></phrase>
+  <phrase title="cookie_consent.third_party_label_google" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[Google]]></phrase>
+  <phrase title="cookie_consent.third_party_label_h_captcha" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[HCaptcha]]></phrase>
+  <phrase title="cookie_consent.third_party_label_imgur" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Imgur]]></phrase>
+  <phrase title="cookie_consent.third_party_label_key_captcha" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[KeyCaptcha]]></phrase>
+  <phrase title="cookie_consent.third_party_label_meta" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Meta]]></phrase>
+  <phrase title="cookie_consent.third_party_label_pinterest" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Pinterest]]></phrase>
+  <phrase title="cookie_consent.third_party_label_reddit" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Reddit]]></phrase>
+  <phrase title="cookie_consent.third_party_label_solve_media" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[SolveMedia]]></phrase>
+  <phrase title="cookie_consent.third_party_label_soundcloud" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[SoundCloud]]></phrase>
+  <phrase title="cookie_consent.third_party_label_spotify" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Spotify]]></phrase>
+  <phrase title="cookie_consent.third_party_label_stripe" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Stripe]]></phrase>
+  <phrase title="cookie_consent.third_party_label_tiktok" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[TikTok]]></phrase>
+  <phrase title="cookie_consent.third_party_label_tumblr" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Tumblr]]></phrase>
+  <phrase title="cookie_consent.third_party_label_twitch" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Twitch]]></phrase>
+  <phrase title="cookie_consent.third_party_label_twitter" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Twitter]]></phrase>
+  <phrase title="cookie_consent.third_party_label_two_checkout" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[2Checkout]]></phrase>
+  <phrase title="cookie_consent.third_party_label_vimeo" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Vimeo]]></phrase>
+  <phrase title="cookie_consent_configure" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[See further information and configure your preferences]]></phrase>
+  <phrase title="cookie_consent_description" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[We use essential <a href="{link}">cookies</a> to make this site work, and optional cookies to enhance your experience.]]></phrase>
+  <phrase title="cookie_consent_heading" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[We value your privacy]]></phrase>
+  <phrase title="cookie_consent_label" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Cookies]]></phrase>
+  <phrase title="cookie_consent_log" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Cookie consent log]]></phrase>
+  <phrase title="cookie_consent_log_entry" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Cookie consent log entry]]></phrase>
+  <phrase title="cookie_third_parties" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[Cookie third parties]]></phrase>
+  <phrase title="cookie_third_parties_explain" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[Enter the identifier of each third party which sets cookies for this media site. Place each identifier on a separate line.]]></phrase>
   <phrase title="cookies_required_to_use_this_site" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Cookies are required to use this site. You must accept them to continue using the site.]]></phrase>
   <phrase title="copy_link" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Copy link]]></phrase>
   <phrase title="copy_posts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Copy posts]]></phrase>
@@ -1582,6 +1675,7 @@ Write the details of the resource in the resource description.</p>
   <phrase title="could_not_find_subscriber_id_for_this_purchase_request" addon_id="XF" version_id="2010770" version_string="2.1.7"><![CDATA[Could not find Subscriber ID for this purchase request.]]></phrase>
   <phrase title="could_not_open_x" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Could not open {fileName}.]]></phrase>
   <phrase title="could_not_process_x_y" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Could not process {fileName}: {errors}]]></phrase>
+  <phrase title="could_not_upload_svg_asset_after_sanitization" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Could not upload SVG asset after sanitization.]]></phrase>
   <phrase title="count_messages_in_forum_toward_user_total" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Count messages posted in this forum toward user total]]></phrase>
   <phrase title="create_authy_id_current_email_explain" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[We will create an Authy ID using the email address from your account.]]></phrase>
   <phrase title="create_authy_id_email_explain" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[We will create an Authy ID using the email address you provide here.]]></phrase>
@@ -1629,7 +1723,6 @@ Write the details of the resource in the resource description.</p>
   <phrase title="cron_entry.rebuildSearchForumCache" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Rebuild expired search forum caches]]></phrase>
   <phrase title="cron_entry.referralsrcContest" addon_id="CnXFans/ReferralContestsReward" version_id="1000000" version_string="1.0.0"><![CDATA[Referral Contest credits rewards]]></phrase>
   <phrase title="cron_entry.run_successfully" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Cron entry was run successfully.]]></phrase>
-  <phrase title="cron_entry.samClickFraud" addon_id="Siropu/AdsManager" version_id="2031270" version_string="2.3.12"><![CDATA[广告管理器：点击欺诈监控清理]]></phrase>
   <phrase title="cron_entry.samDailyCleanUp" addon_id="Siropu/AdsManager" version_id="2041270" version_string="2.4.12"><![CDATA[Ads Manager: Daily clean up]]></phrase>
   <phrase title="cron_entry.samDailyImpressionDistrib" addon_id="Siropu/AdsManager" version_id="2020070" version_string="2.2.0"><![CDATA[Ads Manager: Daily impression distribution]]></phrase>
   <phrase title="cron_entry.samDisableExpiredAds" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Ads Manager: Disable expired ads]]></phrase>
@@ -1644,6 +1737,8 @@ Write the details of the resource in the resource description.</p>
   <phrase title="cron_entry.th_unco_regular_check" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Check user name styling validity]]></phrase>
   <phrase title="cron_entry.th_updateCheck_uix" addon_id="ThemeHouse/UIX" version_id="2000070" version_string="2.0.0"><![CDATA[[TH] UI.X: Check for updates]]></phrase>
   <phrase title="cron_entry.thfeature_removeExpired" addon_id="ThemeHouse/Feature" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[[TH] Featured Threads and Content: Remove expired features]]></phrase>
+  <phrase title="cron_entry.tio_runHourly_cleanUp" addon_id="Truonglv/ImageOptimizer" version_id="2000500" version_string="2.0.5"><![CDATA[[tl] Image Optimizer: Run hourly cleanup]]></phrase>
+  <phrase title="cron_entry.tlImageOptimizer_trigger" addon_id="Truonglv/ImageOptimizer" version_id="1000800" version_string="1.0.8"><![CDATA[[tl] Image Optimizer: Trigger Jobs]]></phrase>
   <phrase title="cron_entry.trophy" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Update user trophies]]></phrase>
   <phrase title="cron_entry.userGroupPromotions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User group promotions]]></phrase>
   <phrase title="cron_entry.views" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Update view counters]]></phrase>
@@ -1799,6 +1894,7 @@ Write the details of the resource in the resource description.</p>
   <phrase title="custom_bb_code_desc.anchor" addon_id="" version_id="0" version_string=""><![CDATA[Set an anchor point]]></phrase>
   <phrase title="custom_bb_code_desc.charge" addon_id="" version_id="0" version_string=""><![CDATA[Paid to see the content]]></phrase>
   <phrase title="custom_bb_code_desc.fees" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[Charge users to view your content.]]></phrase>
+  <phrase title="custom_bb_code_desc.heading" addon_id="" version_id="0" version_string=""><![CDATA[添加标题]]></phrase>
   <phrase title="custom_bb_code_desc.line" addon_id="" version_id="0" version_string=""><![CDATA[Divider]]></phrase>
   <phrase title="custom_bb_code_desc.md" addon_id="" version_id="0" version_string=""><![CDATA[Insert the identification labels of Markdown texts]]></phrase>
   <phrase title="custom_bb_code_desc.status" addon_id="" version_id="0" version_string=""><![CDATA[内容填写服务器地址:端口，如果是Java服则在等号后填入java]]></phrase>
@@ -1808,6 +1904,9 @@ Write the details of the resource in the resource description.</p>
   <phrase title="custom_bb_code_desc.tr2" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="custom_bb_code_example.anchor" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="custom_bb_code_example.fees" addon_id="MJ/Credits" version_id="1020502" version_string="1.2.5"><![CDATA[[FEES=5]查看内容需要花费5积分。[/FEES]]]></phrase>
+  <phrase title="custom_bb_code_example.heading" addon_id="" version_id="0" version_string=""><![CDATA[[HEADING=1]标题1[/HEADING]
+[HEADING=3]标题3[/HEADING]
+[HEADING=5]标题5[/HEADING]]]></phrase>
   <phrase title="custom_bb_code_example.line" addon_id="" version_id="0" version_string=""><![CDATA[这是划分线上方
 [LINE][/LINE]
 这是划分线下方]]></phrase>
@@ -1820,6 +1919,9 @@ Write the details of the resource in the resource description.</p>
   <phrase title="custom_bb_code_example.tr2" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="custom_bb_code_output.anchor" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="custom_bb_code_output.fees" addon_id="MJ/Credits" version_id="1020502" version_string="1.2.5"><![CDATA[]]></phrase>
+  <phrase title="custom_bb_code_output.heading" addon_id="" version_id="0" version_string=""><![CDATA[<h1>标题1</h1>
+<h3>标题3</h3>
+<h5>标题5</h5>]]></phrase>
   <phrase title="custom_bb_code_output.line" addon_id="" version_id="0" version_string=""><![CDATA[这是划分线上方
 <hr />
 这是划分线下方]]></phrase>
@@ -1831,6 +1933,7 @@ Write the details of the resource in the resource description.</p>
   <phrase title="custom_bb_code_output.tr2" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="custom_bb_code_title.anchor" addon_id="" version_id="0" version_string=""><![CDATA[锚点]]></phrase>
   <phrase title="custom_bb_code_title.fees" addon_id="MJ/Credits" version_id="1020502" version_string="1.2.5"><![CDATA[内容收费]]></phrase>
+  <phrase title="custom_bb_code_title.heading" addon_id="" version_id="0" version_string=""><![CDATA[标题]]></phrase>
   <phrase title="custom_bb_code_title.line" addon_id="" version_id="0" version_string=""><![CDATA[Divider]]></phrase>
   <phrase title="custom_bb_code_title.md" addon_id="" version_id="0" version_string=""><![CDATA[Markdown]]></phrase>
   <phrase title="custom_bb_code_title.status" addon_id="" version_id="0" version_string=""><![CDATA[服务器状态]]></phrase>
@@ -2562,6 +2665,8 @@ Message: {message}]]></phrase>
   <phrase title="dbtech_shop_item_buyback_time_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Buyback Time]]></phrase>
   <phrase title="dbtech_shop_item_buybackcurrency_descr" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Controls what currency the buyback price is listed in.]]></phrase>
   <phrase title="dbtech_shop_item_buybackcurrency_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Buyback Currency]]></phrase>
+  <phrase title="dbtech_shop_item_can_discard" addon_id="DBTech/Shop" version_id="906060070" version_string="6.6.0"><![CDATA[Allow manual discard]]></phrase>
+  <phrase title="dbtech_shop_item_can_discard_hint" addon_id="DBTech/Shop" version_id="906060070" version_string="6.6.0"><![CDATA[If ticked, this item can be discarded manually via the user's inventory.]]></phrase>
   <phrase title="dbtech_shop_item_can_reconfigure" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Allow re-configuration]]></phrase>
   <phrase title="dbtech_shop_item_can_reconfigure_hint" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[If ticked, this will allow buyers of items like "Username Change" to repeatedly change their user names, or Custom items to edit the contents of their custom fields.]]></phrase>
   <phrase title="dbtech_shop_item_can_regift" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Can "re-gift"]]></phrase>
@@ -3382,6 +3487,7 @@ You can edit the inventory stock from the main shop list once you have selected 
   <phrase title="dbtech_shop_thread_already_in_destination" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[This thread is already in the destination forum.]]></phrase>
   <phrase title="dbtech_shop_thread_already_sticky" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[This thread is already sticky.]]></phrase>
   <phrase title="dbtech_shop_thread_id" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Thread ID]]></phrase>
+  <phrase title="dbtech_shop_threadban" addon_id="DBTech/Shop" version_id="906060070" version_string="6.6.0"><![CDATA[Thread ban]]></phrase>
   <phrase title="dbtech_shop_ticket_percentage" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Ticket Percentage]]></phrase>
   <phrase title="dbtech_shop_ticket_price_currency" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Ticket Price Currency
 <dfn>What currency the ticket price is in.</dfn>]]></phrase>
@@ -3525,6 +3631,7 @@ Pleasure doing business with you!]]></phrase>
   <phrase title="dbtech_shop_user_has_purchased_itemtype" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[User has purchased an item of the following item type]]></phrase>
   <phrase title="dbtech_shop_user_has_purchased_x_items" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[User has purchased at least X items]]></phrase>
   <phrase title="dbtech_shop_user_has_sold_x_items" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[User has sold at least X items]]></phrase>
+  <phrase title="dbtech_shop_user_immune_to_threadban" addon_id="DBTech/Shop" version_id="906060070" version_string="6.6.0"><![CDATA[This user is immune to being thread banned.]]></phrase>
   <phrase title="dbtech_shop_user_title" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[User title]]></phrase>
   <phrase title="dbtech_shop_user_value_parent_category" addon_id="DBTech/Shop" version_id="906010012" version_string="6.1.0 Alpha 2"><![CDATA[User value (parent category)]]></phrase>
   <phrase title="dbtech_shop_usergroup" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[User Group
@@ -3695,6 +3802,7 @@ This is the message they left:
   <phrase title="delay" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[Delay]]></phrase>
   <phrase title="delay_duration_milliseconds" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Delay duration (milliseconds)]]></phrase>
   <phrase title="delete" addon_id="XF" global_cache="1" version_id="0" version_string=""><![CDATA[Delete]]></phrase>
+  <phrase title="delete_bonus" addon_id="MJ/Credits" version_id="1030600" version_string="1.3.6"><![CDATA[删除红包]]></phrase>
   <phrase title="delete_column" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Delete column]]></phrase>
   <phrase title="delete_conversations" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Delete conversations]]></phrase>
   <phrase title="delete_conversations_by_spammer" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Delete conversations by spammer]]></phrase>
@@ -3739,6 +3847,7 @@ This is the message they left:
   <phrase title="designer_mode_enabled" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Designer mode enabled]]></phrase>
   <phrase title="destination_forum" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Destination forum]]></phrase>
   <phrase title="destination_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Destination thread]]></phrase>
+  <phrase title="detailed_cookie_usage" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Detailed cookie usage]]></phrase>
   <phrase title="details" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Details]]></phrase>
   <phrase title="details_of_warning" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Details of warning]]></phrase>
   <phrase title="developer" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Developer]]></phrase>
@@ -3994,6 +4103,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
 <code>public static function myCallback($mediaKey, array $site, $siteId)</code>]]></phrase>
   <phrase title="embed_template" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Embed template]]></phrase>
   <phrase title="embedded_media" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Embedded media]]></phrase>
+  <phrase title="embedded_media_from_this_media_site_is_no_longer_available" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Embedded media from this media site is no longer available]]></phrase>
   <phrase title="embedded_youtube_player_would_appear_here" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[An embedded YouTube player would appear here.]]></phrase>
   <phrase title="emoji.100" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Hundred points]]></phrase>
   <phrase title="emoji.1234" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Input numbers]]></phrase>
@@ -4122,6 +4232,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="emoji.battery" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Battery]]></phrase>
   <phrase title="emoji.beach" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Beach with umbrella]]></phrase>
   <phrase title="emoji.beach_umbrella" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Umbrella on ground]]></phrase>
+  <phrase title="emoji.beans" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Beans]]></phrase>
   <phrase title="emoji.bear" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Bear]]></phrase>
   <phrase title="emoji.bearded_person" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Man: beard]]></phrase>
   <phrase title="emoji.bearded_person_tone1" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Bearded person: light skin tone]]></phrase>
@@ -4148,6 +4259,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="emoji.bird" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Bird]]></phrase>
   <phrase title="emoji.birthday" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Birthday cake]]></phrase>
   <phrase title="emoji.bison" addon_id="XF" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Bison]]></phrase>
+  <phrase title="emoji.biting_lip" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Biting lip]]></phrase>
   <phrase title="emoji.black_cat" addon_id="XF" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Black cat]]></phrase>
   <phrase title="emoji.black_circle" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Black circle]]></phrase>
   <phrase title="emoji.black_heart" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Black heart]]></phrase>
@@ -4231,6 +4343,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="emoji.brown_heart" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Brown heart]]></phrase>
   <phrase title="emoji.brown_square" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Brown square]]></phrase>
   <phrase title="emoji.bubble_tea" addon_id="XF" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Bubble tea]]></phrase>
+  <phrase title="emoji.bubbles" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Bubbles]]></phrase>
   <phrase title="emoji.bucket" addon_id="XF" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Bucket]]></phrase>
   <phrase title="emoji.bug" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Bug]]></phrase>
   <phrase title="emoji.bulb" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Light bulb]]></phrase>
@@ -4386,6 +4499,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="emoji.cooking" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Cooking]]></phrase>
   <phrase title="emoji.cool" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[COOL button]]></phrase>
   <phrase title="emoji.copyright" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Copyright]]></phrase>
+  <phrase title="emoji.coral" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Coral]]></phrase>
   <phrase title="emoji.corn" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Ear of corn]]></phrase>
   <phrase title="emoji.couch" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Couch and lamp]]></phrase>
   <phrase title="emoji.couple" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Woman and man holding hands]]></phrase>
@@ -4510,6 +4624,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="emoji.crossed_swords" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Crossed swords]]></phrase>
   <phrase title="emoji.crown" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Crown]]></phrase>
   <phrase title="emoji.cruise_ship" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Passenger ship]]></phrase>
+  <phrase title="emoji.crutch" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Crutch]]></phrase>
   <phrase title="emoji.cry" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Crying face]]></phrase>
   <phrase title="emoji.crying_cat_face" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Crying cat]]></phrase>
   <phrase title="emoji.crystal_ball" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Crystal ball]]></phrase>
@@ -4586,6 +4701,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="emoji.dolls" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Japanese dolls]]></phrase>
   <phrase title="emoji.dolphin" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Dolphin]]></phrase>
   <phrase title="emoji.door" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Door]]></phrase>
+  <phrase title="emoji.dotted_line_face" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Dotted line face]]></phrase>
   <phrase title="emoji.doughnut" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Doughnut]]></phrase>
   <phrase title="emoji.dove" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Dove]]></phrase>
   <phrase title="emoji.dragon" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Dragon]]></phrase>
@@ -4632,6 +4748,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="emoji.elf_tone3" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Elf: medium skin tone]]></phrase>
   <phrase title="emoji.elf_tone4" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Elf: medium-dark skin tone]]></phrase>
   <phrase title="emoji.elf_tone5" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Elf: dark skin tone]]></phrase>
+  <phrase title="emoji.empty_nest" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Empty nest]]></phrase>
   <phrase title="emoji.end" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[END arrow]]></phrase>
   <phrase title="emoji.england" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Flag: England]]></phrase>
   <phrase title="emoji.envelope" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Envelope]]></phrase>
@@ -4648,10 +4765,14 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="emoji.eyeglasses" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Glasses]]></phrase>
   <phrase title="emoji.eyes" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Eyes]]></phrase>
   <phrase title="emoji.face_exhaling" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[Face exhaling]]></phrase>
+  <phrase title="emoji.face_holding_back_tears" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Face holding back tears]]></phrase>
   <phrase title="emoji.face_in_clouds" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[Face in clouds]]></phrase>
   <phrase title="emoji.face_vomiting" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Face vomiting]]></phrase>
+  <phrase title="emoji.face_with_diagonal_mouth" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Face with diagonal mouth]]></phrase>
   <phrase title="emoji.face_with_hand_over_mouth" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Face with hand over mouth]]></phrase>
   <phrase title="emoji.face_with_monocle" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Face with monocle]]></phrase>
+  <phrase title="emoji.face_with_open_eyes_and_hand_over_mouth" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Face with open eyes and hand over mouth]]></phrase>
+  <phrase title="emoji.face_with_peeking_eye" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Face with peeking eye]]></phrase>
   <phrase title="emoji.face_with_raised_eyebrow" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Face with raised eyebrow]]></phrase>
   <phrase title="emoji.face_with_spiral_eyes" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[Face with spiral eyes]]></phrase>
   <phrase title="emoji.face_with_symbols_over_mouth" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Face with symbols on mouth]]></phrase>
@@ -5089,6 +5210,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="emoji.hamburger" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Hamburger]]></phrase>
   <phrase title="emoji.hammer" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Hammer]]></phrase>
   <phrase title="emoji.hammer_pick" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Hammer and pick]]></phrase>
+  <phrase title="emoji.hamsa" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Hamsa]]></phrase>
   <phrase title="emoji.hamster" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Hamster]]></phrase>
   <phrase title="emoji.hand_splayed" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Hand with fingers splayed]]></phrase>
   <phrase title="emoji.hand_splayed_tone1" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Hand with fingers splayed: light skin tone]]></phrase>
@@ -5096,8 +5218,39 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="emoji.hand_splayed_tone3" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Hand with fingers splayed: medium skin tone]]></phrase>
   <phrase title="emoji.hand_splayed_tone4" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Hand with fingers splayed: medium-dark skin tone]]></phrase>
   <phrase title="emoji.hand_splayed_tone5" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Hand with fingers splayed: dark skin tone]]></phrase>
+  <phrase title="emoji.hand_with_index_finger_and_thumb_crossed" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Hand with index finger and thumb crossed]]></phrase>
+  <phrase title="emoji.hand_with_index_finger_and_thumb_crossed_tone1" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Hand with index finger and thumb crossed: light skin tone]]></phrase>
+  <phrase title="emoji.hand_with_index_finger_and_thumb_crossed_tone2" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Hand with index finger and thumb crossed: medium-light skin tone]]></phrase>
+  <phrase title="emoji.hand_with_index_finger_and_thumb_crossed_tone3" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Hand with index finger and thumb crossed: medium skin tone]]></phrase>
+  <phrase title="emoji.hand_with_index_finger_and_thumb_crossed_tone4" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Hand with index finger and thumb crossed: medium-dark skin tone]]></phrase>
+  <phrase title="emoji.hand_with_index_finger_and_thumb_crossed_tone5" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Hand with index finger and thumb crossed: dark skin tone]]></phrase>
   <phrase title="emoji.handbag" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Handbag]]></phrase>
   <phrase title="emoji.handshake" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Handshake]]></phrase>
+  <phrase title="emoji.handshake_tone1" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Handshake: light skin tone]]></phrase>
+  <phrase title="emoji.handshake_tone1_tone2" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Handshake: light skin tone, medium-light skin tone]]></phrase>
+  <phrase title="emoji.handshake_tone1_tone3" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Handshake: light skin tone, medium skin tone]]></phrase>
+  <phrase title="emoji.handshake_tone1_tone4" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Handshake: light skin tone, medium-dark skin tone]]></phrase>
+  <phrase title="emoji.handshake_tone1_tone5" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Handshake: light skin tone, dark skin tone]]></phrase>
+  <phrase title="emoji.handshake_tone2" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Handshake: medium-light skin tone]]></phrase>
+  <phrase title="emoji.handshake_tone2_tone1" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Handshake: medium-light skin tone, light skin tone]]></phrase>
+  <phrase title="emoji.handshake_tone2_tone3" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Handshake: medium-light skin tone, medium skin tone]]></phrase>
+  <phrase title="emoji.handshake_tone2_tone4" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Handshake: medium-light skin tone, medium-dark skin tone]]></phrase>
+  <phrase title="emoji.handshake_tone2_tone5" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Handshake: medium-light skin tone, dark skin tone]]></phrase>
+  <phrase title="emoji.handshake_tone3" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Handshake: medium skin tone]]></phrase>
+  <phrase title="emoji.handshake_tone3_tone1" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Handshake: medium skin tone, light skin tone]]></phrase>
+  <phrase title="emoji.handshake_tone3_tone2" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Handshake: medium skin tone, medium-light skin tone]]></phrase>
+  <phrase title="emoji.handshake_tone3_tone4" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Handshake: medium skin tone, medium-dark skin tone]]></phrase>
+  <phrase title="emoji.handshake_tone3_tone5" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Handshake: medium skin tone, dark skin tone]]></phrase>
+  <phrase title="emoji.handshake_tone4" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Handshake: medium-dark skin tone]]></phrase>
+  <phrase title="emoji.handshake_tone4_tone1" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Handshake: medium-dark skin tone, light skin tone]]></phrase>
+  <phrase title="emoji.handshake_tone4_tone2" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Handshake: medium-dark skin tone, medium-light skin tone]]></phrase>
+  <phrase title="emoji.handshake_tone4_tone3" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Handshake: medium-dark skin tone, medium skin tone]]></phrase>
+  <phrase title="emoji.handshake_tone4_tone5" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Handshake: medium-dark skin tone, dark skin tone]]></phrase>
+  <phrase title="emoji.handshake_tone5" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Handshake: dark skin tone]]></phrase>
+  <phrase title="emoji.handshake_tone5_tone1" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Handshake: dark skin tone, light skin tone]]></phrase>
+  <phrase title="emoji.handshake_tone5_tone2" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Handshake: dark skin tone, medium-light skin tone]]></phrase>
+  <phrase title="emoji.handshake_tone5_tone3" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Handshake: dark skin tone, medium skin tone]]></phrase>
+  <phrase title="emoji.handshake_tone5_tone4" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Handshake: dark skin tone, medium-dark skin tone]]></phrase>
   <phrase title="emoji.hash" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Keycap: #]]></phrase>
   <phrase title="emoji.hatched_chick" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Front-facing baby chick]]></phrase>
   <phrase title="emoji.hatching_chick" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Hatching chick]]></phrase>
@@ -5116,6 +5269,12 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="emoji.heart_exclamation" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Heart exclamation]]></phrase>
   <phrase title="emoji.heart_eyes" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Smiling face with heart-eyes]]></phrase>
   <phrase title="emoji.heart_eyes_cat" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Smiling cat with heart-eyes]]></phrase>
+  <phrase title="emoji.heart_hands" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Heart hands]]></phrase>
+  <phrase title="emoji.heart_hands_tone1" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Heart hands: light skin tone]]></phrase>
+  <phrase title="emoji.heart_hands_tone2" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Heart hands: medium-light skin tone]]></phrase>
+  <phrase title="emoji.heart_hands_tone3" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Heart hands: medium skin tone]]></phrase>
+  <phrase title="emoji.heart_hands_tone4" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Heart hands: medium-dark skin tone]]></phrase>
+  <phrase title="emoji.heart_hands_tone5" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Heart hands: dark skin tone]]></phrase>
   <phrase title="emoji.heart_on_fire" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[Heart on fire]]></phrase>
   <phrase title="emoji.heartbeat" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Beating heart]]></phrase>
   <phrase title="emoji.heartpulse" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Growing heart]]></phrase>
@@ -5123,6 +5282,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="emoji.heavy_check_mark" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Check mark]]></phrase>
   <phrase title="emoji.heavy_division_sign" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Division sign]]></phrase>
   <phrase title="emoji.heavy_dollar_sign" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Heavy dollar sign]]></phrase>
+  <phrase title="emoji.heavy_equals_sign" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Heavy equals sign]]></phrase>
   <phrase title="emoji.heavy_minus_sign" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Minus sign]]></phrase>
   <phrase title="emoji.heavy_multiplication_x" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Multiplication sign]]></phrase>
   <phrase title="emoji.heavy_plus_sign" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Plus sign]]></phrase>
@@ -5167,10 +5327,17 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="emoji.ice_skate" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Ice skate]]></phrase>
   <phrase title="emoji.icecream" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Soft ice cream]]></phrase>
   <phrase title="emoji.id" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[ID button]]></phrase>
+  <phrase title="emoji.identification_card" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Identification card]]></phrase>
   <phrase title="emoji.ideograph_advantage" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Japanese “bargain” button]]></phrase>
   <phrase title="emoji.imp" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Angry face with horns]]></phrase>
   <phrase title="emoji.inbox_tray" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Inbox tray]]></phrase>
   <phrase title="emoji.incoming_envelope" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Incoming envelope]]></phrase>
+  <phrase title="emoji.index_pointing_at_the_viewer" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Index pointing at the viewer]]></phrase>
+  <phrase title="emoji.index_pointing_at_the_viewer_tone1" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Index pointing at the viewer: light skin tone]]></phrase>
+  <phrase title="emoji.index_pointing_at_the_viewer_tone2" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Index pointing at the viewer: medium-light skin tone]]></phrase>
+  <phrase title="emoji.index_pointing_at_the_viewer_tone3" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Index pointing at the viewer: medium skin tone]]></phrase>
+  <phrase title="emoji.index_pointing_at_the_viewer_tone4" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Index pointing at the viewer: medium-dark skin tone]]></phrase>
+  <phrase title="emoji.index_pointing_at_the_viewer_tone5" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Index pointing at the viewer: dark skin tone]]></phrase>
   <phrase title="emoji.infinity" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Infinity]]></phrase>
   <phrase title="emoji.information_source" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Information]]></phrase>
   <phrase title="emoji.innocent" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Smiling face with halo]]></phrase>
@@ -5182,6 +5349,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="emoji.japanese_castle" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Japanese castle]]></phrase>
   <phrase title="emoji.japanese_goblin" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Goblin]]></phrase>
   <phrase title="emoji.japanese_ogre" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Ogre]]></phrase>
+  <phrase title="emoji.jar" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Jar]]></phrase>
   <phrase title="emoji.jeans" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Jeans]]></phrase>
   <phrase title="emoji.jigsaw" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Puzzle piece]]></phrase>
   <phrase title="emoji.joy" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Face with tears of joy]]></phrase>
@@ -5337,6 +5505,12 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="emoji.left_luggage" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Left luggage]]></phrase>
   <phrase title="emoji.left_right_arrow" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Left-right arrow]]></phrase>
   <phrase title="emoji.leftwards_arrow_with_hook" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Right arrow curving left]]></phrase>
+  <phrase title="emoji.leftwards_hand" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Leftwards hand]]></phrase>
+  <phrase title="emoji.leftwards_hand_tone1" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Leftwards hand: light skin tone]]></phrase>
+  <phrase title="emoji.leftwards_hand_tone2" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Leftwards hand: medium-light skin tone]]></phrase>
+  <phrase title="emoji.leftwards_hand_tone3" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Leftwards hand: medium skin tone]]></phrase>
+  <phrase title="emoji.leftwards_hand_tone4" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Leftwards hand: medium-dark skin tone]]></phrase>
+  <phrase title="emoji.leftwards_hand_tone5" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Leftwards hand: dark skin tone]]></phrase>
   <phrase title="emoji.leg" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Leg]]></phrase>
   <phrase title="emoji.leg_tone1" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Leg: light skin tone]]></phrase>
   <phrase title="emoji.leg_tone2" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Leg: medium-light skin tone]]></phrase>
@@ -5367,6 +5541,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="emoji.lollipop" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Lollipop]]></phrase>
   <phrase title="emoji.long_drum" addon_id="XF" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Long drum]]></phrase>
   <phrase title="emoji.loop" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Double curly loop]]></phrase>
+  <phrase title="emoji.lotus" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Lotus]]></phrase>
   <phrase title="emoji.loud_sound" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Speaker high volume]]></phrase>
   <phrase title="emoji.loudspeaker" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Loudspeaker]]></phrase>
   <phrase title="emoji.love_hotel" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Love hotel]]></phrase>
@@ -5377,6 +5552,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="emoji.love_you_gesture_tone3" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Love-you gesture: medium skin tone]]></phrase>
   <phrase title="emoji.love_you_gesture_tone4" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Love-you gesture: medium-dark skin tone]]></phrase>
   <phrase title="emoji.love_you_gesture_tone5" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Love-you gesture: dark skin tone]]></phrase>
+  <phrase title="emoji.low_battery" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Low battery]]></phrase>
   <phrase title="emoji.low_brightness" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Dim button]]></phrase>
   <phrase title="emoji.luggage" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Luggage]]></phrase>
   <phrase title="emoji.lungs" addon_id="XF" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Lungs]]></phrase>
@@ -5848,6 +6024,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="emoji.medical_symbol" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Medical symbol]]></phrase>
   <phrase title="emoji.mega" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Megaphone]]></phrase>
   <phrase title="emoji.melon" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Melon]]></phrase>
+  <phrase title="emoji.melting_face" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Melting face]]></phrase>
   <phrase title="emoji.men_holding_hands_tone1" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Men holding hands: light skin tone]]></phrase>
   <phrase title="emoji.men_holding_hands_tone1_tone2" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Men holding hands: light skin tone, medium-light skin tone]]></phrase>
   <phrase title="emoji.men_holding_hands_tone1_tone3" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Men holding hands: light skin tone, medium skin tone]]></phrase>
@@ -5920,6 +6097,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="emoji.minibus" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Minibus]]></phrase>
   <phrase title="emoji.minidisc" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Computer disk]]></phrase>
   <phrase title="emoji.mirror" addon_id="XF" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Mirror]]></phrase>
+  <phrase title="emoji.mirror_ball" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Mirror ball]]></phrase>
   <phrase title="emoji.mobile_phone" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mobile phone]]></phrase>
   <phrase title="emoji.mobile_phone_off" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Mobile phone off]]></phrase>
   <phrase title="emoji.money_mouth" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Money-mouth face]]></phrase>
@@ -5983,6 +6161,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="emoji.necktie" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Necktie]]></phrase>
   <phrase title="emoji.negative_squared_cross_mark" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Cross mark button]]></phrase>
   <phrase title="emoji.nerd" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Nerd face]]></phrase>
+  <phrase title="emoji.nest_with_eggs" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Nest with eggs]]></phrase>
   <phrase title="emoji.nesting_dolls" addon_id="XF" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Nesting dolls]]></phrase>
   <phrase title="emoji.neutral_face" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Neutral face]]></phrase>
   <phrase title="emoji.new" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[NEW button]]></phrase>
@@ -6093,7 +6272,19 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="emoji.page_with_curl" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Page with curl]]></phrase>
   <phrase title="emoji.pager" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Pager]]></phrase>
   <phrase title="emoji.paintbrush" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Paintbrush]]></phrase>
+  <phrase title="emoji.palm_down_hand" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Palm down hand]]></phrase>
+  <phrase title="emoji.palm_down_hand_tone1" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Palm down hand: light skin tone]]></phrase>
+  <phrase title="emoji.palm_down_hand_tone2" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Palm down hand: medium-light skin tone]]></phrase>
+  <phrase title="emoji.palm_down_hand_tone3" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Palm down hand: medium skin tone]]></phrase>
+  <phrase title="emoji.palm_down_hand_tone4" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Palm down hand: medium-dark skin tone]]></phrase>
+  <phrase title="emoji.palm_down_hand_tone5" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Palm down hand: dark skin tone]]></phrase>
   <phrase title="emoji.palm_tree" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Palm tree]]></phrase>
+  <phrase title="emoji.palm_up_hand" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Palm up hand]]></phrase>
+  <phrase title="emoji.palm_up_hand_tone1" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Palm up hand: light skin tone]]></phrase>
+  <phrase title="emoji.palm_up_hand_tone2" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Palm up hand: medium-light skin tone]]></phrase>
+  <phrase title="emoji.palm_up_hand_tone3" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Palm up hand: medium skin tone]]></phrase>
+  <phrase title="emoji.palm_up_hand_tone4" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Palm up hand: medium-dark skin tone]]></phrase>
+  <phrase title="emoji.palm_up_hand_tone5" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Palm up hand: dark skin tone]]></phrase>
   <phrase title="emoji.palms_up_together" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Palms up together]]></phrase>
   <phrase title="emoji.palms_up_together_tone1" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Palms up together: light skin tone]]></phrase>
   <phrase title="emoji.palms_up_together_tone2" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Palms up together: medium-light skin tone]]></phrase>
@@ -6395,6 +6586,12 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="emoji.person_wearing_turban_tone4" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person wearing turban: medium-dark skin tone]]></phrase>
   <phrase title="emoji.person_wearing_turban_tone5" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person wearing turban: dark skin tone]]></phrase>
   <phrase title="emoji.person_white_hair" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person: white hair]]></phrase>
+  <phrase title="emoji.person_with_crown" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Person with crown]]></phrase>
+  <phrase title="emoji.person_with_crown_tone1" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Person with crown: light skin tone]]></phrase>
+  <phrase title="emoji.person_with_crown_tone2" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Person with crown: medium-light skin tone]]></phrase>
+  <phrase title="emoji.person_with_crown_tone3" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Person with crown: medium skin tone]]></phrase>
+  <phrase title="emoji.person_with_crown_tone4" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Person with crown: medium-dark skin tone]]></phrase>
+  <phrase title="emoji.person_with_crown_tone5" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Person with crown: dark skin tone]]></phrase>
   <phrase title="emoji.person_with_probing_cane" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person with probing cane]]></phrase>
   <phrase title="emoji.person_with_probing_cane_tone1" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person with probing cane: light skin tone]]></phrase>
   <phrase title="emoji.person_with_probing_cane_tone2" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Person with probing cane: medium-light skin tone]]></phrase>
@@ -6442,6 +6639,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="emoji.placard" addon_id="XF" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Placard]]></phrase>
   <phrase title="emoji.place_of_worship" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Place of worship]]></phrase>
   <phrase title="emoji.play_pause" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Play or pause button]]></phrase>
+  <phrase title="emoji.playground_slide" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Playground slide]]></phrase>
   <phrase title="emoji.pleading_face" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Pleading face]]></phrase>
   <phrase title="emoji.plunger" addon_id="XF" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Plunger]]></phrase>
   <phrase title="emoji.point_down" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Backhand index pointing down]]></phrase>
@@ -6494,6 +6692,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="emoji.pouch" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Clutch bag]]></phrase>
   <phrase title="emoji.poultry_leg" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Poultry leg]]></phrase>
   <phrase title="emoji.pound" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Pound banknote]]></phrase>
+  <phrase title="emoji.pouring_liquid" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Pouring liquid]]></phrase>
   <phrase title="emoji.pouting_cat" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Pouting cat]]></phrase>
   <phrase title="emoji.pray" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Folded hands]]></phrase>
   <phrase title="emoji.pray_tone1" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Folded hands: light skin tone]]></phrase>
@@ -6502,6 +6701,18 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="emoji.pray_tone4" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Folded hands: medium-dark skin tone]]></phrase>
   <phrase title="emoji.pray_tone5" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Folded hands: dark skin tone]]></phrase>
   <phrase title="emoji.prayer_beads" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Prayer beads]]></phrase>
+  <phrase title="emoji.pregnant_man" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Pregnant man]]></phrase>
+  <phrase title="emoji.pregnant_man_tone1" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Pregnant man: light skin tone]]></phrase>
+  <phrase title="emoji.pregnant_man_tone2" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Pregnant man: medium-light skin tone]]></phrase>
+  <phrase title="emoji.pregnant_man_tone3" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Pregnant man: medium skin tone]]></phrase>
+  <phrase title="emoji.pregnant_man_tone4" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Pregnant man: medium-dark skin tone]]></phrase>
+  <phrase title="emoji.pregnant_man_tone5" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Pregnant man: dark skin tone]]></phrase>
+  <phrase title="emoji.pregnant_person" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Pregnant person]]></phrase>
+  <phrase title="emoji.pregnant_person_tone1" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Pregnant person: light skin tone]]></phrase>
+  <phrase title="emoji.pregnant_person_tone2" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Pregnant person: medium-light skin tone]]></phrase>
+  <phrase title="emoji.pregnant_person_tone3" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Pregnant person: medium skin tone]]></phrase>
+  <phrase title="emoji.pregnant_person_tone4" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Pregnant person: medium-dark skin tone]]></phrase>
+  <phrase title="emoji.pregnant_person_tone5" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Pregnant person: dark skin tone]]></phrase>
   <phrase title="emoji.pregnant_woman" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Pregnant woman]]></phrase>
   <phrase title="emoji.pregnant_woman_tone1" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Pregnant woman: light skin tone]]></phrase>
   <phrase title="emoji.pregnant_woman_tone2" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Pregnant woman: medium-light skin tone]]></phrase>
@@ -6601,7 +6812,14 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="emoji.right_facing_fist_tone3" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Right-facing fist: medium skin tone]]></phrase>
   <phrase title="emoji.right_facing_fist_tone4" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Right-facing fist: medium-dark skin tone]]></phrase>
   <phrase title="emoji.right_facing_fist_tone5" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Right-facing fist: dark skin tone]]></phrase>
+  <phrase title="emoji.rightwards_hand" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Rightwards hand]]></phrase>
+  <phrase title="emoji.rightwards_hand_tone1" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Rightwards hand: light skin tone]]></phrase>
+  <phrase title="emoji.rightwards_hand_tone2" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Rightwards hand: medium-light skin tone]]></phrase>
+  <phrase title="emoji.rightwards_hand_tone3" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Rightwards hand: medium skin tone]]></phrase>
+  <phrase title="emoji.rightwards_hand_tone4" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Rightwards hand: medium-dark skin tone]]></phrase>
+  <phrase title="emoji.rightwards_hand_tone5" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Rightwards hand: dark skin tone]]></phrase>
   <phrase title="emoji.ring" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Ring]]></phrase>
+  <phrase title="emoji.ring_buoy" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Ring buoy]]></phrase>
   <phrase title="emoji.ringed_planet" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Ringed planet]]></phrase>
   <phrase title="emoji.robot" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Robot]]></phrase>
   <phrase title="emoji.rock" addon_id="XF" version_id="2020053" version_string="2.2.0 Release Candidate 3"><![CDATA[Rock]]></phrase>
@@ -6626,6 +6844,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="emoji.sake" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Sake]]></phrase>
   <phrase title="emoji.salad" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Green salad]]></phrase>
   <phrase title="emoji.salt" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Salt]]></phrase>
+  <phrase title="emoji.saluting_face" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Saluting face]]></phrase>
   <phrase title="emoji.sandal" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Woman’s sandal]]></phrase>
   <phrase title="emoji.sandwich" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Sandwich]]></phrase>
   <phrase title="emoji.santa" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Santa Claus]]></phrase>
@@ -6901,6 +7120,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="emoji.triangular_ruler" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Triangular ruler]]></phrase>
   <phrase title="emoji.trident" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Trident emblem]]></phrase>
   <phrase title="emoji.triumph" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Face with steam from nose]]></phrase>
+  <phrase title="emoji.troll" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Troll]]></phrase>
   <phrase title="emoji.trolleybus" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Trolleybus]]></phrase>
   <phrase title="emoji.trophy" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Trophy]]></phrase>
   <phrase title="emoji.tropical_drink" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Tropical drink]]></phrase>
@@ -6989,6 +7209,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="emoji.wedding" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Wedding]]></phrase>
   <phrase title="emoji.whale" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Spouting whale]]></phrase>
   <phrase title="emoji.whale2" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Whale]]></phrase>
+  <phrase title="emoji.wheel" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Wheel]]></phrase>
   <phrase title="emoji.wheel_of_dharma" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Wheel of dharma]]></phrase>
   <phrase title="emoji.wheelchair" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Wheelchair symbol]]></phrase>
   <phrase title="emoji.white_check_mark" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Check mark button]]></phrase>
@@ -7501,6 +7722,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="emoji.writing_hand_tone4" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Writing hand: medium-dark skin tone]]></phrase>
   <phrase title="emoji.writing_hand_tone5" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Writing hand: dark skin tone]]></phrase>
   <phrase title="emoji.x" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Cross mark]]></phrase>
+  <phrase title="emoji.x_ray" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[X-ray]]></phrase>
   <phrase title="emoji.yarn" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Yarn]]></phrase>
   <phrase title="emoji.yawning_face" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Yawning face]]></phrase>
   <phrase title="emoji.yellow_circle" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Yellow circle]]></phrase>
@@ -7538,6 +7760,7 @@ Your callback should return an HTML string, and have a signature as follows:<br 
   <phrase title="enable_cache_and_cache_for_x_minutes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable cache and cache for X minutes]]></phrase>
   <phrase title="enable_callback_execution" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable callback execution]]></phrase>
   <phrase title="enable_disable_route_filter" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable / disable route filter]]></phrase>
+  <phrase title="enable_disable_user_selection_x" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Enable / disable user selection '{title}']]></phrase>
   <phrase title="enable_disable_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable / disable '{title}']]></phrase>
   <phrase title="enable_email_confirmation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable email confirmation]]></phrase>
   <phrase title="enable_email_notification" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable email notification]]></phrase>
@@ -8986,10 +9209,12 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_created_date" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[Created date]]></phrase>
   <phrase title="mjc_credit" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[Credit]]></phrase>
   <phrase title="mjc_credits" addon_id="MJ/Credits" version_id="1001100" version_string="1.1.1"><![CDATA[Credits]]></phrase>
+  <phrase title="mjc_credits_admin_adjust" addon_id="MJ/Credits" version_id="1030600" version_string="1.3.6"><![CDATA[由管理员进行调整。]]></phrase>
   <phrase title="mjc_credits_are_you_sure_view_for_x_y" addon_id="MJ/Credits" version_id="1000400" version_string="1.0.4"><![CDATA[您确定要花费{param1} {param2}来解锁此内容吗？]]></phrase>
   <phrase title="mjc_credits_charge_for_content" addon_id="MJ/Credits" version_id="1000500" version_string="1.0.5"><![CDATA[收取内容费用]]></phrase>
   <phrase title="mjc_credits_costs_x_y" addon_id="MJ/Credits" version_id="1000500" version_string="1.0.5"><![CDATA[花费 {param1} {param2}]]></phrase>
   <phrase title="mjc_credits_credits_charged" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[credits charged]]></phrase>
+  <phrase title="mjc_credits_credits_long" addon_id="MJ/Credits" version_id="1030600" version_string="1.3.6"><![CDATA[[BR] 积分]]></phrase>
   <phrase title="mjc_credits_currency" addon_id="MJ/Credits" version_id="1010600" version_string="1.1.6"><![CDATA[Currency]]></phrase>
   <phrase title="mjc_credits_currency_displaycurrency" addon_id="MJ/Credits" version_id="1020501" version_string="1.2.5"><![CDATA[钱包弹出窗口显示货币]]></phrase>
   <phrase title="mjc_credits_currency_displaycurrency_explain" addon_id="MJ/Credits" version_id="1020501" version_string="1.2.5"><![CDATA[如果选中，此货币将显示在钱包弹创上。]]></phrase>
@@ -9005,6 +9230,8 @@ The callback should return either <code>true</code> or <code>false</code>, where
 
 例如，如果将此支付配置文件添加到收费<strong>¥5.0</strong>的用户升级中，并且将此数字设置为<code>5</code>，则将向用户收取<strong>25点的积分。]]></phrase>
   <phrase title="mjc_credits_invalid_currency" addon_id="MJ/Credits" version_id="1010600" version_string="1.1.6"><![CDATA[Invaild currency]]></phrase>
+  <phrase title="mjc_credits_less_than_x_y" addon_id="MJ/Credits" version_id="1030600" version_string="1.3.6"><![CDATA[用户拥有少于 X {param1}]]></phrase>
+  <phrase title="mjc_credits_more_than_x_y" addon_id="MJ/Credits" version_id="1030600" version_string="1.3.6"><![CDATA[用户拥有超过 X {param1}]]></phrase>
   <phrase title="mjc_credits_must_specify_exchange_rate" addon_id="MJ/Credits" version_id="1010600" version_string="1.1.6"><![CDATA[必须指定汇率。]]></phrase>
   <phrase title="mjc_credits_navbar_right_end" addon_id="MJ/Credits" version_id="1020401" version_string="1.2.4"><![CDATA[在“提醒”选项卡后方]]></phrase>
   <phrase title="mjc_credits_navbar_right_middle" addon_id="MJ/Credits" version_id="1020401" version_string="1.2.4"><![CDATA[在“提醒”选项卡前方]]></phrase>
@@ -9082,9 +9309,11 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_event.60" addon_id="" version_id="0" version_string=""><![CDATA[动态被删除]]></phrase>
   <phrase title="mjc_event.61" addon_id="" version_id="0" version_string=""><![CDATA[推荐奖励]]></phrase>
   <phrase title="mjc_event.62" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="mjc_event.63" addon_id="" version_id="0" version_string=""><![CDATA[失去关注]]></phrase>
   <phrase title="mjc_event.7" addon_id="" version_id="0" version_string=""><![CDATA[Lose support]]></phrase>
   <phrase title="mjc_event.9" addon_id="" version_id="0" version_string=""><![CDATA[New thread]]></phrase>
   <phrase title="mjc_event_attachment_extension_explain" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[列出允许应用于此事件的文件扩展名。在扩展之间使用空格或分行符。]]></phrase>
+  <phrase title="mjc_event_def_desc.adjust" addon_id="MJ/Credits" version_id="1030500" version_string="1.3.5"><![CDATA[]]></phrase>
   <phrase title="mjc_event_def_desc.attachment_delete" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_event_def_desc.attachment_download" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_event_def_desc.attachment_download_receive" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
@@ -9152,6 +9381,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_event_def_desc.transfer" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[转账/收款 积分]]></phrase>
   <phrase title="mjc_event_def_desc.unfollow" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[用户取消关注某人。]]></phrase>
   <phrase title="mjc_event_def_desc.update_status" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="mjc_event_def_title.adjust" addon_id="MJ/Credits" version_id="1030500" version_string="1.3.5"><![CDATA[调整]]></phrase>
   <phrase title="mjc_event_def_title.attachment_delete" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Delete annex]]></phrase>
   <phrase title="mjc_event_def_title.attachment_download" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Download annex]]></phrase>
   <phrase title="mjc_event_def_title.attachment_download_receive" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[获取附件下载]]></phrase>
@@ -9261,6 +9491,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_event_desc.60" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_desc.61" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_desc.62" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="mjc_event_desc.63" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_desc.7" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_desc.9" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_description_explain" addon_id="MJ/Credits" version_id="1000200" version_string="1.0.2"><![CDATA[您可以选择输入此活动的特定描述。 如果您未输入一个，则事件将显示相应的说明。]]></phrase>
@@ -9802,6 +10033,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="nav.siropuAdsManagerCreate" addon_id="Siropu/AdsManager" version_id="1" version_string="2.0.0"><![CDATA[Create Ad]]></phrase>
   <phrase title="nav.siropuAdsManagerInvoices" addon_id="Siropu/AdsManager" version_id="1" version_string="2.0.0"><![CDATA[Your Invoices]]></phrase>
   <phrase title="nav.siropuReferralContests" addon_id="Siropu/ReferralContests" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Referral Contests]]></phrase>
+  <phrase title="nav.thfeature" addon_id="ThemeHouse/Feature" version_id="1001070" version_string="1.0.10"><![CDATA[Featured]]></phrase>
   <phrase title="nav.toolcart" addon_id="" version_id="0" version_string=""><![CDATA[Tool cart]]></phrase>
   <phrase title="nav.unansweredThreads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unanswered threads]]></phrase>
   <phrase title="nav.watched" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Watched]]></phrase>
@@ -10095,6 +10327,7 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="only_show_questions_youve_answered" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Only show questions you've answered]]></phrase>
   <phrase title="only_show_suggestions_youve_voted_on" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Only show suggestions you've voted on]]></phrase>
   <phrase title="only_show_unsolved_questions" addon_id="XF" version_id="2020470" version_string="2.2.4"><![CDATA[Only show unsolved questions]]></phrase>
+  <phrase title="only_valid_users_may_change_their_username" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Only valid users may change their username.]]></phrase>
   <phrase title="oops_we_ran_into_some_problems" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Oops! We ran into some problems.]]></phrase>
   <phrase title="oops_we_ran_into_some_problems_more_details_console" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Oops! We ran into some problems. Please try again later. More error details may be in the browser console.]]></phrase>
   <phrase title="open" addon_id="XF" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Open]]></phrase>
@@ -10159,12 +10392,16 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.censorCharacter" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Censor character]]></phrase>
   <phrase title="option.censorWords" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Words to censor]]></phrase>
   <phrase title="option.changeLogLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Change log length]]></phrase>
+  <phrase title="option.cnxfans_global_stickies_blacklist_nodes" addon_id="CnXFans/GlobalStickies" version_id="1000070" version_string="1.0.0"><![CDATA[黑名单节点]]></phrase>
+  <phrase title="option.cnxfans_global_stickies_master_nodes" addon_id="CnXFans/GlobalStickies" version_id="1000070" version_string="1.0.0"><![CDATA[主节点]]></phrase>
   <phrase title="option.collectServerStats" addon_id="XF" version_id="2011070" version_string="2.1.10"><![CDATA[Send anonymous usage statistics]]></phrase>
   <phrase title="option.contactEmailAddress" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Contact email address]]></phrase>
   <phrase title="option.contactEmailSenderHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Sender info in from header on contact emails]]></phrase>
   <phrase title="option.contactUrl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Contact URL]]></phrase>
   <phrase title="option.conversationPopupExpiryHours" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Hours to retain read conversations in popup]]></phrase>
   <phrase title="option.convertMarkdownToBbCode" addon_id="XF" version_id="2010131" version_string="2.1.1 Beta 1"><![CDATA[Convert Markdown-style content to BB code]]></phrase>
+  <phrase title="option.cookieConsent" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[Cookie consent]]></phrase>
+  <phrase title="option.cookieConsentLogLength" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Cookie consent log length]]></phrase>
   <phrase title="option.currentVersionId" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Current version ID]]></phrase>
   <phrase title="option.dbtechShopContentDeleteThreadAction" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Content deletion thread action]]></phrase>
   <phrase title="option.dbtechShopDefaultItemOwner" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Default item owner]]></phrase>
@@ -10315,6 +10552,7 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.lastPageLinks" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Maximum last page links]]></phrase>
   <phrase title="option.lightBoxUniversal" addon_id="XF" version_id="2010037" version_string="2.1.0 Beta 7"><![CDATA[Lightbox displays all attached thumbnails on page]]></phrase>
   <phrase title="option.linkShare" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Enable link share button]]></phrase>
+  <phrase title="option.linkSubmitToken" addon_id="CnXFans/LinkSubmit" version_id="1000000" version_string="1.0.0"><![CDATA[Token]]></phrase>
   <phrase title="option.loginLimit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Login limit method]]></phrase>
   <phrase title="option.logoLink" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Link logo to home page URL]]></phrase>
   <phrase title="option.lostPasswordCaptcha" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Use CAPTCHA for lost password form]]></phrase>
@@ -10378,12 +10616,12 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.sharedIpsCheckLimit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Shared IPs check limit]]></phrase>
   <phrase title="option.shortcodeToEmoji" addon_id="XF" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Convert short code to emoji / smilies]]></phrase>
   <phrase title="option.showEmojiInSmilieMenu" addon_id="XF" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[Show emoji in smilie menu]]></phrase>
-  <phrase title="option.showFirstCookieNotice" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Show cookie notice to guests]]></phrase>
   <phrase title="option.showMessageOnlineStatus" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Show online status indicator]]></phrase>
   <phrase title="option.siropuAdsManagerAccountSection" addon_id="Siropu/AdsManager" version_id="2013070" version_string="2.1.3"><![CDATA[Display advertiser section menu in user account menu]]></phrase>
   <phrase title="option.siropuAdsManagerAdActions" addon_id="Siropu/AdsManager" version_id="2000170" version_string="2.0.1"><![CDATA[Enable ad actions]]></phrase>
   <phrase title="option.siropuAdsManagerAdBlock" addon_id="Siropu/AdsManager" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[When AdBlock is detected]]></phrase>
   <phrase title="option.siropuAdsManagerAdBlockDevices" addon_id="Siropu/AdsManager" version_id="2031170" version_string="2.3.11"><![CDATA[Enable AdBlock detection for devices]]></phrase>
+  <phrase title="option.siropuAdsManagerAdBlockDisplayAfterXPageViews" addon_id="Siropu/AdsManager" version_id="2041370" version_string="2.4.13"><![CDATA[AdBlock notice display after]]></phrase>
   <phrase title="option.siropuAdsManagerAdBlockDisplayInterval" addon_id="Siropu/AdsManager" version_id="2040770" version_string="2.4.7"><![CDATA[AdBlock notice display interval]]></phrase>
   <phrase title="option.siropuAdsManagerAdBlockExcludePages" addon_id="Siropu/AdsManager" version_id="2030770" version_string="2.3.7"><![CDATA[Exclude pages from AdBlock detection]]></phrase>
   <phrase title="option.siropuAdsManagerAdBlockExcludeUserGroup" addon_id="Siropu/AdsManager" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Exclude user groups from AdBlock detection]]></phrase>
@@ -10394,6 +10632,7 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.siropuAdsManagerAdminAlertNotification" addon_id="Siropu/AdsManager" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Receive alert notification]]></phrase>
   <phrase title="option.siropuAdsManagerAdminEmailNotification" addon_id="Siropu/AdsManager" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Receive email notification]]></phrase>
   <phrase title="option.siropuAdsManagerAdsPerPage" addon_id="Siropu/AdsManager" version_id="2031370" version_string="2.3.13"><![CDATA[Ads per page]]></phrase>
+  <phrase title="option.siropuAdsManagerAdsTxt" addon_id="Siropu/AdsManager" version_id="2041370" version_string="2.4.13"><![CDATA[ads.txt]]></phrase>
   <phrase title="option.siropuAdsManagerAdvertiserUserGroups" addon_id="Siropu/AdsManager" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Advertiser user groups]]></phrase>
   <phrase title="option.siropuAdsManagerAdvertisersPage" addon_id="Siropu/AdsManager" version_id="2000036" version_string="2.0.0-Beta-6"><![CDATA[Enable advertisers page]]></phrase>
   <phrase title="option.siropuAdsManagerAdvertisersWidget" addon_id="Siropu/AdsManager" version_id="2011070" version_string="2.1.1"><![CDATA[Enable advertisers widget]]></phrase>
@@ -10430,7 +10669,6 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.siropuAdsManagerKeywordDescription" addon_id="Siropu/AdsManager" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Maximum keyword description length]]></phrase>
   <phrase title="option.siropuAdsManagerKeywordMaxWords" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0-Beta-1"><![CDATA[Maximum words in a keyword]]></phrase>
   <phrase title="option.siropuAdsManagerKeywordThreadCustomFields" addon_id="Siropu/AdsManager" version_id="2030770" version_string="2.3.7"><![CDATA[Enable keyword ads in thread custom fields]]></phrase>
-  <phrase title="option.siropuAdsManagerLazyLoading" addon_id="Siropu/AdsManager" version_id="2031270" version_string="2.3.12"><![CDATA[Enable image lazy loading]]></phrase>
   <phrase title="option.siropuAdsManagerMaxAdDescriptionLength" addon_id="Siropu/AdsManager" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Maximum ad description length]]></phrase>
   <phrase title="option.siropuAdsManagerMaxAdTitleLength" addon_id="Siropu/AdsManager" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Maximum ad title length]]></phrase>
   <phrase title="option.siropuAdsManagerMaxBgImageSize" addon_id="Siropu/AdsManager" version_id="2010070" version_string="2.1.0"><![CDATA[Maximum background image size]]></phrase>
@@ -10569,6 +10807,19 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.thuix_enableStyleOptions" addon_id="ThemeHouse/UIX" version_id="2001270" version_string="2.0.12"><![CDATA[Enable style options in user preferences]]></phrase>
   <phrase title="option.thuix_userStyleChangeStorage" addon_id="ThemeHouse/UIX" version_id="2001270" version_string="2.0.12"><![CDATA[Remember user style changes]]></phrase>
   <phrase title="option.thusernamecolor_disallowedColors" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Disallowed custom colors]]></phrase>
+  <phrase title="option.tl_ImageOptimizer_disableUserGroups" addon_id="Truonglv/ImageOptimizer" version_id="2000300" version_string="2.0.3"><![CDATA[Disable optimize images for user groups]]></phrase>
+  <phrase title="option.tl_ImageOptimizer_enabled" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[Enable optimizing?]]></phrase>
+  <phrase title="option.tl_ImageOptimizer_gif" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[`gifsicle` path]]></phrase>
+  <phrase title="option.tl_ImageOptimizer_gifOps" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[`gifsicle` options]]></phrase>
+  <phrase title="option.tl_ImageOptimizer_jpeg" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[`jpegoptim` path]]></phrase>
+  <phrase title="option.tl_ImageOptimizer_jpegOps" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[`jpegoptim` options]]></phrase>
+  <phrase title="option.tl_ImageOptimizer_keepLogLength" addon_id="Truonglv/ImageOptimizer" version_id="2000500" version_string="2.0.5"><![CDATA[Keep log length]]></phrase>
+  <phrase title="option.tl_ImageOptimizer_limit" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[Images per job running]]></phrase>
+  <phrase title="option.tl_ImageOptimizer_png" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[`pngquant` path]]></phrase>
+  <phrase title="option.tl_ImageOptimizer_pngOps" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[`pngquant` options]]></phrase>
+  <phrase title="option.tl_ImageOptimizer_resizeAlgo" addon_id="Truonglv/ImageOptimizer" version_id="1010400" version_string="1.1.4"><![CDATA[Resize image algo]]></phrase>
+  <phrase title="option.tl_ImageOptimizer_resizeImageProxy" addon_id="Truonglv/ImageOptimizer" version_id="1010400" version_string="1.1.4"><![CDATA[Resize image proxy]]></phrase>
+  <phrase title="option.tl_ImageOptimizer_supportAvatars" addon_id="Truonglv/ImageOptimizer" version_id="1000502" version_string="1.0.5b"><![CDATA[Enable optimize avatars]]></phrase>
   <phrase title="option.tosForceWhitelist" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[Force terms and rules agreement route whitelist]]></phrase>
   <phrase title="option.tosUrl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Terms and rules URL]]></phrase>
   <phrase title="option.tsoShowInForumStats" addon_id="Yugensoft/TimeSpentOnline" version_id="2000470" version_string="2.0.5"><![CDATA[Show aggregate members' time online in Forum Statistics]]></phrase>
@@ -10702,6 +10953,8 @@ You should also provide the maximum video/audio file size in kilobytes (KB). Vid
 <br />
 If you wish to match a wildcard at the beginning or end of the matched word, add a "*" in the correct position. For example, "dog" will not censor "dogs" but "dog*" will.]]></phrase>
   <phrase title="option_explain.changeLogLength" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Content change log data will be kept for this many days. Use 0 to keep change log data indefinitely.]]></phrase>
+  <phrase title="option_explain.cnxfans_global_stickies_blacklist_nodes" addon_id="CnXFans/GlobalStickies" version_id="1000070" version_string="1.0.0"><![CDATA[如果您不希望全局置顶帖显示在某些节点中，请在此处选择它们。]]></phrase>
+  <phrase title="option_explain.cnxfans_global_stickies_master_nodes" addon_id="CnXFans/GlobalStickies" version_id="1000070" version_string="1.0.0"><![CDATA[在此处选择主置顶节点。 这些节点中的所有置顶帖将出现在所有其他节点中。]]></phrase>
   <phrase title="option_explain.collectServerStats" addon_id="XF" version_id="2011070" version_string="2.1.10"><![CDATA[XenForo would like to collect some anonymous statistics including information about PHP, MySQL and your XenForo installation.<br />
 <br />
 If enabled, any data collected will be stored anonymously and will not include any user data.]]></phrase>
@@ -10710,6 +10963,12 @@ If enabled, any data collected will be stored anonymously and will not include a
   <phrase title="option_explain.contactUrl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This is the URL to the page where users will be able to contact you. Please note that the overlay option will only work with XenForo URLs, so if you specify an external URL, it most likely will not work with an overlay.]]></phrase>
   <phrase title="option_explain.conversationPopupExpiryHours" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[The conversations popup will show all conversations with unread replies, plus any read conversations whose most recent replies fall within the time frame (in hours) before now.]]></phrase>
   <phrase title="option_explain.convertMarkdownToBbCode" addon_id="XF" version_id="2010131" version_string="2.1.1 Beta 1"><![CDATA[If enabled, some Markdown styling will automatically be converted to BB code when saved. Markdown is a simple method for adding formatting by using common patterns such as changing *example* into italics. This can make adding formatting to messages easier, but it can sometimes cause unexpected formatting changes.]]></phrase>
+  <phrase title="option_explain.cookieConsent" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[When disabled, no cookie consent panel will be displayed.<br>
+<br>
+When simple is selected, guests will see a panel stating that cookies are used by this site and continued use consents to the cookies. This panel will continue to display until it is accepted.<br>
+<br>
+When advanced is selected, all visitors will see a panel providing the ability to give or withdraw consent to cookies on a group-by-group basis. This panel will continue to display until choices are saved. Visitors may re-open the panel at any time to modify their choices. Consent to certain cookie groups may be required in order for visitors to use certain functionality, including but not limited to registration, analytics, and media embeds.]]></phrase>
+  <phrase title="option_explain.cookieConsentLogLength" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[The number of days that cookie consent log records will be kept for. Use 0 to keep the records permanently.]]></phrase>
   <phrase title="option_explain.currentVersionId" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="option_explain.dbtechShopContentDeleteThreadAction" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[When content is deleted, take this action with any automatically created thread.]]></phrase>
   <phrase title="option_explain.dbtechShopDefaultItemOwner" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[This setting controls who should own items created in the AdminCP. Ideally this should be set to a "bot" user that no-one logs in to.]]></phrase>
@@ -10911,6 +11170,7 @@ This option requires that the specified account is a catch-all account or suppor
   <phrase title="option_explain.lightBoxUniversal" addon_id="XF" version_id="2020470" version_string="2.2.4"><![CDATA[If enabled, the lightbox overlay will show images from all messages on the current page, rather than only the current message. Note that the lightbox will only include images that do not appear in full size in the message body.
 ]]></phrase>
   <phrase title="option_explain.linkShare" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[When clicked, the current page link will be copied to the clipboard.]]></phrase>
+  <phrase title="option_explain.linkSubmitToken" addon_id="CnXFans/LinkSubmit" version_id="1000000" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="option_explain.loginLimit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[If a user fails to log in 4 or more times in a 15 minute period, this method will be used to prevent brute force attacks.]]></phrase>
   <phrase title="option_explain.logoLink" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[If a home URL is provided, select this option to link the main page logo to that URL. If this option is not selected, the logo will always link to the Index page route.]]></phrase>
   <phrase title="option_explain.lostPasswordCaptcha" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[To prevent robots flooding your lost password form, you may add CAPTCHA protection to it.]]></phrase>
@@ -10976,12 +11236,12 @@ This option requires that the specified account is a catch-all account or suppor
   <phrase title="option_explain.sharedIpsCheckLimit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[When checking for other users having used the same IP addresses, this control limits the search to the last X days.]]></phrase>
   <phrase title="option_explain.shortcodeToEmoji" addon_id="XF" version_id="2010131" version_string="2.1.1 Beta 1"><![CDATA[If enabled, common <code>:short_code:</code> will be converted to emoji and, where supported, we will display suggestions as you type. If an emoji and smilie share the same short code, the smilie will be used.]]></phrase>
   <phrase title="option_explain.showEmojiInSmilieMenu" addon_id="XF" version_id="2010033" version_string="2.1.0 Beta 3"><![CDATA[If enabled, the smilie menu will display a categorised list of all emoji in addition to your custom smilies.]]></phrase>
-  <phrase title="option_explain.showFirstCookieNotice" addon_id="XF" version_id="2000670" version_string="2.0.6"><![CDATA[When a guest views a page, if enabled, the guest will see a notice stating that cookies are used by this site and continued use consents to the cookies. This notice must be accepted or it will continue to display. This option is designed to make compliance with EU cookie regulations and GDPR easier.]]></phrase>
   <phrase title="option_explain.showMessageOnlineStatus" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[If enabled, messages will display an icon if the author is currently online.]]></phrase>
   <phrase title="option_explain.siropuAdsManagerAccountSection" addon_id="Siropu/AdsManager" version_id="2013070" version_string="2.1.3"><![CDATA[If enabled, this option allows you to display the advertiser section menu in the user account section menu.]]></phrase>
   <phrase title="option_explain.siropuAdsManagerAdActions" addon_id="Siropu/AdsManager" version_id="2000170" version_string="2.0.1"><![CDATA[If enabled, links for edit, delete, statistics, etc, will be displayed under the ad.]]></phrase>
   <phrase title="option_explain.siropuAdsManagerAdBlock" addon_id="Siropu/AdsManager" version_id="2030770" version_string="2.3.7"><![CDATA[Choose what to do when your custom HTML/JavaScript ads are blocked by AdBlock. The last three options use the following phrases:  <b>siropu_ads_manager_support_us_message</b> and <b>siropu_ads_manager_support_us_title</b>]]></phrase>
   <phrase title="option_explain.siropuAdsManagerAdBlockDevices" addon_id="Siropu/AdsManager" version_id="2031170" version_string="2.3.11"><![CDATA[This option allows you to enable AdBlock detection based on user's device.]]></phrase>
+  <phrase title="option_explain.siropuAdsManagerAdBlockDisplayAfterXPageViews" addon_id="Siropu/AdsManager" version_id="2041370" version_string="2.4.13"><![CDATA[This option allows you to display the notice after x page views.]]></phrase>
   <phrase title="option_explain.siropuAdsManagerAdBlockDisplayInterval" addon_id="Siropu/AdsManager" version_id="2040770" version_string="2.4.7"><![CDATA[This option allows you to display the notice every x minutes.]]></phrase>
   <phrase title="option_explain.siropuAdsManagerAdBlockExcludePages" addon_id="Siropu/AdsManager" version_id="2030770" version_string="2.3.7"><![CDATA[This option allows you exclude certain pages from AdBlock detection by specifying the page content template.]]></phrase>
   <phrase title="option_explain.siropuAdsManagerAdBlockExcludeUserGroup" addon_id="Siropu/AdsManager" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Allows you to exclude certain user groups from AdBlock detection.]]></phrase>
@@ -10992,6 +11252,7 @@ This option requires that the specified account is a catch-all account or suppor
   <phrase title="option_explain.siropuAdsManagerAdminAlertNotification" addon_id="Siropu/AdsManager" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Admins will receive alert notifications when advertisers create ads.]]></phrase>
   <phrase title="option_explain.siropuAdsManagerAdminEmailNotification" addon_id="Siropu/AdsManager" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Admins will receive email notifications when advertisers create ads.]]></phrase>
   <phrase title="option_explain.siropuAdsManagerAdsPerPage" addon_id="Siropu/AdsManager" version_id="2031370" version_string="2.3.13"><![CDATA[This controls the maximum number of ads that will be shown in ad list.]]></phrase>
+  <phrase title="option_explain.siropuAdsManagerAdsTxt" addon_id="Siropu/AdsManager" version_id="2041370" version_string="2.4.13"><![CDATA[If you are using <a href="https://support.google.com/adsense/answer/7532444?hl=en" target="_blank">ads.txt</a> file, you can edit it from here.]]></phrase>
   <phrase title="option_explain.siropuAdsManagerAdvertiserUserGroups" addon_id="Siropu/AdsManager" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[This option allows you to add advertisers to custom user groups.]]></phrase>
   <phrase title="option_explain.siropuAdsManagerAdvertisersPage" addon_id="Siropu/AdsManager" version_id="2000036" version_string="2.0.0-Beta-6"><![CDATA[If enabled, a list with all the active code, banner, text and link ads of the current advertisers will be displayed on a custom page.]]></phrase>
   <phrase title="option_explain.siropuAdsManagerAdvertisersWidget" addon_id="Siropu/AdsManager" version_id="2011070" version_string="2.1.1"><![CDATA[If enabled, this option allows you to display a list of your current advertisers.]]></phrase>
@@ -11037,7 +11298,6 @@ Once you have provided a unique path and hit the save button, the directory will
   <phrase title="option_explain.siropuAdsManagerKeywordDescription" addon_id="Siropu/AdsManager" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[If a length is set, advertisers can add a description that will be displayed as a tooltip when hovering over the keywords. Set to 0 to disable descriptions.]]></phrase>
   <phrase title="option_explain.siropuAdsManagerKeywordMaxWords" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0-Beta-1"><![CDATA[The maximum number of words allowed in keyword phrase.]]></phrase>
   <phrase title="option_explain.siropuAdsManagerKeywordThreadCustomFields" addon_id="Siropu/AdsManager" version_id="2030770" version_string="2.3.7"><![CDATA[This option allows you to enable keyword ads in thread custom fields.]]></phrase>
-  <phrase title="option_explain.siropuAdsManagerLazyLoading" addon_id="Siropu/AdsManager" version_id="2013070" version_string="2.1.3"><![CDATA[This option allows you to load ad images only when they are in view.]]></phrase>
   <phrase title="option_explain.siropuAdsManagerMaxAdDescriptionLength" addon_id="Siropu/AdsManager" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[The maximum description length for text ads.]]></phrase>
   <phrase title="option_explain.siropuAdsManagerMaxAdTitleLength" addon_id="Siropu/AdsManager" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[The maximum title length allowed for link and text ads.]]></phrase>
   <phrase title="option_explain.siropuAdsManagerMaxBgImageSize" addon_id="Siropu/AdsManager" version_id="2010070" version_string="2.1.0"><![CDATA[The maximum size in kilobytes allowed for background images.]]></phrase>
@@ -11180,6 +11440,19 @@ Once you have provided a unique path and hit the save button, the directory will
   <phrase title="option_explain.thuix_enableStyleOptions" addon_id="ThemeHouse/UIX" version_id="2001270" version_string="2.0.12"><![CDATA[This allows users with the appropriate permissions to override the above settings for collapsed sidebar and collapsed side navigation from their preferences page.]]></phrase>
   <phrase title="option_explain.thuix_userStyleChangeStorage" addon_id="ThemeHouse/UIX" version_id="2001270" version_string="2.0.12"><![CDATA[Select how you would like user style changes (e.g. collapsed sidebar) to be remembered. User session data is deleted after a user has been inactive for 4 hours.]]></phrase>
   <phrase title="option_explain.thusernamecolor_disallowedColors" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Hexadecimal colors without leading # and named colors only. Color ranges are supported. Enter one item per line.]]></phrase>
+  <phrase title="option_explain.tl_ImageOptimizer_disableUserGroups" addon_id="Truonglv/ImageOptimizer" version_id="2000300" version_string="2.0.3"><![CDATA[Add-on will not optimize images which being uploaded by users belong to above selected user groups.]]></phrase>
+  <phrase title="option_explain.tl_ImageOptimizer_enabled" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="option_explain.tl_ImageOptimizer_gif" addon_id="Truonglv/ImageOptimizer" version_id="2000400" version_string="2.0.4"><![CDATA[Leave this option empty if you don't want to optimize this images type.]]></phrase>
+  <phrase title="option_explain.tl_ImageOptimizer_gifOps" addon_id="Truonglv/ImageOptimizer" version_id="2000300" version_string="2.0.3"><![CDATA[<a href="http://www.lcdf.org/gifsicle/man.html" target="_blank">http://www.lcdf.org/gifsicle/man.html</a>]]></phrase>
+  <phrase title="option_explain.tl_ImageOptimizer_jpeg" addon_id="Truonglv/ImageOptimizer" version_id="2000400" version_string="2.0.4"><![CDATA[Leave this option empty if you don't want to optimize this images type.]]></phrase>
+  <phrase title="option_explain.tl_ImageOptimizer_jpegOps" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[Please see the detail explain of each option: <a href="http://www.kokkonen.net/tjko/src/man/jpegoptim.txt">http://www.kokkonen.net/tjko/src/man/jpegoptim.txt</a>]]></phrase>
+  <phrase title="option_explain.tl_ImageOptimizer_keepLogLength" addon_id="Truonglv/ImageOptimizer" version_id="2000500" version_string="2.0.5"><![CDATA[Set to 0 to keep its forever.]]></phrase>
+  <phrase title="option_explain.tl_ImageOptimizer_limit" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[The number of images on each job running.]]></phrase>
+  <phrase title="option_explain.tl_ImageOptimizer_png" addon_id="Truonglv/ImageOptimizer" version_id="2000400" version_string="2.0.4"><![CDATA[Leave this option empty if you don't want to optimize this images type.]]></phrase>
+  <phrase title="option_explain.tl_ImageOptimizer_pngOps" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[Please see this detail explain of each option: <a href="https://pngquant.org">https://pngquant.org</a>]]></phrase>
+  <phrase title="option_explain.tl_ImageOptimizer_resizeAlgo" addon_id="Truonglv/ImageOptimizer" version_id="1010400" version_string="1.1.4"><![CDATA[]]></phrase>
+  <phrase title="option_explain.tl_ImageOptimizer_resizeImageProxy" addon_id="Truonglv/ImageOptimizer" version_id="1010400" version_string="1.1.4"><![CDATA[If enabled, the image proxy will resize to dimensions from <b>Maximum attachment image dimensions</b>]]></phrase>
+  <phrase title="option_explain.tl_ImageOptimizer_supportAvatars" addon_id="Truonglv/ImageOptimizer" version_id="1000502" version_string="1.0.5b"><![CDATA[]]></phrase>
   <phrase title="option_explain.tosForceWhitelist" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[If you decide to <a href="admin.php?force-agreement/terms" target="_blank">Force terms and rules agreement</a> then the routes listed here will bypass being redirected to the force agreement page. The route path is the section of the URL to a page after your main forum directory URL, such as forums/ or pages/page-name/. Do not reference a route filter here.]]></phrase>
   <phrase title="option_explain.tosUrl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This link will be shown in the footer and users will have to agree to the terms and rules during registration.]]></phrase>
   <phrase title="option_explain.tsoShowInForumStats" addon_id="Yugensoft/TimeSpentOnline" version_id="2000470" version_string="2.0.5"><![CDATA[]]></phrase>
@@ -11259,6 +11532,7 @@ Use the textbox above to specify a format. <b>{title}</b> will be replaced with 
   <phrase title="option_group.basicBoard" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Basic options]]></phrase>
   <phrase title="option_group.boardActive" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Board active]]></phrase>
   <phrase title="option_group.censoringOptions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Censoring]]></phrase>
+  <phrase title="option_group.cnxfans_global_stickies" addon_id="CnXFans/GlobalStickies" version_id="1000070" version_string="1.0.0"><![CDATA[全局置顶]]></phrase>
   <phrase title="option_group.cxfWidgetTabs" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[[cXF] Widget Tabs]]></phrase>
   <phrase title="option_group.dbtech_shop" addon_id="DBTech/Shop" version_id="20170223" version_string="2.0.0"><![CDATA[DragonByte Tech: Shop]]></phrase>
   <phrase title="option_group.dbtech_shop_backup" addon_id="DBTech/Shop" version_id="20161010" version_string="4.6.0"><![CDATA[DragonByte Tech: Shop (Backup)]]></phrase>
@@ -11268,6 +11542,7 @@ Use the textbox above to specify a format. <b>{title}</b> will be replaced with 
   <phrase title="option_group.emailOptions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Email options]]></phrase>
   <phrase title="option_group.imageLinkProxy" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Image and link proxy]]></phrase>
   <phrase title="option_group.klEM" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Editor options]]></phrase>
+  <phrase title="option_group.linkSubmit" addon_id="CnXFans/LinkSubmit" version_id="1000000" version_string="1.0.0"><![CDATA[[CnXFans] 主动推送]]></phrase>
   <phrase title="option_group.logging" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Logging options]]></phrase>
   <phrase title="option_group.mediaEmbedding" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Media embedding]]></phrase>
   <phrase title="option_group.messageOptions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Messages]]></phrase>
@@ -11299,6 +11574,7 @@ Use the textbox above to specify a format. <b>{title}</b> will be replaced with 
   <phrase title="option_group.thfeature_thread" addon_id="ThemeHouse/Feature" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[[TH] Featured Threads and Content: Threads]]></phrase>
   <phrase title="option_group.thnodes" addon_id="ThemeHouse/Nodes" version_id="1000570" version_string="1.0.5"><![CDATA[[TH] Nodes]]></phrase>
   <phrase title="option_group.thusernamecolor" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[[TH] User Name Color]]></phrase>
+  <phrase title="option_group.tl_ImageOptimizer" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[[tl] Image Optimizer]]></phrase>
   <phrase title="option_group.users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User options]]></phrase>
   <phrase title="option_group.usersAndRegistration" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User registration]]></phrase>
   <phrase title="option_group.xfa_md" addon_id="XFA/ModeDebug" version_id="901000090" version_string="1.0.0"><![CDATA[[XFA] Mode Debug]]></phrase>
@@ -11317,6 +11593,7 @@ You may enable the <em>{addon}</em> add-on on the <a href="{link}">list of insta
   <phrase title="option_group_description.basicBoard" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="option_group_description.boardActive" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Turn your board on and off here.]]></phrase>
   <phrase title="option_group_description.censoringOptions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User-generated text will be subject to the censorship rules you define here.]]></phrase>
+  <phrase title="option_group_description.cnxfans_global_stickies" addon_id="CnXFans/GlobalStickies" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="option_group_description.cxfWidgetTabs" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="option_group_description.dbtech_shop" addon_id="DBTech/Shop" version_id="20170223" version_string="2.0.0"><![CDATA[Settings pertaining to DragonByte Shop.]]></phrase>
   <phrase title="option_group_description.dbtech_shop_backup" addon_id="DBTech/Shop" version_id="20161010" version_string="4.6.0"><![CDATA[Backup options that have no effect just now.]]></phrase>
@@ -11328,6 +11605,7 @@ You may set a user into 'discouraged' mode by editing their user profile, or dis
   <phrase title="option_group_description.emailOptions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="option_group_description.imageLinkProxy" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Controls the system for proxying and logging posted links and images]]></phrase>
   <phrase title="option_group_description.klEM" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Options centered around the Froala Editor.]]></phrase>
+  <phrase title="option_group_description.linkSubmit" addon_id="CnXFans/LinkSubmit" version_id="1000000" version_string="1.0.0"><![CDATA[向百度搜索主动推送资源，缩短爬虫发现网站链接的时间，不保证收录和展现效果。]]></phrase>
   <phrase title="option_group_description.logging" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Options that control what data is logged and how long it is maintained.]]></phrase>
   <phrase title="option_group_description.mediaEmbedding" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Contains settings related to embedding external media such as videos, audio clips and social media content.]]></phrase>
   <phrase title="option_group_description.messageOptions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Options here control messages posted by users to the system, including messages in threads, profile posts, conversations, etc.]]></phrase>
@@ -11361,6 +11639,7 @@ It is possible to filter the news feed down to just users you follow, or a singl
   <phrase title="option_group_description.thfeature_thread" addon_id="ThemeHouse/Feature" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[]]></phrase>
   <phrase title="option_group_description.thnodes" addon_id="ThemeHouse/Nodes" version_id="1000570" version_string="1.0.5"><![CDATA[Options for the [TH] Nodes add-on.]]></phrase>
   <phrase title="option_group_description.thusernamecolor" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Options for the [TH] User Name Color add-on.]]></phrase>
+  <phrase title="option_group_description.tl_ImageOptimizer" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="option_group_description.users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="option_group_description.usersAndRegistration" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="option_group_description.xfa_md" addon_id="XFA/ModeDebug" version_id="901000090" version_string="1.0.0"><![CDATA[Allow to enable debug mode from admincp]]></phrase>
@@ -12266,6 +12545,7 @@ Before your content can be posted, please take a few moments to login to your us
   <phrase title="purchase_request_key" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Purchase request key]]></phrase>
   <phrase title="purchased_item" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Purchased item]]></phrase>
   <phrase title="purchased_upgrades" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Purchased upgrades]]></phrase>
+  <phrase title="purpose" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[Purpose]]></phrase>
   <phrase title="push" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Push]]></phrase>
   <phrase title="push_alert_profile_post_insert" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{username} wrote a message on your profile.]]></phrase>
   <phrase title="push_blocked_label" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Push notifications blocked]]></phrase>
@@ -12453,6 +12733,7 @@ Note: You must choose "reCAPTCHA v2" as the type when creating the key. If you w
   <phrase title="regular_expression" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[Regular expression]]></phrase>
   <phrase title="regular_expression_matching" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Regular expression matching]]></phrase>
   <phrase title="reject" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Reject]]></phrase>
+  <phrase title="reject_optional_cookies" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Reject optional cookies]]></phrase>
   <phrase title="reject_with_reason" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Reject with reason]]></phrase>
   <phrase title="rejected" addon_id="XF" version_id="0" version_string=""><![CDATA[Rejected]]></phrase>
   <phrase title="rejected_by" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Rejected by]]></phrase>
@@ -12795,8 +13076,10 @@ Content being reported:
   <phrase title="s2_maximum_selected" addon_id="XF" version_id="2000052" version_string="2.0.0 Release Candidate 2"><![CDATA[You can only select {count} item(s).]]></phrase>
   <phrase title="s2_no_results" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[No results found.]]></phrase>
   <phrase title="s2_searching" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Searching...]]></phrase>
+  <phrase title="save" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[Save]]></phrase>
   <phrase title="save_and_exit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Save and exit]]></phrase>
   <phrase title="save_as_default" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Save as default]]></phrase>
+  <phrase title="save_cookie_preferences" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Save cookie preferences]]></phrase>
   <phrase title="save_draft" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Save draft]]></phrase>
   <phrase title="save_drafts_every_x_seconds" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Save drafts every X seconds]]></phrase>
   <phrase title="scope_id" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Scope ID]]></phrase>
@@ -13127,7 +13410,6 @@ Please note that daily and click statistics are not included in the export.]]></
   <phrase title="siropu_ads_manager_backup_ad_explain" addon_id="Siropu/AdsManager" version_id="2040570" version_string="2.4.5"><![CDATA[This option allows you to display a backup ad if your HTML/JavaScript ad gets blocked by AdBlock or if AdSense has an unfilled ad status. Use a simple HTML banner code that doesn't contain any ad related information in its image URL (ad, advertisement, 468x60, 728x90, etc).
 
 To use this with AdBlock detection, you need to set the Ads Manager admin option "<a href="{optionUrl}">If AdBlock is detected</a>" to "Replace ad with its backup".]]></phrase>
-  <phrase title="siropu_ads_manager_backup_ad_info" addon_id="Siropu/AdsManager" version_id="2040270" version_string="2.4.2"><![CDATA[要使用备用广告，您需要将广告管理器管理选项“ <a href="{optionUrl}">如果检测到AdBlock </a>”设置为“用备用广告替换广告”。 ]]></phrase>
   <phrase title="siropu_ads_manager_bank_account_name" addon_id="Siropu/AdsManager" version_id="2013070" version_string="2.1.3"><![CDATA[Bank account name]]></phrase>
   <phrase title="siropu_ads_manager_bank_account_number" addon_id="Siropu/AdsManager" version_id="2013070" version_string="2.1.3"><![CDATA[Bank account number (IBAN)]]></phrase>
   <phrase title="siropu_ads_manager_bank_payment_description" addon_id="Siropu/AdsManager" version_id="2013070" version_string="2.1.3"><![CDATA[Payment description]]></phrase>
@@ -13307,13 +13589,10 @@ To use this with AdBlock detection, you need to set the Ads Manager admin option
   <phrase title="siropu_ads_manager_discounts" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Discounts]]></phrase>
   <phrase title="siropu_ads_manager_display" addon_id="Siropu/AdsManager" version_id="2031170" version_string="2.3.11"><![CDATA[Display]]></phrase>
   <phrase title="siropu_ads_manager_display_ads_after_x_seconds_explain" addon_id="Siropu/AdsManager" version_id="2010070" version_string="2.1.0"><![CDATA[If set, the ads will be displayed with a delay of x seconds.]]></phrase>
-  <phrase title="siropu_ads_manager_display_ads_every_x_hours_explain" addon_id="Siropu/AdsManager" version_id="2010070" version_string="2.1.0"><![CDATA[If set, a user will be able to view the ads every x hours.]]></phrase>
   <phrase title="siropu_ads_manager_display_after_x_seconds" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Display after x seconds]]></phrase>
   <phrase title="siropu_ads_manager_display_after_x_seconds_explain" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[If set, the ad will be displayed with a delay of x seconds.]]></phrase>
   <phrase title="siropu_ads_manager_display_block" addon_id="Siropu/AdsManager" version_id="2031170" version_string="2.3.11"><![CDATA[Block]]></phrase>
   <phrase title="siropu_ads_manager_display_dismissible_notice" addon_id="Siropu/AdsManager" version_id="2030770" version_string="2.3.7"><![CDATA[Display a dismissible notice]]></phrase>
-  <phrase title="siropu_ads_manager_display_every_x_hours" addon_id="Siropu/AdsManager" version_id="2010070" version_string="2.1.0"><![CDATA[Display every x hours]]></phrase>
-  <phrase title="siropu_ads_manager_display_every_x_hours_explain" addon_id="Siropu/AdsManager" version_id="2010070" version_string="2.1.0"><![CDATA[If set, a user will be able to view the ad every x hours.]]></phrase>
   <phrase title="siropu_ads_manager_display_every_x_minutes" addon_id="Siropu/AdsManager" version_id="2040370" version_string="2.4.3"><![CDATA[Display every x minutes]]></phrase>
   <phrase title="siropu_ads_manager_display_every_x_minutes_explain" addon_id="Siropu/AdsManager" version_id="2040370" version_string="2.4.3"><![CDATA[If set, a user will be able to view the ad every x minutes.]]></phrase>
   <phrase title="siropu_ads_manager_display_explain" addon_id="Siropu/AdsManager" version_id="2031170" version_string="2.3.11"><![CDATA[Choose how to display the ads.]]></phrase>
@@ -13358,6 +13637,8 @@ To use this with AdBlock detection, you need to set the Ads Manager admin option
   <phrase title="siropu_ads_manager_enable_carousel_if_device" addon_id="Siropu/AdsManager" version_id="2031370" version_string="2.3.13"><![CDATA[Enable carousel if device is]]></phrase>
   <phrase title="siropu_ads_manager_enable_click_fraud_protection" addon_id="Siropu/AdsManager" version_id="2000370" version_string="2.0.3"><![CDATA[Enable click fraud protection]]></phrase>
   <phrase title="siropu_ads_manager_enable_click_fraud_protection_explain" addon_id="Siropu/AdsManager" version_id="2000370" version_string="2.0.3"><![CDATA[This option is intended to be used with third-party ads such as AdSense. You can enable click fraud protection if you want to prevent click abuse, by hidding the ad after it has been clicked x times by the same visitor.]]></phrase>
+  <phrase title="siropu_ads_manager_enable_image_lazy_loading" addon_id="Siropu/AdsManager" version_id="2041470" version_string="2.4.14"><![CDATA[Enable image lazy loading]]></phrase>
+  <phrase title="siropu_ads_manager_enable_image_lazy_loading_explain" addon_id="Siropu/AdsManager" version_id="2041470" version_string="2.4.14"><![CDATA[This option allows you to load the ad image after the page loads, when the ad container is in the view.]]></phrase>
   <phrase title="siropu_ads_manager_enable_in" addon_id="Siropu/AdsManager" version_id="2000035" version_string="2.0.0-Beta-5"><![CDATA[Enable in]]></phrase>
   <phrase title="siropu_ads_manager_enable_lazy_loading" addon_id="Siropu/AdsManager" version_id="2031070" version_string="2.3.10"><![CDATA[Enable lazy loading]]></phrase>
   <phrase title="siropu_ads_manager_enable_lazy_loading_explain" addon_id="Siropu/AdsManager" version_id="2031270" version_string="2.3.12"><![CDATA[This option allows you to load the ad after the page loads, when the ad container is in the view. The second option allows you to refresh the ad every x seconds after it has been loaded.]]></phrase>
@@ -13632,6 +13913,7 @@ You can use multiple IDs separated by comma.]]></phrase>
   <phrase title="siropu_ads_manager_please_select_advertising_package" addon_id="Siropu/AdsManager" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Please select advertising package]]></phrase>
   <phrase title="siropu_ads_manager_please_select_at_least_one_ad_to_export" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Please select at least one ad to export.]]></phrase>
   <phrase title="siropu_ads_manager_please_select_at_least_one_package_to_export" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Please select at least one package to export.]]></phrase>
+  <phrase title="siropu_ads_manager_please_select_forum" addon_id="Siropu/AdsManager" version_id="2041270" version_string="2.4.12"><![CDATA[Please select forum.]]></phrase>
   <phrase title="siropu_ads_manager_please_select_position" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Please select a position.]]></phrase>
   <phrase title="siropu_ads_manager_please_select_promo_thread_forums" addon_id="Siropu/AdsManager" version_id="2030070" version_string="2.3.0"><![CDATA[Please select at least one forum in <a href="{optionsUrl}">Promo thread forums</a> admin option.]]></phrase>
   <phrase title="siropu_ads_manager_please_set_keywords" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 0"><![CDATA[Please set your keywords first.]]></phrase>
@@ -13762,6 +14044,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="siropu_ads_manager_separate_multiple_tags_by_comma" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Separate multiple tags by comma.]]></phrase>
   <phrase title="siropu_ads_manager_separate_multiple_usernames_by_comma" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Separate multiple usernames by comma.]]></phrase>
   <phrase title="siropu_ads_manager_sepecified_advertiser_not_found" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[The specified advertiser could not be found.]]></phrase>
+  <phrase title="siropu_ads_manager_showcase_item" addon_id="Siropu/AdsManager" version_id="2041470" version_string="2.4.14"><![CDATA[Showcase item]]></phrase>
   <phrase title="siropu_ads_manager_simple_list" addon_id="Siropu/AdsManager" version_id="2031270" version_string="2.3.12"><![CDATA[Simple list]]></phrase>
   <phrase title="siropu_ads_manager_since_date" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Since date...]]></phrase>
   <phrase title="siropu_ads_manager_sort_positions" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Sort positions]]></phrase>
@@ -14234,6 +14517,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="staff_online" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Staff online]]></phrase>
   <phrase title="staff_state" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Staff state]]></phrase>
   <phrase title="standard" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[Standard]]></phrase>
+  <phrase title="standard_cookies_we_set" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Standard cookies we set]]></phrase>
   <phrase title="standard_search" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Standard search]]></phrase>
   <phrase title="star" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Star]]></phrase>
   <phrase title="star_conversations" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Star conversations]]></phrase>
@@ -14657,7 +14941,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="style_prop.thfeature_firstPost_author" addon_id="ThemeHouse/Feature" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Enable first post author meta]]></phrase>
   <phrase title="style_prop.thfeature_firstPost_style" addon_id="ThemeHouse/Feature" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[First Post Style]]></phrase>
   <phrase title="style_prop.thfeature_icon_size" addon_id="ThemeHouse/Feature" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Icon size]]></phrase>
-  <phrase title="style_prop.thfeature_icon_style" addon_id="ThemeHouse/Feature" version_id="1000891" version_string="1.0.8 Patch Level 1"><![CDATA[Icon style]]></phrase>
+  <phrase title="style_prop.thfeature_icon_style" addon_id="ThemeHouse/Feature" version_id="1000995" version_string="1.0.9 Patch Level 5"><![CDATA[Icon style]]></phrase>
   <phrase title="style_prop.thfeature_pageTitle" addon_id="ThemeHouse/Feature" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Show page title on featured content page]]></phrase>
   <phrase title="style_prop.thfeature_slider" addon_id="ThemeHouse/Feature" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Slider styling]]></phrase>
   <phrase title="style_prop.thnodes_enable_header_styling_categoryView" addon_id="ThemeHouse/Nodes" version_id="1000471" version_string="1.0.4 Patch Level 1"><![CDATA[Enable header styling on category view]]></phrase>
@@ -15030,7 +15314,7 @@ Use the following code in your "message_macros" template:<br>
   <phrase title="style_prop_desc.thfeature_firstPost_author" addon_id="ThemeHouse/Feature" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Only applicable when "Display first post as an article" is enabled.]]></phrase>
   <phrase title="style_prop_desc.thfeature_firstPost_style" addon_id="ThemeHouse/Feature" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.thfeature_icon_size" addon_id="ThemeHouse/Feature" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[]]></phrase>
-  <phrase title="style_prop_desc.thfeature_icon_style" addon_id="ThemeHouse/Feature" version_id="1000994" version_string="1.0.9 Patch Level 4"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.thfeature_icon_style" addon_id="ThemeHouse/Feature" version_id="1000995" version_string="1.0.9 Patch Level 5"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.thfeature_pageTitle" addon_id="ThemeHouse/Feature" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.thfeature_slider" addon_id="ThemeHouse/Feature" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[This will apply to the styling of all instances of the Slider widget]]></phrase>
   <phrase title="style_prop_desc.thnodes_enable_header_styling_categoryView" addon_id="ThemeHouse/Nodes" version_id="1000891" version_string="1.0.8 Patch Level 1"><![CDATA[If enabled, node banner image, banner & font color will be applied to the titlebar in category view of the respective category.]]></phrase>
@@ -15643,6 +15927,8 @@ Error message: <span class="exceptionMessage">{message}</span>]]></phrase>
   <phrase title="thfeature_create_feature" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Create feature]]></phrase>
   <phrase title="thfeature_criteria_is_active" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Criteria is active]]></phrase>
   <phrase title="thfeature_default_style" addon_id="ThemeHouse/Feature" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Default style]]></phrase>
+  <phrase title="thfeature_delete_current_background" addon_id="ThemeHouse/Feature" version_id="1001070" version_string="1.0.10"><![CDATA[Delete current background]]></phrase>
+  <phrase title="thfeature_delete_current_icon" addon_id="ThemeHouse/Feature" version_id="1001070" version_string="1.0.10"><![CDATA[Delete current icon]]></phrase>
   <phrase title="thfeature_dismiss" addon_id="ThemeHouse/Feature" version_id="1000111" version_string="1.0.1 Alpha 1"><![CDATA[Dismiss]]></phrase>
   <phrase title="thfeature_display" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Display]]></phrase>
   <phrase title="thfeature_edit_auto_feature" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Edit auto feature]]></phrase>
@@ -15679,6 +15965,8 @@ Error message: <span class="exceptionMessage">{message}</span>]]></phrase>
   <phrase title="thfeature_last_post_date" addon_id="ThemeHouse/Feature" version_id="1000893" version_string="1.0.8 Patch Level 3"><![CDATA[Last post date]]></phrase>
   <phrase title="thfeature_last_post_is_at_least_x_days_old" addon_id="ThemeHouse/Feature" version_id="1000610" version_string="1.0.6 Alpha"><![CDATA[Last post is at least X days old]]></phrase>
   <phrase title="thfeature_last_post_is_no_more_than_x_days_old" addon_id="ThemeHouse/Feature" version_id="1000610" version_string="1.0.6 Alpha"><![CDATA[Last post is no more than X days old]]></phrase>
+  <phrase title="thfeature_manage_default_background" addon_id="ThemeHouse/Feature" version_id="1001070" version_string="1.0.10"><![CDATA[Manage default background]]></phrase>
+  <phrase title="thfeature_manage_default_icon" addon_id="ThemeHouse/Feature" version_id="1001070" version_string="1.0.10"><![CDATA[Manage default icon]]></phrase>
   <phrase title="thfeature_media_item_contains_all_of_the_following_tags" addon_id="ThemeHouse/Feature" version_id="1000610" version_string="1.0.6 Alpha"><![CDATA[Media item contains all of the following tags]]></phrase>
   <phrase title="thfeature_media_item_contains_at_least_one_of_the_following_tags" addon_id="ThemeHouse/Feature" version_id="1000610" version_string="1.0.6 Alpha"><![CDATA[Media item contains at least one of the following tags]]></phrase>
   <phrase title="thfeature_media_item_criteria" addon_id="ThemeHouse/Feature" version_id="1000610" version_string="1.0.6 Alpha"><![CDATA[Media item criteria]]></phrase>
@@ -15691,6 +15979,8 @@ Error message: <span class="exceptionMessage">{message}</span>]]></phrase>
   <phrase title="thfeature_media_item_is_in_any_of_selected_categories" addon_id="ThemeHouse/Feature" version_id="1000610" version_string="1.0.6 Alpha"><![CDATA[Media item is in any of the selected categories]]></phrase>
   <phrase title="thfeature_media_item_is_not_in_any_of_selected_categories" addon_id="ThemeHouse/Feature" version_id="1000610" version_string="1.0.6 Alpha"><![CDATA[Media item is in none of the selected categories]]></phrase>
   <phrase title="thfeature_member_options" addon_id="ThemeHouse/Feature" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Member options]]></phrase>
+  <phrase title="thfeature_new_background_could_not_be_applied_try_later" addon_id="ThemeHouse/Feature" version_id="1001070" version_string="1.0.10"><![CDATA[The new background could not be applied. Please try again later.]]></phrase>
+  <phrase title="thfeature_new_icon_could_not_be_applied_try_later" addon_id="ThemeHouse/Feature" version_id="1001070" version_string="1.0.10"><![CDATA[The new icon could not be applied. Please try again later.]]></phrase>
   <phrase title="thfeature_no_auto_feature_criteria_currently_exist" addon_id="ThemeHouse/Feature" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[No auto feature criteria currently exist]]></phrase>
   <phrase title="thfeature_no_content_has_been_featured_yet" addon_id="ThemeHouse/Feature" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[No content has been featured yet.]]></phrase>
   <phrase title="thfeature_no_content_matching_your_filters" addon_id="ThemeHouse/Feature" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[No content is matching your filters.]]></phrase>
@@ -15733,9 +16023,13 @@ Error message: <span class="exceptionMessage">{message}</span>]]></phrase>
   <phrase title="thfeature_unfeature_resource" addon_id="ThemeHouse/Feature" version_id="1000610" version_string="1.0.6 Alpha"><![CDATA[Unfeature resource]]></phrase>
   <phrase title="thfeature_unfeature_thread" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Unfeature thread]]></phrase>
   <phrase title="thfeature_upload_custom_feature_background_image" addon_id="ThemeHouse/Feature" version_id="1000333" version_string="1.0.3 Beta 3"><![CDATA[Upload custom feature background image]]></phrase>
+  <phrase title="thfeature_upload_new_background" addon_id="ThemeHouse/Feature" version_id="1001070" version_string="1.0.10"><![CDATA[Upload new background]]></phrase>
+  <phrase title="thfeature_upload_new_icon" addon_id="ThemeHouse/Feature" version_id="1001070" version_string="1.0.10"><![CDATA[Upload new icon]]></phrase>
   <phrase title="thfeature_use_attachment" addon_id="ThemeHouse/Feature" version_id="1000333" version_string="1.0.3 Beta 3"><![CDATA[Use attachment]]></phrase>
   <phrase title="thfeature_use_content_posters_avatar" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Use content poster's avatar]]></phrase>
   <phrase title="thfeature_use_custom_icon" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Use custom icon]]></phrase>
+  <phrase title="thfeature_use_default_background" addon_id="ThemeHouse/Feature" version_id="1001070" version_string="1.0.10"><![CDATA[Use default background]]></phrase>
+  <phrase title="thfeature_use_default_icon" addon_id="ThemeHouse/Feature" version_id="1001070" version_string="1.0.10"><![CDATA[Use default icon]]></phrase>
   <phrase title="thfeature_use_existing_image" addon_id="ThemeHouse/Feature" version_id="1000610" version_string="1.0.6 Alpha"><![CDATA[Use existing image]]></phrase>
   <phrase title="thfeature_user_has_at_least_x_featured_content" addon_id="ThemeHouse/Feature" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[User has at least X featured content]]></phrase>
   <phrase title="thfeature_user_has_no_more_than_x_featured_content" addon_id="ThemeHouse/Feature" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[User has no more than X featured content]]></phrase>
@@ -15997,6 +16291,9 @@ Please confirm that you are moving the thread to the correct forum.]]></phrase>
   <phrase title="thread_prefix.84" addon_id="" version_id="0" version_string=""><![CDATA[Report]]></phrase>
   <phrase title="thread_prefix.85" addon_id="" version_id="0" version_string=""><![CDATA[1.19.x]]></phrase>
   <phrase title="thread_prefix.86" addon_id="" version_id="0" version_string=""><![CDATA[Version info]]></phrase>
+  <phrase title="thread_prefix.87" addon_id="" version_id="0" version_string=""><![CDATA[招募]]></phrase>
+  <phrase title="thread_prefix.88" addon_id="" version_id="0" version_string=""><![CDATA[求职]]></phrase>
+  <phrase title="thread_prefix.89" addon_id="" version_id="0" version_string=""><![CDATA[共创]]></phrase>
   <phrase title="thread_prefix_desc.13" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_desc.20" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_desc.23" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -16056,6 +16353,9 @@ Please confirm that you are moving the thread to the correct forum.]]></phrase>
   <phrase title="thread_prefix_desc.84" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_desc.85" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_desc.86" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="thread_prefix_desc.87" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="thread_prefix_desc.88" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="thread_prefix_desc.89" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_group.10" addon_id="" version_id="0" version_string=""><![CDATA[Programming]]></phrase>
   <phrase title="thread_prefix_group.11" addon_id="" version_id="0" version_string=""><![CDATA[Setting up website]]></phrase>
   <phrase title="thread_prefix_group.12" addon_id="" version_id="0" version_string=""><![CDATA[Interflow]]></phrase>
@@ -16064,6 +16364,7 @@ Please confirm that you are moving the thread to the correct forum.]]></phrase>
   <phrase title="thread_prefix_group.16" addon_id="" version_id="0" version_string=""><![CDATA[Advice forum]]></phrase>
   <phrase title="thread_prefix_group.17" addon_id="" version_id="0" version_string=""><![CDATA[Q＆A]]></phrase>
   <phrase title="thread_prefix_group.18" addon_id="" version_id="0" version_string=""><![CDATA[新闻资讯]]></phrase>
+  <phrase title="thread_prefix_group.19" addon_id="" version_id="0" version_string=""><![CDATA[招聘]]></phrase>
   <phrase title="thread_prefix_group.6" addon_id="" version_id="0" version_string=""><![CDATA[General prefix]]></phrase>
   <phrase title="thread_prefix_group.7" addon_id="" version_id="0" version_string=""><![CDATA[Management area]]></phrase>
   <phrase title="thread_prefix_group.8" addon_id="" version_id="0" version_string=""><![CDATA[Server]]></phrase>
@@ -16127,6 +16428,9 @@ Please confirm that you are moving the thread to the correct forum.]]></phrase>
   <phrase title="thread_prefix_help.84" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_help.85" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_help.86" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="thread_prefix_help.87" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="thread_prefix_help.88" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="thread_prefix_help.89" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefixes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Thread prefixes]]></phrase>
   <phrase title="thread_prompt.1" addon_id="" version_id="0" version_string=""><![CDATA[Please enter a title to publish your server.]]></phrase>
   <phrase title="thread_prompt.2" addon_id="" version_id="0" version_string=""><![CDATA[Please go to the resource center to share MC resources~]]></phrase>
@@ -16238,6 +16542,23 @@ Please confirm that you are moving the thread to the correct forum.]]></phrase>
   <phrase title="time_pm_upper" addon_id="XF" global_cache="1" version_id="0" version_string=""><![CDATA[PM]]></phrase>
   <phrase title="time_spent_online" addon_id="Yugensoft/TimeSpentOnline" version_id="2000070" version_string="2.0.0"><![CDATA[Total time spent online]]></phrase>
   <phrase title="time_zone" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Time zone]]></phrase>
+  <phrase title="tio_content" addon_id="Truonglv/ImageOptimizer" version_id="2000500" version_string="2.0.5"><![CDATA[Content]]></phrase>
+  <phrase title="tio_image_optimizer_logs" addon_id="Truonglv/ImageOptimizer" version_id="2000500" version_string="2.0.5"><![CDATA[Image optimizer logs]]></phrase>
+  <phrase title="tio_last_run_info" addon_id="Truonglv/ImageOptimizer" version_id="2000500" version_string="2.0.5"><![CDATA[Last run info]]></phrase>
+  <phrase title="tio_last_run_info_explain_attachment_data" addon_id="Truonglv/ImageOptimizer" version_id="2000500" version_string="2.0.5"><![CDATA[<code>
+SELECT MAX(data_id)
+FROM xf_attachment_data
+</code>]]></phrase>
+  <phrase title="tio_last_run_info_explain_avatar" addon_id="Truonglv/ImageOptimizer" version_id="2000500" version_string="2.0.5"><![CDATA[<code>SELECT MAX(avatar_date) FROM xf_user</code>]]></phrase>
+  <phrase title="tio_last_run_info_explain_image_proxy" addon_id="Truonglv/ImageOptimizer" version_id="2000500" version_string="2.0.5"><![CDATA[<code>SELECT MAX(image_id) FROM xf_image_proxy</code>]]></phrase>
+  <phrase title="tio_log_date" addon_id="Truonglv/ImageOptimizer" version_id="2000500" version_string="2.0.5"><![CDATA[Log date]]></phrase>
+  <phrase title="tio_new_size" addon_id="Truonglv/ImageOptimizer" version_id="2000500" version_string="2.0.5"><![CDATA[New size]]></phrase>
+  <phrase title="tio_old_size" addon_id="Truonglv/ImageOptimizer" version_id="2000500" version_string="2.0.5"><![CDATA[Old size]]></phrase>
+  <phrase title="tio_saved" addon_id="Truonglv/ImageOptimizer" version_id="2000500" version_string="2.0.5"><![CDATA[Saved]]></phrase>
+  <phrase title="tio_time" addon_id="Truonglv/ImageOptimizer" version_id="2000500" version_string="2.0.5"><![CDATA[Time (seconds)]]></phrase>
+  <phrase title="tio_total_new_size" addon_id="Truonglv/ImageOptimizer" version_id="2000500" version_string="2.0.5"><![CDATA[Total new size]]></phrase>
+  <phrase title="tio_total_old_size" addon_id="Truonglv/ImageOptimizer" version_id="2000500" version_string="2.0.5"><![CDATA[Total old size]]></phrase>
+  <phrase title="tio_update_last_run_info" addon_id="Truonglv/ImageOptimizer" version_id="2000500" version_string="2.0.5"><![CDATA[Update last run info]]></phrase>
   <phrase title="title" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Title]]></phrase>
   <phrase title="title_contains" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Title contains]]></phrase>
   <phrase title="title_count" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Count in title]]></phrase>
@@ -16245,12 +16566,34 @@ Please confirm that you are moving the thread to the correct forum.]]></phrase>
   <phrase title="title_of_style_importing_differs_overwriting_is_correct" addon_id="XF" version_id="2010036" version_string="2.1.0 Beta 6"><![CDATA[The title of the style you're importing differs from the style you're overwriting. Is this the correct style?]]></phrase>
   <phrase title="title_page_x" addon_id="XF" global_cache="1" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[ | Page {page}]]></phrase>
   <phrase title="title_template" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Title template]]></phrase>
+  <phrase title="tl_io.binary_invalid_please_reinstall" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[Whoops! Look like binary not valid. Please rerun the file <code>io_setup.sh</code> to install the suitable binary for your server.]]></phrase>
+  <phrase title="tl_io.binary_path_not_executable" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[Binary path not executable. Please run this command to allow binary executable.<br />
+<code>chmod +x {path}</code>]]></phrase>
+  <phrase title="tl_io.max_quality" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[Maximum Quality]]></phrase>
+  <phrase title="tl_io.min_quality" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[Minimum Quality]]></phrase>
+  <phrase title="tl_io.next_run_at" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[Next Run at]]></phrase>
+  <phrase title="tl_io.please_enter_valid_binary_path" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[Please enter a valid binary path.]]></phrase>
+  <phrase title="tl_io.preserver_file_modification_times" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[Preserver file modification times]]></phrase>
+  <phrase title="tl_io.speed" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[Speed]]></phrase>
+  <phrase title="tl_io.strip_comment_markers_from_output_file" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[Strip comment markers from output file.]]></phrase>
+  <phrase title="tl_io.strip_exif_profiles_from_output_file" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[Strip EXIF profiles from output file.]]></phrase>
+  <phrase title="tl_io.strip_extensions_from_output_file" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[Strip extensions from output file.]]></phrase>
+  <phrase title="tl_io.strip_icc_profiles_from_output_file" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[Strip ICC profiles from output files.]]></phrase>
+  <phrase title="tl_io.strip_iptc_profiles_from_output_file" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[Strip IPTC profiles from output file.]]></phrase>
+  <phrase title="tl_io.strip_names_from_output_file" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[Strip names from output file.]]></phrase>
+  <phrase title="tl_io.strip_xmp_profiles_from_output_file" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[Strip XMP profiles from output file.]]></phrase>
+  <phrase title="tl_io.this_binary_ok_and_ready_for_using" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[This binary look OK and ready for using.]]></phrase>
+  <phrase title="tl_io.verify" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[Verify]]></phrase>
+  <phrase title="tl_io_resize_and_crop_center" addon_id="Truonglv/ImageOptimizer" version_id="1010400" version_string="1.1.4"><![CDATA[Resize and crop center]]></phrase>
+  <phrase title="tl_io_resize_to_exact_dimensions" addon_id="Truonglv/ImageOptimizer" version_id="1010400" version_string="1.1.4"><![CDATA[Resize to exact dimensions]]></phrase>
+  <phrase title="tl_io_resize_to_short_edge_dimensions" addon_id="Truonglv/ImageOptimizer" version_id="1010500" version_string="1.1.5"><![CDATA[Resize to short edge dimensions (like: Attachment thumbnail)]]></phrase>
   <phrase title="tlg_member_role_id_desc_admin" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="tlg_member_role_id_desc_member" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="tlg_member_role_id_desc_moderator" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="tlg_member_role_id_title_admin" addon_id="" version_id="0" version_string=""><![CDATA[Group Leader]]></phrase>
   <phrase title="tlg_member_role_id_title_member" addon_id="" version_id="0" version_string=""><![CDATA[Member]]></phrase>
   <phrase title="tlg_member_role_id_title_moderator" addon_id="" version_id="0" version_string=""><![CDATA[Deputy Team Leader]]></phrase>
+  <phrase title="to_access_this_page_we_will_need_your_consent_to_set_some_cookies" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[To access this page, we will need your consent to set some cookies.]]></phrase>
   <phrase title="to_access_this_page_you_must_first_confirm_your_password" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[To access this page, you must first confirm your password.]]></phrase>
   <phrase title="to_associate_existing_account_first_log_in" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[To associate with an existing account, you must first log into that account.]]></phrase>
   <phrase title="to_associate_existing_account_first_log_in_start_via_connected_accounts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[To associate with an existing account, you must first log into that account and then start the association via the <a href="{link}">connected accounts area</a>.]]></phrase>
@@ -16259,6 +16602,9 @@ Please confirm that you are moving the thread to the correct forum.]]></phrase>
   <phrase title="to_confirm_your_identity_we_have_sent_email_to_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[To confirm your identity, we have sent an email to {email} inviting you to create a password. Once you have followed that link, please enter your new password below.]]></phrase>
   <phrase title="to_finish_setting_up_dkim_email_authentication_you_will_need_to_add_new" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[To finish setting up DKIM email authentication, you will need to add a new TXT record for your domain. If you are unsure how to do this, please contact your host or domain registrar. Outgoing emails will not be signed with DKIM until the presence of the DNS record is verified.]]></phrase>
   <phrase title="to_load_prefixes_dynamically_you_must_also_provide_listen_to_attribute" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[To load prefixes dynamically you must also provide a "listen-to" attribute containing the selector of an element to listen to for changes.]]></phrase>
+  <phrase title="to_view_this_content_we_will_need_your_consent_to_set_third_party_cookies" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[To view this content we will need your consent to set third party cookies.<br>
+For more detailed information, see our <a href="{cookies_link}">cookies page</a>.
+]]></phrase>
   <phrase title="today_at_x" addon_id="XF" global_cache="1" version_id="0" version_string=""><![CDATA[Today at {time}]]></phrase>
   <phrase title="toggle_bb_code" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Toggle BB code]]></phrase>
   <phrase title="toggle_expanded" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Toggle expanded]]></phrase>
@@ -16377,6 +16723,7 @@ Please confirm that you are moving the thread to the correct forum.]]></phrase>
   <phrase title="tso_tab_title" addon_id="Yugensoft/TimeSpentOnline" version_id="2000070" version_string="2.0.0"><![CDATA[Most Time Spent Online]]></phrase>
   <phrase title="tso_user_total_online_time_greater_than_x_minutes" addon_id="Yugensoft/TimeSpentOnline" version_id="2000070" version_string="2.0.0"><![CDATA[User has a total online time of at least X minutes]]></phrase>
   <phrase title="tumblr" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Tumblr]]></phrase>
+  <phrase title="turnstile_config_hint" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[<a href="https://www.cloudflare.com/products/turnstile/" target="_blank">https://www.cloudflare.com/products/turnstile/</a>]]></phrase>
   <phrase title="twemoji_by_twitter" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Twemoji <a href="https://twitter.github.io/twemoji/" target="_blank">by Twitter</a>]]></phrase>
   <phrase title="twitter" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Twitter]]></phrase>
   <phrase title="two_step_authy_login_info" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[We have sent a push notification to your Authy app. Once you have approved it, you will be logged in.<br />
@@ -16568,6 +16915,7 @@ Select the updates you want to install below. The selected updates will be downl
   <phrase title="usable_by_user_groups" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Usable by user groups]]></phrase>
   <phrase title="use_0_to_specify_no_restriction" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Use 0 to specify no restriction.]]></phrase>
   <phrase title="use_above_criteria_to_restrict_display_of_this_advertisement" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Use the above criteria to restrict the display of this advertisement to certain users.]]></phrase>
+  <phrase title="use_cloudflare_turnstile" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Use Cloudflare Turnstile]]></phrase>
   <phrase title="use_custom_avatar" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Use a custom avatar]]></phrase>
   <phrase title="use_default_style" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[Use default style]]></phrase>
   <phrase title="use_default_user_title_ladder" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[Use the default user title ladder]]></phrase>
@@ -16684,6 +17032,7 @@ Select the updates you want to install below. The selected updates will be downl
   <phrase title="user_reaction_message_ratio_is_at_least" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[User reaction score to messages ratio is at least]]></phrase>
   <phrase title="user_receiving_warning_can_be_added_to_groups_until_expiry" addon_id="XF" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[A user receiving this warning can be added to specific user groups until the warning has expired.]]></phrase>
   <phrase title="user_referred_from_search" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[User arrived on this site from a search engine]]></phrase>
+  <phrase title="user_referred_from_search_hint" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[This criteria is deprecated and will be removed from a future version. It may not work as anticipated when using the advanced cookie consent feature.]]></phrase>
   <phrase title="user_registration_ip" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User registration IP]]></phrase>
   <phrase title="user_registrations" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[User registrations]]></phrase>
   <phrase title="user_security_lock_explain" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[When security locking an account, you can either force a user to change their password or, if you suspect unauthorized access, you can force a user to reset their password (email address is required).]]></phrase>
@@ -17049,6 +17398,7 @@ Your account's access may be limited based on these actions. Please keep this in
   <phrase title="widget.feature_grid" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.feature_widget" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.fhb" addon_id="" version_id="0" version_string=""><![CDATA[Rich list]]></phrase>
+  <phrase title="widget.forum_overview_forum_statistics" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.forum_overview_new_profile_posts" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.forum_statistics" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.friend_link" addon_id="" version_id="0" version_string=""><![CDATA[Friend links]]></phrase>
@@ -17418,11 +17768,6 @@ Callback arguments:
   <phrase title="xenforo_importers_now_installed_as_separate_add_on_downloadable_from" addon_id="XF" version_id="2000370" version_string="2.0.3"><![CDATA[XenForo importers are now installed as a separate add-on, downloadable from your <a href="https://xenforo.com/customers" target="_blank">Customer area</a>.]]></phrase>
   <phrase title="xenforo_is_signing_your_outgoing_emails_with_dkim" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[XenForo is signing your outgoing emails with DKIM.]]></phrase>
   <phrase title="xenforo_version_x_available_for_installation" addon_id="XF" version_id="2020670" version_string="2.2.6"><![CDATA[XenForo {version} is now available for installation.]]></phrase>
-  <phrase title="xenforo_x_available_explain" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[XenForo {version} is now available for installation.<br />
-<br />
-You may upgrade to this version from within your control panel. If you proceed, the new version will be downloaded, files copied, and the upgrade will be applied.<br />
-<br />
-Note that if a CLI upgrade is recommended, you will be given an opportunity to use that instead of the web upgrader.]]></phrase>
   <phrase title="xenforo_x_is_now_available" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[XenForo {version} is now available.]]></phrase>
   <phrase title="xf_one_click_upgrade_significant_explain" addon_id="XF" version_id="2020670" version_string="2.2.6"><![CDATA[This is a significant upgrade that add new features and contains many changes. Newer versions of styles and add-ons may need to be installed after the upgrade is completed.<br />
 <br />
@@ -17540,6 +17885,7 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_category_watched" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Category watched]]></phrase>
   <phrase title="xfrm_change_discussion_thread" addon_id="XFRM" version_id="2010013" version_string="2.1.0 Preview 3"><![CDATA[Change discussion thread]]></phrase>
   <phrase title="xfrm_change_resource_type" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Change resource type]]></phrase>
+  <phrase title="xfrm_changing_forums_type_additional_important_warning_desc" addon_id="XFRM" version_id="2020570" version_string="2.2.5"><![CDATA[This forum is assigned to a resource category and may contain resource threads. Changing the type to anything other than "General discussion" may cause the existing resource threads to lose their type association with resource items.]]></phrase>
   <phrase title="xfrm_choose_file" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Choose file]]></phrase>
   <phrase title="xfrm_creation_date" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Creation date]]></phrase>
   <phrase title="xfrm_creator" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Creator]]></phrase>
