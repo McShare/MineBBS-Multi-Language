@@ -226,7 +226,7 @@
   <phrase title="admin_navigation.af_as_award_manager" addon_id="AddonFlare/AwardSystem" version_id="1010070" version_string="1.1.0"><![CDATA[Award manager]]></phrase>
   <phrase title="admin_navigation.af_as_award_status" addon_id="AddonFlare/AwardSystem" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Award Status]]></phrase>
   <phrase title="admin_navigation.af_as_award_system_settings" addon_id="AddonFlare/AwardSystem" version_id="1010070" version_string="1.1.0"><![CDATA[Award system settings]]></phrase>
-  <phrase title="admin_navigation.af_as_pending_awards" addon_id="AddonFlare/AwardSystem" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Pending Awards]]></phrase>
+  <phrase title="admin_navigation.af_as_pending_awards" addon_id="AddonFlare/AwardSystem" version_id="1040170" version_string="1.4.1"><![CDATA[待定勛章]]></phrase>
   <phrase title="admin_navigation.af_as_rejected_awards" addon_id="AddonFlare/AwardSystem" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Rejected Awards]]></phrase>
   <phrase title="admin_navigation.alertUsers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[提醒會員]]></phrase>
   <phrase title="admin_navigation.analyzePermissions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[分析權限]]></phrase>
@@ -700,7 +700,7 @@ If not checked, any awards belonging to this category will be moved to the "Unca
   <phrase title="af_as_user_has_thread_in_x_forums_at_least_y_replies" addon_id="AddonFlare/AwardSystem" version_id="1020070" version_string="1.2.0"><![CDATA[User has posted a thread in X forum(s) that has at least Y replies]]></phrase>
   <phrase title="af_as_view_your_awards_tab_on_your_profile_page" addon_id="AddonFlare/AwardSystem" version_id="1030071" version_string="1.3.0.1"><![CDATA[在你的個人空間查看你的勛章欄]]></phrase>
   <phrase title="af_as_viewing_awards_list" addon_id="AddonFlare/AwardSystem" version_id="1040070" version_string="1.4.0"><![CDATA[Viewing awards list]]></phrase>
-  <phrase title="af_as_x_pending_awards" addon_id="AddonFlare/AwardSystem" version_id="1000370" version_string="1.0.3"><![CDATA[{total} Pending Awards]]></phrase>
+  <phrase title="af_as_x_pending_awards" addon_id="AddonFlare/AwardSystem" version_id="1040170" version_string="1.4.1"><![CDATA[{total} 待定勛章]]></phrase>
   <phrase title="af_as_x_points_until_level_y" addon_id="AddonFlare/AwardSystem" version_id="1010070" version_string="1.1.0"><![CDATA[{points} Points Until Level {level}]]></phrase>
   <phrase title="af_as_x_request_award" addon_id="AddonFlare/AwardSystem" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[{request} Award]]></phrase>
   <phrase title="af_as_x_status_awards" addon_id="AddonFlare/AwardSystem" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[{status} awards]]></phrase>
@@ -1779,7 +1779,7 @@ To support recurring billing and automatically reversing purchases when a paymen
   <phrase title="cron_entry.dbtech_shop_autobump" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[DragonByte Shop: Process automatic thread bump]]></phrase>
   <phrase title="cron_entry.dbtech_shop_duration" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[DragonByte Shop: Expire items]]></phrase>
   <phrase title="cron_entry.dbtech_shop_interest" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[DragonByte Shop: Process interest]]></phrase>
-  <phrase title="cron_entry.dbtech_shop_stock" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[DragonByte Shop: Refill stock]]></phrase>
+  <phrase title="cron_entry.dbtech_shop_stock" addon_id="DBTech/Shop" version_id="906060170" version_string="6.6.1"><![CDATA[DragonByte Shop: 補充庫存]]></phrase>
   <phrase title="cron_entry.deleteExpiredBans" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[刪除過期的封鎖]]></phrase>
   <phrase title="cron_entry.downgradeExpired" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[降階過期的帳號升級資格]]></phrase>
   <phrase title="cron_entry.emailBounce" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[處理電子郵件退信]]></phrase>
@@ -2717,9 +2717,9 @@ Message: {message}]]></phrase>
   <phrase title="dbtech_shop_item_buyback_price_explain" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Sets the amount the user will receive for selling the item back.<br />
 0 = Sell-back is unavailable.]]></phrase>
   <phrase title="dbtech_shop_item_buyback_price_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item Buyback Price]]></phrase>
-  <phrase title="dbtech_shop_item_buyback_replenish" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Sell-back replenishes available stock]]></phrase>
-  <phrase title="dbtech_shop_item_buyback_replenish_descr" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Whether an item sold back to the store re-adds the item to stock.]]></phrase>
-  <phrase title="dbtech_shop_item_buyback_replenish_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Buyback Replenishes Stock]]></phrase>
+  <phrase title="dbtech_shop_item_buyback_replenish" addon_id="DBTech/Shop" version_id="906060170" version_string="6.6.1"><![CDATA[回售補充可用庫存]]></phrase>
+  <phrase title="dbtech_shop_item_buyback_replenish_descr" addon_id="DBTech/Shop" version_id="906060170" version_string="6.6.1"><![CDATA[售回商店的商品是否會重新添加到庫存中。]]></phrase>
+  <phrase title="dbtech_shop_item_buyback_replenish_short" addon_id="DBTech/Shop" version_id="906060170" version_string="6.6.1"><![CDATA[回購補充庫存]]></phrase>
   <phrase title="dbtech_shop_item_buyback_time" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Sell-back time limit]]></phrase>
   <phrase title="dbtech_shop_item_buyback_time_explain" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Sets the amount of time until the item can no longer be sold back.<br />
 0 = Item can always be sold back.]]></phrase>
@@ -2772,14 +2772,14 @@ Be careful when using this setting, as it will mean an item cannot be configured
   <phrase title="dbtech_shop_item_is_unique_hint" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Whether this item can only be purchased once.]]></phrase>
   <phrase title="dbtech_shop_item_management" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item Management]]></phrase>
   <phrase title="dbtech_shop_item_management_descr" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Below, you can manage all the items you have created for purchase in shop.]]></phrase>
-  <phrase title="dbtech_shop_item_maxstock" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Maximum Stock
-<dfn>The maximum amount of items that can be in stock, even with buyback enabled.<br />
-Must be greater or equal to currently remaining stock.<br />
-If the remaining stock is -1 (Unlimited), this setting will automatically change to -1 upon saving.</dfn>]]></phrase>
-  <phrase title="dbtech_shop_item_maxstock_descr" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[The maximum amount of items that can be in stock, even with buyback enabled.<br />
-Must be greater or equal to currently remaining stock.<br />
-If the remaining stock is -1 (Unlimited), this setting will automatically change to -1 upon saving.]]></phrase>
-  <phrase title="dbtech_shop_item_maxstock_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Maximum Stock]]></phrase>
+  <phrase title="dbtech_shop_item_maxstock" addon_id="DBTech/Shop" version_id="906060170" version_string="6.6.1"><![CDATA[最大庫存
+<dfn>即使啟用回購，庫存商品的最大數量。<br />
+必須大於或等於當前剩餘庫存。<br />
+如果剩餘庫存為-1（無限制），則保存後此設置將自動更改為-1。</dfn>]]></phrase>
+  <phrase title="dbtech_shop_item_maxstock_descr" addon_id="DBTech/Shop" version_id="906060170" version_string="6.6.1"><![CDATA[即使啟用了回購，庫存商品的最大數量也是如此。<br />
+必須大於或等於當前剩餘庫存。<br />
+如果剩餘庫存為-1（無限制），則保存後此設置將自動更改為-1。]]></phrase>
+  <phrase title="dbtech_shop_item_maxstock_short" addon_id="DBTech/Shop" version_id="906060170" version_string="6.6.1"><![CDATA[最大庫存]]></phrase>
   <phrase title="dbtech_shop_item_moderation" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item Moderation]]></phrase>
   <phrase title="dbtech_shop_item_nodisplay" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Force Hidden
 <dfn>If yes, this item will never be displayed regardless of the user's Hidden toggle.</dfn>]]></phrase>
@@ -2812,8 +2812,8 @@ If the remaining stock is -1 (Unlimited), this setting will automatically change
   <phrase title="dbtech_shop_item_reconfigure_descr" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[If yes, this will allow buyers of items like "Username Change" to repeatedly change their user names, or Custom items to edit the contents of their custom fields.]]></phrase>
   <phrase title="dbtech_shop_item_reconfigure_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Allow Re-Configuration]]></phrase>
   <phrase title="dbtech_shop_item_refill_time" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Refill interval]]></phrase>
-  <phrase title="dbtech_shop_item_refill_time_explain" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[The time between each stock replenishment. The stock will automatically replenish to the value of the maximum stock.<br />
-0 = Item does not automatically replenish stock.]]></phrase>
+  <phrase title="dbtech_shop_item_refill_time_explain" addon_id="DBTech/Shop" version_id="906060170" version_string="6.6.1"><![CDATA[每次補貨之間的時間。庫存將自動補充至最大庫存值。<br />
+0 = 商品不會自動補充庫存。]]></phrase>
   <phrase title="dbtech_shop_item_refilltime_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Refill Time (Days)]]></phrase>
   <phrase title="dbtech_shop_item_regift_descr" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[If yes, this will allow members who receive an item as a gift to in turn give this item as a gift to someone else.]]></phrase>
   <phrase title="dbtech_shop_item_regift_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Allow Re-Gift]]></phrase>
@@ -2826,14 +2826,14 @@ If the remaining stock is -1 (Unlimited), this setting will automatically change
   <phrase title="dbtech_shop_item_sort_optiona" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item Sort Options]]></phrase>
   <phrase title="dbtech_shop_item_sort_options" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item Display Options]]></phrase>
   <phrase title="dbtech_shop_item_status" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item status]]></phrase>
-  <phrase title="dbtech_shop_item_stock" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Stock]]></phrase>
-  <phrase title="dbtech_shop_item_stock_explain" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[How many copies of this item is available for purchase.<br />
--1 = Unlimited<br />
-0 = Out of stock<br />
-<br />
-Maximum stock must be greater or equal to currently remaining stock.
-If the remaining stock is -1 (Unlimited), the maximum stock will automatically change to -1 upon saving.]]></phrase>
-  <phrase title="dbtech_shop_item_stock_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Stock]]></phrase>
+  <phrase title="dbtech_shop_item_stock" addon_id="DBTech/Shop" version_id="906060170" version_string="6.6.1"><![CDATA[庫存]]></phrase>
+  <phrase title="dbtech_shop_item_stock_explain" addon_id="DBTech/Shop" version_id="906060170" version_string="6.6.1"><![CDATA[該商品可購買多少份。<br />
+-1 = 無限制<br />
+0 = 缺貨<br />
+<br/>
+最大庫存必須大於或等於當前剩餘庫存。
+如果剩餘庫存為-1（無限制），則保存時最大庫存將自動更改為-1。]]></phrase>
+  <phrase title="dbtech_shop_item_stock_short" addon_id="DBTech/Shop" version_id="906060170" version_string="6.6.1"><![CDATA[庫存]]></phrase>
   <phrase title="dbtech_shop_item_tag.1" addon_id="" version_id="0" version_string=""><![CDATA[在你的个人空间播放你喜欢的BGM！]]></phrase>
   <phrase title="dbtech_shop_item_tag.10" addon_id="" version_id="0" version_string=""><![CDATA[让你的主题亮起来！]]></phrase>
   <phrase title="dbtech_shop_item_tag.2" addon_id="" version_id="0" version_string=""><![CDATA[置顶你的服务器宣传贴！]]></phrase>
@@ -3223,7 +3223,7 @@ You can accept or cancel this invitation here: [URL]{tradeLink}[/URL]]]></phrase
   <phrase title="dbtech_shop_order_items_in" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Order items in]]></phrase>
   <phrase title="dbtech_shop_other_user_cannot_trade_currency" addon_id="DBTech/Shop" version_id="906010015" version_string="6.1.0 Alpha 5"><![CDATA[The other user is attempting to trade an un-tradeable currency.]]></phrase>
   <phrase title="dbtech_shop_other_user_not_owner_of_item_x" addon_id="DBTech/Shop" version_id="906010015" version_string="6.1.0 Alpha 5"><![CDATA[The other user cannot trade {item} because they do not own the item.]]></phrase>
-  <phrase title="dbtech_shop_out_of_stock" addon_id="DBTech/Shop" version_id="906010036" version_string="6.1.0 Beta 6"><![CDATA[Out of stock]]></phrase>
+  <phrase title="dbtech_shop_out_of_stock" addon_id="DBTech/Shop" version_id="906060170" version_string="6.6.1"><![CDATA[缺貨]]></phrase>
   <phrase title="dbtech_shop_overview" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Overview]]></phrase>
   <phrase title="dbtech_shop_own_tab" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Own tab]]></phrase>
   <phrase title="dbtech_shop_own_threads_only" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Buyers can only manage their own threads]]></phrase>
@@ -3439,9 +3439,9 @@ If this column does not exist on the above table, it will be added.]]></phrase>
   <phrase title="dbtech_shop_shop_name" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Shop Name]]></phrase>
   <phrase title="dbtech_shop_shop_navbar" addon_id="DBTech/Shop" global_cache="1" version_id="6000031" version_string="6.0.0 Beta 1"><![CDATA[Shop]]></phrase>
   <phrase title="dbtech_shop_shop_navigation" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Shop Navigation]]></phrase>
-  <phrase title="dbtech_shop_shop_owner" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Shop Owner
-<dfn>Input the User ID of the person who owns this shop. The owner of a shop can perform advanced actions such as add / remove stock, and also receives 100% of the points spent to their own wallet.<br />
-0 = No owner.</dfn>]]></phrase>
+  <phrase title="dbtech_shop_shop_owner" addon_id="DBTech/Shop" version_id="906060170" version_string="6.6.1"><![CDATA[老闆
+<dfn>輸入擁有該商店的人的用戶 ID。店主可以執行添加/刪除庫存等高級操作，並且還可以將 100% 的積分存入自己的錢包。<br />
+0 = 無所有者。</dfn>]]></phrase>
   <phrase title="dbtech_shop_shop_owner_short" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Shop Owner]]></phrase>
   <phrase title="dbtech_shop_shop_purchase_counts" addon_id="DBTech/Shop" version_id="906010012" version_string="6.1.0 Alpha 2"><![CDATA[Shop purchase counts]]></phrase>
   <phrase title="dbtech_shop_shop_settings" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Shop Settings]]></phrase>
@@ -3469,9 +3469,9 @@ Requires the <i>Can Use Signature</i> Usergroup Permission enabled for all userg
 <dfn>You can choose an existing icon from the drop-down.</dfn>]]></phrase>
   <phrase title="dbtech_shop_small_icon_upload" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Upload New Small Icon
 <dfn>You can also upload a new icon with this form.</dfn>]]></phrase>
-  <phrase title="dbtech_shop_sold_items" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Sold Items
-<dfn>These are the items that will be made available for purchase in this shop.<br />
-You can edit the inventory stock from the main shop list once you have selected some items.</dfn>]]></phrase>
+  <phrase title="dbtech_shop_sold_items" addon_id="DBTech/Shop" version_id="906060170" version_string="6.6.1"><![CDATA[售出物品
+<dfn>這些是可以在這家商店購買的商品。<br />
+選擇某些商品後，您可以從主商店列表中編輯庫存。</dfn>]]></phrase>
   <phrase title="dbtech_shop_sort_by" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Sort By]]></phrase>
   <phrase title="dbtech_shop_sort_items_by" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Sort items by]]></phrase>
   <phrase title="dbtech_shop_sorting_items" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Sorting Items]]></phrase>
@@ -3525,7 +3525,7 @@ You can edit the inventory stock from the main shop list once you have selected 
 ]]></phrase>
   <phrase title="dbtech_shop_stealsuccess_descr" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[When someone successfully steals points from you.]]></phrase>
   <phrase title="dbtech_shop_stealsuccess_title" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Steal Success]]></phrase>
-  <phrase title="dbtech_shop_stock" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Stock]]></phrase>
+  <phrase title="dbtech_shop_stock" addon_id="DBTech/Shop" version_id="906060170" version_string="6.6.1"><![CDATA[庫存]]></phrase>
   <phrase title="dbtech_shop_stop_notification_emails_from_all_items" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Stop notification emails from all items]]></phrase>
   <phrase title="dbtech_shop_style_descr" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Un-check the box to remove added formatting.]]></phrase>
   <phrase title="dbtech_shop_switching_shop" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Switching Shop]]></phrase>
@@ -3734,7 +3734,7 @@ If you did not want this change, please use the Contact Us form on the forums to
   <phrase title="dbtech_shop_viewing_trade_offer" addon_id="DBTech/Shop" version_id="906010015" version_string="6.1.0 Alpha 5"><![CDATA[Viewing trade offer]]></phrase>
   <phrase title="dbtech_shop_viewing_trades" addon_id="DBTech/Shop" version_id="906010014" version_string="6.1.0 Alpha 4"><![CDATA[Viewing trades]]></phrase>
   <phrase title="dbtech_shop_visit_shop" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Visit Shop]]></phrase>
-  <phrase title="dbtech_shop_wallet" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Wallet]]></phrase>
+  <phrase title="dbtech_shop_wallet" addon_id="DBTech/Shop" version_id="906060170" version_string="6.6.1"><![CDATA[錢包]]></phrase>
   <phrase title="dbtech_shop_wallet_widget_must_be_configured_to_display_one_or_more_currency" addon_id="DBTech/Shop" version_id="6000031" version_string="6.0.0 Beta 1"><![CDATA[The Wallet widget must be configured to display one or more currency.]]></phrase>
   <phrase title="dbtech_shop_watch_item" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Watch item]]></phrase>
   <phrase title="dbtech_shop_watch_this_item" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Watch this item]]></phrase>
@@ -3842,7 +3842,7 @@ This is the message they left:
   <phrase title="dbtech_shop_your_review_for_x_was_edited" addon_id="DBTech/Shop" version_id="906010015" version_string="6.1.0 Alpha 5"><![CDATA[Your review for {title} was edited.]]></phrase>
   <phrase title="dbtech_shop_your_review_must_be_at_least_x_characters" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Your review must be at least {min} characters.]]></phrase>
   <phrase title="dbtech_shop_your_tickets" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Your Ticket(s)]]></phrase>
-  <phrase title="dbtech_shop_your_wallet" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Your Wallet]]></phrase>
+  <phrase title="dbtech_shop_your_wallet" addon_id="DBTech/Shop" version_id="906060170" version_string="6.6.1"><![CDATA[你的錢包]]></phrase>
   <phrase title="deactivate" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[停用]]></phrase>
   <phrase title="debug_mode_is_enabled_changes_will_be_overwritten" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[偵錯模式已啟動，因此主版本的附加元件資料的任何修改都會被覆蓋。]]></phrase>
   <phrase title="decimal_point_character" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[小數點符號]]></phrase>
@@ -8464,7 +8464,7 @@ Various directories must be writable by the web server user to install from an a
   <phrase title="join_date" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[加入日期]]></phrase>
   <phrase title="joined" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[已加入]]></phrase>
   <phrase title="jump_to_line" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[Jump to line]]></phrase>
-  <phrase title="jump_to_new" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Jump to new]]></phrase>
+  <phrase title="jump_to_new" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[跳轉新帖]]></phrase>
   <phrase title="justify_text" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Justify text]]></phrase>
   <phrase title="key_provided_to_api_via_header" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[This key should be provided to API requests via the <code>XF-Api-Key</code> header.]]></phrase>
   <phrase title="key_type" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Key type]]></phrase>
@@ -9005,7 +9005,7 @@ Callback arguments:
   <phrase title="lock_conversation" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[鎖定討論]]></phrase>
   <phrase title="lock_conversation_no_responses_will_be_allowed" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[鎖定討論（無法回覆）]]></phrase>
   <phrase title="lock_out" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[鎖定]]></phrase>
-  <phrase title="lock_thread" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Lock thread]]></phrase>
+  <phrase title="lock_thread" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[鎖定主題]]></phrase>
   <phrase title="lock_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[鎖定主題]]></phrase>
   <phrase title="locked" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[已鎖定]]></phrase>
   <phrase title="log_and_count_visits_to_this_page" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[記錄並計算此頁面的訪客]]></phrase>
@@ -9098,12 +9098,12 @@ Callback arguments:
   <phrase title="member_stat.brcb" addon_id="" version_id="0" version_string=""><![CDATA[金粒榜]]></phrase>
   <phrase title="member_stat.brcd" addon_id="" version_id="0" version_string=""><![CDATA[钻石榜]]></phrase>
   <phrase title="member_stat.dbtech_shop_most_items" addon_id="DBTech/Shop" version_id="906010012" version_string="6.1.0 Alpha 2"><![CDATA[Most items]]></phrase>
-  <phrase title="member_stat.highest_reaction_score" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Highest reaction score]]></phrase>
+  <phrase title="member_stat.highest_reaction_score" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[最高反饋]]></phrase>
   <phrase title="member_stat.most_messages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[最多回覆]]></phrase>
   <phrase title="member_stat.most_points" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[最多點數]]></phrase>
-  <phrase title="member_stat.most_solutions" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Most solutions]]></phrase>
+  <phrase title="member_stat.most_solutions" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[最多回答]]></phrase>
   <phrase title="member_stat.most_tso" addon_id="Yugensoft/TimeSpentOnline" version_id="2000670" version_string="2.0.6"><![CDATA[在綫時長]]></phrase>
-  <phrase title="member_stat.ozzmodz_userfollowerscount_count" addon_id="OzzModz/UserFollowersCount" version_id="2000000" version_string="2.0.0"><![CDATA[Most followed]]></phrase>
+  <phrase title="member_stat.ozzmodz_userfollowerscount_count" addon_id="OzzModz/UserFollowersCount" version_id="2000091" version_string="2.0.0 Patch Level 1"><![CDATA[最多粉絲]]></phrase>
   <phrase title="member_stat.siropu_referral_count" addon_id="Siropu/ReferralContests" version_id="2020970" version_string="2.2.9"><![CDATA[最多邀請]]></phrase>
   <phrase title="member_stat.staff_members" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[站方人員]]></phrase>
   <phrase title="member_stat.thfeature_most_featured_content" addon_id="ThemeHouse/Feature" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Most featured content]]></phrase>
@@ -9271,7 +9271,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_credits_you_have_received_a_red_envelope" addon_id="MJ/Credits" version_id="1030601" version_string="1.3.6.1"><![CDATA[您已经领过红包了]]></phrase>
   <phrase title="mjc_currencies" addon_id="MJ/Credits" version_id="1000400" version_string="1.0.4"><![CDATA[貨幣]]></phrase>
   <phrase title="mjc_currency" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[货币]]></phrase>
-  <phrase title="mjc_currency_desc.1" addon_id="MJ/Credits" version_id="1000200" version_string="1.0.2"><![CDATA[这是私人货币]]></phrase>
+  <phrase title="mjc_currency_desc.1" addon_id="MJ/Credits" version_id="1030800" version_string="1.3.8"><![CDATA[]]></phrase>
   <phrase title="mjc_currency_desc.2" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_currency_desc.3" addon_id="MJ/Credits" version_id="1010700" version_string="1.1.7"><![CDATA[]]></phrase>
   <phrase title="mjc_currency_desc.4" addon_id="MJ/Credits" version_id="1010700" version_string="1.1.7"><![CDATA[]]></phrase>
@@ -9279,8 +9279,8 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_currency_desc.6" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="mjc_currency_limit" addon_id="MJ/Credits" version_id="1000200" version_string="1.0.2"><![CDATA[货币限制]]></phrase>
   <phrase title="mjc_currency_options" addon_id="MJ/Credits" version_id="1020920" version_string="1.2.9.2"><![CDATA[货币选项]]></phrase>
-  <phrase title="mjc_currency_title.1" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[黄金]]></phrase>
-  <phrase title="mjc_currency_title.2" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[白银]]></phrase>
+  <phrase title="mjc_currency_title.1" addon_id="MJ/Credits" version_id="1030800" version_string="1.3.8"><![CDATA[金粒]]></phrase>
+  <phrase title="mjc_currency_title.2" addon_id="MJ/Credits" version_id="1030800" version_string="1.3.8"><![CDATA[鑽石]]></phrase>
   <phrase title="mjc_currency_title.3" addon_id="" version_id="0" version_string=""><![CDATA[金粒]]></phrase>
   <phrase title="mjc_currency_title.4" addon_id="" version_id="0" version_string=""><![CDATA[钻石]]></phrase>
   <phrase title="mjc_currency_title.5" addon_id="" version_id="0" version_string=""><![CDATA[测试]]></phrase>
@@ -10014,7 +10014,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="nav.activities" addon_id="" version_id="0" version_string=""><![CDATA[動態廣場]]></phrase>
   <phrase title="nav.addonFlarePubAwards" addon_id="AddonFlare/AwardSystem" version_id="1000070" version_string="1.0.0"><![CDATA[Awards]]></phrase>
   <phrase title="nav.af_as_my_awards" addon_id="AddonFlare/AwardSystem" version_id="1010071" version_string="1.1.0.1"><![CDATA[你的勛章]]></phrase>
-  <phrase title="nav.af_as_pending_awards" addon_id="AddonFlare/AwardSystem" version_id="1000370" version_string="1.0.3"><![CDATA[Pending Awards]]></phrase>
+  <phrase title="nav.af_as_pending_awards" addon_id="AddonFlare/AwardSystem" version_id="1040170" version_string="1.4.1"><![CDATA[待定勛章]]></phrase>
   <phrase title="nav.contributedThreads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[你的主題回應]]></phrase>
   <phrase title="nav.currentVisitors" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[目前訪客]]></phrase>
   <phrase title="nav.dbtShopNewItems" addon_id="DBTech/Shop" version_id="906010012" version_string="6.1.0 Alpha 2"><![CDATA[New items]]></phrase>
@@ -10447,7 +10447,7 @@ If a CLI upgrade is recommended, you will be given an opportunity to use that in
   <phrase title="option.dbtechShopListDefaultOrder" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Default item list order]]></phrase>
   <phrase title="option.dbtechShopLotteriesPerPage" addon_id="DBTech/Shop" version_id="906010014" version_string="6.1.0 Alpha 4"><![CDATA[Lotteries per page]]></phrase>
   <phrase title="option.dbtechShopMinimumReviewLength" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Minimum item review length]]></phrase>
-  <phrase title="option.dbtechShopMininumStealWallet" addon_id="DBTech/Shop" version_id="906020170" version_string="6.2.1"><![CDATA[Minimum wallet balance]]></phrase>
+  <phrase title="option.dbtechShopMininumStealWallet" addon_id="DBTech/Shop" version_id="906060170" version_string="6.6.1"><![CDATA[最低錢包餘額]]></phrase>
   <phrase title="option.dbtechShopRequirePurchaseToRate" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Require purchase to rate items]]></phrase>
   <phrase title="option.dbtechShopReviewRequired" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Require a review when rating items]]></phrase>
   <phrase title="option.dbtechShopReviewsPerPage" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Reviews per page]]></phrase>
@@ -11013,8 +11013,8 @@ Setting this value too high may lead to performance issues.]]></phrase>
   <phrase title="option_explain.dbtechShopListDefaultOrder" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[When viewing the item index or category overview pages, this will be the default order for items.]]></phrase>
   <phrase title="option_explain.dbtechShopLotteriesPerPage" addon_id="DBTech/Shop" version_id="906010014" version_string="6.1.0 Alpha 4"><![CDATA[The number of lotteries that will be listed per page across the shop.]]></phrase>
   <phrase title="option_explain.dbtechShopMinimumReviewLength" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[This setting has no effect if a review is not required and the user does not enter a review.]]></phrase>
-  <phrase title="option_explain.dbtechShopMininumStealWallet" addon_id="DBTech/Shop" version_id="906020170" version_string="6.2.1"><![CDATA[This is the minimum amount the user needs in their wallet in order to attempt to steal currency.<br />
-For instance, if this is set to <strong>500</strong> and the user tries to steal the currency <strong>Points</strong> from another user, then the thief needs at least <strong>500 Points</strong> in <em>their own wallet</em> in order to attempt the theft.]]></phrase>
+  <phrase title="option_explain.dbtechShopMininumStealWallet" addon_id="DBTech/Shop" version_id="906060170" version_string="6.6.1"><![CDATA[這是用戶嘗試竊取貨幣所需錢包中的最低金額。<br />
+例如，如果將其設置為 <strong>500</strong>，並且用戶嘗試從其他用戶那裡竊取貨幣 <strong>積分</strong>，則竊賊至少需要 <strong>500 積分</strong>  在< em>他們自己的錢包</em>中以試圖盜竊。]]></phrase>
   <phrase title="option_explain.dbtechShopRequirePurchaseToRate" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[If selected, users may only rate an item once they have purchased it.]]></phrase>
   <phrase title="option_explain.dbtechShopReviewRequired" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[If enabled, users must submit a review when rating an item.]]></phrase>
   <phrase title="option_explain.dbtechShopReviewsPerPage" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[The number of reviews that will be listed per page across the shop.]]></phrase>
@@ -11893,7 +11893,7 @@ Callback arguments:
   <phrase title="permission.forum_tagOwnThread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[為自己的主題貼上標籤]]></phrase>
   <phrase title="permission.forum_thfeat_featureOwnThread" addon_id="ThemeHouse/Feature" version_id="1000610" version_string="1.0.6 Alpha"><![CDATA[Feature own thread]]></phrase>
   <phrase title="permission.forum_thfeature_featurePoll" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Feature polls]]></phrase>
-  <phrase title="permission.forum_thfeature_featureThread" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Feature threads]]></phrase>
+  <phrase title="permission.forum_thfeature_featureThread" addon_id="ThemeHouse/Feature" version_id="1001091" version_string="1.0.10 Patch Level 1"><![CDATA[推薦主題]]></phrase>
   <phrase title="permission.forum_threadReplyBan" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[禁止會員回覆主題]]></phrase>
   <phrase title="permission.forum_undelete" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[取消刪除主題 / 文章]]></phrase>
   <phrase title="permission.forum_uploadAttachment" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[上傳附件到文章中]]></phrase>
@@ -14561,7 +14561,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="step_x_of_y" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Step {current} of {total}]]></phrase>
   <phrase title="stick_resource" addon_id="CnXFans/StickyResources" version_id="1000000" version_string="1.0.0"><![CDATA[置頂資源]]></phrase>
   <phrase title="stick_resources" addon_id="CnXFans/StickyResources" version_id="1000000" version_string="1.0.0"><![CDATA[置頂資源]]></phrase>
-  <phrase title="stick_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Stick thread]]></phrase>
+  <phrase title="stick_thread" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[置頂主題]]></phrase>
   <phrase title="stick_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[置頂主題]]></phrase>
   <phrase title="sticky" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[主題置頂]]></phrase>
   <phrase title="sticky_threads_appear_at_top_of_first_page_of_list_of_threads" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[置頂主題會出現在上級討論版第一頁的頁首]]></phrase>
@@ -15572,11 +15572,11 @@ Use the following code in your "message_macros" template:<br>
   <phrase title="tckChangeContentOwner_change_date" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Change date]]></phrase>
   <phrase title="tckChangeContentOwner_change_owner" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Change owner]]></phrase>
   <phrase title="tckChangeContentOwner_change_owner_of_x" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Change owner of {content_title}]]></phrase>
-  <phrase title="tckChangeContentOwner_change_owner_or_date" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Change owner or date]]></phrase>
+  <phrase title="tckChangeContentOwner_change_owner_or_date" addon_id="TickTackk/ChangeContentOwner" version_id="2001570" version_string="2.0.15"><![CDATA[更改所有者或日期]]></phrase>
   <phrase title="tckChangeContentOwner_change_x_owner_or_date" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Change {content_type_plural} owner or date]]></phrase>
   <phrase title="tckChangeContentOwner_inline_moderation_change_date" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Inline moderation - Change date]]></phrase>
   <phrase title="tckChangeContentOwner_inline_moderation_change_owner" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Inline moderation - Change owner]]></phrase>
-  <phrase title="tckChangeContentOwner_inline_moderation_change_owner_or_date" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Inline moderation - Change owner or date]]></phrase>
+  <phrase title="tckChangeContentOwner_inline_moderation_change_owner_or_date" addon_id="TickTackk/ChangeContentOwner" version_id="2001570" version_string="2.0.15"><![CDATA[內聯審核 - 更改所有者或日期]]></phrase>
   <phrase title="tckChangeContentOwner_new_date" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[New date]]></phrase>
   <phrase title="tckChangeContentOwner_new_date_explain" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Enter the new date of the content.]]></phrase>
   <phrase title="tckChangeContentOwner_new_date_must_be_older_than_thread_date" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[New date must be older than thread date.]]></phrase>
@@ -15965,7 +15965,7 @@ For example: if you set "orange" as a class on a category, each forum within tha
   <phrase title="thfeature_feature_page_options" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Feature page options]]></phrase>
   <phrase title="thfeature_feature_poll" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Feature poll]]></phrase>
   <phrase title="thfeature_feature_resource" addon_id="ThemeHouse/Feature" version_id="1000610" version_string="1.0.6 Alpha"><![CDATA[Feature resource]]></phrase>
-  <phrase title="thfeature_feature_thread" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Feature thread]]></phrase>
+  <phrase title="thfeature_feature_thread" addon_id="ThemeHouse/Feature" version_id="1001091" version_string="1.0.10 Patch Level 1"><![CDATA[推薦主題]]></phrase>
   <phrase title="thfeature_feature_will_automatically_expire_on" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Feature will automatically expire on]]></phrase>
   <phrase title="thfeature_featured" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Featured]]></phrase>
   <phrase title="thfeature_featured_by" addon_id="ThemeHouse/Feature" version_id="1000393" version_string="1.0.3 Patch Level 3"><![CDATA[Featured by]]></phrase>
@@ -16046,7 +16046,7 @@ For example: if you set "orange" as a class on a category, each forum within tha
   <phrase title="thfeature_unfeature_media_item" addon_id="ThemeHouse/Feature" version_id="1000610" version_string="1.0.6 Alpha"><![CDATA[Unfeature media item]]></phrase>
   <phrase title="thfeature_unfeature_poll" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Unfeature poll]]></phrase>
   <phrase title="thfeature_unfeature_resource" addon_id="ThemeHouse/Feature" version_id="1000610" version_string="1.0.6 Alpha"><![CDATA[Unfeature resource]]></phrase>
-  <phrase title="thfeature_unfeature_thread" addon_id="ThemeHouse/Feature" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Unfeature thread]]></phrase>
+  <phrase title="thfeature_unfeature_thread" addon_id="ThemeHouse/Feature" version_id="1001091" version_string="1.0.10 Patch Level 1"><![CDATA[取消推薦]]></phrase>
   <phrase title="thfeature_upload_custom_feature_background_image" addon_id="ThemeHouse/Feature" version_id="1000333" version_string="1.0.3 Beta 3"><![CDATA[Upload custom feature background image]]></phrase>
   <phrase title="thfeature_upload_new_background" addon_id="ThemeHouse/Feature" version_id="1001070" version_string="1.0.10"><![CDATA[Upload new background]]></phrase>
   <phrase title="thfeature_upload_new_icon" addon_id="ThemeHouse/Feature" version_id="1001070" version_string="1.0.10"><![CDATA[Upload new icon]]></phrase>
@@ -16828,7 +16828,7 @@ A code will then be generated for you by the Authy app which you will need to en
   <phrase title="unstar_conversations" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[取消標注星號]]></phrase>
   <phrase title="unstick_resource" addon_id="CnXFans/StickyResources" version_id="1000000" version_string="1.0.0"><![CDATA[取消置頂]]></phrase>
   <phrase title="unstick_resources" addon_id="CnXFans/StickyResources" version_id="1000000" version_string="1.0.0"><![CDATA[取消置頂]]></phrase>
-  <phrase title="unstick_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unstick thread]]></phrase>
+  <phrase title="unstick_thread" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[取消置頂]]></phrase>
   <phrase title="unstick_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[主題取消置頂]]></phrase>
   <phrase title="unsubscribe_from_mailing_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[停止訂閱信件]]></phrase>
   <phrase title="unsubscribe_from_x_mailing_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unsubscribe from the {title} mailing list]]></phrase>
@@ -17376,7 +17376,7 @@ Select the updates you want to install below. The selected updates will be downl
   <phrase title="widget.dbtech_shop_overview_latest_reviews" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.dbtech_shop_overview_top_authors" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.dbtech_shop_profilemusic" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="widget.dbtech_shop_wallet" addon_id="" version_id="0" version_string=""><![CDATA[Wallet]]></phrase>
+  <phrase title="widget.dbtech_shop_wallet" addon_id="" version_id="0" version_string=""><![CDATA[錢包]]></phrase>
   <phrase title="widget.dbtech_shop_whats_new_overview_new_items" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.feature_grid" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.feature_widget" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -17441,7 +17441,7 @@ Select the updates you want to install below. The selected updates will be downl
   <phrase title="widget_def.dbtech_shop_cart" addon_id="DBTech/Shop" version_id="906010054" version_string="6.1.0 Release Candidate 4"><![CDATA[DragonByte Shop: Cart]]></phrase>
   <phrase title="widget_def.dbtech_shop_profilemusic" addon_id="DBTech/Shop" version_id="906010054" version_string="6.1.0 Release Candidate 4"><![CDATA[DragonByte Shop: Profile Music]]></phrase>
   <phrase title="widget_def.dbtech_shop_richest" addon_id="DBTech/Shop" version_id="906010054" version_string="6.1.0 Release Candidate 4"><![CDATA[DragonByte Shop: Richest Users]]></phrase>
-  <phrase title="widget_def.dbtech_shop_wallet" addon_id="DBTech/Shop" version_id="906010054" version_string="6.1.0 Release Candidate 4"><![CDATA[DragonByte Shop: Wallet]]></phrase>
+  <phrase title="widget_def.dbtech_shop_wallet" addon_id="DBTech/Shop" version_id="906060170" version_string="6.6.1"><![CDATA[DragonByte Shop: 錢包]]></phrase>
   <phrase title="widget_def.find_member" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[尋找會員]]></phrase>
   <phrase title="widget_def.forum_statistics" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[論壇統計]]></phrase>
   <phrase title="widget_def.html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[HTML]]></phrase>
