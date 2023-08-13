@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<language title="العربية (AR)" date_format="j F Y" time_format="H:i" currency_format="{value} {symbol}" week_start="0" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="…" parenthesis_open="(" parenthesis_close=")" language_code="ar-AR" text_direction="LTR" user_selectable="1" base_version_id="2021270" export_version="2">
+<language title="العربية (AR)" date_format="j F Y" time_format="H:i" currency_format="{value} {symbol}" week_start="0" decimal_point="." thousands_separator="," label_separator=":" comma_separator=", " ellipsis="…" parenthesis_open="(" parenthesis_close=")" language_code="ar-AR" text_direction="LTR" user_selectable="1" base_version_id="2021370" export_version="2">
   <phrase title="1_day_ago" addon_id="XF" version_id="2000052" version_string="2.0.0 Release Candidate 2"><![CDATA[منذ يوم]]></phrase>
   <phrase title="1_month_ago" addon_id="XF" version_id="2000052" version_string="2.0.0 Release Candidate 2"><![CDATA[منذ شهر]]></phrase>
   <phrase title="1_time" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[مرة واحدة]]></phrase>
@@ -234,6 +234,8 @@
   <phrase title="admin_navigation.apiScopes" addon_id="XF" version_id="2010032" version_string="2.1.0 Beta 2"><![CDATA[مجالات API]]></phrase>
   <phrase title="admin_navigation.appearance" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[المظهر]]></phrase>
   <phrase title="admin_navigation.attachments" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[المرفقات]]></phrase>
+  <phrase title="admin_navigation.audapi" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[[Audentio] API]]></phrase>
+  <phrase title="admin_navigation.audapi_authentication" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Authentication]]></phrase>
   <phrase title="admin_navigation.bannedEmails" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[الإيميلات المحظورة]]></phrase>
   <phrase title="admin_navigation.bannedIps" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[عناوين IP المحظورة]]></phrase>
   <phrase title="admin_navigation.bannedUsers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[أعضاء محظورين]]></phrase>
@@ -436,7 +438,6 @@
   <phrase title="admin_navigation.threadPrompts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[تلقينات الموضوع]]></phrase>
   <phrase title="admin_navigation.threadProperties" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[إعددات الموضوع]]></phrase>
   <phrase title="admin_navigation.threadReplyBans" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[محظورين من الرد على موضوع]]></phrase>
-  <phrase title="admin_navigation.tl_IO_Logs" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[[tl] Image Optimizer Logs]]></phrase>
   <phrase title="admin_navigation.tools" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[أدوات]]></phrase>
   <phrase title="admin_navigation.trophies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[الجوائز]]></phrase>
   <phrase title="admin_navigation.twoStepProviders" addon_id="XF" version_id="2010032" version_string="2.1.0 Beta 2"><![CDATA[التحقق بخطوتين]]></phrase>
@@ -473,6 +474,7 @@
   <phrase title="admin_permission.advertising" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[إدارة الإعلانات]]></phrase>
   <phrase title="admin_permission.af_as" addon_id="AddonFlare/AwardSystem" version_id="1010070" version_string="1.1.0"><![CDATA[[AddonFlare] XF2 Awards System]]></phrase>
   <phrase title="admin_permission.attachment" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[إدارة الملفات المرفقة]]></phrase>
+  <phrase title="admin_permission.audapi_authentication" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[[Audentio] API: Manage authentication]]></phrase>
   <phrase title="admin_permission.ban" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[إدارة الحظر]]></phrase>
   <phrase title="admin_permission.bbCodeSmilie" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[إدارة BB codes و الإبتسامات]]></phrase>
   <phrase title="admin_permission.cron" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[إدارة المهام المجدولة]]></phrase>
@@ -574,6 +576,7 @@
   <phrase title="af_as_award_desc.21" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS成立四周年纪念勋章]]></phrase>
   <phrase title="af_as_award_desc.22" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS论坛2022年暑期对抗赛]]></phrase>
   <phrase title="af_as_award_desc.23" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS论坛2022年暑期对抗赛]]></phrase>
+  <phrase title="af_as_award_desc.24" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS成立五周年纪念勋章]]></phrase>
   <phrase title="af_as_award_desc.3" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS社区认证搬运组]]></phrase>
   <phrase title="af_as_award_desc.4" addon_id="" version_id="0" version_string=""><![CDATA[在材质领域有优秀精华的原创作品或卓有名誉]]></phrase>
   <phrase title="af_as_award_desc.5" addon_id="" version_id="0" version_string=""><![CDATA[长期活跃在论坛中的积极分子]]></phrase>
@@ -600,6 +603,7 @@
   <phrase title="af_as_award_title.21" addon_id="" version_id="0" version_string=""><![CDATA[四周年纪念]]></phrase>
   <phrase title="af_as_award_title.22" addon_id="" version_id="0" version_string=""><![CDATA[MB暑期对抗赛纪念勋章]]></phrase>
   <phrase title="af_as_award_title.23" addon_id="" version_id="0" version_string=""><![CDATA[MB暑期对抗赛特制纪念勋章]]></phrase>
+  <phrase title="af_as_award_title.24" addon_id="" version_id="0" version_string=""><![CDATA[五周年纪念]]></phrase>
   <phrase title="af_as_award_title.3" addon_id="" version_id="0" version_string=""><![CDATA[搬运组]]></phrase>
   <phrase title="af_as_award_title.4" addon_id="" version_id="0" version_string=""><![CDATA[材质专家]]></phrase>
   <phrase title="af_as_award_title.5" addon_id="" version_id="0" version_string=""><![CDATA[积极分子]]></phrase>
@@ -860,6 +864,7 @@ If you have a valid license, please <a href="admin.php?add-ons/" rel="nofollow" 
   <phrase title="api_error.attachment_key_type_wrong" addon_id="XF" version_id="2010032" version_string="2.1.0 Beta 2"><![CDATA[لا يحتوي مفتاح المرفق المقدم على نوع المحتوى المتوقع.]]></phrase>
   <phrase title="api_error.attachment_key_unknown" addon_id="XF" version_id="2010032" version_string="2.1.0 Beta 2"><![CDATA[لا يمكن العثور على مفتاح المرفق المقدم.]]></phrase>
   <phrase title="api_error.attachment_key_user_wrong" addon_id="XF" version_id="2010032" version_string="2.1.0 Beta 2"><![CDATA[لا يحتوي مفتاح المرفق المقدم على المستخدم المتوقع.]]></phrase>
+  <phrase title="api_error.audapi_session_id_invalid" addon_id="Audentio/API" version_id="1000057" version_string="1.0.0 Release Candidate 7"><![CDATA[Session ID is invalid.]]></phrase>
   <phrase title="api_error.endpoint_not_found" addon_id="XF" version_id="2010032" version_string="2.1.0 Beta 2"><![CDATA[لا يمكن العثور على نقطه النهاية المطلوبة.]]></phrase>
   <phrase title="api_error.missing_scope" addon_id="XF" version_id="2010032" version_string="2.1.0 Beta 2"><![CDATA[يحتاج هذا الطلب للوصول إلى المجال التالي: {scope}]]></phrase>
   <phrase title="api_error.no_api_key_in_request" addon_id="XF" version_id="2010032" version_string="2.1.0 Beta 2"><![CDATA[لم يتم تضمين مفتاح API في الطلب.]]></phrase>
@@ -1000,6 +1005,77 @@ If you have a valid license, please <a href="admin.php?add-ons/" rel="nofollow" 
   <phrase title="attachments" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[المرفقات]]></phrase>
   <phrase title="attempting_to_verify_your_dns_record_but_it_may_take_up_to_24_hours_for" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Attempting to verify your DNS record but it may take up to 24 hours for DNS changes to propagate. If it has been longer, you may need to verify your entries.]]></phrase>
   <phrase title="attempts_to_email_x_have_failed_please_update" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[أخفقت محاولات إرسال رسائل إلكترونية إلى {email} يرجى تحديث بريدك الإلكتروني.]]></phrase>
+  <phrase title="audapi_authentication_methods" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Authentication methods]]></phrase>
+  <phrase title="audapi_authentication_template" addon_id="Audentio/API" version_id="1000061" version_string="1.0.0 Release Candidate 11"><![CDATA[Authentication template]]></phrase>
+  <phrase title="audapi_authorize" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Authorize]]></phrase>
+  <phrase title="audapi_authorize_an_application" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Authorize an application]]></phrase>
+  <phrase title="audapi_authorize_x_to_access_your_account" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Authorize {clientName} to access your account]]></phrase>
+  <phrase title="audapi_basic_credential_password_explain" addon_id="Audentio/API" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[The password that will be used to authenticate with the API. Note: If you are editing an existing credential you can leave this blank to keep the existing password. The password is hashed and cannot be recovered, if you've lost it you'll need to set a new password.]]></phrase>
+  <phrase title="audapi_basic_credentials" addon_id="Audentio/API" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Basic credentials]]></phrase>
+  <phrase title="audapi_can_use_password_grant" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Can use password grant]]></phrase>
+  <phrase title="audapi_can_use_password_grant_hint" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[If enabled, password grants will be enabled for this client.<br>
+<strong>Note: It is recommended that you use another method, such as <a href="https://oauth.net/2/grant-types/authorization-code/">authorization codes</a> when possible.</strong>]]></phrase>
+  <phrase title="audapi_client_id" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Client ID]]></phrase>
+  <phrase title="audapi_client_secret" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Client secret]]></phrase>
+  <phrase title="audapi_client_secret_will_not_show_again_explain" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[The secret for this client can not be shown again, if it is lost it will need to be regenerated.]]></phrase>
+  <phrase title="audapi_client_type" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Client type]]></phrase>
+  <phrase title="audapi_client_type_explain" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[The type of client that should be created. Confidential clients have a secret, and public clients do not.<br>
+<strong>Note: A public client can only be used with the Authorization Code grant with Proff Key for Code Exchange (PKCE)</strong>]]></phrase>
+  <phrase title="audapi_confidential" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Confidential]]></phrase>
+  <phrase title="audapi_confirm_that_you_want_to_reset_the_following_client_secret" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Confirm that you want to reset the following client's secret:]]></phrase>
+  <phrase title="audapi_confirm_that_you_want_to_restore_the_following_client" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Please confirm that you want to revoke the following client]]></phrase>
+  <phrase title="audapi_confirm_that_you_want_to_revoke_the_following_client" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Please confirm that you want to revoke the following client]]></phrase>
+  <phrase title="audapi_copied_to_clipboard" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Copied to clipboard]]></phrase>
+  <phrase title="audapi_create_oauth2_client" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Create OAuth2 client]]></phrase>
+  <phrase title="audapi_edit_oauth2_client" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Edit OAuth2 client]]></phrase>
+  <phrase title="audapi_hide_revoked_clients" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Hide revoked clients]]></phrase>
+  <phrase title="audapi_if_you_regenerate_applications_will_need_update" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[If you regenerate the client secret any applications using this client ID and secret will need to be updated or they will no longer function.]]></phrase>
+  <phrase title="audapi_login" addon_id="Audentio/API" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Login]]></phrase>
+  <phrase title="audapi_method.basic" addon_id="Audentio/API" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Basic authentication]]></phrase>
+  <phrase title="audapi_method.oauth2" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[OAuth2]]></phrase>
+  <phrase title="audapi_method.session" addon_id="Audentio/API" version_id="1000057" version_string="1.0.0 Release Candidate 7"><![CDATA[Session authentication]]></phrase>
+  <phrase title="audapi_method.xf_api_key" addon_id="Audentio/API" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[XenForo default API key]]></phrase>
+  <phrase title="audapi_no_clients_currently_exist" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[No clients currently exist.]]></phrase>
+  <phrase title="audapi_oauth2_client_credentials" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[OAuth2 client credentials]]></phrase>
+  <phrase title="audapi_oauth2_clients" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[OAuth2 Clients]]></phrase>
+  <phrase title="audapi_oauth_error.access_denied" addon_id="Audentio/API" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[The resource owner or authorization server denied the request.]]></phrase>
+  <phrase title="audapi_oauth_error.invalid_client" addon_id="Audentio/API" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[Client authentication failed]]></phrase>
+  <phrase title="audapi_oauth_error.invalid_credentials" addon_id="Audentio/API" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[The user credentials were incorrect.]]></phrase>
+  <phrase title="audapi_oauth_error.invalid_grant" addon_id="Audentio/API" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[The provided authorization grant (e.g., authorization code, resource owner credentials) or refresh token is invalid, expired, revoked, does not match the redirection URI used in the authorization request, or was issued to another client.]]></phrase>
+  <phrase title="audapi_oauth_error.invalid_request" addon_id="Audentio/API" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[The request is missing a required parameter, includes an invalid parameter value, includes a parameter more than once, or is otherwise malformed.]]></phrase>
+  <phrase title="audapi_oauth_error.invalid_scope" addon_id="Audentio/API" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[The requested scope is invalid, unknown, or malformed]]></phrase>
+  <phrase title="audapi_oauth_error.server_error" addon_id="Audentio/API" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[The authorization server encountered an unexpected condition which prevented it from fulfilling the request.]]></phrase>
+  <phrase title="audapi_oauth_error.unknown_error" addon_id="Audentio/API" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[An unkown authentication error has occurred]]></phrase>
+  <phrase title="audapi_oauth_error.unsupported_grant_type" addon_id="Audentio/API" version_id="1000051" version_string="1.0.0 Release Candidate 1"><![CDATA[The authorization grant type is not supported by the authorization server. Check that all required parameters have been provided]]></phrase>
+  <phrase title="audapi_only_require_authorization_once" addon_id="Audentio/API" version_id="1000064" version_string="1.0.0 Release Candidate 14"><![CDATA[Only require a user to authorize the connection once]]></phrase>
+  <phrase title="audapi_only_require_authorization_once_hint" addon_id="Audentio/API" version_id="1000064" version_string="1.0.0 Release Candidate 14"><![CDATA[If enabled, a user will only be asked to authorize the authentication when there is not currently an active access token. If the issued access token expires, or is revoked they will be asked to approve it again.]]></phrase>
+  <phrase title="audapi_override_default_authentication_template" addon_id="Audentio/API" version_id="1000061" version_string="1.0.0 Release Candidate 11"><![CDATA[Override default authentication template]]></phrase>
+  <phrase title="audapi_override_default_refresh_token_ttl" addon_id="Audentio/API" version_id="1000060" version_string="1.0.0 Release Candidate 10"><![CDATA[Override default refresh token TTL]]></phrase>
+  <phrase title="audapi_override_default_refresh_token_ttl_hint" addon_id="Audentio/API" version_id="1000060" version_string="1.0.0 Release Candidate 10"><![CDATA[If selected, you can specify a TTL for refresh tokens created for this client in seconds that will override the default value.]]></phrase>
+  <phrase title="audapi_redirect_url" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Redirect URL]]></phrase>
+  <phrase title="audapi_regenerate_secret" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Regenerate secret]]></phrase>
+  <phrase title="audapi_require_user_valid_state" addon_id="Audentio/API" version_id="1000064" version_string="1.0.0 Release Candidate 14"><![CDATA[Require user to be in a valid state]]></phrase>
+  <phrase title="audapi_require_user_valid_state_hint" addon_id="Audentio/API" version_id="1000064" version_string="1.0.0 Release Candidate 14"><![CDATA[If enabled, a user will only be able to authenticate using this OAuth client if their account is in a valid state (email validated, approved by admin, etc.)]]></phrase>
+  <phrase title="audapi_restore" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Restore]]></phrase>
+  <phrase title="audapi_restore_client" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Restore client]]></phrase>
+  <phrase title="audapi_revoke" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Revoke]]></phrase>
+  <phrase title="audapi_revoke_client" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Revoke client]]></phrase>
+  <phrase title="audapi_revoked" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Revoked]]></phrase>
+  <phrase title="audapi_session_client_api_key_provided_to_api_via_header" addon_id="Audentio/API" version_id="1000057" version_string="1.0.0 Release Candidate 7"><![CDATA[The session client API key via the Authorization header in the following format: Session (ApiKey) (SessionCookieValue)]]></phrase>
+  <phrase title="audapi_session_clients" addon_id="Audentio/API" version_id="1000057" version_string="1.0.0 Release Candidate 7"><![CDATA[Session clients]]></phrase>
+  <phrase title="audapi_show_revoked_clients" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Show revoked clients]]></phrase>
+  <phrase title="audapi_single_token" addon_id="Audentio/API" version_id="1000061" version_string="1.0.0 Release Candidate 11"><![CDATA[Single token]]></phrase>
+  <phrase title="audapi_single_token_explain" addon_id="Audentio/API" version_id="1000061" version_string="1.0.0 Release Candidate 11"><![CDATA[If enabled only a single token can be generated per user. Once a new token has been generated any old tokens will be immediately revoked.]]></phrase>
+  <phrase title="audapi_skip_authorization" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Skip authorization]]></phrase>
+  <phrase title="audapi_skip_authorization_hint" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[If enabled, authorization code requests will skip showing the authorization screen explaining the scopes being allowed and will redirect straight back to the specified redirect url after logging in.<br>
+<strong>Note: It is recommended that you keep this disabled unless it is being used for internal purposes (such as a mobile app, a Javascript based front end for your community, etc.)</strong>]]></phrase>
+  <phrase title="audapi_this_application_is_requesting_the_following_permissions" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[This application is requesting the following permissions]]></phrase>
+  <phrase title="audapi_this_is_a_public_client_explain" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[This is a public client, and does not have a secret. This client can only be used with Authorization Code grant with Proof Key for Code Exchange (PKCE)]]></phrase>
+  <phrase title="audapi_use_custom_authorization_page" addon_id="Audentio/API" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Use custom authorization page]]></phrase>
+  <phrase title="audapi_user_invalid_state" addon_id="Audentio/API" version_id="1000064" version_string="1.0.0 Release Candidate 14"><![CDATA[Your account is in an invalid state and cannot continue authenticating with {clientName} until that has been resolved.]]></phrase>
+  <phrase title="audapi_user_invalid_state_please_contact_us" addon_id="Audentio/API" version_id="1000064" version_string="1.0.0 Release Candidate 14"><![CDATA[Your account is in an invalid state and cannot continue authenticating with {clientName} until that has been resolved. If you believe this is incorrect, please <a href="{link}">Contact us</a>]]></phrase>
+  <phrase title="audapi_whitelisted_ips" addon_id="Audentio/API" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[Whitelisted IPs]]></phrase>
+  <phrase title="audapi_whitelisted_ips_explain" addon_id="Audentio/API" version_id="1000031" version_string="1.0.0 Beta 1"><![CDATA[If you would like to limit this API key to specific IP addresses you can list them here, separated with a new line.]]></phrase>
   <phrase title="authentication" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[المصادقة]]></phrase>
   <phrase title="author" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[الكاتب]]></phrase>
   <phrase title="authy_api_key" addon_id="XF" version_id="2010032" version_string="2.1.0 Beta 2"><![CDATA[مفتاح Authy API]]></phrase>
@@ -1363,8 +1439,21 @@ If an event is triggered with a hint, the potential hint values will be listed i
   <phrase title="closed_prefixes_desc" addon_id="XF" version_id="2020034" version_string="2.2.0 Beta 4"><![CDATA[تمثل هذه البادئات اقتراح تم إغلاقه (لكن لم يتم تنفيذه). الاقتراحات المغلقة لن تكون قابلة للتصويت بعد الآن. يمكن تحديد البادئات المتوفرة فقط.]]></phrase>
   <phrase title="closed_reports" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[التبليغات المغلقة]]></phrase>
   <phrase title="closed_reports_x_y" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[التبليغات المغلقة: {from} - {to}]]></phrase>
+  <phrase title="cnxfans_all_nodes_or_contextual_node" addon_id="CnXFans/ThreadFeature" version_id="1000000" version_string="1.0.0"><![CDATA[所有版面或包含子版面。]]></phrase>
+  <phrase title="cnxfans_feature_thread_all_nodes_or_contextual_explain" addon_id="CnXFans/ThreadFeature" version_id="1000000" version_string="1.0.0"><![CDATA[如果没有明确选择版面，则该小工具将从所有版面中获取主题，除非它在主题版面内使用。在这种情况下，主题将被限制为该版面及其子版面。]]></phrase>
+  <phrase title="cnxfans_feature_thread_carousel" addon_id="CnXFans/ThreadFeature" version_id="1000000" version_string="1.0.0"><![CDATA[轮播]]></phrase>
+  <phrase title="cnxfans_feature_thread_carousel_view_displaying_threads_in_slider" addon_id="CnXFans/ThreadFeature" version_id="1000000" version_string="1.0.0"><![CDATA[轮播视图，以滑块的形式展示主题。这种显示方式不适合用于侧边栏位置。]]></phrase>
+  <phrase title="cnxfans_feature_threads" addon_id="CnXFans/ThreadFeature" version_id="1000000" version_string="1.0.0"><![CDATA[推荐主题]]></phrase>
+  <phrase title="cnxfans_featured_threads" addon_id="CnXFans/ThreadFeature" version_id="1000000" version_string="1.0.0"><![CDATA[推荐主题]]></phrase>
   <phrase title="cnxfans_gave_you_a_red_ennelope" addon_id="MJ/Credits" version_id="1010300" version_string="1.1.3"><![CDATA[{name} 在主题<a href="{target}"> {thread} </a>中的帖子内给您发了红包！]]></phrase>
+  <phrase title="cnxfans_global_sticky" addon_id="CnXFans/GlobalStickies" version_id="1007020" version_string="1.0.7.2"><![CDATA[全局置顶]]></phrase>
+  <phrase title="cnxfans_node_limit" addon_id="CnXFans/ThreadFeature" version_id="1000000" version_string="1.0.0"><![CDATA[版面限制]]></phrase>
   <phrase title="cnxfans_the_transfer_amount_is_not_enough" addon_id="MJ/Credits" version_id="1010900" version_string="1.1.9"><![CDATA[转账金额不够扣税，请输入合适的金额。]]></phrase>
+  <phrase title="cnxfans_thread_quick_feature" addon_id="CnXFans/ThreadFeature" version_id="1000000" version_string="1.0.0"><![CDATA[推荐主题]]></phrase>
+  <phrase title="cnxfans_thread_quick_unfeature" addon_id="CnXFans/ThreadFeature" version_id="1000000" version_string="1.0.0"><![CDATA[取消推荐主题]]></phrase>
+  <phrase title="cnxfans_undo_global_sticky" addon_id="CnXFans/GlobalStickies" version_id="1007020" version_string="1.0.7.2"><![CDATA[取消全局置顶]]></phrase>
+  <phrase title="cnxfans_unfeature_threads" addon_id="CnXFans/ThreadFeature" version_id="1000000" version_string="1.0.0"><![CDATA[取消推荐主题]]></phrase>
+  <phrase title="cnxfans_view_all_featured_threads" addon_id="CnXFans/ThreadFeature" version_id="1000000" version_string="1.0.0"><![CDATA[查看所有推荐主题]]></phrase>
   <phrase title="code" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[كود]]></phrase>
   <phrase title="code_event_execution_order_desc" addon_id="XF" version_id="1020035" version_string="1.2.0 Beta 5"><![CDATA[Lower execution orders will run first. Note that listeners that specify an event hint will always run after listeners that don't.]]></phrase>
   <phrase title="code_event_ids_must_be_unique" addon_id="XF" version_id="0" version_string=""><![CDATA[Code event IDs must be unique. The specified ID is already in use.]]></phrase>
@@ -1432,6 +1521,7 @@ If an event is triggered with a hint, the potential hint values will be listed i
   <phrase title="con_acc.google" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Google]]></phrase>
   <phrase title="con_acc.linkedin" addon_id="XF" version_id="2010670" version_string="2.1.6"><![CDATA[Linkedin]]></phrase>
   <phrase title="con_acc.microsoft" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Microsoft]]></phrase>
+  <phrase title="con_acc.qq" addon_id="CnXFans/ConnectedAccounts" version_id="2010070" version_string="2.1.0"><![CDATA[QQ]]></phrase>
   <phrase title="con_acc.twitter" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Twitter]]></phrase>
   <phrase title="con_acc.yahoo" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Yahoo]]></phrase>
   <phrase title="con_acc_desc.facebook" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
@@ -1439,6 +1529,7 @@ If an event is triggered with a hint, the potential hint values will be listed i
   <phrase title="con_acc_desc.google" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="con_acc_desc.linkedin" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="con_acc_desc.microsoft" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="con_acc_desc.qq" addon_id="CnXFans/ConnectedAccounts" version_id="1000900" version_string="1.0.9"><![CDATA[QQ]]></phrase>
   <phrase title="con_acc_desc.twitter" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="con_acc_desc.yahoo" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="con_acc_facebook_app_id_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[المعرف المقترن بـ <a href="https://developers.facebook.com/apps" target="_blank">تطبيق فيسبوك</a> الخاص بك لهذا النطاق.]]></phrase>
@@ -1451,6 +1542,8 @@ If an event is triggered with a hint, the potential hint values will be listed i
   <phrase title="con_acc_linkedin_client_secret_explain" addon_id="XF" version_id="2010670" version_string="2.1.6"><![CDATA[مفتاح سر العميل لتطبيق LinkedIn الذي أنشأته لهذا النطاق.]]></phrase>
   <phrase title="con_acc_microsoft_client_id_explain" addon_id="XF" version_id="2010370" version_string="2.1.3"><![CDATA[معرف العميل المقترن بـ <a href="https://portal.azure.com/#blade/Microsoft_AAD_RegisteredApps/ApplicationsListBlade" target="_blank">تطبيق Microsoft Azure</a> الخاص بك لهذا النطاق.]]></phrase>
   <phrase title="con_acc_microsoft_client_secret_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[مفتاح سر العميل لتطبيق Microsoft الذي أنشأته لهذا النطاق.]]></phrase>
+  <phrase title="con_acc_qq_app_id_explain" addon_id="CnXFans/ConnectedAccounts" version_id="2010070" version_string="2.1.0"><![CDATA[您的QQ开发APP ID。]]></phrase>
+  <phrase title="con_acc_qq_app_key_explain" addon_id="CnXFans/ConnectedAccounts" version_id="2010070" version_string="2.1.0"><![CDATA[您的QQ开发APP KEY。]]></phrase>
   <phrase title="con_acc_twitter_consumer_key_explain" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[للسماح للمستخدمين بتسجيل الدخول باستخدام حساباتهم على تويتر، يجب عليك إنشاء <a href="https://developer.twitter.com/" target="_blank">تطبيق تويتر</a> و إدخال مفتاح العميل و المفتاح السري.]]></phrase>
   <phrase title="con_acc_twitter_consumer_secret_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[إذا قمت بإنشاء تطبيق تويتر للسماح لتويتر بتسجيل الدخول، عين مفتاح سر المستهلك للتطبيق هنا.]]></phrase>
   <phrase title="con_acc_yahoo_client_id_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[معرف العميل المقترن بـ <a href="https://developer.yahoo.com/apps" target="_blank">تطبيق Yahoo</a> الخاص بك لهذا النطاق.]]></phrase>
@@ -1519,6 +1612,7 @@ If an event is triggered with a hint, the potential hint values will be listed i
   <phrase title="continue" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[متابعة]]></phrase>
   <phrase title="continue_reading" addon_id="XF" global_cache="1" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[متابعة القراءة...]]></phrase>
   <phrase title="continuing_will_redirect_you_to_google_to_confirm_account_you_want_to" addon_id="XF" version_id="2020034" version_string="2.2.0 Beta 4"><![CDATA[ستؤدي المتابعة إلى إعادة توجيهك إلى Google لتأكيد الحساب الذي تريد الاتصال به.]]></phrase>
+  <phrase title="continuing_will_redirect_you_to_microsoft_to_confirm_account_you_want" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Continuing will redirect you to Microsoft to confirm the account you want to connect with.]]></phrase>
   <phrase title="control_how_example_appear_on_bb_code_help_page" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[التحكم في كيفية ظهور مثال BB code على صفحة المساعدة . إذا لم يتم إدخال ناتج، فسيتم عرض المثال بدلا من ذلك.]]></phrase>
   <phrase title="controller" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[المتحكم]]></phrase>
   <phrase title="controller_and_action_criteria_explain" addon_id="XF" version_id="2011070" version_string="2.1.10"><![CDATA[You may specify the action name as <b>account-details</b> or <b>AccountDetails</b>, but do not include <b>action</b> as a prefix. The action name is matched case insensitively. You may leave the action blank to apply to all actions within the specified controller.]]></phrase>
@@ -1558,7 +1652,7 @@ If an event is triggered with a hint, the potential hint values will be listed i
   <phrase title="cookie_consent.cookie_description_cacheKey" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[This local storage item is used to store the cache key used for offline storage items.]]></phrase>
   <phrase title="cookie_consent.cookie_description_consent" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[This cookie is used to store a user's cookie consent preferences.]]></phrase>
   <phrase title="cookie_consent.cookie_description_csrf" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[This cookie is used to store a user's cross-site request forgery token, preventing other applications from making malicious requests on the user's behalf.]]></phrase>
-  <phrase title="cookie_consent.cookie_description_dbWriteForced" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[This cookie is used to indicate that the request should completed using the write-only database server.]]></phrase>
+  <phrase title="cookie_consent.cookie_description_dbWriteForced" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[This cookie is used to indicate that the request should be completed using the write-only database server.]]></phrase>
   <phrase title="cookie_consent.cookie_description_editorDisabled" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[This local storage item is used to store whether or not a user has the rich text editor enabled.]]></phrase>
   <phrase title="cookie_consent.cookie_description_emoji_usage" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[This cookie is used to store which emojis a user has recently used when composing a message.]]></phrase>
   <phrase title="cookie_consent.cookie_description_fr_copied_html" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[This local storage item is used to store a user's copied rich text when pasting into the text editor.]]></phrase>
@@ -1586,14 +1680,17 @@ If an event is triggered with a hint, the potential hint values will be listed i
   <phrase title="cookie_consent.group_label__required" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Essential cookies]]></phrase>
   <phrase title="cookie_consent.group_label__third_party" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[Third-party cookies]]></phrase>
   <phrase title="cookie_consent.group_label_optional" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[Optional cookies]]></phrase>
-  <phrase title="cookie_consent.third_party_description_apple" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[These cookies are set by <a href="https://www.apple.com/legal/privacy/en-ww/" target="_blank">Apple</a>, and may be used for displaying embedded content.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_apple_music" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[These cookies are set by <a href="https://www.apple.com/legal/privacy/data/en/apple-music/" target="_blank">Apple Music</a>, and may be used for displaying embedded content.]]></phrase>
   <phrase title="cookie_consent.third_party_description_braintree" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[These cookies are set by <a href="https://www.braintreepayments.com/pl/legal/braintree-privacy-policy" target="_blank">Braintree</a>, and may be used for processing payments.]]></phrase>
   <phrase title="cookie_consent.third_party_description_dailymotion" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[These cookies are set by <a href="https://legal.dailymotion.com/en/privacy-policy/" target="_blank">Dailymotion</a>, and may be used for displaying embedded content.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_facebook" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[These cookies are set by <a href="https://www.facebook.com/privacy/policy/" target="_blank">Facebook</a>, and may be used for displaying embedded content.]]></phrase>
   <phrase title="cookie_consent.third_party_description_flickr" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[These cookies are set by <a href="https://www.flickr.com/help/privacy" target="_blank">Flickr</a>, and may be used for displaying embedded content.]]></phrase>
   <phrase title="cookie_consent.third_party_description_giphy" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[These cookies are set by <a href="https://support.giphy.com/hc/en-us/articles/360032872931-GIPHY-Privacy-Policy" target="_blank">Giphy</a>, and may be used for displaying embedded content.]]></phrase>
-  <phrase title="cookie_consent.third_party_description_google" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[These cookies are set by <a href="https://policies.google.com/privacy" target="_blank">Google</a>, and may be used for analytics, verifying legitimate traffic, or other embedded content.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_google_analytics" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[These cookies are set by <a href="https://policies.google.com/privacy" target="_blank">Google Analytics</a>, and may be used for analytics.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_google_recaptcha" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[These cookies are set by <a href="https://policies.google.com/privacy" target="_blank">Google reCAPTCHA</a>, and may be used for verifying legitimate traffic.]]></phrase>
   <phrase title="cookie_consent.third_party_description_h_captcha" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[These cookies are set by <a href="https://www.hcaptcha.com/privacy" target="_blank">HCaptcha</a>, and may be used for verifying legitimate traffic.]]></phrase>
   <phrase title="cookie_consent.third_party_description_imgur" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[These cookies are set by <a href="https://imgur.com/privacy" target="_blank">Imgur</a>, and may be used for displaying embedded content.]]></phrase>
+  <phrase title="cookie_consent.third_party_description_instagram" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[These cookies are set by <a href="https://www.facebook.com/privacy/policy/" target="_blank">Instagram</a>, and may be used for displaying embedded content.]]></phrase>
   <phrase title="cookie_consent.third_party_description_key_captcha" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[These cookies are set by <a href="https://www.keycaptcha.com" target="_blank">KeyCaptcha</a>, and may be used for verifying legitimate traffic.]]></phrase>
   <phrase title="cookie_consent.third_party_description_meta" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[These cookies are set by <a href="https://www.facebook.com/privacy/policy/" target="_blank">Meta</a>, and may be used for displaying embedded content.]]></phrase>
   <phrase title="cookie_consent.third_party_description_pinterest" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[These cookies are set by <a href="https://policy.pinterest.com/en/privacy-policy" target="_blank">Pinterest</a>, and may be used for displaying embedded content.]]></phrase>
@@ -1608,14 +1705,18 @@ If an event is triggered with a hint, the potential hint values will be listed i
   <phrase title="cookie_consent.third_party_description_twitter" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[These cookies are set by <a href="https://twitter.com/privacy" target="_blank">Twitter</a>, and may be used for displaying embedded content.]]></phrase>
   <phrase title="cookie_consent.third_party_description_two_checkout" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[These cookies are set by <a href="https://www.2checkout.com/legal/privacy/" target="_blank">2Checkout</a>, and may be used for processing payments.]]></phrase>
   <phrase title="cookie_consent.third_party_description_vimeo" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[These cookies are set by <a href="https://vimeo.com/privacy" target="_blank">Vimeo</a>, and may be used for displaying embedded content.]]></phrase>
-  <phrase title="cookie_consent.third_party_label_apple" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Apple]]></phrase>
+  <phrase title="cookie_consent.third_party_description_youtube" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[These cookies are set by <a href="https://policies.google.com/privacy" target="_blank">YouTube</a>, and may be used for analytics, verifying legitimate traffic, or other embedded content.]]></phrase>
+  <phrase title="cookie_consent.third_party_label_apple_music" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Apple Music]]></phrase>
   <phrase title="cookie_consent.third_party_label_braintree" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Braintree]]></phrase>
   <phrase title="cookie_consent.third_party_label_dailymotion" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Dailymotion]]></phrase>
+  <phrase title="cookie_consent.third_party_label_facebook" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Facebook]]></phrase>
   <phrase title="cookie_consent.third_party_label_flickr" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Flickr]]></phrase>
   <phrase title="cookie_consent.third_party_label_giphy" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Giphy]]></phrase>
-  <phrase title="cookie_consent.third_party_label_google" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[Google]]></phrase>
+  <phrase title="cookie_consent.third_party_label_google_analytics" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Google Analytics]]></phrase>
+  <phrase title="cookie_consent.third_party_label_google_recaptcha" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Google reCAPTCHA]]></phrase>
   <phrase title="cookie_consent.third_party_label_h_captcha" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[HCaptcha]]></phrase>
   <phrase title="cookie_consent.third_party_label_imgur" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Imgur]]></phrase>
+  <phrase title="cookie_consent.third_party_label_instagram" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Instagram]]></phrase>
   <phrase title="cookie_consent.third_party_label_key_captcha" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[KeyCaptcha]]></phrase>
   <phrase title="cookie_consent.third_party_label_meta" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Meta]]></phrase>
   <phrase title="cookie_consent.third_party_label_pinterest" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Pinterest]]></phrase>
@@ -1630,6 +1731,7 @@ If an event is triggered with a hint, the potential hint values will be listed i
   <phrase title="cookie_consent.third_party_label_twitter" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Twitter]]></phrase>
   <phrase title="cookie_consent.third_party_label_two_checkout" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[2Checkout]]></phrase>
   <phrase title="cookie_consent.third_party_label_vimeo" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Vimeo]]></phrase>
+  <phrase title="cookie_consent.third_party_label_youtube" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[YouTube]]></phrase>
   <phrase title="cookie_consent_configure" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[See further information and configure your preferences]]></phrase>
   <phrase title="cookie_consent_description" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[We use essential <a href="{link}">cookies</a> to make this site work, and optional cookies to enhance your experience.]]></phrase>
   <phrase title="cookie_consent_heading" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[We value your privacy]]></phrase>
@@ -1714,8 +1816,6 @@ If an event is triggered with a hint, the potential hint values will be listed i
   <phrase title="cron_entry.th_unco_regular_check" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Check user name styling validity]]></phrase>
   <phrase title="cron_entry.th_updateCheck_uix" addon_id="ThemeHouse/UIX" version_id="2000070" version_string="2.0.0"><![CDATA[[TH] UI.X: Check for updates]]></phrase>
   <phrase title="cron_entry.thfeature_removeExpired" addon_id="ThemeHouse/Feature" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[[TH] Featured Threads and Content: Remove expired features]]></phrase>
-  <phrase title="cron_entry.tio_runHourly_cleanUp" addon_id="Truonglv/ImageOptimizer" version_id="2000500" version_string="2.0.5"><![CDATA[[tl] Image Optimizer: Run hourly cleanup]]></phrase>
-  <phrase title="cron_entry.tlImageOptimizer_trigger" addon_id="Truonglv/ImageOptimizer" version_id="1000800" version_string="1.0.8"><![CDATA[[tl] Image Optimizer: Trigger Jobs]]></phrase>
   <phrase title="cron_entry.trophy" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[تحديث جوائز المستخدم]]></phrase>
   <phrase title="cron_entry.userGroupPromotions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[عروض مجموعة المستخدم]]></phrase>
   <phrase title="cron_entry.views" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[تحديث عدادات المشاهدة]]></phrase>
@@ -3770,7 +3870,6 @@ This is the message they left:
   <phrase title="delay" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[المهلة]]></phrase>
   <phrase title="delay_duration_milliseconds" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[مدة التأخير (مللي ثانية)]]></phrase>
   <phrase title="delete" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[حذف]]></phrase>
-  <phrase title="delete_bonus" addon_id="MJ/Credits" version_id="1030600" version_string="1.3.6"><![CDATA[删除红包]]></phrase>
   <phrase title="delete_column" addon_id="XF" version_id="2010032" version_string="2.1.0 Beta 2"><![CDATA[حذف العمود]]></phrase>
   <phrase title="delete_conversations" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[حذف المحادثات]]></phrase>
   <phrase title="delete_conversations_by_spammer" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[حذف المحادثات بواسطة السبام]]></phrase>
@@ -4046,6 +4145,7 @@ This is the message they left:
   <phrase title="email_format" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[تنسيق البريد الإلكتروني]]></phrase>
   <phrase title="email_handler_setup" addon_id="XF" version_id="2020034" version_string="2.2.0 Beta 4"><![CDATA[إعداد معالج البريد الإلكتروني]]></phrase>
   <phrase title="email_has_been_sent_to_x_with_code" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[قد تم إرسال رسالة بريد إلكتروني إلى <b>{email}</b> مع رمز يمكن استخدامه لمرة واحدة. يرجى إدخال ذلك الرمز للمتابعة.]]></phrase>
+  <phrase title="email_has_been_sent_with_code" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[An email containing a single-use code has been sent to the address linked to this account. Please enter that code to continue.]]></phrase>
   <phrase title="email_invalid_bounced" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[بريد غير صالح (مرتد)]]></phrase>
   <phrase title="email_list" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[قائمة البريد الإلكتروني]]></phrase>
   <phrase title="email_options" addon_id="XF" version_id="2000670" version_string="2.0.6"><![CDATA[خيارات البريد الإلكتروني]]></phrase>
@@ -4056,6 +4156,7 @@ This is the message they left:
   <phrase title="email_title" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[عنوان رسالة البريد الإلكتروني]]></phrase>
   <phrase title="email_to_ban" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[البريد الإلكتروني للحظر]]></phrase>
   <phrase title="email_transport_class" addon_id="XF" version_id="2000053" version_string="2.0.0 Release Candidate 3"><![CDATA[كلاس نقل البريد الإلكتروني]]></phrase>
+  <phrase title="email_transport_google_setup_explain" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[You will need to navigate to Google's <a href="https://console.developers.google.com/" target="_blank">Developer Console</a> and setup a new project with OAuth 2.0 credentials for a web application. If you are using G Suite, creating an app with an internal user type is recommended to avoid a lengthy review process. In all cases, you will need to ensure the credentials support redirecting to the following URL]]></phrase>
   <phrase title="email_transport_setup" addon_id="XF" version_id="2020034" version_string="2.2.0 Beta 4"><![CDATA[إعداد نقل البريد الإلكتروني]]></phrase>
   <phrase title="email_users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[مراسلة المستخدمين]]></phrase>
   <phrase title="email_users_description" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[يمكنك استخدام هذا النموذج لإرسال بريد إلكتروني جماعي للأعضاء الذين يتطابقون مع المعايير و الشروط المحددة أدناه.]]></phrase>
@@ -7920,6 +8021,7 @@ Follow us: <a href="https://space.bilibili.com/512584014" rel="nofollow">Bilibil
   <phrase title="flag" addon_id="XF" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[Flag]]></phrase>
   <phrase title="floating" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[عائمة]]></phrase>
   <phrase title="follow" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[متابعة]]></phrase>
+  <phrase title="follow_along_with_video_below_to_see_how_to_install_our_site_as_web_app" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Follow along with the video below to see how to install our site as a web app on your home screen.]]></phrase>
   <phrase title="follow_people_to_fill_it" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[قم بمتابعة أشخاص لملئ ذلك.]]></phrase>
   <phrase title="follow_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[متابعة {name}]]></phrase>
   <phrase title="followed_members_only" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[الأعضاء المتابعين فقط]]></phrase>
@@ -8167,6 +8269,7 @@ Follow us: <a href="https://space.bilibili.com/512584014" rel="nofollow">Bilibil
   <phrase title="host" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[المضيف]]></phrase>
   <phrase title="host_from_following_location" addon_id="XF" version_id="2010032" version_string="2.1.0 Beta 2"><![CDATA[استضافة من الموقع التالي]]></phrase>
   <phrase title="hours" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[ساعة]]></phrase>
+  <phrase title="how_to_install_app_on_ios" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[How to install the app on iOS]]></phrase>
   <phrase title="html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[HTML]]></phrase>
   <phrase title="html_email_replacement" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[HTML استبدال البريد الإلكتروني]]></phrase>
   <phrase title="html_replacement" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[استبدال HTML]]></phrase>
@@ -8200,6 +8303,7 @@ Follow us: <a href="https://space.bilibili.com/512584014" rel="nofollow">Bilibil
   <phrase title="if_enabled_users_will_be_able_to_vote_on_answers_given_to_questions" addon_id="XF" version_id="2020034" version_string="2.2.0 Beta 4"><![CDATA[عند التمكين، سيتمكن المستخدمون من التصويت على الإجابات المقدمة للأسئلة.]]></phrase>
   <phrase title="if_entered_project_honey_pot_http_blacklist_checked" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[عند الإدخال، فسيتم فحص قائمة HTTP السوداء لـ  <a href="https://www.projecthoneypot.org/index.php" target="_blank">مشروع Honey Pot</a>.]]></phrase>
   <phrase title="if_entered_url_to_forum_not_contain_id_change_breaks_urls" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[عند إدخال عنوان، الرابط لهذا المنتدى لن يحتوي على معرف. إستخدم a-z، 0-9، _، و - أحرف فقط. لاحظ أنه بمجرد تحديده، سيؤدي تغيير هذه القيمة إلى تعطيل الروابط.]]></phrase>
+  <phrase title="if_entered_url_to_node_not_contain_id_change_breaks_urls" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[If entered, the URL to this node will not contain an ID. Use a-z, 0-9, _, and - characters only. Note that once specified, changing this value will cause URLs to be broken.]]></phrase>
   <phrase title="if_forgotten_your_password_use_form_to_reset" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[إذا نسيت كلمة المرور، تستطيع استعمال هذا النموذج لتعيين كلمة مرور جديدة. سيصلك بريد إلكتروني مع التعليمات.]]></phrase>
   <phrase title="if_provide_example_bb_code_appear_on_bb_code_help_page" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[إذا قدمت مثال، هذا الـ BB code سوف يطبق و يعرض في صفحة BB code الموجودة في صفحات المساعدة.]]></phrase>
   <phrase title="if_provided_bb_code_replace_html_email_desc" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[إذا قدمت، هذا سوف يتجاوز استبدال HTML عندما يتم تقديمه لرسالة بريد إلكتروني بتنسيق HTML. إذا تركت هذا فارغا، سيتم استخدام استبدال HTML الإفتراضي.]]></phrase>
@@ -9046,6 +9150,7 @@ Callback arguments:
   <phrase title="member_stat.most_points" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[الأكثر نقاطاً]]></phrase>
   <phrase title="member_stat.most_solutions" addon_id="XF" version_id="2020034" version_string="2.2.0 Beta 4"><![CDATA[الأكثر إجابة]]></phrase>
   <phrase title="member_stat.most_tso" addon_id="Yugensoft/TimeSpentOnline" version_id="2000070" version_string="2.0.0"><![CDATA[Most time online]]></phrase>
+  <phrase title="member_stat.ozzmodz_userfollowerscount_count" addon_id="OzzModz/UserFollowersCount" version_id="2000000" version_string="2.0.0"><![CDATA[Most followed]]></phrase>
   <phrase title="member_stat.siropu_referral_count" addon_id="Siropu/ReferralContests" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Most referrals]]></phrase>
   <phrase title="member_stat.staff_members" addon_id="XF" version_id="2000270" version_string="2.0.2"><![CDATA[طاقم الإدارة]]></phrase>
   <phrase title="member_stat.thfeature_most_featured_content" addon_id="ThemeHouse/Feature" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[Most featured content]]></phrase>
@@ -9122,6 +9227,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="messages_have_been_posted_since_you_loaded_this_page" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[تم نشر رسائل منذ ان قمت بتحميل هذه الصفحة.]]></phrase>
   <phrase title="messaging" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[مراسلة]]></phrase>
   <phrase title="method" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Method]]></phrase>
+  <phrase title="microsoft_oauth" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Microsoft OAuth]]></phrase>
   <phrase title="midnight" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[منتصف الليل]]></phrase>
   <phrase title="minimum" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[الحد الأدنى]]></phrase>
   <phrase title="minimum_age" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[الحد الإدنى للعمر]]></phrase>
@@ -9174,6 +9280,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_credit" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[积分]]></phrase>
   <phrase title="mjc_credits" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[积分]]></phrase>
   <phrase title="mjc_credits_admin_adjust" addon_id="MJ/Credits" version_id="1030600" version_string="1.3.6"><![CDATA[由管理员进行调整。]]></phrase>
+  <phrase title="mjc_credits_already_owned" addon_id="MJ/Credits" version_id="1030601" version_string="1.3.6.1"><![CDATA[已购买]]></phrase>
   <phrase title="mjc_credits_are_you_sure_view_for_x_y" addon_id="MJ/Credits" version_id="1000400" version_string="1.0.4"><![CDATA[您确定要花费{param1} {param2}来解锁此内容吗？]]></phrase>
   <phrase title="mjc_credits_charge_for_content" addon_id="MJ/Credits" version_id="1000500" version_string="1.0.5"><![CDATA[收取内容费用]]></phrase>
   <phrase title="mjc_credits_costs_x_y" addon_id="MJ/Credits" version_id="1000500" version_string="1.0.5"><![CDATA[花费 {param1} {param2}]]></phrase>
@@ -9194,6 +9301,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
 
 例如，如果将此支付配置文件添加到收费<strong>¥5.0</strong>的用户升级中，并且将此数字设置为<code>5</code>，则将向用户收取<strong>25点的积分。]]></phrase>
   <phrase title="mjc_credits_invalid_currency" addon_id="MJ/Credits" version_id="1010600" version_string="1.1.6"><![CDATA[无效货币]]></phrase>
+  <phrase title="mjc_credits_invalid_hash" addon_id="MJ/Credits" version_id="1030601" version_string="1.3.6.1"><![CDATA[无效的内容哈希。]]></phrase>
   <phrase title="mjc_credits_less_than_x_y" addon_id="MJ/Credits" version_id="1030600" version_string="1.3.6"><![CDATA[用户拥有少于 X {param1}]]></phrase>
   <phrase title="mjc_credits_more_than_x_y" addon_id="MJ/Credits" version_id="1030600" version_string="1.3.6"><![CDATA[用户拥有超过 X {param1}]]></phrase>
   <phrase title="mjc_credits_must_specify_exchange_rate" addon_id="MJ/Credits" version_id="1010600" version_string="1.1.6"><![CDATA[必须指定汇率。]]></phrase>
@@ -9201,9 +9309,13 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_credits_navbar_right_middle" addon_id="MJ/Credits" version_id="1020401" version_string="1.2.4"><![CDATA[在“提醒”选项卡前方]]></phrase>
   <phrase title="mjc_credits_navbar_right_start" addon_id="MJ/Credits" version_id="1020401" version_string="1.2.4"><![CDATA[在“帐户”标签前方]]></phrase>
   <phrase title="mjc_credits_original_price" addon_id="MJ/Credits" version_id="1010600" version_string="1.1.6"><![CDATA[原价]]></phrase>
+  <phrase title="mjc_credits_please_enter_an_amount_greater_than_zero" addon_id="MJ/Credits" version_id="1030601" version_string="1.3.6.1"><![CDATA[请输入大于零的金额]]></phrase>
+  <phrase title="mjc_credits_please_select_a_thread_to_post" addon_id="MJ/Credits" version_id="1030601" version_string="1.3.6.1"><![CDATA[请选择问题主题发布。]]></phrase>
   <phrase title="mjc_credits_stripped_content" addon_id="MJ/Credits" version_id="1000600" version_string="1.0.6"><![CDATA[收费内容]]></phrase>
+  <phrase title="mjc_credits_unlock_successful" addon_id="MJ/Credits" version_id="1030601" version_string="1.3.6.1"><![CDATA[成功解锁]]></phrase>
   <phrase title="mjc_credits_view_for_x_y" addon_id="MJ/Credits" version_id="1000400" version_string="1.0.4"><![CDATA[花费 {param1} {param2} 查看]]></phrase>
   <phrase title="mjc_credits_wallet" addon_id="MJ/Credits" version_id="1000200" version_string="1.0.2"><![CDATA[[BRC] 钱包]]></phrase>
+  <phrase title="mjc_credits_you_have_received_a_red_envelope" addon_id="MJ/Credits" version_id="1030601" version_string="1.3.6.1"><![CDATA[您已经领过红包了]]></phrase>
   <phrase title="mjc_currencies" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[货币]]></phrase>
   <phrase title="mjc_currency" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[货币]]></phrase>
   <phrase title="mjc_currency_desc.1" addon_id="MJ/Credits" version_id="1000200" version_string="1.0.2"><![CDATA[这是私人货币]]></phrase>
@@ -9223,6 +9335,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_decimal_places" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[小数位]]></phrase>
   <phrase title="mjc_decimal_places_explain" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[数字值描述小数点右边的位数。]]></phrase>
   <phrase title="mjc_definition_class_explain" addon_id="MJ/Credits" version_id="1000200" version_string="1.0.2"><![CDATA[此类应实现所有相关的事件行为。它应该基于 <code>\MJ\Credits\Event\EventHandler</code>。]]></phrase>
+  <phrase title="mjc_delete_bonus_returned_to_user" addon_id="MJ/Credits" version_id="1030601" version_string="1.3.6.1"><![CDATA[删除红包后返还给用户。]]></phrase>
   <phrase title="mjc_delete_transactions" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[删除交易记录]]></phrase>
   <phrase title="mjc_deleted_event" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[已删除事件]]></phrase>
   <phrase title="mjc_description" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[描述]]></phrase>
@@ -9257,7 +9370,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_event.45" addon_id="" version_id="0" version_string=""><![CDATA[收到回帖]]></phrase>
   <phrase title="mjc_event.46" addon_id="" version_id="0" version_string=""><![CDATA[失去回帖]]></phrase>
   <phrase title="mjc_event.47" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="mjc_event.48" addon_id="" version_id="0" version_string=""><![CDATA[发红包]]></phrase>
+  <phrase title="mjc_event.48" addon_id="" version_id="0" version_string=""><![CDATA[红包]]></phrase>
   <phrase title="mjc_event.49" addon_id="" version_id="0" version_string=""><![CDATA[红包]]></phrase>
   <phrase title="mjc_event.5" addon_id="" version_id="0" version_string=""><![CDATA[初始资金]]></phrase>
   <phrase title="mjc_event.50" addon_id="" version_id="0" version_string=""><![CDATA[小水贴]]></phrase>
@@ -9506,6 +9619,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_not_enough_x_to_exchange" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[您没有足够的 {amount} 进行兑换。]]></phrase>
   <phrase title="mjc_not_enough_x_to_offer_reward" addon_id="MJ/Credits" version_id="1020301" version_string="1.2.3"><![CDATA[您没有足够的{x}用于悬赏。]]></phrase>
   <phrase title="mjc_not_enough_x_to_payment" addon_id="MJ/Credits" version_id="1010700" version_string="1.1.7"><![CDATA[您的金额不足 {amount}]]></phrase>
+  <phrase title="mjc_not_enough_x_to_red_envelope" addon_id="MJ/Credits" version_id="1030601" version_string="1.3.6.1"><![CDATA[没有足够的金额发红包。]]></phrase>
   <phrase title="mjc_not_enough_x_to_reward" addon_id="MJ/Credits" version_id="1020301" version_string="1.2.3"><![CDATA[您没有足够的{x}打赏其他用户。]]></phrase>
   <phrase title="mjc_not_enough_x_to_transfer" addon_id="MJ/Credits" version_id="1001000" version_string="1.1.0"><![CDATA[转账金额不足 {amount}]]></phrase>
   <phrase title="mjc_not_enough_x_unable_to_action" addon_id="MJ/Credits" version_id="1030000" version_string="1.3.0"><![CDATA[您没有足够的 {amount} 进行{title}操作。]]></phrase>
@@ -9613,7 +9727,8 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_your_transactions" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[您的交易]]></phrase>
   <phrase title="mjc_your_wallet" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[您的钱包]]></phrase>
   <phrase title="mjrc_purchase_this_resource" addon_id="MJ/ResourceCreditsPayment" version_id="1000131" version_string="1.0.1"><![CDATA[购买此资源]]></phrase>
-  <phrase title="mjrcp_bought_x" addon_id="MJ/ResourceCreditsPayment" version_id="1000131" version_string="1.0.1"><![CDATA[购买了 {resource}]]></phrase>
+  <phrase title="mjrcp_bought_x" addon_id="MJ/ResourceCreditsPayment" version_id="1000901" version_string="1.0.9"><![CDATA[购买了 ]]></phrase>
+  <phrase title="mjrcp_buy_content_x" addon_id="MJ/Credits" version_id="1030700" version_string="1.3.7"><![CDATA[购买了收费内容]]></phrase>
   <phrase title="mjrcp_discount_dete" addon_id="MJ/ResourceCreditsPayment" version_id="1000600" version_string="1.0.6"><![CDATA[优惠截止]]></phrase>
   <phrase title="mjrcp_discount_dete_explain" addon_id="MJ/ResourceCreditsPayment" version_id="1000600" version_string="1.0.6"><![CDATA[到优惠截止日期时优惠截止。]]></phrase>
   <phrase title="mjrcp_discount_percentage" addon_id="MJ/ResourceCreditsPayment" version_id="1000600" version_string="1.0.6"><![CDATA[优惠]]></phrase>
@@ -9629,7 +9744,8 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjrcp_purchased_resource" addon_id="MJ/ResourceCreditsPayment" version_id="1000131" version_string="1.0.1"><![CDATA[购买的资源]]></phrase>
   <phrase title="mjrcp_purchased_resources" addon_id="MJ/ResourceCreditsPayment" version_id="1000131" version_string="1.0.1"><![CDATA[购买的资源]]></phrase>
   <phrase title="mjrcp_sell_with_credits" addon_id="MJ/ResourceCreditsPayment" version_id="1000131" version_string="1.0.1"><![CDATA[积分出售资源]]></phrase>
-  <phrase title="mjrcp_sold_x" addon_id="MJ/ResourceCreditsPayment" version_id="1000131" version_string="1.0.1"><![CDATA[出售 {resource}]]></phrase>
+  <phrase title="mjrcp_sold_content_x" addon_id="MJ/Credits" version_id="1030700" version_string="1.3.7"><![CDATA[购买了您的收费内容]]></phrase>
+  <phrase title="mjrcp_sold_x" addon_id="MJ/ResourceCreditsPayment" version_id="1000902" version_string="1.0.9.2"><![CDATA[出售了]]></phrase>
   <phrase title="mjrcp_status" addon_id="MJ/ResourceCreditsPayment" version_id="1000131" version_string="1.0.1"><![CDATA[状态]]></phrase>
   <phrase title="mjrcp_status.active" addon_id="MJ/ResourceCreditsPayment" version_id="1000131" version_string="1.0.1"><![CDATA[活跃]]></phrase>
   <phrase title="mjrcp_user" addon_id="MJ/ResourceCreditsPayment" version_id="1000131" version_string="1.0.1"><![CDATA[用户]]></phrase>
@@ -10276,6 +10392,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="only_limited_fields_in_item_may_be_edited" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[لا يمكن تعديل سوى عدد محدود من الحقول في هذا العنصر.]]></phrase>
   <phrase title="only_one_else_tag_is_allowed_per_foreach_tag" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[يسمح بعلامة else واحدة فقط لكل علامة foreach.]]></phrase>
   <phrase title="only_one_else_tag_is_allowed_per_if_tag" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[يسمح بعلامة else واحدة فقط لكل علامة if.]]></phrase>
+  <phrase title="only_relevant_if_create_pages_for_categories_option_is_enabled" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Only relevant if the <a href="{link}">Create pages for categories</a> option is enabled.]]></phrase>
   <phrase title="only_send_to_users_opting_to_receive_emails_from_admin" addon_id="XF" version_id="2000770" version_string="2.0.7"><![CDATA[إرسال فقط إلى المستخدمين الذين اختاروا تلقي الأخبار و التحديثات عبر رسائل البريد الإلكتروني]]></phrase>
   <phrase title="only_show_gifs_with_following_rating" addon_id="XF" version_id="2020034" version_string="2.2.0 Beta 4"><![CDATA[عرض فقط صور GIF ذات التصنيف التالي بما في ذلك]]></phrase>
   <phrase title="only_show_questions_that_have_received_no_answers" addon_id="XF" version_id="2020034" version_string="2.2.0 Beta 4"><![CDATA[عرض الأسئلة التي ليس لها إجابات فقط]]></phrase>
@@ -10333,6 +10450,11 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="option.attachmentMaxFileSize" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[أقصى حجم للملف المرفق]]></phrase>
   <phrase title="option.attachmentMaxPerMessage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[المرفقات بكل مشاركة]]></phrase>
   <phrase title="option.attachmentThumbnailDimensions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[حجم مصغرة المرفق]]></phrase>
+  <phrase title="option.audapi_oauthEncryptionKey" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[OAuth2 encryption key]]></phrase>
+  <phrase title="option.audapi_oauthPrivateKey" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[OAuth2 private key]]></phrase>
+  <phrase title="option.audapi_oauthPublicKey" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[OAuth2 public key]]></phrase>
+  <phrase title="option.audentioapi_oauthAccessTokenTTL" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[OAuth access token TTL]]></phrase>
+  <phrase title="option.audentioapi_oauthRefreshTokenTTL" addon_id="Audentio/API" version_id="1000059" version_string="1.0.0 Release Candidate 9"><![CDATA[OAuth refresh token TTL]]></phrase>
   <phrase title="option.autoEmbedMedia" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[تضمين تلقائي لروابط الميديا]]></phrase>
   <phrase title="option.boardActive" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[المنتدى مفتوح]]></phrase>
   <phrase title="option.boardDescription" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[وصف المنتدى]]></phrase>
@@ -10515,6 +10637,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="option.maxContentSpamMessages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[الحد الأقصى من الرسائل للتحقق من السبام]]></phrase>
   <phrase title="option.maxContentTags" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[الحد الأقصى لوسوم المحتوى]]></phrase>
   <phrase title="option.maxContentTagsPerUser" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[الحد الأقصى لوسوم المحتوى لكل عضو]]></phrase>
+  <phrase title="option.maxTagsCount" addon_id="CnXFans/TagCloud" version_id="1000000" version_string="1.0.0"><![CDATA[标签云内最大显示数量]]></phrase>
   <phrase title="option.maximumSearchResults" addon_id="XF" version_id="2000370" version_string="2.0.3"><![CDATA[الحد الأقصى لعدد نتائج البحث/نتائج ما الجديد]]></phrase>
   <phrase title="option.membersPerPage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[الأعضاء في القائمة لكل صفحة]]></phrase>
   <phrase title="option.messageMaxImages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[الحد الأقصى للصور في كل مشاركة]]></phrase>
@@ -10613,6 +10736,8 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="option.siropuAdsManagerEnableCustomThreadPrefix" addon_id="Siropu/AdsManager" version_id="2030070" version_string="2.3.0"><![CDATA[Enable custom thread prefix]]></phrase>
   <phrase title="option.siropuAdsManagerEnabled" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Enable user Ads Manager]]></phrase>
   <phrase title="option.siropuAdsManagerExpiredPromoThreadForum" addon_id="Siropu/AdsManager" version_id="2020370" version_string="2.2.3"><![CDATA[Move expired promo threads to selected forum]]></phrase>
+  <phrase title="option.siropuAdsManagerExpiryNotificationDays" addon_id="Siropu/AdsManager" version_id="2041770" version_string="2.4.17"><![CDATA[Send notification with x days before ad expires]]></phrase>
+  <phrase title="option.siropuAdsManagerExpiryNotificationPercent" addon_id="Siropu/AdsManager" version_id="2041770" version_string="2.4.17"><![CDATA[Send notification when x percent of CPM/CPC have been used]]></phrase>
   <phrase title="option.siropuAdsManagerFeaturedResourcePrefix" addon_id="Siropu/AdsManager" version_id="2000570" version_string="2.0.5"><![CDATA[Featured resource prefix]]></phrase>
   <phrase title="option.siropuAdsManagerFeaturedResourcesWidget" addon_id="Siropu/AdsManager" version_id="2011070" version_string="2.1.1"><![CDATA[Enable featured resources widget]]></phrase>
   <phrase title="option.siropuAdsManagerFeaturedThreadsWidget" addon_id="Siropu/AdsManager" version_id="2011070" version_string="2.1.1"><![CDATA[Enable featured threads widget]]></phrase>
@@ -10763,19 +10888,6 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="option.thuix_enableStyleOptions" addon_id="ThemeHouse/UIX" version_id="2001270" version_string="2.0.12"><![CDATA[Enable style options in user preferences]]></phrase>
   <phrase title="option.thuix_userStyleChangeStorage" addon_id="ThemeHouse/UIX" version_id="2001270" version_string="2.0.12"><![CDATA[Remember user style changes]]></phrase>
   <phrase title="option.thusernamecolor_disallowedColors" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Disallowed custom colors]]></phrase>
-  <phrase title="option.tl_ImageOptimizer_disableUserGroups" addon_id="Truonglv/ImageOptimizer" version_id="2000300" version_string="2.0.3"><![CDATA[Disable optimize images for user groups]]></phrase>
-  <phrase title="option.tl_ImageOptimizer_enabled" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[Enable optimizing?]]></phrase>
-  <phrase title="option.tl_ImageOptimizer_gif" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[`gifsicle` path]]></phrase>
-  <phrase title="option.tl_ImageOptimizer_gifOps" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[`gifsicle` options]]></phrase>
-  <phrase title="option.tl_ImageOptimizer_jpeg" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[`jpegoptim` path]]></phrase>
-  <phrase title="option.tl_ImageOptimizer_jpegOps" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[`jpegoptim` options]]></phrase>
-  <phrase title="option.tl_ImageOptimizer_keepLogLength" addon_id="Truonglv/ImageOptimizer" version_id="2000500" version_string="2.0.5"><![CDATA[Keep log length]]></phrase>
-  <phrase title="option.tl_ImageOptimizer_limit" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[Images per job running]]></phrase>
-  <phrase title="option.tl_ImageOptimizer_png" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[`pngquant` path]]></phrase>
-  <phrase title="option.tl_ImageOptimizer_pngOps" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[`pngquant` options]]></phrase>
-  <phrase title="option.tl_ImageOptimizer_resizeAlgo" addon_id="Truonglv/ImageOptimizer" version_id="1010400" version_string="1.1.4"><![CDATA[Resize image algo]]></phrase>
-  <phrase title="option.tl_ImageOptimizer_resizeImageProxy" addon_id="Truonglv/ImageOptimizer" version_id="1010400" version_string="1.1.4"><![CDATA[Resize image proxy]]></phrase>
-  <phrase title="option.tl_ImageOptimizer_supportAvatars" addon_id="Truonglv/ImageOptimizer" version_id="1000502" version_string="1.0.5b"><![CDATA[Enable optimize avatars]]></phrase>
   <phrase title="option.tosForceWhitelist" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[المسارات المسموح لها تجاوز فرض اتفاقية الشروط و القواعد]]></phrase>
   <phrase title="option.tosUrl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[رابط الشروط و القوانين]]></phrase>
   <phrase title="option.tsoShowInForumStats" addon_id="Yugensoft/TimeSpentOnline" version_id="2000470" version_string="2.0.5"><![CDATA[Show aggregate members' time online in Forum Statistics]]></phrase>
@@ -10893,6 +11005,13 @@ Default: forum_list]]></phrase>
   <phrase title="option_explain.attachmentMaxFileSize" addon_id="XF" version_id="2000032" version_string="2.0.0 Beta 2"><![CDATA[أقصى حجم للمرفقات بالكيلوبايت (KB). إذا تعدت المرفقات الحجم المسموح به سيتم رفضها. هذا السيرفر تم تكوينه ليحدد هذه القيمة بـ <b>{serverMaxFileSize}</b> كيلوبايت.]]></phrase>
   <phrase title="option_explain.attachmentMaxPerMessage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[استخدم 0 للسماح بعدد غير محدود من المرفقات بكل مشاركة. لتعطيل المرفقات بالمشاركات، استخدم نظام التصاريح.]]></phrase>
   <phrase title="option_explain.attachmentThumbnailDimensions" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[للتحكم في حجم الصور المصغرة للمرفقات. قد يكون طول الصورة أطول من الطول الذي تم إدخاله هنا. يوصى بقيمة 150 بكسل على الأقل. لاحظ أنه إذا تم تغيير هذه القيمة ، فيجب إعادة بناء الصور المصغرة للمرفقات عبر نظام "إعادة بناء الكاش".]]></phrase>
+  <phrase title="option_explain.audapi_oauthEncryptionKey" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[A 32 byte key that has been encoded using base64.]]></phrase>
+  <phrase title="option_explain.audapi_oauthPrivateKey" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="option_explain.audapi_oauthPublicKey" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="option_explain.audentioapi_oauthAccessTokenTTL" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[The amount of time (in seconds) that an OAuth2 access token should be valid for. Set to 0 for no expiration. Changing this value will have no effect on existing access tokens.<br>
+<strong>Default value: 2592000 (30 days)</strong>]]></phrase>
+  <phrase title="option_explain.audentioapi_oauthRefreshTokenTTL" addon_id="Audentio/API" version_id="1000059" version_string="1.0.0 Release Candidate 9"><![CDATA[The default amount of time (in seconds) that an OAuth2 resfresh tokens should be valid for. This value can be overridden per client. Changing this value will have no effect on existing refresh tokens.<br>
+<b>Default value: 5184000 (60 days)</b>]]></phrase>
   <phrase title="option_explain.autoEmbedMedia" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[تمكين هذا الخيار سيجعل النظام يقوم بدمج الفيديوهات تلقائيا من عناوين URL المدرجة من قبل الزوار و التي تشير إلى مواقع الميديا المسجلة هنا. قد يتم تكرار تضمين الفيديوهات عندما يتم اقتباس المشاركة.]]></phrase>
   <phrase title="option_explain.boardActive" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="option_explain.boardDescription" addon_id="XF" version_id="2011072" version_string="2.1.10 Patch 2"><![CDATA[أدخل وصفا لمنتداك. سيتم وضع هذا الوصف داخل علامة الميتا "للصفحة الرئيسية للمنتدى"، لذا تجنب استخدام HTML.]]></phrase>
@@ -11136,6 +11255,7 @@ bounce+123abc+user=domain.com@example.com.]]></phrase>
   <phrase title="option_explain.maxContentSpamMessages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[لن يتم التحقق من رسائل المستخدمين كرسائل سبام حتى يتم نشر هذه الرسائل المتعددة بنجاح. استخدم 0 لتعطيل جميع عمليات التحقق من الرسائل غير المرغوب فيها.]]></phrase>
   <phrase title="option_explain.maxContentTags" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[هذا يتحكم في الحد الأقصى لعدد الوسوم التي يمكن تطبيقها على أي جزء من المحتوى. استخدم 0 لتعطيل هذا الحد.]]></phrase>
   <phrase title="option_explain.maxContentTagsPerUser" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[بالاضافة للتحكم في الحد الأقصى لعدد الوسوم في جزء من المحتوى، يمكنك تحديد عدد الوسوم التي قد تنطبق على كل مستخدم للحيلولة دون إساءة استخدام النظام. استخدم 0 لتعطيل هذا الحد.]]></phrase>
+  <phrase title="option_explain.maxTagsCount" addon_id="CnXFans/TagCloud" version_id="1000000" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="option_explain.maximumSearchResults" addon_id="XF" version_id="2000370" version_string="2.0.3"><![CDATA[يمثل هذا الرقم الحد الأقصى لعدد نتائج البحث أو نتائج ما الجديد التي سيتم العثور عليها، قبل رفع هذا الحد، تعيينه لعدد مرتفع قد يسبب مشاكل في الأداء.]]></phrase>
   <phrase title="option_explain.membersPerPage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[تحديد عدد الأعضاء الذي سيعرض بكل صفحة قبل تقسيمها في قائمة الأعضاء المسجلين، و قائمة المتصلون الآن.]]></phrase>
   <phrase title="option_explain.messageMaxImages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[استخدم الرقم صفر ليكون عدد الصور المعروض في المشاركه غير محدد.]]></phrase>
@@ -11239,6 +11359,8 @@ Once you have provided a unique name and hit the save button, the directory will
   <phrase title="option_explain.siropuAdsManagerEnableCustomThreadPrefix" addon_id="Siropu/AdsManager" version_id="2030070" version_string="2.3.0"><![CDATA[If enabled, advertisers will be able to set a prefix for their thread, based on the selected forum.]]></phrase>
   <phrase title="option_explain.siropuAdsManagerEnabled" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Allow advertisers to buy ads.]]></phrase>
   <phrase title="option_explain.siropuAdsManagerExpiredPromoThreadForum" addon_id="Siropu/AdsManager" version_id="2020370" version_string="2.2.3"><![CDATA[If a forum is set, expired promo threads will be moved to that forum.]]></phrase>
+  <phrase title="option_explain.siropuAdsManagerExpiryNotificationDays" addon_id="Siropu/AdsManager" version_id="2041770" version_string="2.4.17"><![CDATA[Ad owner will be notified when x days have been left before it expires.]]></phrase>
+  <phrase title="option_explain.siropuAdsManagerExpiryNotificationPercent" addon_id="Siropu/AdsManager" version_id="2041770" version_string="2.4.17"><![CDATA[Ad owner will be notified when x percent of total impressions/clicks have been used.]]></phrase>
   <phrase title="option_explain.siropuAdsManagerFeaturedResourcePrefix" addon_id="Siropu/AdsManager" version_id="2015070" version_string="2.1.5"><![CDATA[This option allows you to set a prefix for featured resources. You can use a global prefix because Ads Manager will reserve it only for featured resources and non-advertisers will not be able to use it.]]></phrase>
   <phrase title="option_explain.siropuAdsManagerFeaturedResourcesWidget" addon_id="Siropu/AdsManager" version_id="2011070" version_string="2.1.1"><![CDATA[If enabled, this option allows you to display a list of your current featured resources.]]></phrase>
   <phrase title="option_explain.siropuAdsManagerFeaturedThreadsWidget" addon_id="Siropu/AdsManager" version_id="2031370" version_string="2.3.13"><![CDATA[If enabled, this option allows you to display a list of your current sticky and promo threads.]]></phrase>
@@ -11399,19 +11521,6 @@ Once you have provided a unique path and hit the save button, the directory will
   <phrase title="option_explain.thuix_enableStyleOptions" addon_id="ThemeHouse/UIX" version_id="2001270" version_string="2.0.12"><![CDATA[This allows users with the appropriate permissions to override the above settings for collapsed sidebar and collapsed side navigation from their preferences page.]]></phrase>
   <phrase title="option_explain.thuix_userStyleChangeStorage" addon_id="ThemeHouse/UIX" version_id="2001270" version_string="2.0.12"><![CDATA[Select how you would like user style changes (e.g. collapsed sidebar) to be remembered. User session data is deleted after a user has been inactive for 4 hours.]]></phrase>
   <phrase title="option_explain.thusernamecolor_disallowedColors" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Hexadecimal colors without leading # and named colors only. Color ranges are supported. Enter one item per line.]]></phrase>
-  <phrase title="option_explain.tl_ImageOptimizer_disableUserGroups" addon_id="Truonglv/ImageOptimizer" version_id="2000300" version_string="2.0.3"><![CDATA[Add-on will not optimize images which being uploaded by users belong to above selected user groups.]]></phrase>
-  <phrase title="option_explain.tl_ImageOptimizer_enabled" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[]]></phrase>
-  <phrase title="option_explain.tl_ImageOptimizer_gif" addon_id="Truonglv/ImageOptimizer" version_id="2000400" version_string="2.0.4"><![CDATA[Leave this option empty if you don't want to optimize this images type.]]></phrase>
-  <phrase title="option_explain.tl_ImageOptimizer_gifOps" addon_id="Truonglv/ImageOptimizer" version_id="2000300" version_string="2.0.3"><![CDATA[<a href="http://www.lcdf.org/gifsicle/man.html" target="_blank">http://www.lcdf.org/gifsicle/man.html</a>]]></phrase>
-  <phrase title="option_explain.tl_ImageOptimizer_jpeg" addon_id="Truonglv/ImageOptimizer" version_id="2000400" version_string="2.0.4"><![CDATA[Leave this option empty if you don't want to optimize this images type.]]></phrase>
-  <phrase title="option_explain.tl_ImageOptimizer_jpegOps" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[Please see the detail explain of each option: <a href="http://www.kokkonen.net/tjko/src/man/jpegoptim.txt">http://www.kokkonen.net/tjko/src/man/jpegoptim.txt</a>]]></phrase>
-  <phrase title="option_explain.tl_ImageOptimizer_keepLogLength" addon_id="Truonglv/ImageOptimizer" version_id="2000500" version_string="2.0.5"><![CDATA[Set to 0 to keep its forever.]]></phrase>
-  <phrase title="option_explain.tl_ImageOptimizer_limit" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[The number of images on each job running.]]></phrase>
-  <phrase title="option_explain.tl_ImageOptimizer_png" addon_id="Truonglv/ImageOptimizer" version_id="2000400" version_string="2.0.4"><![CDATA[Leave this option empty if you don't want to optimize this images type.]]></phrase>
-  <phrase title="option_explain.tl_ImageOptimizer_pngOps" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[Please see this detail explain of each option: <a href="https://pngquant.org">https://pngquant.org</a>]]></phrase>
-  <phrase title="option_explain.tl_ImageOptimizer_resizeAlgo" addon_id="Truonglv/ImageOptimizer" version_id="1010400" version_string="1.1.4"><![CDATA[]]></phrase>
-  <phrase title="option_explain.tl_ImageOptimizer_resizeImageProxy" addon_id="Truonglv/ImageOptimizer" version_id="1010400" version_string="1.1.4"><![CDATA[If enabled, the image proxy will resize to dimensions from <b>Maximum attachment image dimensions</b>]]></phrase>
-  <phrase title="option_explain.tl_ImageOptimizer_supportAvatars" addon_id="Truonglv/ImageOptimizer" version_id="1000502" version_string="1.0.5b"><![CDATA[]]></phrase>
   <phrase title="option_explain.tosForceWhitelist" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[إذا قررت <a href="admin.php?force-agreement/terms" target="_blank">فرض اتفاقية شروط و قوانين</a> فالمسارات المدرجة هنا سيتم تجاوز إعادة توجيهها إلى صفحة الاتفاقية المفروضة. جزء المسار هو جزء من عنوان URL الذي يشير إلى صفحة بعد العنوان الرئيسي لدليل منتداك، مثل forums/ أو pages/page-name/. لا تضع مستبدلات المسار هنا.]]></phrase>
   <phrase title="option_explain.tosUrl" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[سيتم عرض هذا الرابط في الفوتر وسيتم عرضه ايضا وطلب الموافقه عليه عند عملية إنشاء حساب جديد.]]></phrase>
   <phrase title="option_explain.tsoShowInForumStats" addon_id="Yugensoft/TimeSpentOnline" version_id="2000470" version_string="2.0.5"><![CDATA[]]></phrase>
@@ -11489,10 +11598,11 @@ Once you have provided a unique path and hit the save button, the directory will
   <phrase title="option_group.alerts" addon_id="XF" version_id="2010032" version_string="2.1.0 Beta 2"><![CDATA[إشعارات و تنبيهات المستخدم]]></phrase>
   <phrase title="option_group.appearance" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[المظهر]]></phrase>
   <phrase title="option_group.attachments" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[المرفقات]]></phrase>
+  <phrase title="option_group.audapi" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[[Audentio] API]]></phrase>
   <phrase title="option_group.basicBoard" addon_id="XF" version_id="2020031" version_string="2.2.0 Beta 1"><![CDATA[خيارات أساسية]]></phrase>
   <phrase title="option_group.boardActive" addon_id="XF" version_id="2010070" version_string="2.1.0"><![CDATA[إغلاق أو تشغيل المنتدى]]></phrase>
   <phrase title="option_group.censoringOptions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[الرقابة]]></phrase>
-  <phrase title="option_group.cnxfans_global_stickies" addon_id="CnXFans/GlobalStickies" version_id="1000070" version_string="1.0.0"><![CDATA[全局置顶]]></phrase>
+  <phrase title="option_group.cnxfans_global_stickies" addon_id="CnXFans/GlobalStickies" version_id="1007020" version_string="1.0.7.2"><![CDATA[[CnXFans] 全局置顶]]></phrase>
   <phrase title="option_group.cxfWidgetTabs" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[[cXF] Widget Tabs]]></phrase>
   <phrase title="option_group.dbtech_shop" addon_id="DBTech/Shop" version_id="20170223" version_string="2.0.0"><![CDATA[DragonByte Tech: Shop]]></phrase>
   <phrase title="option_group.dbtech_shop_backup" addon_id="DBTech/Shop" version_id="20161010" version_string="4.6.0"><![CDATA[DragonByte Tech: Shop (Backup)]]></phrase>
@@ -11534,7 +11644,6 @@ Once you have provided a unique path and hit the save button, the directory will
   <phrase title="option_group.thfeature_thread" addon_id="ThemeHouse/Feature" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[[TH] Featured Threads and Content: Threads]]></phrase>
   <phrase title="option_group.thnodes" addon_id="ThemeHouse/Nodes" version_id="1000570" version_string="1.0.5"><![CDATA[[TH] Nodes]]></phrase>
   <phrase title="option_group.thusernamecolor" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[[TH] User Name Color]]></phrase>
-  <phrase title="option_group.tl_ImageOptimizer" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[[tl] Image Optimizer]]></phrase>
   <phrase title="option_group.users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[خيارات المستخدم]]></phrase>
   <phrase title="option_group.usersAndRegistration" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[تسجيل المستخدم]]></phrase>
   <phrase title="option_group.xfa_md" addon_id="XFA/ModeDebug" version_id="901000090" version_string="1.0.0"><![CDATA[[XFA] Mode Debug]]></phrase>
@@ -11550,6 +11659,7 @@ Once you have provided a unique path and hit the save button, the directory will
   <phrase title="option_group_description.alerts" addon_id="XF" version_id="2010032" version_string="2.1.0 Beta 2"><![CDATA[عندما تحدث الأحداث التي تؤثر على المستخدمين الأفراد، فسيتم تنبيههم عبر هذا النظام. إذا كنت تستخدم جهازاً مدعوماً ، يمكن إرسال التنبيهات مباشرة إلى الجهاز كإشعار. وبما انه يتم إنشاء كميات كبيرة من التنبيهات، يتم حذفها دوريا من قاعدة البيانات.]]></phrase>
   <phrase title="option_group_description.appearance" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[تتحكم هذه الخيارات في كيفية ظهور موقعك للزوار.]]></phrase>
   <phrase title="option_group_description.attachments" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[المرفقات هي الملفات التي يتم تحميلها إلى المنتدى مع الرسائل.]]></phrase>
+  <phrase title="option_group_description.audapi" addon_id="Audentio/API" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Options for the [Audentio] API add-on.]]></phrase>
   <phrase title="option_group_description.basicBoard" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="option_group_description.boardActive" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[هنا تشغيل أو إيقاف منتداك.]]></phrase>
   <phrase title="option_group_description.censoringOptions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[سيخضع النص الذي تم إنشاؤه من قبل المستخدم لقواعد الرقابة التي تحددها هنا.]]></phrase>
@@ -11599,7 +11709,6 @@ Once you have provided a unique path and hit the save button, the directory will
   <phrase title="option_group_description.thfeature_thread" addon_id="ThemeHouse/Feature" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[]]></phrase>
   <phrase title="option_group_description.thnodes" addon_id="ThemeHouse/Nodes" version_id="1000570" version_string="1.0.5"><![CDATA[Options for the [TH] Nodes add-on.]]></phrase>
   <phrase title="option_group_description.thusernamecolor" addon_id="ThemeHouse/UserNameColor" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Options for the [TH] User Name Color add-on.]]></phrase>
-  <phrase title="option_group_description.tl_ImageOptimizer" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="option_group_description.users" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="option_group_description.usersAndRegistration" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="option_group_description.xfa_md" addon_id="XFA/ModeDebug" version_id="901000090" version_string="1.0.0"><![CDATA[Allow to enable debug mode from admincp]]></phrase>
@@ -11645,6 +11754,12 @@ Once you have provided a unique path and hit the save button, the directory will
   <phrase title="overwrite_language" addon_id="XF" version_id="2000037" version_string="2.0.0 Beta 7"><![CDATA[الكتابة على اللغة]]></phrase>
   <phrase title="overwrite_language_id_explain" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[الكتابة فوق اللغة سيستبدل العبارات في اللغة فقط. كافة إعدادات اللغة الأخرى ستظل كما هي.]]></phrase>
   <phrase title="overwrite_style" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[الكتابة على الستايل]]></phrase>
+  <phrase title="ozzmodz_userfollowerscount_count_min" addon_id="OzzModz/UserFollowersCount" version_id="2000000" version_string="2.0.0"><![CDATA[User has no more than X followers]]></phrase>
+  <phrase title="ozzmodz_userfollowerscount_followers_count_between" addon_id="OzzModz/UserFollowersCount" version_id="2000000" version_string="2.0.0"><![CDATA[Followers count between]]></phrase>
+  <phrase title="ozzmodz_userfollowerscount_rebuild_explain" addon_id="OzzModz/UserFollowersCount" version_id="2000000" version_string="2.0.0"><![CDATA[Rebuild counter how many members followed the user]]></phrase>
+  <phrase title="ozzmodz_userfollowerscount_user_followers_count" addon_id="OzzModz/UserFollowersCount" version_id="2000000" version_string="2.0.0"><![CDATA[User followers count]]></phrase>
+  <phrase title="ozzmodz_userfollowerscount_user_has_at_least_x_followers" addon_id="OzzModz/UserFollowersCount" version_id="2000000" version_string="2.0.0"><![CDATA[User has at least X followers]]></phrase>
+  <phrase title="ozzmodz_userfollowerscount_user_has_no_more_than_x_followers" addon_id="OzzModz/UserFollowersCount" version_id="2000000" version_string="2.0.0"><![CDATA[User has at no more than X followers]]></phrase>
   <phrase title="padding" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[محاذاة للداخل - Padding]]></phrase>
   <phrase title="page" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[الصفحة]]></phrase>
   <phrase title="page_callback_explanation_html" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[You may optionally specify a PHP callback here in order to fetch more data or alter the controller response for your page.<br />
@@ -11807,6 +11922,7 @@ Callback arguments:
   <phrase title="permission.forum_editOwnPost" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[تعديل مشاركته]]></phrase>
   <phrase title="permission.forum_editOwnPostTimeLimit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[المهلة الزمنية لتعديل / حذف مشاركاته (بالدقائق)]]></phrase>
   <phrase title="permission.forum_editOwnThreadTitle" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[تعديل موضوعه (يتطلب التصريح بتعديل مشاركته)]]></phrase>
+  <phrase title="permission.forum_featureUnfeature" addon_id="CnXFans/ThreadFeature" version_id="1000000" version_string="1.0.0"><![CDATA[推荐 / 取消推荐]]></phrase>
   <phrase title="permission.forum_hardDeleteAnyPost" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[حذف نهائي لأي مشاركة]]></phrase>
   <phrase title="permission.forum_hardDeleteAnyThread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[حذف نهائي لأي موضوع]]></phrase>
   <phrase title="permission.forum_inlineMod" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[استخدام الإدارة المباشرة في المواضيع / المشاركات]]></phrase>
@@ -12497,6 +12613,7 @@ Before your content can be posted, please take a few moments to login to your us
   <phrase title="public_templates" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[القوالب العامة]]></phrase>
   <phrase title="public_warning_text" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[نص التحذير العلني]]></phrase>
   <phrase title="published" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[نشرت]]></phrase>
+  <phrase title="pull_down_to_refresh" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Pull down to refresh]]></phrase>
   <phrase title="purchasable_details" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[تفاصيل المشتريات]]></phrase>
   <phrase title="purchasable_item" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[العنصر القابل للشراء]]></phrase>
   <phrase title="purchasable_type" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[نوع المشترى]]></phrase>
@@ -12663,18 +12780,22 @@ Before your content can be posted, please take a few moments to login to your us
   <phrase title="redis_output_kbps" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[From Redis (kbps)]]></phrase>
   <phrase title="redis_peak_memory" addon_id="SV/RedisCache" version_id="2030000" version_string="2.3.0"><![CDATA[Peak memory]]></phrase>
   <phrase title="redis_phpredis" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[phpredis version]]></phrase>
+  <phrase title="redis_replica_address" addon_id="SV/RedisCache" version_id="20110600" version_string="2.11.6"><![CDATA[Address]]></phrase>
+  <phrase title="redis_replica_lag" addon_id="SV/RedisCache" version_id="20110600" version_string="2.11.6"><![CDATA[Replication Lag (seconds)]]></phrase>
+  <phrase title="redis_replica_state" addon_id="SV/RedisCache" version_id="20110600" version_string="2.11.6"><![CDATA[State]]></phrase>
+  <phrase title="redis_replica_x" addon_id="SV/RedisCache" version_id="20110600" version_string="2.11.6"><![CDATA[Replica {i}]]></phrase>
+  <phrase title="redis_replicas" addon_id="SV/RedisCache" version_id="20110600" version_string="2.11.6"><![CDATA[Replicas]]></phrase>
   <phrase title="redis_serializer" addon_id="SV/RedisCache" version_id="2010100" version_string="2.1.1"><![CDATA[Serializer]]></phrase>
   <phrase title="redis_slave_address" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[Address]]></phrase>
   <phrase title="redis_slave_lag" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[Replication Lag (seconds)]]></phrase>
   <phrase title="redis_slave_state" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[State]]></phrase>
-  <phrase title="redis_slave_x" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[Slave {i}]]></phrase>
-  <phrase title="redis_slaves" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[Slaves]]></phrase>
   <phrase title="redis_used_memory" addon_id="SV/RedisCache" version_id="2030000" version_string="2.3.0"><![CDATA[Used memory]]></phrase>
   <phrase title="redis_version" addon_id="SV/RedisCache" version_id="2000900" version_string="2.0.9"><![CDATA[Version]]></phrase>
   <phrase title="redo" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[إعادة]]></phrase>
   <phrase title="referrer" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[المحيل]]></phrase>
   <phrase title="refine_and_translate" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[تنقيح وترجمة]]></phrase>
   <phrase title="refine_search" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[تنقيح البحث]]></phrase>
+  <phrase title="refreshing" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Refreshing]]></phrase>
   <phrase title="regenerate_key" addon_id="XF" version_id="2010032" version_string="2.1.0 Beta 2"><![CDATA[إعادة توليد المفتاح]]></phrase>
   <phrase title="regenerate_secret_for_new_device" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[إعادة إنشاء سر لجهاز جديد]]></phrase>
   <phrase title="register" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[تسجيل]]></phrase>
@@ -12701,6 +12822,7 @@ Before your content can be posted, please take a few moments to login to your us
   <phrase title="rejected_user_log_entry" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[إدخال سجل المستخدم المرفوض]]></phrase>
   <phrase title="rejected_users_will_not_be_deleted_user_state_will_be_set_to_rejected" addon_id="XF" version_id="2010032" version_string="2.1.0 Beta 2"><![CDATA[لن يتم حذف المستخدمين المرفوضين ولكن سيتم تعيينهم إلى 'مرفوض'. سيتم عرض سبب الرفض، إذا تم إدخاله هنا، عند تسجيل الدخول التالي.]]></phrase>
   <phrase title="related_twitter_account" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[حساب ذو صلة: @...]]></phrase>
+  <phrase title="release_to_refresh" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Release to refresh]]></phrase>
   <phrase title="relevance" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[الاهمية]]></phrase>
   <phrase title="reload" addon_id="XF" version_id="2020470" version_string="2.2.4"><![CDATA[إعادة التحميل]]></phrase>
   <phrase title="remain_in_inbox_and_notified_of_replies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[ستظل المحادثة في الوارد الخاص بك وسيتم إعلامك بالردود.]]></phrase>
@@ -12848,11 +12970,6 @@ Before your content can be posted, please take a few moments to login to your us
   <phrase title="resource_prefix.58" addon_id="" version_id="0" version_string=""><![CDATA[BDX]]></phrase>
   <phrase title="resource_prefix.59" addon_id="" version_id="0" version_string=""><![CDATA[LL]]></phrase>
   <phrase title="resource_prefix.60" addon_id="" version_id="0" version_string=""><![CDATA[EZ]]></phrase>
-  <phrase title="resource_prefix.61" addon_id="" version_id="0" version_string=""><![CDATA[CSR-IPYR]]></phrase>
-  <phrase title="resource_prefix.62" addon_id="" version_id="0" version_string=""><![CDATA[CSR-PFJSR]]></phrase>
-  <phrase title="resource_prefix.63" addon_id="" version_id="0" version_string=""><![CDATA[CSR-ILR]]></phrase>
-  <phrase title="resource_prefix.64" addon_id="" version_id="0" version_string=""><![CDATA[CSR-NLR]]></phrase>
-  <phrase title="resource_prefix.65" addon_id="" version_id="0" version_string=""><![CDATA[CSR-NJSR]]></phrase>
   <phrase title="resource_prefix.66" addon_id="" version_id="0" version_string=""><![CDATA[BDXCore]]></phrase>
   <phrase title="resource_prefix.67" addon_id="" version_id="0" version_string=""><![CDATA[LLSE]]></phrase>
   <phrase title="resource_prefix.68" addon_id="" version_id="0" version_string=""><![CDATA[整合包]]></phrase>
@@ -12861,6 +12978,8 @@ Before your content can be posted, please take a few moments to login to your us
   <phrase title="resource_prefix.71" addon_id="" version_id="0" version_string=""><![CDATA[Yuuka]]></phrase>
   <phrase title="resource_prefix.72" addon_id="" version_id="0" version_string=""><![CDATA[Skript]]></phrase>
   <phrase title="resource_prefix.73" addon_id="" version_id="0" version_string=""><![CDATA[原生模组]]></phrase>
+  <phrase title="resource_prefix.74" addon_id="" version_id="0" version_string=""><![CDATA[BDSX]]></phrase>
+  <phrase title="resource_prefix.75" addon_id="" version_id="0" version_string=""><![CDATA[LL.NET]]></phrase>
   <phrase title="resource_prefix_desc.22" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_desc.23" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_desc.24" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -12892,11 +13011,6 @@ Before your content can be posted, please take a few moments to login to your us
   <phrase title="resource_prefix_desc.58" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_desc.59" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_desc.60" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="resource_prefix_desc.61" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="resource_prefix_desc.62" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="resource_prefix_desc.63" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="resource_prefix_desc.64" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="resource_prefix_desc.65" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_desc.66" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_desc.67" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_desc.68" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -12905,6 +13019,8 @@ Before your content can be posted, please take a few moments to login to your us
   <phrase title="resource_prefix_desc.71" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_desc.72" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_desc.73" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="resource_prefix_desc.74" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="resource_prefix_desc.75" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_group.10" addon_id="" version_id="0" version_string=""><![CDATA[材质皮肤]]></phrase>
   <phrase title="resource_prefix_group.11" addon_id="" version_id="0" version_string=""><![CDATA[MC插件]]></phrase>
   <phrase title="resource_prefix_group.12" addon_id="" version_id="0" version_string=""><![CDATA[BDS]]></phrase>
@@ -12943,11 +13059,6 @@ Before your content can be posted, please take a few moments to login to your us
   <phrase title="resource_prefix_help.58" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_help.59" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_help.60" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="resource_prefix_help.61" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="resource_prefix_help.62" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="resource_prefix_help.63" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="resource_prefix_help.64" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="resource_prefix_help.65" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_help.66" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_help.67" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_help.68" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -12956,6 +13067,8 @@ Before your content can be posted, please take a few moments to login to your us
   <phrase title="resource_prefix_help.71" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_help.72" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_help.73" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="resource_prefix_help.74" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="resource_prefix_help.75" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="responsive_width" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Responsive width]]></phrase>
   <phrase title="restart_import" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[إعادة تشغيل الاستيراد]]></phrase>
   <phrase title="restore" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[استعادة]]></phrase>
@@ -13064,6 +13177,7 @@ Before your content can be posted, please take a few moments to login to your us
   <phrase title="secondary_user_groups" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[مجموعات المستخدم الثانوية]]></phrase>
   <phrase title="seconds" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[ثواني]]></phrase>
   <phrase title="secret_key" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[المفتاح السري]]></phrase>
+  <phrase title="secret_that_corresponds_to_your_azure_client_id_above" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[The secret that corresponds to your Azure client ID above.]]></phrase>
   <phrase title="secret_that_corresponds_to_your_google_client_id_above" addon_id="XF" version_id="2020034" version_string="2.2.0 Beta 4"><![CDATA[السر الذي يتوافق مع معرف عميل Google الخاص بك أعلاه.]]></phrase>
   <phrase title="section_context" addon_id="XF" version_id="2010032" version_string="2.1.0 Beta 2"><![CDATA[سياق القسم]]></phrase>
   <phrase title="security_error_occurred" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[خطأ أمني .. الرجاء العودة للخلف، حدث الصفحة، ثم حاول من جديد.]]></phrase>
@@ -13165,7 +13279,6 @@ Before your content can be posted, please take a few moments to login to your us
   <phrase title="show_signatures_with_messages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[عرض التوقيعات مع الرسائل]]></phrase>
   <phrase title="show_staff_and_group_banner" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[عرض بنر الإدارة و المجموعة]]></phrase>
   <phrase title="show_staff_banner" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[عرض بنر الإدارة]]></phrase>
-  <phrase title="show_them" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Show them.]]></phrase>
   <phrase title="show_this_site_on_list_of_supported_sites_shown_to_visitors" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[عرض هذا الموقع على قائمة المواقع 'المدعومة' المعروضة للزوار]]></phrase>
   <phrase title="show_this_smilie_in_the_text_editor" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[عرض هذه الابتسامة في محرر النصوص]]></phrase>
   <phrase title="show_value" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[إظهار القيمة]]></phrase>
@@ -13326,6 +13439,8 @@ Please note that daily and click statistics are not included in the export.]]></
   <phrase title="siropu_ads_manager_alternative_2" addon_id="Siropu/AdsManager" version_id="2010070" version_string="2.1.0"><![CDATA[Alternative 2]]></phrase>
   <phrase title="siropu_ads_manager_amount" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Amount]]></phrase>
   <phrase title="siropu_ads_manager_amount_is_required" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Amount is required.]]></phrase>
+  <phrase title="siropu_ads_manager_ams_article_id_is" addon_id="Siropu/AdsManager" version_id="2041470" version_string="2.4.14"><![CDATA[Article ID is]]></phrase>
+  <phrase title="siropu_ads_manager_ams_article_id_is_not" addon_id="Siropu/AdsManager" version_id="2041470" version_string="2.4.14"><![CDATA[Article ID is NOT]]></phrase>
   <phrase title="siropu_ads_manager_ams_articles" addon_id="Siropu/AdsManager" version_id="2031270" version_string="2.3.12"><![CDATA[AMS articles]]></phrase>
   <phrase title="siropu_ads_manager_ams_not_installed" addon_id="Siropu/AdsManager" version_id="2031270" version_string="2.3.12"><![CDATA[Article Management System is not installed.]]></phrase>
   <phrase title="siropu_ads_manager_anchor_text" addon_id="Siropu/AdsManager" version_id="2000035" version_string="2.0.0-Beta-5"><![CDATA[Anchor text]]></phrase>
@@ -13396,6 +13511,7 @@ To use this with AdBlock detection, you need to set the Ads Manager admin option
   <phrase title="siropu_ads_manager_clone_package_explain" addon_id="Siropu/AdsManager" version_id="2000036" version_string="2.0.0-Beta-6"><![CDATA[This option allows you to create a new package with the same settings and criteria as "{name}" package.]]></phrase>
   <phrase title="siropu_ads_manager_close_ad_and_play" addon_id="Siropu/AdsManager" version_id="2031470" version_string="2.3.14"><![CDATA[Close ad & play]]></phrase>
   <phrase title="siropu_ads_manager_code_ad_explain" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Use this ad type if you want to display ads such as AdSense, affiliate banners, etc.]]></phrase>
+  <phrase title="siropu_ads_manager_code_copied_to_clipboard" addon_id="Siropu/AdsManager" version_id="2041770" version_string="2.4.17"><![CDATA[Code copied to clipboard.]]></phrase>
   <phrase title="siropu_ads_manager_code_package_explain" addon_id="Siropu/AdsManager" version_id="2031370" version_string="2.3.13"><![CDATA[Use this package if you want to manage your own code ads such as AdSense, affiliate banners, etc. It is not recommended to sell this ad type.]]></phrase>
   <phrase title="siropu_ads_manager_confirm_delete_position_category_footnote" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Any positions belonging to this category will be uncategorized following the deletion.]]></phrase>
   <phrase title="siropu_ads_manager_content_template" addon_id="Siropu/AdsManager" version_id="2030970" version_string="2.3.9"><![CDATA[Content template]]></phrase>
@@ -13635,6 +13751,7 @@ To use this with AdBlock detection, you need to set the Ads Manager admin option
   <phrase title="siropu_ads_manager_forum_user_promo_thread_limit_reached" addon_id="Siropu/AdsManager" version_id="2030070" version_string="2.3.0"><![CDATA[We are sorry, you have reached the maximum number of promo threads allowed per user ({limit}).]]></phrase>
   <phrase title="siropu_ads_manager_free" addon_id="Siropu/AdsManager" version_id="2013070" version_string="2.1.3"><![CDATA[Free]]></phrase>
   <phrase title="siropu_ads_manager_frequency_cap" addon_id="Siropu/AdsManager" version_id="2030070" version_string="2.3.0"><![CDATA[Frequency cap]]></phrase>
+  <phrase title="siropu_ads_manager_from_x" addon_id="Siropu/AdsManager" version_id="2041670" version_string="2.4.16"><![CDATA[From {value}]]></phrase>
   <phrase title="siropu_ads_manager_ga_statistics" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Google Analytics statistics]]></phrase>
   <phrase title="siropu_ads_manager_general_stats" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[General statistics]]></phrase>
   <phrase title="siropu_ads_manager_geo_criteria" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Geo criteria]]></phrase>
@@ -13772,6 +13889,7 @@ You can use multiple IDs separated by comma.]]></phrase>
   <phrase title="siropu_ads_manager_no_empty_slots" addon_id="Siropu/AdsManager" version_id="2030070" version_string="2.3.0"><![CDATA[We are sorry, currently there are no empty slots available.]]></phrase>
   <phrase title="siropu_ads_manager_no_forums_selected_for_promo_threads" addon_id="Siropu/AdsManager" version_id="2020370" version_string="2.2.3"><![CDATA[In order to allow advertisers to create promo thread ads, you have to set the forum(s) from "<a href="{optionsUrl}#siropuAdsManagerPromoThreadForums">Promo thread forums</a>" option in <a href="{optionsUrl}">Ads Manager [Advertiser]</a> admin options.]]></phrase>
   <phrase title="siropu_ads_manager_no_forums_selected_for_sticky" addon_id="Siropu/AdsManager" version_id="2000033" version_string="2.0.0-Beta-3"><![CDATA[In order to allow advertisers to create sticky thread ads, you have to select at least one forum for "<a href="{optionsUrl}#siropuAdsManagerAllowedStickyForums">Allowed sticky forums</a>" option in <a href="{optionsUrl}">Ads Manager [Advertiser]</a> admin options.]]></phrase>
+  <phrase title="siropu_ads_manager_no_invoices_to_pay" addon_id="Siropu/AdsManager" version_id="2041570" version_string="2.4.15"><![CDATA[No invoices to pay.]]></phrase>
   <phrase title="siropu_ads_manager_no_items_have_been_found_for_statistics" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[No items have been found for statistics.]]></phrase>
   <phrase title="siropu_ads_manager_no_package" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[No package]]></phrase>
   <phrase title="siropu_ads_manager_no_packages_available" addon_id="Siropu/AdsManager" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[We are sorry, currently there are no advertising packages available.]]></phrase>
@@ -13873,24 +13991,20 @@ You can use multiple IDs separated by comma.]]></phrase>
   <phrase title="siropu_ads_manager_popup_window_url_explain" addon_id="Siropu/AdsManager" version_id="2010070" version_string="2.1.0"><![CDATA[This option allows you to open an URL in a popup window.]]></phrase>
   <phrase title="siropu_ads_manager_position" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Position]]></phrase>
   <phrase title="siropu_ads_manager_position_category" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Position category]]></phrase>
+  <phrase title="siropu_ads_manager_position_code" addon_id="Siropu/AdsManager" version_id="2041770" version_string="2.4.17"><![CDATA[<xf:macro template="siropu_ads_manager_ad_macros" name="ad_unit" arg-position="{position}" />]]></phrase>
   <phrase title="siropu_ads_manager_position_criteria" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Position criteria]]></phrase>
+  <phrase title="siropu_ads_manager_position_criteria_ams_hint" addon_id="Siropu/AdsManager" version_id="2041670" version_string="2.4.16"><![CDATA[Available in Bob's AMS article view]]></phrase>
   <phrase title="siropu_ads_manager_position_criteria_forums_hint" addon_id="Siropu/AdsManager" version_id="2030070" version_string="2.3.0"><![CDATA[Available in forum view]]></phrase>
   <phrase title="siropu_ads_manager_position_criteria_posts_hint" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Available in thread view, conversation view and member view for dynamic positions within the results.]]></phrase>
   <phrase title="siropu_ads_manager_position_criteria_resources_hint" addon_id="Siropu/AdsManager" version_id="2031370" version_string="2.3.13"><![CDATA[Available in resource view.]]></phrase>
   <phrase title="siropu_ads_manager_position_criteria_search_results_hint" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Available in search view.]]></phrase>
+  <phrase title="siropu_ads_manager_position_criteria_showcase_hint" addon_id="Siropu/AdsManager" version_id="2041670" version_string="2.4.16"><![CDATA[Available in Bob's Showcase item view]]></phrase>
   <phrase title="siropu_ads_manager_position_criteria_threads_hint" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Available in thread view.]]></phrase>
   <phrase title="siropu_ads_manager_position_id" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Position Id]]></phrase>
   <phrase title="siropu_ads_manager_position_id_example" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 0"><![CDATA[Example: your_position_id]]></phrase>
   <phrase title="siropu_ads_manager_position_id_must_be_unique" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Position ID must be unique. The specified ID is already in use.]]></phrase>
   <phrase title="siropu_ads_manager_position_id_required" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Please enter a valid position ID.]]></phrase>
-  <phrase title="siropu_ads_manager_position_instructions" addon_id="Siropu/AdsManager" version_id="2020070" version_string="2.2.0"><![CDATA[To use this position, copy the syntax below and paste it in the template or in the HTML widget where you want the ads to display.
-
-<b>
-	<blockquote>
-		<code>&lt;xf:macro template="siropu_ads_manager_ad_macros" name="ad_unit" arg-position="{positionId}" /&gt;
-		</code>
-	</blockquote>
-</b>]]></phrase>
+  <phrase title="siropu_ads_manager_position_instructions" addon_id="Siropu/AdsManager" version_id="2041770" version_string="2.4.17"><![CDATA[To use this position, copy the syntax below and paste it in the template or in the HTML widget where you want the ads to display.]]></phrase>
   <phrase title="siropu_ads_manager_position_preview" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Position preview]]></phrase>
   <phrase title="siropu_ads_manager_position_reset_explain" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[This action will delete all the current positions and categories and restore the defaults.]]></phrase>
   <phrase title="siropu_ads_manager_position_types" addon_id="Siropu/AdsManager" version_id="2000011" version_string="2.0.0 Alpha 1"><![CDATA[Position types]]></phrase>
@@ -13988,6 +14102,8 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="siropu_ads_manager_separate_multiple_tags_by_comma" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Separate multiple tags by comma.]]></phrase>
   <phrase title="siropu_ads_manager_separate_multiple_usernames_by_comma" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Separate multiple usernames by comma.]]></phrase>
   <phrase title="siropu_ads_manager_sepecified_advertiser_not_found" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[The specified advertiser could not be found.]]></phrase>
+  <phrase title="siropu_ads_manager_showcase_id_is" addon_id="Siropu/AdsManager" version_id="2041670" version_string="2.4.16"><![CDATA[Showcase ID is]]></phrase>
+  <phrase title="siropu_ads_manager_showcase_id_is_not" addon_id="Siropu/AdsManager" version_id="2041670" version_string="2.4.16"><![CDATA[Showcase ID is NOT]]></phrase>
   <phrase title="siropu_ads_manager_showcase_item" addon_id="Siropu/AdsManager" version_id="2041470" version_string="2.4.14"><![CDATA[Showcase item]]></phrase>
   <phrase title="siropu_ads_manager_simple_list" addon_id="Siropu/AdsManager" version_id="2031270" version_string="2.3.12"><![CDATA[Simple list]]></phrase>
   <phrase title="siropu_ads_manager_since_date" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Since date...]]></phrase>
@@ -14178,10 +14294,13 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="siropu_ads_manager_your_ad_here_description" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Place your Ad here for {costAmount} per {costPer}!]]></phrase>
   <phrase title="siropu_ads_manager_your_ad_here_title" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Your ad here]]></phrase>
   <phrase title="siropu_ads_manager_your_ad_x_expires" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 0"><![CDATA[Your ad {name} will expire soon. If you want to continue advertising, please <a href="{extend}">extend</a> your ad before it expires.]]></phrase>
+  <phrase title="siropu_ads_manager_your_ad_x_expires_on_y" addon_id="Siropu/AdsManager" version_id="2041770" version_string="2.4.17"><![CDATA[Your ad "{name}" will expire on {date}. To extend your ad please use the "extend" feature or contact us directly.]]></phrase>
   <phrase title="siropu_ads_manager_your_ad_x_has_been_approved" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 0"><![CDATA[Your ad {name} has been approved.]]></phrase>
   <phrase title="siropu_ads_manager_your_ad_x_has_been_approved_and_queued" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0-Beta-1"><![CDATA[Your ad {name} has been approved and added to the queue.]]></phrase>
   <phrase title="siropu_ads_manager_your_ad_x_has_been_rejected_for_reason_x" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 0"><![CDATA[Your ad {name} has been rejected for the following reason: {reason}]]></phrase>
-  <phrase title="siropu_ads_manager_your_ad_x_has_expired" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 0"><![CDATA[Your ad {name} has expired. If you want to continue advertising, please <a href="{extend}">extend</a> your ad.]]></phrase>
+  <phrase title="siropu_ads_manager_your_ad_x_has_expired" addon_id="Siropu/AdsManager" version_id="2041770" version_string="2.4.17"><![CDATA[Your ad "{name}" has expired. If you want to continue advertising, please use the "extend" feature or contact us directly.]]></phrase>
+  <phrase title="siropu_ads_manager_your_ad_x_has_y_clicks_left" addon_id="Siropu/AdsManager" version_id="2041770" version_string="2.4.17"><![CDATA[Your ad "{name}" has {count} clicks left. You can add more clicks to continue advertising, To do so, please use the "extend" feature or contact us directly.]]></phrase>
+  <phrase title="siropu_ads_manager_your_ad_x_has_y_impressions_left" addon_id="Siropu/AdsManager" version_id="2041770" version_string="2.4.17"><![CDATA[Your ad "{name}" has {count} impressions left. You can add more impressions to continue advertising, To do so, please use the "extend" feature or contact us directly.]]></phrase>
   <phrase title="siropu_ads_manager_your_ads" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Your ads]]></phrase>
   <phrase title="siropu_ads_manager_your_invoices" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Your invoices]]></phrase>
   <phrase title="siropu_referral_contests" addon_id="Siropu/ReferralContests" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Referral contests]]></phrase>
@@ -14637,6 +14756,8 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="style_prop.chipHover" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Chips - hovered]]></phrase>
   <phrase title="style_prop.chromeBg" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Page chrome background color]]></phrase>
   <phrase title="style_prop.chromeTextColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Page chrome text color]]></phrase>
+  <phrase title="style_prop.cnxfans_3d_tag_outline_color" addon_id="CnXFans/TagCloud" version_id="1000000" version_string="1.0.0"><![CDATA[3D 标签云外框颜色]]></phrase>
+  <phrase title="style_prop.cnxfans_3d_tag_text_color" addon_id="CnXFans/TagCloud" version_id="1000000" version_string="1.0.0"><![CDATA[3D 标签云文本颜色]]></phrase>
   <phrase title="style_prop.contentAccentBase" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Accented content area base]]></phrase>
   <phrase title="style_prop.contentAccentBg" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Accented content background color]]></phrase>
   <phrase title="style_prop.contentAccentLink" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Accented content area links]]></phrase>
@@ -14886,7 +15007,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="style_prop.thfeature_firstPost_author" addon_id="ThemeHouse/Feature" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Enable first post author meta]]></phrase>
   <phrase title="style_prop.thfeature_firstPost_style" addon_id="ThemeHouse/Feature" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[First Post Style]]></phrase>
   <phrase title="style_prop.thfeature_icon_size" addon_id="ThemeHouse/Feature" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Icon size]]></phrase>
-  <phrase title="style_prop.thfeature_icon_style" addon_id="ThemeHouse/Feature" version_id="1000995" version_string="1.0.9 Patch Level 5"><![CDATA[Icon style]]></phrase>
+  <phrase title="style_prop.thfeature_icon_style" addon_id="ThemeHouse/Feature" version_id="1001070" version_string="1.0.10"><![CDATA[Icon style]]></phrase>
   <phrase title="style_prop.thfeature_pageTitle" addon_id="ThemeHouse/Feature" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Show page title on featured content page]]></phrase>
   <phrase title="style_prop.thfeature_slider" addon_id="ThemeHouse/Feature" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Slider styling]]></phrase>
   <phrase title="style_prop.thnodes_enable_header_styling_categoryView" addon_id="ThemeHouse/Nodes" version_id="1000471" version_string="1.0.4 Patch Level 1"><![CDATA[Enable header styling on category view]]></phrase>
@@ -15006,6 +15127,8 @@ Use the following code in your "message_macros" template:<br>
   <phrase title="style_prop_desc.chipHover" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Chip styling is adjusted using these settings when they are hovered]]></phrase>
   <phrase title="style_prop_desc.chromeBg" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.chromeTextColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.cnxfans_3d_tag_outline_color" addon_id="CnXFans/TagCloud" version_id="1000000" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.cnxfans_3d_tag_text_color" addon_id="CnXFans/TagCloud" version_id="1000000" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.contentAccentBase" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[عندما تحتاج إلى لفت الإنتباه إلى المحتوى، ربما قد تستخدم هذه الخلفية]]></phrase>
   <phrase title="style_prop_desc.contentAccentBg" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This background color is used for further differentiation from regular content]]></phrase>
   <phrase title="style_prop_desc.contentAccentLink" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Links within accented content will be styled with these settings]]></phrase>
@@ -15064,7 +15187,7 @@ Use the following code in your "message_macros" template:<br>
   <phrase title="style_prop_desc.errorColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.errorFeatureColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.findThreadsNavStyle" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[This controls how the navigation is displayed in the <i>Find threads</i> section.]]></phrase>
-  <phrase title="style_prop_desc.fixedMessage" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[Occasionally, system messages will be displayed to the visitor in a fixed element that appears at the bottom of the window. Its styling is controlled here]]></phrase>
+  <phrase title="style_prop_desc.fixedMessage" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[Occasionally, system messages will be displayed to the visitor in a fixed element that appears at the bottom of the window. Its styling is controlled here]]></phrase>
   <phrase title="style_prop_desc.flashMessage" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[A message may temporarily appear at the top of the screen to indicate the result of an action taken. Its styling can be controlled here.]]></phrase>
   <phrase title="style_prop_desc.fontAwesomeWeight" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.fontFamilyBody" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[يستخدم هذا الخط لنص الرسائل إلخ...]]></phrase>
@@ -15161,7 +15284,7 @@ Use the following code in your "message_macros" template:<br>
   <phrase title="style_prop_desc.pageBackground" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[خلفيه الصفحة ، وراء كل عناصر الكتلة، يستخدم قواعد التصميم المحددة هنا]]></phrase>
   <phrase title="style_prop_desc.pageBg" addon_id="XF" version_id="2020034" version_string="2.2.0 Beta 4"><![CDATA[خلفية الصفحة نفسها التي تستند إليها كافة المحتويات الأخرى]]></phrase>
   <phrase title="style_prop_desc.pageEdgeSpacer" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[All elements will be spaced at least this far from the edges of the page]]></phrase>
-  <phrase title="style_prop_desc.pageNavStyle" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[This controls the appearance of page navigation. "Simple" focuses on the current page and is good for touch devices. "Standard" shows relative page numbers and is good for desktops. "Mixed" switches between them based on device size.]]></phrase>
+  <phrase title="style_prop_desc.pageNavStyle" addon_id="XF" version_id="2021270" version_string="2.2.12"><![CDATA[This controls the appearance of page navigation. "Simple" focuses on the current page and is good for touch devices. "Standard" shows relative page numbers and is good for desktops. "Mixed" switches between them based on device size.]]></phrase>
   <phrase title="style_prop_desc.pageWidthMax" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[As the window is resized, it will continue to grow in width until this value, after which it will remain static]]></phrase>
   <phrase title="style_prop_desc.paletteAccent1" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.paletteAccent2" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[]]></phrase>
@@ -15259,7 +15382,7 @@ Use the following code in your "message_macros" template:<br>
   <phrase title="style_prop_desc.thfeature_firstPost_author" addon_id="ThemeHouse/Feature" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[Only applicable when "Display first post as an article" is enabled.]]></phrase>
   <phrase title="style_prop_desc.thfeature_firstPost_style" addon_id="ThemeHouse/Feature" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.thfeature_icon_size" addon_id="ThemeHouse/Feature" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[]]></phrase>
-  <phrase title="style_prop_desc.thfeature_icon_style" addon_id="ThemeHouse/Feature" version_id="1000995" version_string="1.0.9 Patch Level 5"><![CDATA[]]></phrase>
+  <phrase title="style_prop_desc.thfeature_icon_style" addon_id="ThemeHouse/Feature" version_id="1001070" version_string="1.0.10"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.thfeature_pageTitle" addon_id="ThemeHouse/Feature" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.thfeature_slider" addon_id="ThemeHouse/Feature" version_id="1000032" version_string="1.0.0 Beta 2"><![CDATA[This will apply to the styling of all instances of the Slider widget]]></phrase>
   <phrase title="style_prop_desc.thnodes_enable_header_styling_categoryView" addon_id="ThemeHouse/Nodes" version_id="1000891" version_string="1.0.8 Patch Level 1"><![CDATA[If enabled, node banner image, banner & font color will be applied to the titlebar in category view of the respective category.]]></phrase>
@@ -15295,6 +15418,7 @@ Use the following code in your "message_macros" template:<br>
   <phrase title="style_prop_desc.wt_tab_8_title" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[If enabled, it will show the widget's title. Useful if you want to show more widgets in the same tab.]]></phrase>
   <phrase title="style_prop_desc.wt_tab_style" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.zIndexMultiplier" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Controls the relative 'height' of elements in the Z-dimension (perpendicular to the screen). Unless you have a specific reason to change this, leave it alone...]]></phrase>
+  <phrase title="style_prop_group.3d_tag_style" addon_id="CnXFans/TagCloud" version_id="1000000" version_string="1.0.0"><![CDATA[[CnXFans] 3D 标签云]]></phrase>
   <phrase title="style_prop_group.afAwardSystem" addon_id="AddonFlare/AwardSystem" version_id="1000070" version_string="1.0.0"><![CDATA[[AddonFlare] XF2 Awards System]]></phrase>
   <phrase title="style_prop_group.avatar" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[الصور الرمزية - Avatars]]></phrase>
   <phrase title="style_prop_group.basic" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[الخيارات الأساسية - Basic options]]></phrase>
@@ -15332,6 +15456,7 @@ Use the following code in your "message_macros" template:<br>
   <phrase title="style_prop_group.thnodes_icons" addon_id="ThemeHouse/Nodes" version_id="1000731" version_string="1.0.7 Beta 1"><![CDATA[[TH] Nodes: Icons]]></phrase>
   <phrase title="style_prop_group.thnodes_styling" addon_id="ThemeHouse/Nodes" version_id="1000731" version_string="1.0.7 Beta 1"><![CDATA[[TH] Nodes: Styling]]></phrase>
   <phrase title="style_prop_group.tooltip" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[التلميحات - Tooltips]]></phrase>
+  <phrase title="style_prop_group_desc.3d_tag_style" addon_id="CnXFans/TagCloud" version_id="1000000" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="style_prop_group_desc.afAwardSystem" addon_id="AddonFlare/AwardSystem" version_id="1000170" version_string="1.0.1"><![CDATA[A number of properties to control the appearance of the XF2 Awards System add-on]]></phrase>
   <phrase title="style_prop_group_desc.avatar" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[الصور الرمزية هي تمثيلات رسومية للمستخدمين. قد يحمل بعض المستخدمين صورهم الخاصة، بينما يستخدم آخرون الصور الافتراضية المستندة إلى الأحرف. يتم التحكم في التصميم لكل من هذين النوعين هنا.]]></phrase>
   <phrase title="style_prop_group_desc.basic" addon_id="XF" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[يحدد موقع مختلف الأمور الشائعة الاستخدام وما إلى ذلك.]]></phrase>
@@ -15998,7 +16123,7 @@ For example: if you set "orange" as a class on a category, each forum within tha
   <phrase title="thfeatured_original" addon_id="ThemeHouse/Feature" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Original]]></phrase>
   <phrase title="thfeatured_small" addon_id="ThemeHouse/Feature" version_id="1000012" version_string="1.0.0 Alpha 2"><![CDATA[Small]]></phrase>
   <phrase title="thholidays_holiday.1" addon_id="" version_id="0" version_string=""><![CDATA[Winter]]></phrase>
-  <phrase title="thholidays_holiday.10" addon_id="" version_id="0" version_string=""><![CDATA[复活节]]></phrase>
+  <phrase title="thholidays_holiday.10" addon_id="" version_id="0" version_string=""><![CDATA[Easter]]></phrase>
   <phrase title="thholidays_holiday.11" addon_id="" version_id="0" version_string=""><![CDATA[Cinco de Mayo]]></phrase>
   <phrase title="thholidays_holiday.12" addon_id="" version_id="0" version_string=""><![CDATA[Hannukah]]></phrase>
   <phrase title="thholidays_holiday.13" addon_id="" version_id="0" version_string=""><![CDATA[Chinese New Year]]></phrase>
@@ -16008,7 +16133,7 @@ For example: if you set "orange" as a class on a category, each forum within tha
   <phrase title="thholidays_holiday.2" addon_id="" version_id="0" version_string=""><![CDATA[New Year]]></phrase>
   <phrase title="thholidays_holiday.3" addon_id="" version_id="0" version_string=""><![CDATA[Valentine's Day]]></phrase>
   <phrase title="thholidays_holiday.4" addon_id="" version_id="0" version_string=""><![CDATA[Thanksgiving]]></phrase>
-  <phrase title="thholidays_holiday.5" addon_id="" version_id="0" version_string=""><![CDATA[万圣节]]></phrase>
+  <phrase title="thholidays_holiday.5" addon_id="" version_id="0" version_string=""><![CDATA[Halloween]]></phrase>
   <phrase title="thholidays_holiday.6" addon_id="" version_id="0" version_string=""><![CDATA[Birthday]]></phrase>
   <phrase title="thholidays_holiday.7" addon_id="" version_id="0" version_string=""><![CDATA[4th of July]]></phrase>
   <phrase title="thholidays_holiday.8" addon_id="" version_id="0" version_string=""><![CDATA[Christmas]]></phrase>
@@ -16043,6 +16168,7 @@ For example: if you set "orange" as a class on a category, each forum within tha
   <phrase title="this_device_will_remain_trusted" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[سيظل هذا الجهاز موثوقا به.]]></phrase>
   <phrase title="this_does_not_apply_to_fields_displayed_within_preferences_page" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[لا ينطبق هذا على الحقول المعروضة في صفحة الخيارات.]]></phrase>
   <phrase title="this_feature_attempt_automatically_merge_custom_template_changes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[ستحاول هذه الميزة دمج تغييرات القالب المخصص تلقائيا مع أي تحديثات على القالب الذي تستند إليه. وبما أنها عملية تلقائية، فمن المستحسن التحقق من القوالب المخصصة بعد الدمج للتأكد من أنها صحيحة.]]></phrase>
+  <phrase title="this_feature_currently_requires_accessing_site_using_safari" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[This feature currently requires accessing the site using the built-in Safari browser.]]></phrase>
   <phrase title="this_forum" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[هذا المنتدى]]></phrase>
   <phrase title="this_forums_type_cannot_be_changed" addon_id="XF" version_id="2020034" version_string="2.2.0 Beta 4"><![CDATA[لا يمكن تغيير نوع هذا المنتدى.]]></phrase>
   <phrase title="this_group_does_not_have_any_style_properties" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[هذه المجموعة ليس لديها أي إعدادات ستايل.]]></phrase>
@@ -16239,6 +16365,7 @@ For example: if you set "orange" as a class on a category, each forum within tha
   <phrase title="thread_prefix.87" addon_id="" version_id="0" version_string=""><![CDATA[招募]]></phrase>
   <phrase title="thread_prefix.88" addon_id="" version_id="0" version_string=""><![CDATA[求职]]></phrase>
   <phrase title="thread_prefix.89" addon_id="" version_id="0" version_string=""><![CDATA[共创]]></phrase>
+  <phrase title="thread_prefix.90" addon_id="" version_id="0" version_string=""><![CDATA[1.20.x]]></phrase>
   <phrase title="thread_prefix_desc.13" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_desc.20" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_desc.23" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -16299,6 +16426,7 @@ For example: if you set "orange" as a class on a category, each forum within tha
   <phrase title="thread_prefix_desc.87" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_desc.88" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_desc.89" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="thread_prefix_desc.90" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_group.10" addon_id="" version_id="0" version_string=""><![CDATA[编程]]></phrase>
   <phrase title="thread_prefix_group.11" addon_id="" version_id="0" version_string=""><![CDATA[建站]]></phrase>
   <phrase title="thread_prefix_group.12" addon_id="" version_id="0" version_string=""><![CDATA[互通]]></phrase>
@@ -16371,6 +16499,7 @@ For example: if you set "orange" as a class on a category, each forum within tha
   <phrase title="thread_prefix_help.87" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_help.88" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_help.89" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="thread_prefix_help.90" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefixes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[بادئات الموضوع]]></phrase>
   <phrase title="thread_prompt.1" addon_id="" version_id="0" version_string=""><![CDATA[请输入标题以发布服务器]]></phrase>
   <phrase title="thread_prompt.2" addon_id="" version_id="0" version_string=""><![CDATA[分享MC资源请前往资源中心噢~]]></phrase>
@@ -16482,23 +16611,6 @@ For example: if you set "orange" as a class on a category, each forum within tha
   <phrase title="time_pm_upper" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[مساءاً]]></phrase>
   <phrase title="time_spent_online" addon_id="Yugensoft/TimeSpentOnline" version_id="2000070" version_string="2.0.0"><![CDATA[Total time spent online]]></phrase>
   <phrase title="time_zone" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[المنطقة الزمنية]]></phrase>
-  <phrase title="tio_content" addon_id="Truonglv/ImageOptimizer" version_id="2000500" version_string="2.0.5"><![CDATA[Content]]></phrase>
-  <phrase title="tio_image_optimizer_logs" addon_id="Truonglv/ImageOptimizer" version_id="2000500" version_string="2.0.5"><![CDATA[Image optimizer logs]]></phrase>
-  <phrase title="tio_last_run_info" addon_id="Truonglv/ImageOptimizer" version_id="2000500" version_string="2.0.5"><![CDATA[Last run info]]></phrase>
-  <phrase title="tio_last_run_info_explain_attachment_data" addon_id="Truonglv/ImageOptimizer" version_id="2000500" version_string="2.0.5"><![CDATA[<code>
-SELECT MAX(data_id)
-FROM xf_attachment_data
-</code>]]></phrase>
-  <phrase title="tio_last_run_info_explain_avatar" addon_id="Truonglv/ImageOptimizer" version_id="2000500" version_string="2.0.5"><![CDATA[<code>SELECT MAX(avatar_date) FROM xf_user</code>]]></phrase>
-  <phrase title="tio_last_run_info_explain_image_proxy" addon_id="Truonglv/ImageOptimizer" version_id="2000500" version_string="2.0.5"><![CDATA[<code>SELECT MAX(image_id) FROM xf_image_proxy</code>]]></phrase>
-  <phrase title="tio_log_date" addon_id="Truonglv/ImageOptimizer" version_id="2000500" version_string="2.0.5"><![CDATA[Log date]]></phrase>
-  <phrase title="tio_new_size" addon_id="Truonglv/ImageOptimizer" version_id="2000500" version_string="2.0.5"><![CDATA[New size]]></phrase>
-  <phrase title="tio_old_size" addon_id="Truonglv/ImageOptimizer" version_id="2000500" version_string="2.0.5"><![CDATA[Old size]]></phrase>
-  <phrase title="tio_saved" addon_id="Truonglv/ImageOptimizer" version_id="2000500" version_string="2.0.5"><![CDATA[Saved]]></phrase>
-  <phrase title="tio_time" addon_id="Truonglv/ImageOptimizer" version_id="2000500" version_string="2.0.5"><![CDATA[Time (seconds)]]></phrase>
-  <phrase title="tio_total_new_size" addon_id="Truonglv/ImageOptimizer" version_id="2000500" version_string="2.0.5"><![CDATA[Total new size]]></phrase>
-  <phrase title="tio_total_old_size" addon_id="Truonglv/ImageOptimizer" version_id="2000500" version_string="2.0.5"><![CDATA[Total old size]]></phrase>
-  <phrase title="tio_update_last_run_info" addon_id="Truonglv/ImageOptimizer" version_id="2000500" version_string="2.0.5"><![CDATA[Update last run info]]></phrase>
   <phrase title="title" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[العنوان]]></phrase>
   <phrase title="title_contains" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[العنوان يحتوي على]]></phrase>
   <phrase title="title_count" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[جمع في العنوان]]></phrase>
@@ -16506,27 +16618,6 @@ FROM xf_attachment_data
   <phrase title="title_of_style_importing_differs_overwriting_is_correct" addon_id="XF" version_id="2010051" version_string="2.1.0 Release Candidate 1"><![CDATA[يختلف عنوان الستايل الذي تقوم باستيراده عن الستايل الذي تقوم بالكتابة فوقه. هل هذا هو الستايل الصحيح؟]]></phrase>
   <phrase title="title_page_x" addon_id="XF" version_id="2000034" version_string="2.0.0 Beta 4"><![CDATA[ | الصفحة {page}]]></phrase>
   <phrase title="title_template" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[عنوان القالب]]></phrase>
-  <phrase title="tl_io.binary_invalid_please_reinstall" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[Whoops! Look like binary not valid. Please rerun the file <code>io_setup.sh</code> to install the suitable binary for your server.]]></phrase>
-  <phrase title="tl_io.binary_path_not_executable" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[Binary path not executable. Please run this command to allow binary executable.<br />
-<code>chmod +x {path}</code>]]></phrase>
-  <phrase title="tl_io.max_quality" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[Maximum Quality]]></phrase>
-  <phrase title="tl_io.min_quality" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[Minimum Quality]]></phrase>
-  <phrase title="tl_io.next_run_at" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[Next Run at]]></phrase>
-  <phrase title="tl_io.please_enter_valid_binary_path" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[Please enter a valid binary path.]]></phrase>
-  <phrase title="tl_io.preserver_file_modification_times" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[Preserver file modification times]]></phrase>
-  <phrase title="tl_io.speed" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[Speed]]></phrase>
-  <phrase title="tl_io.strip_comment_markers_from_output_file" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[Strip comment markers from output file.]]></phrase>
-  <phrase title="tl_io.strip_exif_profiles_from_output_file" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[Strip EXIF profiles from output file.]]></phrase>
-  <phrase title="tl_io.strip_extensions_from_output_file" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[Strip extensions from output file.]]></phrase>
-  <phrase title="tl_io.strip_icc_profiles_from_output_file" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[Strip ICC profiles from output files.]]></phrase>
-  <phrase title="tl_io.strip_iptc_profiles_from_output_file" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[Strip IPTC profiles from output file.]]></phrase>
-  <phrase title="tl_io.strip_names_from_output_file" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[Strip names from output file.]]></phrase>
-  <phrase title="tl_io.strip_xmp_profiles_from_output_file" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[Strip XMP profiles from output file.]]></phrase>
-  <phrase title="tl_io.this_binary_ok_and_ready_for_using" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[This binary look OK and ready for using.]]></phrase>
-  <phrase title="tl_io.verify" addon_id="Truonglv/ImageOptimizer" version_id="100010" version_string="1.0.0"><![CDATA[Verify]]></phrase>
-  <phrase title="tl_io_resize_and_crop_center" addon_id="Truonglv/ImageOptimizer" version_id="1010400" version_string="1.1.4"><![CDATA[Resize and crop center]]></phrase>
-  <phrase title="tl_io_resize_to_exact_dimensions" addon_id="Truonglv/ImageOptimizer" version_id="1010400" version_string="1.1.4"><![CDATA[Resize to exact dimensions]]></phrase>
-  <phrase title="tl_io_resize_to_short_edge_dimensions" addon_id="Truonglv/ImageOptimizer" version_id="1010500" version_string="1.1.5"><![CDATA[Resize to short edge dimensions (like: Attachment thumbnail)]]></phrase>
   <phrase title="tlg_member_role_id_desc_admin" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="tlg_member_role_id_desc_member" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="tlg_member_role_id_desc_moderator" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -17020,7 +17111,6 @@ For more detailed information, see our <a href="{cookies_link}">cookies page</a>
   <phrase title="utc_0400_cuiaba" addon_id="XF" version_id="2010032" version_string="2.1.0 Beta 2"><![CDATA[(UTC-04:00) كويابا]]></phrase>
   <phrase title="utc_0400_georgetown" addon_id="XF" version_id="2010032" version_string="2.1.0 Beta 2"><![CDATA[(UTC-04:00) جورج تاون ، لاباز ، ماناوس ، سان خوان]]></phrase>
   <phrase title="utc_0400_santiago" addon_id="XF" version_id="2010032" version_string="2.1.0 Beta 2"><![CDATA[(UTC-04:00) سانتياغو]]></phrase>
-  <phrase title="utc_0430_caracas" addon_id="XF" version_id="1000033" version_string="1.0.0 Beta 3"><![CDATA[(UTC-04:30) Caracas]]></phrase>
   <phrase title="utc_0500_bogota" addon_id="XF" version_id="2010032" version_string="2.1.0 Beta 2"><![CDATA[(UTC-05:00) بوغوتا ، ليما ، كيتو]]></phrase>
   <phrase title="utc_0500_cuba" addon_id="XF" version_id="2010032" version_string="2.1.0 Beta 2"><![CDATA[(UTC-05:00) كوبا]]></phrase>
   <phrase title="utc_0500_eastern_time" addon_id="XF" version_id="2010032" version_string="2.1.0 Beta 2"><![CDATA[(UTC-05:00) توقيت الشرق (الولايات المتحدة وكندا)]]></phrase>
@@ -17318,6 +17408,8 @@ Your account's access may be limited based on these actions. Please keep this in
   <phrase title="widget.adv" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.adv1" addon_id="" version_id="0" version_string=""><![CDATA[推广内容]]></phrase>
   <phrase title="widget.adv2" addon_id="" version_id="0" version_string=""><![CDATA[友情链接]]></phrase>
+  <phrase title="widget.cnxfans_list_featured_threads" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="widget.cnxfans_tag_cloud" addon_id="" version_id="0" version_string=""><![CDATA[标签云]]></phrase>
   <phrase title="widget.dbtech_shop_cart" addon_id="" version_id="0" version_string=""><![CDATA[Cart]]></phrase>
   <phrase title="widget.dbtech_shop_forum_overview_new_items" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.dbtech_shop_list_top_items" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -17375,6 +17467,8 @@ Your account's access may be limited based on these actions. Please keep this in
   <phrase title="widget.zhenghe" addon_id="" version_id="0" version_string=""><![CDATA[最新内容]]></phrase>
   <phrase title="widget_def.WidgetTabs" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[[cXF] Widget Tabs]]></phrase>
   <phrase title="widget_def.birthdays" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[أعياد ميلاد اليوم]]></phrase>
+  <phrase title="widget_def.cnxfans_3d_tag_cloud" addon_id="CnXFans/TagCloud" version_id="1000000" version_string="1.0.0"><![CDATA[[CnXFans] 3D 标签云]]></phrase>
+  <phrase title="widget_def.cnxfans_featured_threads" addon_id="CnXFans/ThreadFeature" version_id="1000000" version_string="1.0.0"><![CDATA[[CnXFans]：推荐主题]]></phrase>
   <phrase title="widget_def.dbt_shop_latest_reviews" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[DragonByte Shop: Latest reviews]]></phrase>
   <phrase title="widget_def.dbt_shop_new_items" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[DragonByte Shop: New Items]]></phrase>
   <phrase title="widget_def.dbt_shop_top_items" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[DragonByte Shop: Top Rated Items]]></phrase>
@@ -17425,6 +17519,8 @@ Your account's access may be limited based on these actions. Please keep this in
   <phrase title="widget_def.xfrm_top_resources" addon_id="XFRM" version_id="2020035" version_string="2.2.0 Beta 5"><![CDATA[المتجر: أفضل المنتجات]]></phrase>
   <phrase title="widget_def_desc.WidgetTabs" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="widget_def_desc.birthdays" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[كتلة تحتوي على مجموعة من الصور الرمزية للمستخدمين الذين عيد الميلاد هو اليوم.]]></phrase>
+  <phrase title="widget_def_desc.cnxfans_3d_tag_cloud" addon_id="CnXFans/TagCloud" version_id="1000000" version_string="1.0.0"><![CDATA[3D 标签云]]></phrase>
+  <phrase title="widget_def_desc.cnxfans_featured_threads" addon_id="CnXFans/ThreadFeature" version_id="1000000" version_string="1.0.0"><![CDATA[显示推荐主题。]]></phrase>
   <phrase title="widget_def_desc.dbt_shop_latest_reviews" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Displays the latest item reviews.]]></phrase>
   <phrase title="widget_def_desc.dbt_shop_new_items" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Displays the most recently updated items.]]></phrase>
   <phrase title="widget_def_desc.dbt_shop_top_items" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Displays the top rated items.]]></phrase>
@@ -17489,6 +17585,7 @@ Callback arguments:
   <phrase title="widget_no_position_explain" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[لن تظهر القطع التي ليس لها موقع في أي مكان، ولكن يمكنك استدعاء القطعة المجهزة مباشره في القوالب باستخدام التعبير <span dir="ltr"><code>&lt;xf:widget key="widget_key" /&gt;</code></span>.]]></phrase>
   <phrase title="widget_option_names_may_only_contain_alphanumeric_underscore" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[قد تحتوي أسماء خيارات الأداة فقط على A-Z و 0-9 وشرط سفلية.]]></phrase>
   <phrase title="widget_pos.category_view_sidebar" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[مشاهدة القسم: الشريط الجانبي]]></phrase>
+  <phrase title="widget_pos.cnxfans_feature_thread_top" addon_id="CnXFans/ThreadFeature" version_id="1000000" version_string="1.0.0"><![CDATA[主题列表上方]]></phrase>
   <phrase title="widget_pos.conversation_list_sidebar" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[قائمة المحادثات: الشريط الجانبي]]></phrase>
   <phrase title="widget_pos.conversation_view_sidebar" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[عرض المحادثة: الشريط الجانبي]]></phrase>
   <phrase title="widget_pos.dbtech_shop_bank_sidebar" addon_id="DBTech/Shop" version_id="906010012" version_string="6.1.0 Alpha 2"><![CDATA[DragonByte Shop: Bank sidebar]]></phrase>
@@ -17542,6 +17639,7 @@ Callback arguments:
   <phrase title="widget_pos.xfrm_overview_above_resources" addon_id="XFRM" version_id="2020035" version_string="2.2.0 Beta 5"><![CDATA[واجهة المتجر: أعلى المنتجات]]></phrase>
   <phrase title="widget_pos.xfrm_overview_sidenav" addon_id="XFRM" version_id="2000070" version_string="2.0.0"><![CDATA[نظرة عامة على المتجر: التنقل الجانبي]]></phrase>
   <phrase title="widget_pos_desc.category_view_sidebar" addon_id="XF" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Position in the sidebar of the category_view template. Widget templates rendered in this position can use the current category entity in the <code>{$context.category}</code> param. Widgets here will only be visible if the 'Create pages for categories' option is enabled.]]></phrase>
+  <phrase title="widget_pos_desc.cnxfans_feature_thread_top" addon_id="CnXFans/ThreadFeature" version_id="1000000" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="widget_pos_desc.conversation_list_sidebar" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[الموضع في الشريط الجانبي أثناء عرض قائمة المحادثات.]]></phrase>
   <phrase title="widget_pos_desc.conversation_view_sidebar" addon_id="XF" version_id="2000038" version_string="2.0.0 Beta 8"><![CDATA[Position in the conversation_view template sidebar. Widget templates rendered in this position can use the current conversation entity in the <code>{$context.conversation}</code> param.]]></phrase>
   <phrase title="widget_pos_desc.dbtech_shop_bank_sidebar" addon_id="DBTech/Shop" version_id="906010012" version_string="6.1.0 Alpha 2"><![CDATA[Position in the sidebar while viewing the bank.]]></phrase>
@@ -17617,7 +17715,6 @@ Callback arguments:
   <phrase title="wrapper_template_html_description" addon_id="XF" version_id="2020036" version_string="2.2.0 Beta 6"><![CDATA[إذا لم يكن فارغا، فسيتيح لك ذلك تنسيق العلامات المحتوية على هذا الحقل والقيم المحددة الخاصة به. يوفر هذا قدرا أكبر من المرونة والتخصيص ولكن يجب استخدام العنصر النائب <b>{$value}</b> لعرض قيم الحقول المختارة. اختياريا ، يمكنك أيضا استخدام <b>{$title}</b> - عنوان الحقل و <b>{$description}</b> - وصف الحقل و <b>{$fieldId}</b> - معرف هذا الحقل (<span id="FieldId">{fieldId}</span>).]]></phrase>
   <phrase title="write_comment" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[أكتب تعليق]]></phrase>
   <phrase title="write_something" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[أكتب شيئا]]></phrase>
-  <phrase title="x_advanced_options_hidden" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[{count} advanced option(s) have been hidden.]]></phrase>
   <phrase title="x_also_commented_on_ys_profile_post" addon_id="XF" version_id="2010032" version_string="2.1.0 Beta 2"><![CDATA[علق ايضا {name} في <a {poster_params}>{poster} مشاركة الملف الشخصي لـ</a>]]></phrase>
   <phrase title="x_also_commented_on_ys_status" addon_id="XF" version_id="2010032" version_string="2.1.0 Beta 2"><![CDATA[علق أيضا {name} على حالة <a {poster_params}>{poster}</a>]]></phrase>
   <phrase title="x_b" addon_id="XF" global_cache="1" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{number}B]]></phrase>
@@ -17955,10 +18052,7 @@ Callback arguments:
   <phrase title="xfrm_resource_field_choice.versions_14" addon_id="" version_id="0" version_string=""><![CDATA[1.17]]></phrase>
   <phrase title="xfrm_resource_field_choice.versions_15" addon_id="" version_id="0" version_string=""><![CDATA[1.18]]></phrase>
   <phrase title="xfrm_resource_field_choice.versions_16" addon_id="" version_id="0" version_string=""><![CDATA[1.19]]></phrase>
-  <phrase title="xfrm_resource_field_choice.versions_3" addon_id="" version_id="0" version_string=""><![CDATA[1.8]]></phrase>
-  <phrase title="xfrm_resource_field_choice.versions_4" addon_id="" version_id="0" version_string=""><![CDATA[1.9]]></phrase>
-  <phrase title="xfrm_resource_field_choice.versions_5" addon_id="" version_id="0" version_string=""><![CDATA[1.10]]></phrase>
-  <phrase title="xfrm_resource_field_choice.versions_6" addon_id="" version_id="0" version_string=""><![CDATA[1.11]]></phrase>
+  <phrase title="xfrm_resource_field_choice.versions_17" addon_id="" version_id="0" version_string=""><![CDATA[1.20]]></phrase>
   <phrase title="xfrm_resource_field_choice.versions_7" addon_id="" version_id="0" version_string=""><![CDATA[1.12]]></phrase>
   <phrase title="xfrm_resource_field_choice.versions_8" addon_id="" version_id="0" version_string=""><![CDATA[1.13]]></phrase>
   <phrase title="xfrm_resource_field_choice.versions_9" addon_id="" version_id="0" version_string=""><![CDATA[1.14]]></phrase>
@@ -18158,6 +18252,7 @@ Callback arguments:
   <phrase title="you_are_using_out_of_date_browser_upgrade" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[أنت تستخدم أحد المتصفحات القديمة. قد لا يتم عرض هذا الموقع أو المواقع الأخرى بشكل صحيح.<br />يجب عليك ترقية متصفحك أو استخدام <a href="https://www.google.com/chrome/" target="_blank" rel="noopener">أحد المتصفحات البديلة</a>.]]></phrase>
   <phrase title="you_can_choose_whether_or_not_to_allow_external_search_engines_to_index" addon_id="XF" version_id="2020034" version_string="2.2.0 Beta 4"><![CDATA[يمكنك اختيار السماح أو عدم السماح لمحركات البحث الخارجية بفهرسة كافة المواضيع في هذا المنتدى، أو فقط المواضيع التي تلبي معايير معينة.]]></phrase>
   <phrase title="you_can_drag_image_to_change_focal_point_of_banner_explain" addon_id="XF" version_id="2020034" version_string="2.2.0 Beta 4"><![CDATA[يمكنك سحب الصورة لتغيير النقطة المحورية للغلاف، ثم النقر فوق موافق للتأكيد.]]></phrase>
+  <phrase title="you_can_get_client_id_via_microsoft_azure_portal" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[You can get a client ID via the <a href='https://portal.azure.com/' target='_blank'>Microsoft Azure Portal</a>.]]></phrase>
   <phrase title="you_can_not_start_conversation_with_following_users_because_of_privacy" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[لا يمكنك بدء محادثة مع المستخدمين التاليين بسبب إعدادات الخصوصية لديهم: {usernames}.]]></phrase>
   <phrase title="you_can_preview_icons_and_their_names_here" addon_id="XF" version_id="2010032" version_string="2.1.0 Beta 2"><![CDATA[يمكنك معاينة الرموز وأسمائها <a href="https://fontawesome.com/icons?d=gallery" target="_blank">هنا</a>.]]></phrase>
   <phrase title="you_cannot_compare_custom_changes_for_master_template" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[لا يمكنك مقارنة التغييرات المخصصة للقالب الرئيسي.]]></phrase>
@@ -18295,6 +18390,7 @@ Callback arguments:
   <phrase title="you_sure_you_want_to_update_notification_settings_for_all_threads" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[هل أنت متأكد أنك تريد تحديث إعدادات إشعار البريد الإلكتروني <b>لكافة</b> المواضيع؟]]></phrase>
   <phrase title="you_sure_you_want_to_upvote_this_content" addon_id="XF" version_id="2020034" version_string="2.2.0 Beta 4"><![CDATA[هل أنت متأكد أنك تريد التصويت بالإيجاب لهذا المحتوى؟]]></phrase>
   <phrase title="you_unable_reply_to_thread_x_until_expiry_y" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[سوف تتمكن من الرد على الموضوع {title} حتى {expiry}.]]></phrase>
+  <phrase title="you_will_need_to_navigate_to_microsoft_azure_portal_and_register" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[You will need to navigate to the Microsoft Azure Portal and <a href="https://learn.microsoft.com/en-us/azure/active-directory/develop/quickstart-register-app#register-an-application" target="_blank">register an Azure Active Directory application</a>. You will need to ensure the credentials support redirecting to the following URL]]></phrase>
   <phrase title="your_account" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[حسابك]]></phrase>
   <phrase title="your_account_already_has_password" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[حسابك يحتوي بالفعل على كلمة مرور.]]></phrase>
   <phrase title="your_account_does_not_currently_have_password" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[لا يحتوي حسابك حاليا على كلمة مرور.]]></phrase>
