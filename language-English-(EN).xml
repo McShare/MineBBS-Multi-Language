@@ -10651,7 +10651,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="nav.defaultRegister" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Register]]></phrase>
   <phrase title="nav.defaultYourAccount" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Your account]]></phrase>
   <phrase title="nav.defaultYourProfile" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Your profile]]></phrase>
-  <phrase title="nav.donate" addon_id="" version_id="0" version_string=""><![CDATA[捐赠我们]]></phrase>
+  <phrase title="nav.donate" addon_id="" version_id="0" version_string=""><![CDATA[Donate US]]></phrase>
   <phrase title="nav.entranceExam" addon_id="CnXFans/EntranceExam" version_id="1000000" version_string="1.0.0"><![CDATA[入站考试]]></phrase>
   <phrase title="nav.featured" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Featured content]]></phrase>
   <phrase title="nav.findThreads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Find threads]]></phrase>
@@ -10660,8 +10660,8 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="nav.home" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Home]]></phrase>
   <phrase title="nav.latestActivity" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Latest activity]]></phrase>
   <phrase title="nav.markForumsRead" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Mark forums read]]></phrase>
-  <phrase title="nav.mc_download" addon_id="" version_id="0" version_string=""><![CDATA[MC下载]]></phrase>
-  <phrase title="nav.mcnav" addon_id="" version_id="0" version_string=""><![CDATA[MCNav导航]]></phrase>
+  <phrase title="nav.mc_download" addon_id="" version_id="0" version_string=""><![CDATA[MC Download]]></phrase>
+  <phrase title="nav.mcnav" addon_id="" version_id="0" version_string=""><![CDATA[MCNav]]></phrase>
   <phrase title="nav.members" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Members]]></phrase>
   <phrase title="nav.mjcCredits" addon_id="MJ/Credits" version_id="1020501" version_string="1.2.5"><![CDATA[积分]]></phrase>
   <phrase title="nav.mjcCreditsTransactions" addon_id="MJ/Credits" version_id="1020501" version_string="1.2.5"><![CDATA[交易大厅]]></phrase>
@@ -10674,14 +10674,14 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="nav.searchConversations" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Search direct messages]]></phrase>
   <phrase title="nav.searchForums" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Search forums]]></phrase>
   <phrase title="nav.searchProfilePosts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Search profile posts]]></phrase>
-  <phrase title="nav.servers" addon_id="" version_id="0" version_string=""><![CDATA[服务器]]></phrase>
+  <phrase title="nav.servers" addon_id="" version_id="0" version_string=""><![CDATA[Servers]]></phrase>
   <phrase title="nav.siropuAdsManager" addon_id="Siropu/AdsManager" version_id="2030570" version_string="2.3.5"><![CDATA[Ads Manager]]></phrase>
   <phrase title="nav.siropuAdsManagerAds" addon_id="Siropu/AdsManager" version_id="1" version_string="2.0.0"><![CDATA[Your Ads]]></phrase>
   <phrase title="nav.siropuAdsManagerAdvertisers" addon_id="Siropu/AdsManager" version_id="2000036" version_string="2.0.0-Beta-6"><![CDATA[Advertisers]]></phrase>
   <phrase title="nav.siropuAdsManagerCreate" addon_id="Siropu/AdsManager" version_id="1" version_string="2.0.0"><![CDATA[Create Ad]]></phrase>
   <phrase title="nav.siropuAdsManagerInvoices" addon_id="Siropu/AdsManager" version_id="1" version_string="2.0.0"><![CDATA[Your Invoices]]></phrase>
   <phrase title="nav.siropuReferralContests" addon_id="Siropu/ReferralContests" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Referral Contests]]></phrase>
-  <phrase title="nav.toolcart" addon_id="" version_id="0" version_string=""><![CDATA[购物车]]></phrase>
+  <phrase title="nav.toolcart" addon_id="" version_id="0" version_string=""><![CDATA[Cart]]></phrase>
   <phrase title="nav.unansweredThreads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Unanswered threads]]></phrase>
   <phrase title="nav.watched" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Watched]]></phrase>
   <phrase title="nav.watchedForums" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Watched forums]]></phrase>
@@ -11161,7 +11161,7 @@ If a CLI upgrade is recommended, you will be given an opportunity to use that in
   <phrase title="option.defaultLanguageId" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Default language]]></phrase>
   <phrase title="option.defaultStyleId" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Default style]]></phrase>
   <phrase title="option.disallowedCustomTitles" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Disallowed custom titles]]></phrase>
-  <phrase title="option.disallowedWords" addon_id="TssTech/DisallowedWords" version_id="140" version_string="1.4.0"><![CDATA[违禁词]]></phrase>
+  <phrase title="option.disallowedWords" addon_id="TssTech/DisallowedWords" version_id="140" version_string="1.4.0"><![CDATA[Censor Words]]></phrase>
   <phrase title="option.discourageBlankChance" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Blank page chance]]></phrase>
   <phrase title="option.discourageDelay" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Loading delay]]></phrase>
   <phrase title="option.discourageFloodMultiplier" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Flood time multiplier]]></phrase>
