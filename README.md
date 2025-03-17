@@ -16,19 +16,19 @@
 
 ## 目前的语言翻译进度：
 
-[![github](https://img.shields.io/badge/简体中文-95%25-brown)](https://github.com/McShare/MineBBS-Multi-Language/blob/main/language-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%EF%BC%88zh-CHS%EF%BC%89.xml)：界面基本翻译完成，可能存在细节错漏，后台部分语言未翻译
+[![github](https://img.shields.io/badge/简体中文-92%25-brown)](https://github.com/McShare/MineBBS-Multi-Language/blob/main/language-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87%EF%BC%88zh-CHS%EF%BC%89.xml)：界面基本翻译完成，可能存在细节错漏，后台部分语言未翻译
 
-[![github](https://img.shields.io/badge/繁體中文-76%25-red)](https://github.com/McShare/MineBBS-Multi-Language/blob/main/language-%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87%EF%BC%88zh-CHT%EF%BC%89.xml) ：界面大体翻译完成，可能存在部分漏译，后台语言未翻译
+[![github](https://img.shields.io/badge/繁體中文-68%25-red)](https://github.com/McShare/MineBBS-Multi-Language/blob/main/language-%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87%EF%BC%88zh-CHT%EF%BC%89.xml) ：界面大体翻译完成，可能存在部分漏译，后台语言未翻译
 
-[![github](https://img.shields.io/badge/English-99%25-blue)](https://github.com/McShare/MineBBS-Multi-Language/blob/main/language-English-(EN).xml)：界面基本完成，可能存在细节漏译，后台语言基本完成
+[![github](https://img.shields.io/badge/English-96%25-blue)](https://github.com/McShare/MineBBS-Multi-Language/blob/main/language-English-(EN).xml)：界面基本完成，可能存在细节漏译，后台语言基本完成
 
 [![github](https://img.shields.io/badge/العربية-33%31-green)](https://github.com/McShare/MineBBS-Multi-Language/blob/main/language-alyrbi%D8%A9%EF%BC%88AR%EF%BC%89.xml)：界面部分翻译完成，存在大量漏译，后台语言未翻译 
 
-[![github](https://img.shields.io/badge/Русский-37%25-white)](https://github.com/McShare/MineBBS-Multi-Language/blob/main/language-Russkij-(RU).xml)：界面部分翻译完成，存在大量漏译，后台语言未翻译
+[![github](https://img.shields.io/badge/Русский-32%25-white)](https://github.com/McShare/MineBBS-Multi-Language/blob/main/language-Russkij-(RU).xml)：界面部分翻译完成，存在大量漏译，后台语言未翻译
 
 [![github](https://img.shields.io/badge/日本語-3%25-pink)](https://github.com/McShare/MineBBS-Multi-Language/blob/main/language-%E6%97%A5%E6%9C%AC%E8%AA%9E%EF%BC%88JP%EF%BC%89.xml)：界面少量翻译，大量未完成，后台未翻译
 
-[![github](https://img.shields.io/badge/Ti%E1%BA%BFng--Vi%E1%BB%87t-24%25-yellow)](https://github.com/McShare/MineBBS-Multi-Language/blob/main/language-Ti%E1%BA%BFng-Vi%E1%BB%87t-(VI).xml)：界面部分完成，后台未翻译
+[![github](https://img.shields.io/badge/Ti%E1%BA%BFng--Vi%E1%BB%87t-21%25-yellow)](https://github.com/McShare/MineBBS-Multi-Language/blob/main/language-Ti%E1%BA%BFng-Vi%E1%BB%87t-(VI).xml)：界面部分完成，后台未翻译
 
 ## 翻译建议：
 
