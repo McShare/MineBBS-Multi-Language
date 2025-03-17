@@ -15385,7 +15385,7 @@ callback=\Path\To\MyCallbackClass::MyCallbackMethod<br>arguments={"arg1":"val1",
   <phrase title="siropu_ads_manager_disable_placeholder_confirmation" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Please confirm that you want to disable the placeholder.]]></phrase>
   <phrase title="siropu_ads_manager_disable_placeholders" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Disable placeholders]]></phrase>
   <phrase title="siropu_ads_manager_discount" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Discount]]></phrase>
-  <phrase title="siropu_ads_manager_discount_explain" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[This option allows you to set discounts based on the purchase length.]]></phrase>
+  <phrase title="siropu_ads_manager_discount_explain" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[此选项允许您根据购买时长设置折扣。]]></phrase>
   <phrase title="siropu_ads_manager_discount_percentage" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Discount percentage]]></phrase>
   <phrase title="siropu_ads_manager_discounts" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Discounts]]></phrase>
   <phrase title="siropu_ads_manager_display" addon_id="Siropu/AdsManager" version_id="2031170" version_string="2.3.11"><![CDATA[Display]]></phrase>
@@ -15395,8 +15395,8 @@ callback=\Path\To\MyCallbackClass::MyCallbackMethod<br>arguments={"arg1":"val1",
   <phrase title="siropu_ads_manager_display_block" addon_id="Siropu/AdsManager" version_id="2031170" version_string="2.3.11"><![CDATA[组织]]></phrase>
   <phrase title="siropu_ads_manager_display_dismissible_notice" addon_id="Siropu/AdsManager" version_id="2030770" version_string="2.3.7"><![CDATA[弹出无法取消的通知]]></phrase>
   <phrase title="siropu_ads_manager_display_every_x_minutes" addon_id="Siropu/AdsManager" version_id="2040370" version_string="2.4.3"><![CDATA[Display every x minutes]]></phrase>
-  <phrase title="siropu_ads_manager_display_every_x_minutes_explain" addon_id="Siropu/AdsManager" version_id="2040370" version_string="2.4.3"><![CDATA[If set, a user will be able to view the ad every x minutes.]]></phrase>
-  <phrase title="siropu_ads_manager_display_explain" addon_id="Siropu/AdsManager" version_id="2031170" version_string="2.3.11"><![CDATA[Choose how to display the ads.]]></phrase>
+  <phrase title="siropu_ads_manager_display_every_x_minutes_explain" addon_id="Siropu/AdsManager" version_id="2040370" version_string="2.4.3"><![CDATA[如果设置，用户将能够每x分钟查看广告。]]></phrase>
+  <phrase title="siropu_ads_manager_display_explain" addon_id="Siropu/AdsManager" version_id="2031170" version_string="2.3.11"><![CDATA[选择广告的显示方式。]]></phrase>
   <phrase title="siropu_ads_manager_display_flexbox" addon_id="Siropu/AdsManager" version_id="2031270" version_string="2.3.12"><![CDATA[Flexbox]]></phrase>
   <phrase title="siropu_ads_manager_display_in_advertiser_list" addon_id="Siropu/AdsManager" version_id="2013070" version_string="2.1.3"><![CDATA[Display in advertiser list]]></phrase>
   <phrase title="siropu_ads_manager_display_in_advertiser_list_explain" addon_id="Siropu/AdsManager" version_id="2013070" version_string="2.1.3"><![CDATA[This option allows you to display the ad in the advertiser list.]]></phrase>
@@ -15698,8 +15698,8 @@ You can use multiple IDs separated by comma.]]></phrase>
   <phrase title="siropu_ads_manager_payment_marked_as_paid" addon_id="Siropu/AdsManager" version_id="2030270" version_string="2.3.2"><![CDATA[Payment has been marked as paid.]]></phrase>
   <phrase title="siropu_ads_manager_placeholder" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Placeholder]]></phrase>
   <phrase title="siropu_ads_manager_placeholder_title" addon_id="Siropu/AdsManager" version_id="2000270" version_string="2.0.2"><![CDATA[[Placeholder]]]></phrase>
-  <phrase title="siropu_ads_manager_please_confirm_that_you_want_to_deblock_ip" addon_id="Siropu/AdsManager" version_id="2000370" version_string="2.0.3"><![CDATA[Please confirm that you want to deblock the following IP]]></phrase>
-  <phrase title="siropu_ads_manager_please_confirm_that_you_want_to_disable_all_ads" addon_id="Siropu/AdsManager" version_id="2000270" version_string="2.0.2"><![CDATA[Please confirm that you want to disable all the ads for this package.]]></phrase>
+  <phrase title="siropu_ads_manager_please_confirm_that_you_want_to_deblock_ip" addon_id="Siropu/AdsManager" version_id="2000370" version_string="2.0.3"><![CDATA[请确认您要解封以下 IP]]></phrase>
+  <phrase title="siropu_ads_manager_please_confirm_that_you_want_to_disable_all_ads" addon_id="Siropu/AdsManager" version_id="2000270" version_string="2.0.2"><![CDATA[请确认您要禁用此包的所有广告。]]></phrase>
   <phrase title="siropu_ads_manager_please_confirm_that_you_want_to_enable_all_ads" addon_id="Siropu/AdsManager" version_id="2000270" version_string="2.0.2"><![CDATA[Please confirm that you want to enable all the ads for this package.]]></phrase>
   <phrase title="siropu_ads_manager_please_enter_description_that_is_at_most_x_characters_long" addon_id="Siropu/AdsManager" version_id="2000036" version_string="2.0.0-Beta-6"><![CDATA[Please enter a description that is at most {count} characters long.]]></phrase>
   <phrase title="siropu_ads_manager_please_enter_title_that_is_at_most_x_characters_long" addon_id="Siropu/AdsManager" version_id="2000036" version_string="2.0.0-Beta-6"><![CDATA[Please enter a title that is at most {count} characters long.]]></phrase>
@@ -16430,13 +16430,13 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="straight_rows_of_keys_easy_to_guess" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[直线键很容易猜到。]]></phrase>
   <phrase title="strike_through" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[中划线]]></phrase>
   <phrase title="string" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[字符串]]></phrase>
-  <phrase title="stripe_custom_statement_descriptor_required" addon_id="XF" version_id="2020570" version_string="2.2.5"><![CDATA[A custom Stripe statement descriptor is required. A valid descriptor cannot be derived from your board title.]]></phrase>
+  <phrase title="stripe_custom_statement_descriptor_required" addon_id="XF" version_id="2020570" version_string="2.2.5"><![CDATA[需要自定义 Stripe 语句描述符。不能从您的板标题派生有效的描述符。]]></phrase>
   <phrase title="stripe_live_publishable_key" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[可使用的公共密匙]]></phrase>
   <phrase title="stripe_live_secret_key" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[可使用私密密钥]]></phrase>
   <phrase title="stripe_live_secret_key_explain" addon_id="XF" version_id="2000010" version_string="2.1.1 Beta 1"><![CDATA[从您的<a href="https://dashboard.stripe.com/account/apikeys" target="_blank">Stripe 仪表板</a>输入 live secret 和publishable key。<br />
 <br />
 您还需要在您的 Stripe 帐户中设置一个 webhook 端点，并具有以下URL地址： {boardUrl}/payment_callback.php?_xfProvider=stripe]]></phrase>
-  <phrase title="stripe_pay_faster_explain" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[Click the button above to pay faster using your saved payment details.]]></phrase>
+  <phrase title="stripe_pay_faster_explain" addon_id="XF" version_id="2010270" version_string="2.1.2"><![CDATA[点击上面的按钮，使用您保存的付款详细信息更快地付款.]]></phrase>
   <phrase title="stripe_statement_descriptor" addon_id="XF" version_id="2020370" version_string="2.2.3"><![CDATA[Statement descriptor]]></phrase>
   <phrase title="stripe_statement_descriptors_explain_charges_or_payments_on_bank_statements" addon_id="XF" version_id="2020370" version_string="2.2.3"><![CDATA[Statement descriptors explain charges or payments on bank statements. Leaving this empty will use the board title. If you wish to set a custom descriptor, it must follow the format <a href="https://stripe.com/docs/statement-descriptors#requirements" target="_blank">outlined in Stripe's documentation</a>.]]></phrase>
   <phrase title="stripe_subscription_cancelled_successfully" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Stripe 订阅已成功取消]]></phrase>
@@ -16557,7 +16557,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="style_prop.dataListPaddingV" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[数据列表垂直间距]]></phrase>
   <phrase title="style_prop.dataListSection" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[数据列表分段头部]]></phrase>
   <phrase title="style_prop.dbtechShopEnableInfiniteScroll" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Enable Infinite Scroll]]></phrase>
-  <phrase title="style_prop.dbtechShopInfiniteScrollAfter" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Only require click after X pages]]></phrase>
+  <phrase title="style_prop.dbtechShopInfiniteScrollAfter" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[只需要在 X 页后点击]]></phrase>
   <phrase title="style_prop.dbtechShopInfiniteScrollClick" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Require click to load]]></phrase>
   <phrase title="style_prop.dbtechShopInfiniteScrollHistory" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Append to browser history]]></phrase>
   <phrase title="style_prop.dbtechShopItemListStyle" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Item list style]]></phrase>
@@ -16794,14 +16794,14 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="style_prop.th_nodeBody" addon_id="ThemeHouse/Nodes" version_id="1000791" version_string="1.0.7 Patch Level 1"><![CDATA[节点主体]]></phrase>
   <phrase title="style_prop.th_nodeGutter" addon_id="ThemeHouse/Nodes" version_id="1000791" version_string="1.0.7 Patch Level 1"><![CDATA[节点槽]]></phrase>
   <phrase title="style_prop.th_textSelector_nodes" addon_id="ThemeHouse/Nodes" version_id="1000791" version_string="1.0.7 Patch Level 1"><![CDATA[文本选择器]]></phrase>
-  <phrase title="style_prop.th_uix_staffMessageBlock" addon_id="ThemeHouse/UIX" version_id="2010093" version_string="2.1.0 Patch Level 3"><![CDATA[Staff message container]]></phrase>
+  <phrase title="style_prop.th_uix_staffMessageBlock" addon_id="ThemeHouse/UIX" version_id="2010093" version_string="2.1.0 Patch Level 3"><![CDATA[管理员消息容器]]></phrase>
   <phrase title="style_prop.th_uix_staffMessageNewIndicator" addon_id="ThemeHouse/UIX" version_id="2010093" version_string="2.1.0 Patch Level 3"><![CDATA[Staff message new message indicator]]></phrase>
   <phrase title="style_prop.th_uix_staffMessageSignature" addon_id="ThemeHouse/UIX" version_id="2010093" version_string="2.1.0 Patch Level 3"><![CDATA[Staff message indicator]]></phrase>
   <phrase title="style_prop.th_uix_staffMessageUserBlock" addon_id="ThemeHouse/UIX" version_id="2010093" version_string="2.1.0 Patch Level 3"><![CDATA[Staff message user info block]]></phrase>
   <phrase title="style_prop.th_uix_threadStarterMessageBlock" addon_id="ThemeHouse/UIX" version_id="2010093" version_string="2.1.0 Patch Level 3"><![CDATA[Thread starter message container]]></phrase>
   <phrase title="style_prop.th_uix_threadStarterMessageNewIndicator" addon_id="ThemeHouse/UIX" version_id="2010093" version_string="2.1.0 Patch Level 3"><![CDATA[Thread starter message new message indicator]]></phrase>
   <phrase title="style_prop.th_uix_threadStarterMessageSignature" addon_id="ThemeHouse/UIX" version_id="2010093" version_string="2.1.0 Patch Level 3"><![CDATA[Thread starter message indicator]]></phrase>
-  <phrase title="style_prop.th_uix_threadStarterMessageUserBlock" addon_id="ThemeHouse/UIX" version_id="2010093" version_string="2.1.0 Patch Level 3"><![CDATA[Thread starter message user info block]]></phrase>
+  <phrase title="style_prop.th_uix_threadStarterMessageUserBlock" addon_id="ThemeHouse/UIX" version_id="2010093" version_string="2.1.0 Patch Level 3"><![CDATA[楼主信息块]]></phrase>
   <phrase title="style_prop.thnodes_enable_header_styling_categoryView" addon_id="ThemeHouse/Nodes" version_id="1000791" version_string="1.0.7 Patch Level 1"><![CDATA[在分类视图上启用标题样式]]></phrase>
   <phrase title="style_prop.thnodes_enable_header_styling_forumView" addon_id="ThemeHouse/Nodes" version_id="1000791" version_string="1.0.7 Patch Level 1"><![CDATA[在论坛视图上启用标题样式]]></phrase>
   <phrase title="style_prop.thnodes_enable_header_styling_threadView" addon_id="ThemeHouse/Nodes" version_id="1000791" version_string="1.0.7 Patch Level 1"><![CDATA[在主题视图上启用标题样式]]></phrase>
@@ -16817,21 +16817,21 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="style_prop.warningColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[警告消息文本颜色]]></phrase>
   <phrase title="style_prop.warningFeatureColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[警告消息功能颜色]]></phrase>
   <phrase title="style_prop.whatsNewNavStyle" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[最新消息的导航风格]]></phrase>
-  <phrase title="style_prop.wt_tab_1_icon" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Tab 1 icon]]></phrase>
-  <phrase title="style_prop.wt_tab_1_title" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Show widget title in tab 1]]></phrase>
-  <phrase title="style_prop.wt_tab_2_icon" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Tab 2 icon]]></phrase>
+  <phrase title="style_prop.wt_tab_1_icon" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[选项卡 1 图标]]></phrase>
+  <phrase title="style_prop.wt_tab_1_title" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[在选项卡 1 中显示小组件标题]]></phrase>
+  <phrase title="style_prop.wt_tab_2_icon" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[选项卡 2 图标]]></phrase>
   <phrase title="style_prop.wt_tab_2_title" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Show widget title in tab 2]]></phrase>
-  <phrase title="style_prop.wt_tab_3_icon" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Tab 3 icon]]></phrase>
+  <phrase title="style_prop.wt_tab_3_icon" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[选项卡 3 图标]]></phrase>
   <phrase title="style_prop.wt_tab_3_title" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Show widget title in tab 3]]></phrase>
-  <phrase title="style_prop.wt_tab_4_icon" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Tab 4 icon]]></phrase>
+  <phrase title="style_prop.wt_tab_4_icon" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[选项卡 4 图标]]></phrase>
   <phrase title="style_prop.wt_tab_4_title" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Show widget title in tab 4]]></phrase>
-  <phrase title="style_prop.wt_tab_5_icon" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Tab 5 icon]]></phrase>
+  <phrase title="style_prop.wt_tab_5_icon" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[选项卡 5 图标]]></phrase>
   <phrase title="style_prop.wt_tab_5_title" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Show widget title in tab 5]]></phrase>
-  <phrase title="style_prop.wt_tab_6_icon" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Tab 6 icon]]></phrase>
+  <phrase title="style_prop.wt_tab_6_icon" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[选项卡 6 图标]]></phrase>
   <phrase title="style_prop.wt_tab_6_title" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Show widget title in tab 6]]></phrase>
-  <phrase title="style_prop.wt_tab_7_icon" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Tab 7 icon]]></phrase>
+  <phrase title="style_prop.wt_tab_7_icon" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[选项卡 7 图标]]></phrase>
   <phrase title="style_prop.wt_tab_7_title" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Show widget title in tab 7]]></phrase>
-  <phrase title="style_prop.wt_tab_8_icon" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Tab 8 icon]]></phrase>
+  <phrase title="style_prop.wt_tab_8_icon" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[选项卡 8 图标]]></phrase>
   <phrase title="style_prop.wt_tab_8_title" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Show widget title in tab 8]]></phrase>
   <phrase title="style_prop.wt_tab_style" addon_id="BassMan/WidgetTabs" version_id="1000070" version_string="1.0.0"><![CDATA[Tab heading]]></phrase>
   <phrase title="style_prop.zIndexMultiplier" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Z-index 倍值]]></phrase>
@@ -16939,7 +16939,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="style_prop_desc.dataListPaddingH" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[数据列表中的每一行的水平内间距]]></phrase>
   <phrase title="style_prop_desc.dataListPaddingV" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[数据列表中的每一列的水平内间距]]></phrase>
   <phrase title="style_prop_desc.dataListSection" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[单个数据列表分段与此标题栏间隔开]]></phrase>
-  <phrase title="style_prop_desc.dbtechShopEnableInfiniteScroll" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Toggles whether infinite scrolling is enabled for this style.]]></phrase>
+  <phrase title="style_prop_desc.dbtechShopEnableInfiniteScroll" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[切换是否为此样式启用无限滚动。]]></phrase>
   <phrase title="style_prop_desc.dbtechShopInfiniteScrollAfter" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[If you want to require click only after a certain amount of pages have loaded, set this here.<br />
 0 = Always require click]]></phrase>
   <phrase title="style_prop_desc.dbtechShopInfiniteScrollClick" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Controls whether loading the next page happens automatically, or upon pressing a button.]]></phrase>
@@ -17022,22 +17022,22 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="style_prop_desc.inputFocusBgColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.inputTextColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.klEMAudioControls" addon_id="KL/EditorManager" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[]]></phrase>
-  <phrase title="style_prop_desc.klEMCharCounter" addon_id="KL/EditorManager" version_id="1000170" version_string="1.0.1"><![CDATA[Styling properties for the character counter.]]></phrase>
-  <phrase title="style_prop_desc.klEMHide" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Special styling rules for the hide BB code block.]]></phrase>
-  <phrase title="style_prop_desc.klEMHideHidden" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Special styling rules for the hide BB code block.]]></phrase>
-  <phrase title="style_prop_desc.klEMHideShown" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Special styling rules for the hide BB code block.]]></phrase>
+  <phrase title="style_prop_desc.klEMCharCounter" addon_id="KL/EditorManager" version_id="1000170" version_string="1.0.1"><![CDATA[字符计数器的样式属性。]]></phrase>
+  <phrase title="style_prop_desc.klEMHide" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[隐藏 BB 代码块的特殊样式规则。]]></phrase>
+  <phrase title="style_prop_desc.klEMHideHidden" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[隐藏 BB 代码块的特殊样式规则。]]></phrase>
+  <phrase title="style_prop_desc.klEMHideShown" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[隐藏 BB 代码块的特殊样式规则。]]></phrase>
   <phrase title="style_prop_desc.klEMVideoAudioControls" addon_id="KL/EditorManager" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.klEMVideoAudioProgress" addon_id="KL/EditorManager" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.klEMVideoAudioTooltip" addon_id="KL/EditorManager" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.klEMVideoControls" addon_id="KL/EditorManager" version_id="1010032" version_string="1.1.0 Beta 2"><![CDATA[]]></phrase>
-  <phrase title="style_prop_desc.klEMiSpoiler" addon_id="KL/EditorManager" version_id="1010070" version_string="1.1.0"><![CDATA[Special styling rules for the inline spoiler ([ISPOILER]) container.]]></phrase>
+  <phrase title="style_prop_desc.klEMiSpoiler" addon_id="KL/EditorManager" version_id="1010070" version_string="1.1.0"><![CDATA[内联扰流板 （[ISPOILER]） 容器的特殊样式规则。]]></phrase>
   <phrase title="style_prop_desc.lineHeightDefault" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[此值控制文本行间距量。]]></phrase>
   <phrase title="style_prop_desc.link" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[这些是整个网站中超链接的基本样式规则]]></phrase>
   <phrase title="style_prop_desc.linkColor" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[在标准背景颜色下的超链接的基本颜色]]></phrase>
   <phrase title="style_prop_desc.linkHover" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[当鼠标悬停在超链接时，他们使用以下规则样式]]></phrase>
   <phrase title="style_prop_desc.linkHoverColor" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[鼠标悬停时，超链接将会变成这种颜色]]></phrase>
-  <phrase title="style_prop_desc.linkUgcColor" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Used to color links posted by users within posts etc.]]></phrase>
-  <phrase title="style_prop_desc.linkUgcHoverColor" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Hover state for links in UGC]]></phrase>
+  <phrase title="style_prop_desc.linkUgcColor" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[用于为用户在帖子中发布的链接着色等。]]></phrase>
+  <phrase title="style_prop_desc.linkUgcHoverColor" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[UGC 中链接的悬停状态]]></phrase>
   <phrase title="style_prop_desc.majorHeadingBg" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.majorHeadingTextColor" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[]]></phrase>
   <phrase title="style_prop_desc.memberHeader" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[会员空间页面的内容头部通过这些设置进行风格定制]]></phrase>

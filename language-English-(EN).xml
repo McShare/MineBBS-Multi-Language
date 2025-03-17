@@ -220,7 +220,7 @@
   <phrase title="admin_logs" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Admin logs]]></phrase>
   <phrase title="admin_navigation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Admin navigation]]></phrase>
   <phrase title="admin_navigation.Questions" addon_id="CnXFans/EntranceExam" version_id="1000000" version_string="1.0.0"><![CDATA[题库]]></phrase>
-  <phrase title="admin_navigation.QuestionsAnswers" addon_id="CnXFans/EntranceExam" version_id="1000000" version_string="1.0.0"><![CDATA[入站考试]]></phrase>
+  <phrase title="admin_navigation.QuestionsAnswers" addon_id="CnXFans/EntranceExam" version_id="1000000" version_string="1.0.0"><![CDATA[Entrance Exam]]></phrase>
   <phrase title="admin_navigation.activitySummary" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Activity summary]]></phrase>
   <phrase title="admin_navigation.activitySummaryDefinitions" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Activity summary definitions]]></phrase>
   <phrase title="admin_navigation.addOns" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add-ons]]></phrase>
@@ -342,7 +342,7 @@
   <phrase title="admin_navigation.mjcCurrencies" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[货币]]></phrase>
   <phrase title="admin_navigation.mjcDevCredits" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[积分]]></phrase>
   <phrase title="admin_navigation.mjcEventDefinitions" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[事件定义]]></phrase>
-  <phrase title="admin_navigation.mjcEvents" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[事件]]></phrase>
+  <phrase title="admin_navigation.mjcEvents" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[Event]]></phrase>
   <phrase title="admin_navigation.mjcImport" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[导入积分]]></phrase>
   <phrase title="admin_navigation.mjcListAllEvents" addon_id="MJ/Credits" version_id="1001000" version_string="1.1.0"><![CDATA[全部事件列表]]></phrase>
   <phrase title="admin_navigation.mjcListAllTransactions" addon_id="MJ/Credits" version_id="1001000" version_string="1.1.0"><![CDATA[全部事务列表]]></phrase>
@@ -593,8 +593,8 @@
   <phrase title="af_as_award_cat_title.5" addon_id="" version_id="0" version_string=""><![CDATA[活动奖章]]></phrase>
   <phrase title="af_as_award_cat_title.uncategorized" addon_id="AddonFlare/AwardSystem" version_id="1000070" version_string="1.0.0"><![CDATA[Uncategorized awards]]></phrase>
   <phrase title="af_as_award_category" addon_id="AddonFlare/AwardSystem" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Award category]]></phrase>
-  <phrase title="af_as_award_desc.1" addon_id="" version_id="0" version_string=""><![CDATA[经本站检验认证的MC正版玩家！]]></phrase>
-  <phrase title="af_as_award_desc.10" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS建立两周年纪念]]></phrase>
+  <phrase title="af_as_award_desc.1" addon_id="" version_id="0" version_string=""><![CDATA[MC genuine player who has been inspected and certified by this site!]]></phrase>
+  <phrase title="af_as_award_desc.10" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS' second anniversary]]></phrase>
   <phrase title="af_as_award_desc.11" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS社区认证汉化组]]></phrase>
   <phrase title="af_as_award_desc.12" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS社区认证开发者]]></phrase>
   <phrase title="af_as_award_desc.13" addon_id="" version_id="0" version_string=""><![CDATA[对不起，有钱是真的可以为所欲为的]]></phrase>
@@ -624,7 +624,7 @@
   <phrase title="af_as_award_points" addon_id="AddonFlare/AwardSystem" version_id="1010070" version_string="1.1.0"><![CDATA[Award points]]></phrase>
   <phrase title="af_as_award_recommend_not_allowed" addon_id="AddonFlare/AwardSystem" version_id="1010070" version_string="1.1.0"><![CDATA[This award is not allowed to be recommended]]></phrase>
   <phrase title="af_as_award_request_not_allowed" addon_id="AddonFlare/AwardSystem" version_id="1010070" version_string="1.1.0"><![CDATA[This award is not allowed to be requested]]></phrase>
-  <phrase title="af_as_award_title.1" addon_id="" version_id="0" version_string=""><![CDATA[正版用户]]></phrase>
+  <phrase title="af_as_award_title.1" addon_id="" version_id="0" version_string=""><![CDATA[Authentic user]]></phrase>
   <phrase title="af_as_award_title.10" addon_id="" version_id="0" version_string=""><![CDATA[二周年纪念]]></phrase>
   <phrase title="af_as_award_title.11" addon_id="" version_id="0" version_string=""><![CDATA[汉化组]]></phrase>
   <phrase title="af_as_award_title.12" addon_id="" version_id="0" version_string=""><![CDATA[开发者]]></phrase>
@@ -12606,9 +12606,9 @@ Example:<br />
   <phrase title="option_group.newsfeed" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[News feed]]></phrase>
   <phrase title="option_group.nodeList" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Node & forum list]]></phrase>
   <phrase title="option_group.performance" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[System and performance]]></phrase>
-  <phrase title="option_group.postContent" addon_id="CnXFans/PostContent" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[[CnXFans] 发布内容]]></phrase>
+  <phrase title="option_group.postContent" addon_id="CnXFans/PostContent" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[[CnXFans] Post Content]]></phrase>
   <phrase title="option_group.pwa" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[PWA options]]></phrase>
-  <phrase title="option_group.quickPrefixChange" addon_id="CnXFans/QuickPrefixChange" version_id="1000100" version_string="1.0.0"><![CDATA[快速更换主题前缀]]></phrase>
+  <phrase title="option_group.quickPrefixChange" addon_id="CnXFans/QuickPrefixChange" version_id="1000100" version_string="1.0.0"><![CDATA[Quick refix Change]]></phrase>
   <phrase title="option_group.searchOptions" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Search options]]></phrase>
   <phrase title="option_group.seo" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Search engine optimization (SEO)]]></phrase>
   <phrase title="option_group.serviceProviders" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[External service providers]]></phrase>
