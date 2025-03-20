@@ -2092,8 +2092,8 @@ JS代码:
   <phrase title="cookie_consent_description" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[我们使用基本的 <a href="{link}">cookie</a> 来使本网站正常运行，并使用可选的 cookie 来增强您的体验。]]></phrase>
   <phrase title="cookie_consent_heading" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[我们重视您的隐私]]></phrase>
   <phrase title="cookie_consent_label" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Cookies]]></phrase>
-  <phrase title="cookie_consent_log" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Cookie consent log]]></phrase>
-  <phrase title="cookie_consent_log_entry" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Cookie consent log entry]]></phrase>
+  <phrase title="cookie_consent_log" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Cookie 同意日志]]></phrase>
+  <phrase title="cookie_consent_log_entry" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Cookie 同意日志条目]]></phrase>
   <phrase title="cookie_third_parties" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[Cookie 第三方]]></phrase>
   <phrase title="cookie_third_parties_explain" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[输入为此媒体网站设置 cookie 的每个第三方的标识符。将每个标识符放在单独的行上。]]></phrase>
   <phrase title="cookies_required_to_use_this_site" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[此网站需要使用cookie。您必须接受它才能继续使用该站点。]]></phrase>
@@ -2108,7 +2108,7 @@ JS代码:
   <phrase title="cost" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[费用]]></phrase>
   <phrase title="cost_currency_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[<strong>注意：</strong> 确保您的商户帐户与选定的付款支付方式设置支持上述货币。货币支持可能因地区而异。]]></phrase>
   <phrase title="could_not_create_new_stripe_plan" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[无法创建新的条形码。]]></phrase>
-  <phrase title="could_not_find_any_files_to_be_deleted" addon_id="XF" version_id="2030070" version_string="2.3.0"><![CDATA[Could not find any files to be deleted.]]></phrase>
+  <phrase title="could_not_find_any_files_to_be_deleted" addon_id="XF" version_id="2030070" version_string="2.3.0"><![CDATA[找不到任何要删除的文件。]]></phrase>
   <phrase title="could_not_find_subscriber_id_for_this_purchase_request" addon_id="XF" version_id="2010770" version_string="2.1.7"><![CDATA[找不到此购买请求的订阅服务器ID。]]></phrase>
   <phrase title="could_not_open_x" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[无法打开{fileName}。]]></phrase>
   <phrase title="could_not_process_x_y" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[无法处理{fileName}：{errors}]]></phrase>
@@ -2136,13 +2136,13 @@ JS代码:
   <phrase title="cron_callback" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[定时回调]]></phrase>
   <phrase title="cron_entries" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[计划任务]]></phrase>
   <phrase title="cron_entry.activitySummaryEmail" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[发送活动摘要电子邮件]]></phrase>
-  <phrase title="cron_entry.af_as_user_award" addon_id="AddonFlare/AwardSystem" version_id="1040070" version_string="1.4.0"><![CDATA[[AddonFlare] XF2 Awards System: Update user awards]]></phrase>
+  <phrase title="cron_entry.af_as_user_award" addon_id="AddonFlare/AwardSystem" version_id="1040070" version_string="1.4.0"><![CDATA[[AddonFlare] XF2 Awards System: 更新用户勋章]]></phrase>
   <phrase title="cron_entry.cleanDiscount" addon_id="MJ/ResourceCreditsPayment" version_id="1000700" version_string="1.0.7"><![CDATA[清理过期优惠]]></phrase>
   <phrase title="cron_entry.cleanUpDaily" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[每日清理]]></phrase>
   <phrase title="cron_entry.cleanUpHourly" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[每小时清理]]></phrase>
   <phrase title="cron_entry.dailyStats" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[记录每日统计]]></phrase>
   <phrase title="cron_entry.dbtechShopLotteryDraw" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[DragonByte Shop: Draw lotteries]]></phrase>
-  <phrase title="cron_entry.dbtech_shop" addon_id="DBTech/Shop" version_id="906040570" version_string="6.4.5"><![CDATA[DragonByte Tech：商店 - 地理位置]]></phrase>
+  <phrase title="cron_entry.dbtech_shop" addon_id="DBTech/Shop" version_id="906040570" version_string="6.4.5"><![CDATA[DB：商店 - 地理位置]]></phrase>
   <phrase title="cron_entry.dbtech_shop_autobump" addon_id="DBTech/Shop" version_id="906040970" version_string="6.4.9"><![CDATA[DB商店：处理自动顶贴]]></phrase>
   <phrase title="cron_entry.dbtech_shop_duration" addon_id="DBTech/Shop" version_id="906040970" version_string="6.4.9"><![CDATA[DB：过期道具]]></phrase>
   <phrase title="cron_entry.dbtech_shop_interest" addon_id="DBTech/Shop" version_id="906040970" version_string="6.4.9"><![CDATA[DB商店：处理利息]]></phrase>
@@ -4386,15 +4386,15 @@ This is the message they left:
   <phrase title="did_not_complete_the_captcha_verification_properly" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[您输入的验证码不正确，请重新输入。]]></phrase>
   <phrase title="direct_message" addon_id="XF" version_id="2030470" version_string="2.3.4"><![CDATA[私信]]></phrase>
   <phrase title="direct_message_body" addon_id="XF" version_id="2030470" version_string="2.3.4"><![CDATA[私信主体]]></phrase>
-  <phrase title="direct_message_email_html_footer" addon_id="XF" version_id="2030670" version_string="2.3.6"><![CDATA[<p class="minorText">请不要回复此消息。您必须访问论坛才能回复。</p>
+  <phrase title="direct_message_email_html_footer" addon_id="XF" version_id="2030670" version_string="2.3.6"><![CDATA[<p class="minorText">请勿回复此消息。您必须访问论坛才能回复。</p>
 
-<p class="minorText">向您发送此消息是因为您的偏好设置为在收到新的直接消息时接收电子邮件。如果您不再希望收到这些电子邮件，您可以<a href="{disable_link}">禁用直接消息电子邮件</a>或<a href="{disable_all_link}">禁用所有电子邮件</a>。</p>]]></phrase>
+<p class="minorText">此消息发送给您是因为您的偏好设置为在收到新私信时接收电子邮件。如果您不再希望接收这些电子邮件，您可以<a href="{disable_link}">禁用私信电子邮件</a>或<a href="{disable_all_link}">禁用所有电子邮件</a>。</p>]]></phrase>
   <phrase title="direct_message_from_x" addon_id="XF" version_id="2030470" version_string="2.3.4"><![CDATA[来自 {username} 的私信]]></phrase>
   <phrase title="direct_message_info" addon_id="XF" version_id="2030470" version_string="2.3.4"><![CDATA[私信信息]]></phrase>
   <phrase title="direct_message_insert_email_html" addon_id="XF" version_id="2030670" version_string="2.3.6"><![CDATA[<p>{sender} 在 {board} 给你发送了一条私信。</p>]]></phrase>
   <phrase title="direct_message_insert_email_subject" addon_id="XF" version_id="2030670" version_string="2.3.6"><![CDATA[{username} 向您发送了一条私信：“{title}”]]></phrase>
   <phrase title="direct_message_is_closed" addon_id="XF" version_id="2030470" version_string="2.3.4"><![CDATA[此私信已关闭，无法进一步回复或编辑。]]></phrase>
-  <phrase title="direct_message_join_email_html" addon_id="XF" version_id="2030670" version_string="2.3.6"><![CDATA[<p>{sender} 已将您添加到 {board} 上的现有直接消息中。</p>]]></phrase>
+  <phrase title="direct_message_join_email_html" addon_id="XF" version_id="2030670" version_string="2.3.6"><![CDATA[<p>{sender} 已将您添加到 {board} 上的现有私信中。</p>]]></phrase>
   <phrase title="direct_message_join_email_subject" addon_id="XF" version_id="2030670" version_string="2.3.6"><![CDATA[{username} 将您添加到私信 “{title}”]]></phrase>
   <phrase title="direct_message_marked_as_read" addon_id="XF" version_id="2030670" version_string="2.3.6"><![CDATA[私信已标记为已读。]]></phrase>
   <phrase title="direct_message_marked_as_unread" addon_id="XF" version_id="2030670" version_string="2.3.6"><![CDATA[私信已标记为未读。]]></phrase>
@@ -11006,8 +11006,8 @@ Multiple styles can be combined.
   <phrase title="new_avatar_could_not_be_processed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[无法处理新的头像。请尝试另一个图片。]]></phrase>
   <phrase title="new_banner_could_not_be_processed" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[无法处理新标识。 请尝试其它图像。]]></phrase>
   <phrase title="new_comments" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[新评论]]></phrase>
-  <phrase title="new_conversation_at_x" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[New conversation at {boardTitle}]]></phrase>
-  <phrase title="new_direct_message_at_x" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[New direct message at {boardTitle}]]></phrase>
+  <phrase title="new_conversation_at_x" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[{boardTitle}的新对话]]></phrase>
+  <phrase title="new_direct_message_at_x" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[{boardTitle}的新私信]]></phrase>
   <phrase title="new_forum_type" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[新版面类型]]></phrase>
   <phrase title="new_message_in_watched_forum_x" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{title} - 新消息在关注论坛]]></phrase>
   <phrase title="new_messages" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[新消息]]></phrase>
@@ -11057,7 +11057,7 @@ Multiple styles can be combined.
   <phrase title="next_allowed_username_change" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[下次允许用户名更改]]></phrase>
   <phrase title="next_allowed_username_change_message" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[如果您现在决定更改用户名，则您必须等到{date}才能再次更改用户名。]]></phrase>
   <phrase title="next_run" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[下次运行]]></phrase>
-  <phrase title="next_slide" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Next slide]]></phrase>
+  <phrase title="next_slide" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[下一页幻灯片]]></phrase>
   <phrase title="no" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[否]]></phrase>
   <phrase title="no_account_upgrades_can_be_purchased_at_this_time" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[当前没有可以支付的用户升级，请稍后再试。]]></phrase>
   <phrase title="no_add_ons_installed_or_available_to_be_installed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[没有安装或激活的插件。]]></phrase>
@@ -11167,7 +11167,7 @@ Multiple styles can be combined.
   <phrase title="not_discouraged" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[未封禁]]></phrase>
   <phrase title="not_featured" addon_id="XF" version_id="2030670" version_string="2.3.6"><![CDATA[未推荐]]></phrase>
   <phrase title="not_in_secondary_groups" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[不在次要组]]></phrase>
-  <phrase title="not_notified_of_responses_conversation_remain_deleted" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[You will not be notified of any future responses and the conversation will remain deleted.]]></phrase>
+  <phrase title="not_notified_of_responses_conversation_remain_deleted" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[您将不会收到任何未来回复的通知，并且对话将保持删除状态。]]></phrase>
   <phrase title="not_notified_of_responses_direct_message_remain_deleted" addon_id="XF" version_id="2030670" version_string="2.3.6"><![CDATA[您将不会收到任何未来回复的通知，并且私信将保持删除状态。]]></phrase>
   <phrase title="not_open_for_further_replies" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[不接受进一步回复。]]></phrase>
   <phrase title="not_staff_member" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[没有管理人员]]></phrase>
@@ -11183,7 +11183,7 @@ Multiple styles can be combined.
   <phrase title="note_paypal_subscriptions_can_only_be_canceled_from_your_paypal_account" addon_id="XF" version_id="2030670" version_string="2.3.6"><![CDATA[注意：PayPal 订阅只能从您的 PayPal 账户中取消。如果您没有 PayPal 账户，请联系我们或直接联系 PayPal。]]></phrase>
   <phrase title="note_that_author_will_see_alert_even_no_longer_view_content" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[请注意，作者将看到此提醒，即使他们不能查看它们的内容。]]></phrase>
   <phrase title="note_that_email_clients_handle_html_in_widely_varying_ways" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[注意: 邮件客户端通常使用不同的HTML编译方式。请在发送HTML格式邮件前测试是否兼容。纯文件邮件会移除邮件中的HTML标签]]></phrase>
-  <phrase title="note_that_these_permissions_apply_to_both_guests_and_unconfirmed_members" addon_id="XF" version_id="2030470" version_string="2.3.4"><![CDATA[Note that these permissions apply to both guests and unconfirmed members, and that guests may be prevented from taking certain actions regardless of the permissions set here.]]></phrase>
+  <phrase title="note_that_these_permissions_apply_to_both_guests_and_unconfirmed_members" addon_id="XF" version_id="2030470" version_string="2.3.4"><![CDATA[请注意，这些权限适用于访客和未确认的成员，并且无论此处设置的权限如何，访客都可能无法采取某些操作。]]></phrase>
   <phrase title="note_this_action_will_overwrite_previously_cached_disabled_add_ons_list" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[注意：此操作将覆盖先前缓存的禁用插件列表。]]></phrase>
   <phrase title="note_thread_starter_see_alert_even_no_longer_view_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[注意，作者仍然可以查看此提醒，即使无法查看他们的主题。]]></phrase>
   <phrase title="note_to_test_provider_must_support_redirecting_to_following_url" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[注意：要执行此测试，提供者必须支持重定向到以下URL]]></phrase>
@@ -12084,7 +12084,7 @@ Use 0 for no limit]]></phrase>
   <phrase title="option_explain.andrewModeratorPanelIPService" addon_id="Andrew/ModeratorPanel" version_id="1070970" version_string="1.7.9"><![CDATA[]]></phrase>
   <phrase title="option_explain.andrewModeratorPanelIPStackAPIKey" addon_id="Andrew/ModeratorPanel" version_id="1070970" version_string="1.7.9"><![CDATA[]]></phrase>
   <phrase title="option_explain.andrewModeratorPanelModMenu" addon_id="Andrew/ModeratorPanel" version_id="1090470" version_string="1.9.4"><![CDATA[将“版主面板”链接添加到版主菜单。如果未选择，则管理将需要直接通过链接访问面板“http://www.yourwebsite.com/moderatorpanel/”]]></phrase>
-  <phrase title="option_explain.andrewModeratorPanelModeratedUsergroup" addon_id="Andrew/ModeratorPanel" version_id="1050370" version_string="1.5.3"><![CDATA[This user group requires manual setup and requires that user posts must be moderated.]]></phrase>
+  <phrase title="option_explain.andrewModeratorPanelModeratedUsergroup" addon_id="Andrew/ModeratorPanel" version_id="1050370" version_string="1.5.3"><![CDATA[该用户组需要手动设置，并要求必须调节用户帖子。]]></phrase>
   <phrase title="option_explain.andrewModeratorPanelMostIgnoredBannedUsers" addon_id="Andrew/ModeratorPanel" version_id="1010070" version_string="1.1.0"><![CDATA[]]></phrase>
   <phrase title="option_explain.andrewModeratorPanelMostReportedBannedUsers" addon_id="Andrew/ModeratorPanel" version_id="1010070" version_string="1.1.0"><![CDATA[]]></phrase>
   <phrase title="option_explain.andrewModeratorPanelMostWarnedBannedUsers" addon_id="Andrew/ModeratorPanel" version_id="1010070" version_string="1.1.0"><![CDATA[]]></phrase>
@@ -12133,7 +12133,7 @@ Use 0 for no limit]]></phrase>
   <phrase title="option_explain.currentVersionId" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[当前版本编号]]></phrase>
   <phrase title="option_explain.dbtechShopContentDeleteThreadAction" addon_id="DBTech/Shop" version_id="906040970" version_string="6.4.9"><![CDATA[删除内容时，对任何自动创建的主题执行此操作。]]></phrase>
   <phrase title="option_explain.dbtechShopDefaultItemOwner" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[This setting controls who should own items created in the AdminCP. Ideally this should be set to a "bot" user that no-one logs in to.]]></phrase>
-  <phrase title="option_explain.dbtechShopEnableRate" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[If disabled, the entire item rating system will be disabled.]]></phrase>
+  <phrase title="option_explain.dbtechShopEnableRate" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[如果禁用，将禁用整个项目评分系统。]]></phrase>
   <phrase title="option_explain.dbtechShopInterestMinimumActivity" addon_id="DBTech/Shop" version_id="906040970" version_string="6.4.9"><![CDATA[这控制了用户在不活跃多少天后停止自动收取利息（即没有访问过该站点）。<br />
 将此值设置得过高可能会导致性能问题。]]></phrase>
   <phrase title="option_explain.dbtechShopInventoryItemsPerPage" addon_id="DBTech/Shop" version_id="906020170" version_string="6.2.1"><![CDATA[The number of items that will be listed per page in the user's inventory.]]></phrase>
@@ -12148,10 +12148,10 @@ Use 0 for no limit]]></phrase>
   <phrase title="option_explain.dbtechShopReviewRequired" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[如果启用，用户在给道具评星时必须提交评论。]]></phrase>
   <phrase title="option_explain.dbtechShopReviewsPerPage" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[商店中每页列出的评论数量。]]></phrase>
   <phrase title="option_explain.dbtechShopTradePostMaxLength" addon_id="DBTech/Shop" version_id="906010015" version_string="6.1.0 Alpha 5"><![CDATA[在交易帖子或评论中的字符上限。使用0禁用限制。]]></phrase>
-  <phrase title="option_explain.dbtechShopTradesPerPage" addon_id="DBTech/Shop" version_id="906010015" version_string="6.1.0 Alpha 5"><![CDATA[The number of trades that will be listed per page across the shop.]]></phrase>
+  <phrase title="option_explain.dbtechShopTradesPerPage" addon_id="DBTech/Shop" version_id="906010015" version_string="6.1.0 Alpha 5"><![CDATA[整个商店每页列出的交易数量。]]></phrase>
   <phrase title="option_explain.dbtechShopTransactions" addon_id="DBTech/Shop" version_id="906040970" version_string="6.4.9"><![CDATA[交易日志页面列出了每个用户的最新交易。这是一页显示的最大交易数。]]></phrase>
   <phrase title="option_explain.dbtech_shop_bank_enabled" addon_id="DBTech/Shop" version_id="906040970" version_string="6.4.9"><![CDATA[该选项允许您控银行功能是否可用。]]></phrase>
-  <phrase title="option_explain.dbtech_shop_bank_postbit" addon_id="DBTech/Shop" version_id="4001" version_string="4.0.0b1"><![CDATA[If yes, the person's bank balance will also be displayed in the postbit.]]></phrase>
+  <phrase title="option_explain.dbtech_shop_bank_postbit" addon_id="DBTech/Shop" version_id="4001" version_string="4.0.0b1"><![CDATA[如果是，则该人的银行余额也将在Postbit中显示。]]></phrase>
   <phrase title="option_explain.dbtech_shop_confignotification_pm" addon_id="DBTech/Shop" version_id="20160523" version_string="4.2.0"><![CDATA[当一个道具被部署时，这个插件可以开始与用户的一个新会话。请输入开启此对话的用户的名称。<br />
 <br />
 创建一个“论坛机器人”用户来开启会话会是个不错的选择，以表明它们是自动消息。]]></phrase>
@@ -12162,7 +12162,7 @@ Use 0 for no limit]]></phrase>
   <phrase title="option_explain.dbtech_shop_icon_limit_by_position" addon_id="DBTech/Shop" version_id="4001" version_string="4.0.0b1"><![CDATA[This will allow you to limit the total amount of "Custom Icon" icons that can be displayed in each unique display location.]]></phrase>
   <phrase title="option_explain.dbtech_shop_items_postbit" addon_id="DBTech/Shop" version_id="4001" version_string="4.0.0b1"><![CDATA[Choose the locations in which Items are displayed in the postbit.<br />
 Note: Heavily customised skins may render parts of this setting unusable.]]></phrase>
-  <phrase title="option_explain.dbtech_shop_licensekey" addon_id="DBTech/Shop" version_id="20161128" version_string="5.2.0"><![CDATA[This is the license key associated with your product. Removing this will affect your ability to use the free "Product Manager" product to check for updates.]]></phrase>
+  <phrase title="option_explain.dbtech_shop_licensekey" addon_id="DBTech/Shop" version_id="20161128" version_string="5.2.0"><![CDATA[这是与您的产品相关的许可密钥。删除这将影响您使用免费的“产品管理器”产品检查更新的能力。]]></phrase>
   <phrase title="option_explain.dbtech_shop_lottery_enabled" addon_id="DBTech/Shop" version_id="906040970" version_string="6.4.9"><![CDATA[此设置可用于控制用户是否可以查看和参与抽奖。]]></phrase>
   <phrase title="option_explain.dbtech_shop_manualinterest" addon_id="DBTech/Shop" version_id="906040970" version_string="6.4.9"><![CDATA[有了这个设置，你可以要求用户每过24小时回来一次从银行收取利息。]]></phrase>
   <phrase title="option_explain.dbtech_shop_maxsteal_amount" addon_id="DBTech/Shop" version_id="906040970" version_string="6.4.9"><![CDATA[这个选项可以让你设置偷窃金额上限（在考虑到提高偷取数量的道具之后），范围在0到100%之间。<br />
@@ -12172,23 +12172,23 @@ Note: Heavily customised skins may render parts of this setting unusable.]]></ph
   <phrase title="option_explain.dbtech_shop_maxsteal_lose" addon_id="DBTech/Shop" version_id="906040970" version_string="6.4.9"><![CDATA[这个设置允许你设置偷窃罚款的上限（增加偷取罚款的道具之后），在0到100%之间。]]></phrase>
   <phrase title="option_explain.dbtech_shop_navbar" addon_id="DBTech/Shop" version_id="20170223" version_string="6.0.0"><![CDATA[]]></phrase>
   <phrase title="option_explain.dbtech_shop_numgifts" addon_id="DBTech/Shop" version_id="906040970" version_string="6.4.9"><![CDATA[选择您希望在postbit中显示的“最新道具”的数量。]]></phrase>
-  <phrase title="option_explain.dbtech_shop_override_cancustomavatar" addon_id="DBTech/Shop" version_id="4001" version_string="4.0.0b1"><![CDATA[If yes, this will disallow avatar changes unless members purchases an item for it.<br />
+  <phrase title="option_explain.dbtech_shop_override_cancustomavatar" addon_id="DBTech/Shop" version_id="4001" version_string="4.0.0b1"><![CDATA[如果是，则将不允许更改头像，除非会员购买相关物品。<br />
 <br />
-<strong>Required for the "Avatar Change" item to function correctly!</strong>]]></phrase>
+<strong>需要“头像更改”道具才能正常发挥作用！</strong>]]></phrase>
   <phrase title="option_explain.dbtech_shop_override_cancustomavatar_exempt" addon_id="DBTech/Shop" version_id="4001" version_string="4.0.0b1"><![CDATA[Select the usergroup(s) that are exempt from the above override procedure.]]></phrase>
-  <phrase title="option_explain.dbtech_shop_override_cancustomsignature" addon_id="DBTech/Shop" version_id="4001" version_string="4.0.0b1"><![CDATA[If yes, this will disallow signature changes unless members purchases an item for it.<br />
+  <phrase title="option_explain.dbtech_shop_override_cancustomsignature" addon_id="DBTech/Shop" version_id="4001" version_string="4.0.0b1"><![CDATA[如果是，则将不允许更改签名，除非会员为其购买物品。<br />
 <br />
-<strong>Required for the "Signature Change" item to function correctly!</strong>]]></phrase>
-  <phrase title="option_explain.dbtech_shop_override_cancustomsignature_exempt" addon_id="DBTech/Shop" version_id="4001" version_string="4.0.0b1"><![CDATA[Select the usergroup(s) that are exempt from the above override procedure.]]></phrase>
+<strong>需要“签名更改”道具才能正常运行！</strong>]]></phrase>
+  <phrase title="option_explain.dbtech_shop_override_cancustomsignature_exempt" addon_id="DBTech/Shop" version_id="4001" version_string="4.0.0b1"><![CDATA[选择免于上述覆盖过程的用户组。]]></phrase>
   <phrase title="option_explain.dbtech_shop_points_postbit" addon_id="DBTech/Shop" version_id="6000031" version_string="6.0.0 Beta 1"><![CDATA[Choose the locations in which Points are displayed in the postbit.<br />
 Note: Heavily customised skins may render parts of this setting unusable.]]></phrase>
   <phrase title="option_explain.dbtech_shop_purchasenotification_pm" addon_id="DBTech/Shop" version_id="906040970" version_string="6.4.9"><![CDATA[当一个道具被购买时，这个组件可以开始与用户的一个新会话。请输入开启此对话的用户的名称。<br />
 <br />
 创建一个“论坛机器人”用户来开启会话会是个不错的选择，以表明它们是自动消息。]]></phrase>
-  <phrase title="option_explain.dbtech_shop_smilies_maxheight" addon_id="DBTech/Shop" version_id="4001" version_string="4.0.0b1"><![CDATA[This is the maximum height (in pixels) for smilie uploads.<br />
-0 = No limit]]></phrase>
-  <phrase title="option_explain.dbtech_shop_smilies_maxwidth" addon_id="DBTech/Shop" version_id="4001" version_string="4.0.0b1"><![CDATA[This is the maximum width (in pixels) for smilie uploads.<br />
-0 = No limit]]></phrase>
+  <phrase title="option_explain.dbtech_shop_smilies_maxheight" addon_id="DBTech/Shop" version_id="4001" version_string="4.0.0b1"><![CDATA[这是表情上传的最大高度（以像素为单位）。<br />
+0 = 无限制]]></phrase>
+  <phrase title="option_explain.dbtech_shop_smilies_maxwidth" addon_id="DBTech/Shop" version_id="4001" version_string="4.0.0b1"><![CDATA[这是表情上传的最大宽度（以像素为单位）。<br />
+0 = 无限制]]></phrase>
   <phrase title="option_explain.dbtech_shop_steal_amount" addon_id="DBTech/Shop" version_id="906040970" version_string="6.4.9"><![CDATA[如果一个用户成功偷窃，他们将偷取受害者当前点数的这个百分比（不包括银行中的积分），在0到100%之间。<br />
 你也可以通过出售道具来提高点数的偷取率。]]></phrase>
   <phrase title="option_explain.dbtech_shop_steal_chance" addon_id="DBTech/Shop" version_id="906040970" version_string="6.4.9"><![CDATA[这是偷窃的成功率（0-100%）。<br />
@@ -12240,7 +12240,7 @@ Note: Heavily customised skins may render parts of this setting unusable.]]></ph
 此选项将在处理时读取并删除指定帐户中的电子邮件。它必须定向到一个帐户，该帐户的唯一目的是收集来自此 XenForo 安装的取消订阅请求电子邮件。必须在“取消订阅电子邮件处理”选项中输入电子邮件地址的值。]]></phrase>
   <phrase title="option_explain.emailWatchedThreadIncludeMessage" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[启用此选项后，发送给关注主题/论坛的用户通知邮件将包含通知他们的消息全文。禁用此选项后，他们将需要访问论坛读取消息。]]></phrase>
   <phrase title="option_explain.embedCodeShare" addon_id="XF" version_id="2030670" version_string="2.3.6"><![CDATA[如果启用，则每个内容的共享工具提示将显示可用于将该内容嵌入外部站点（如果支持）的 HTML 代码。]]></phrase>
-  <phrase title="option_explain.embedTemplateNames" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[If enabled, authenticated administrators will be able to inspect the final rendered HTML and identify the name of the template that controls the output of each page element using <code>data-template-name</code> attributes.]]></phrase>
+  <phrase title="option_explain.embedTemplateNames" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[如果启用，经过身份验证的管理员将能够检查最终呈现的 HTML，并使用 <code>data-template-name</code> 属性识别控制每个页面元素输出的模板的名称。]]></phrase>
   <phrase title="option_explain.emojiSource" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[如果您选择的值高于“原生”（将始终从设备提供，如果可用），那么您可以选择从哪个来源提供表情符号艺术品。<br />
 <br />
 默认情况下，我们将始终提供首选CDN中的图形，但如果您想下载图稿并自行托管，或使用其他CDN，则可以在此处指定路径。]]></phrase>
@@ -12337,8 +12337,8 @@ JS最近更新（Unix时间），更改后强制刷新 JS缓存，即使不更�
   <phrase title="option_explain.klEMExternalFontPolling" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[If enabled, users that have been granted the permission will be able to utilize the whole Google Fonts library in their BB code content, no matter if they have been integrated into your web page or not. If they're not already included, they will be loaded on demand.]]></phrase>
   <phrase title="option_explain.klEMFontSizes" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[Available sizes in the editor font size dropdown, separated by comma.]]></phrase>
   <phrase title="option_explain.klEMGeneralOptions" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[]]></phrase>
-  <phrase title="option_explain.klEMGoogleApiKey" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[If you enter a Google Font API key here, your board will be able to automatically update the google fonts list by itself once a week and provider your users with suggestions when they search for a google font in the BB Code editor.]]></phrase>
-  <phrase title="option_explain.klEMHexColor" addon_id="KL/EditorManager" version_id="1010070" version_string="1.1.0"><![CDATA[If enabled, will show a hex color code input, allowing users to chose their own text color.]]></phrase>
+  <phrase title="option_explain.klEMGoogleApiKey" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[如果您在此处输入 Google Font API 密钥，您的开发板将能够每周自动更新一次 google 字体列表，并在用户在 BB Code 编辑器中搜索 google 字体时提供建议。]]></phrase>
+  <phrase title="option_explain.klEMHexColor" addon_id="KL/EditorManager" version_id="1010070" version_string="1.1.0"><![CDATA[如果启用，将显示十六进制颜色代码输入，允许用户选择自己的文本颜色。]]></phrase>
   <phrase title="option_explain.klEMHideControllers" addon_id="KL/EditorManager" version_id="1010033" version_string="1.1.0 Beta 3"><![CDATA[<strong>This is an advanced option.</strong> It is recommended to only edit it if you know exactly what you're doing. Adding controllers here will not make the hide BB code magically work on non-forum routes, but allows you to add additional controllers from 3rd party add-ons that add functionality to threads where the hide Bb code will not be hidden. One entry per line.]]></phrase>
   <phrase title="option_explain.klEMMaxFontSize" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[The maximum font size that can be specified (in pixel). 0 for no limit.]]></phrase>
   <phrase title="option_explain.klEMMinFontSize" addon_id="KL/EditorManager" version_id="1010072" version_string="1.1.0.2"><![CDATA[The minimum font size that can be specified (in pixel).]]></phrase>
@@ -14195,7 +14195,7 @@ Disable all emails: {unsub_all}]]></phrase>
   <phrase title="receive_notification_when_someone" addon_id="XF" version_id="2020270" version_string="2.2.2"><![CDATA[发送通知，当有人]]></phrase>
   <phrase title="receive_push_notification_when_new_conversation_message_is_received" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Receive push notification when a new conversation message is received]]></phrase>
   <phrase title="receive_push_notification_when_new_direct_message_is_received" addon_id="XF" version_id="2030670" version_string="2.3.6"><![CDATA[收到新的私信时接收推送通知]]></phrase>
-  <phrase title="receive_site_mailings" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[通过电子邮件收到我们的消息和通知]]></phrase>
+  <phrase title="receive_site_mailings" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[通过电子邮件接收我们的消息和通知]]></phrase>
   <phrase title="receive_site_mailings_hint" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[]]></phrase>
   <phrase title="receive_site_mailings_option" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[接收新闻和更新电子邮件]]></phrase>
   <phrase title="receive_summary_activity_email" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[接收活动摘要电子邮件]]></phrase>
@@ -15215,7 +15215,7 @@ callback=\Path\To\MyCallbackClass::MyCallbackMethod<br>arguments={"arg1":"val1",
   <phrase title="siropu_ads_manager_bank_transfer_instructions" addon_id="Siropu/AdsManager" version_id="2013070" version_string="2.1.3"><![CDATA[Bank transfer instructions]]></phrase>
   <phrase title="siropu_ads_manager_bank_transfer_payment_title" addon_id="Siropu/AdsManager" version_id="2031170" version_string="2.3.11"><![CDATA[Bank Transfer (Ads Manager)]]></phrase>
   <phrase title="siropu_ads_manager_banner" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[横幅]]></phrase>
-  <phrase title="siropu_ads_manager_banner_ad_explain" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[Use this ad type if you want to display image banner ads uploaded from your device or from image hosting services.]]></phrase>
+  <phrase title="siropu_ads_manager_banner_ad_explain" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[使用此广告类型，如果您想展示从您的设备或图片托管服务上传的图片横幅广告。]]></phrase>
   <phrase title="siropu_ads_manager_banner_file" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[横幅文件]]></phrase>
   <phrase title="siropu_ads_manager_banner_file_2x" addon_id="Siropu/AdsManager" version_id="2042270" version_string="2.4.22"><![CDATA[2x banner file]]></phrase>
   <phrase title="siropu_ads_manager_banner_file_explain" addon_id="Siropu/AdsManager" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[If multiple files are provided, they will rotate randomly on each page load.]]></phrase>
@@ -18515,9 +18515,9 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="thuix_store_in_browser_cookie" addon_id="ThemeHouse/UIX" version_id="2001270" version_string="2.0.12"><![CDATA[Store in browser cookie]]></phrase>
   <phrase title="thuix_store_in_session_data" addon_id="ThemeHouse/UIX" version_id="2001270" version_string="2.0.12"><![CDATA[Store in session data]]></phrase>
   <phrase title="thuix_style_options" addon_id="ThemeHouse/UIX" version_id="2020092" version_string="2.2.0 Patch Level 2"><![CDATA[风格选项]]></phrase>
-  <phrase title="thuix_unregistered_users_only" addon_id="ThemeHouse/UIX" version_id="2001070" version_string="2.0.10"><![CDATA[Unregistered users only]]></phrase>
+  <phrase title="thuix_unregistered_users_only" addon_id="ThemeHouse/UIX" version_id="2001070" version_string="2.0.10"><![CDATA[仅限未注册用户]]></phrase>
   <phrase title="thuix_user_permissions" addon_id="ThemeHouse/UIX" version_id="2010331" version_string="2.1.3 Beta 1"><![CDATA[Permission-based]]></phrase>
-  <phrase title="thuix_writeable_error" addon_id="ThemeHouse/UIX" version_id="2000791" version_string="2.0.7 Patch Level 1"><![CDATA[Your XenForo directory is not writable by the PHP user. You can contact your host and recommend they use a method that allows PHP to run as the same user that owns the XenForo files or alternatively you can <a href="https://www.themehouse.com/help/documentation/uix2/installing-uix-2-manually">install your style manually</a>.<br> Alternatively, you can enable the option to install via FTP <a href="{url}" target="_BLANK">here</a> which should allow you to proceed.]]></phrase>
+  <phrase title="thuix_writeable_error" addon_id="ThemeHouse/UIX" version_id="2000791" version_string="2.0.7 Patch Level 1"><![CDATA[您的 XenForo 目录无法被 PHP 用户写入。您可以联系您的托管商，建议他们使用允许 PHP 以拥有 XenForo 文件的用户身份运行的方法，或者您可以选择<a href="https://www.themehouse.com/help/documentation/uix2/installing-uix-2-manually">手动安装您的样式</a>。<br>或者，您可以在<a href="{url}" target="_BLANK">此处</a>启用通过 FTP 安装的选项，这应该允许您继续操作。]]></phrase>
   <phrase title="thuix_zip_extension_error" addon_id="ThemeHouse/UIX" version_id="2000791" version_string="2.0.7 Patch Level 1"><![CDATA[The PHP zip extension has not been installed and is required for this functionality to work. Please contact your host to get this issue resolved as this is not something we're able to fix from the add-on.]]></phrase>
   <phrase title="thumbnail" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[缩略图]]></phrase>
   <phrase title="time.day" addon_id="SV/StandardLib" version_id="0" version_string=""><![CDATA[{count} 天]]></phrase>
@@ -18554,7 +18554,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="tlg_member_role_id_title_moderator" addon_id="" version_id="0" version_string=""><![CDATA[副组长]]></phrase>
   <phrase title="to_access_this_page_we_will_need_your_consent_to_set_some_cookies" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[要访问此页面，我们需要您的同意才能设置一些 cookie。]]></phrase>
   <phrase title="to_access_this_page_you_must_first_confirm_your_password" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[访问此页面, 您必须首先确认您的密码.]]></phrase>
-  <phrase title="to_allow_users_to_sign_in_with_their_login_credentials_for_another_xenforo" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[To allow users to sign in with their login credentials for another XenForo instance, you must first create an OAuth2 client on that instance and enter the client ID here.]]></phrase>
+  <phrase title="to_allow_users_to_sign_in_with_their_login_credentials_for_another_xenforo" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[要允许用户使用其他 XenForo 实例的登录凭据登录，您必须首先在该实例上创建一个 OAuth2 客户端，然后在此处输入客户端 ID。]]></phrase>
   <phrase title="to_associate_existing_account_first_log_in" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[若要连接您现有的账号，请先登录。]]></phrase>
   <phrase title="to_associate_existing_account_first_log_in_start_via_connected_accounts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[若要连接到现有的账号，请先登录并到 <a href="{link}">已连接的账号</a> 进行连接。]]></phrase>
   <phrase title="to_avoid_unexpected_user_merges_ensure_current_user_unique_name_email" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[为了避免意外的用户合并，请确保您的 <a href="{link}" target="_blank">当前用户</a> 使用用户名和电子邮件，不被任何用户在源数据库中使用！]]></phrase>
@@ -18774,7 +18774,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="uix_twitch" addon_id="ThemeHouse/UIX" version_id="2000491" version_string="2.0.4 Patch Level 1"><![CDATA[Twitch]]></phrase>
   <phrase title="uix_youtube" addon_id="ThemeHouse/UIX" version_id="2000491" version_string="2.0.4 Patch Level 1"><![CDATA[YouTube]]></phrase>
   <phrase title="unable_edit_master_embed_html_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[您无法修改此模板的 "主版本"，您应编辑相对应模板的风格。]]></phrase>
-  <phrase title="unable_to_delete_files_for_x" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[Unable to delete files for {title}]]></phrase>
+  <phrase title="unable_to_delete_files_for_x" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[无法删除 {title} 的文件]]></phrase>
   <phrase title="unanswered" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[未回答]]></phrase>
   <phrase title="unanswered_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[未回复主题]]></phrase>
   <phrase title="unapprove" addon_id="XF" version_id="2021570" version_string="2.2.15"><![CDATA[审核不通过]]></phrase>
