@@ -11952,7 +11952,7 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.xv_ajax_search" addon_id="XV" version_id="1920" version_string="1.9.2"><![CDATA[Ajax 搜索线程/资源]]></phrase>
   <phrase title="option.xv_alert_refresh" addon_id="XV" version_id="1920" version_string="1.9.2"><![CDATA[提醒自动刷新]]></phrase>
   <phrase title="option.xv_attachment_prefix" addon_id="XV" version_id="1950" version_string="1.9.5"><![CDATA[附件前缀]]></phrase>
-  <phrase title="option.xv_auto_delete_hidden_content" addon_id="XV" version_id="2060" version_string="2.0.6"><![CDATA[Auto Delete Hidden Threads / Resources]]></phrase>
+  <phrase title="option.xv_auto_delete_hidden_content" addon_id="XV" version_id="2060" version_string="2.0.6"><![CDATA[自动删除隐藏主题 /资源]]></phrase>
   <phrase title="option.xv_auto_delete_users" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Auto Delete Inactive Users]]></phrase>
   <phrase title="option.xv_avatar_circle_year" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Add Avatar Circle Year]]></phrase>
   <phrase title="option.xv_block_duplicate_title" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Block Duplicate Title]]></phrase>
@@ -11997,7 +11997,7 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.xv_schedule_publishing" addon_id="XV" version_id="2060" version_string="2.0.6"><![CDATA[Schedule Publishing]]></phrase>
   <phrase title="option.xv_similar_limit_day" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Limit Date]]></phrase>
   <phrase title="option.xv_snackbar" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Snackbar Notification]]></phrase>
-  <phrase title="option.xv_statistic_exclude" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Exclude Forums / Resources]]></phrase>
+  <phrase title="option.xv_statistic_exclude" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[排除版块 / 资源分类]]></phrase>
   <phrase title="option.xv_thread_detail" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Add Thread Detail]]></phrase>
   <phrase title="option.xv_thread_suffix" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Thread Suffix]]></phrase>
   <phrase title="option.xv_update_attachment" addon_id="XV" version_id="2040" version_string="2.0.4"><![CDATA[Update Attachments]]></phrase>
@@ -12271,7 +12271,7 @@ Note: Heavily customised skins may render parts of this setting unusable.]]></ph
   <phrase title="option_explain.esLogDSLOnError" addon_id="SV/SearchImprovements" version_id="1692895960" version_string="2.11.0"><![CDATA[用于记录 ElasticSearch 查询 DSL 以进行故障排除的选项。<br/><br/>
 需要 XenForo 增强搜索]]></phrase>
   <phrase title="option_explain.extraCaptchaKeys" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[此选项无法手动编辑。仅通过“captcha”选项进行编辑。]]></phrase>
-  <phrase title="option_explain.extraFaIcons" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Icons are grouped into sprites to improve performance. Icons in use are typically inferred automatically, but you may include additional icons by entering them here. Enter one icon class per line. For example, enter "fa-acorn" to include the Acorn icon in the default variant(s), or enter "fas fa-acorn" to include the Acorn icon in the solid variant.]]></phrase>
+  <phrase title="option_explain.extraFaIcons" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[图标被分组到 sprite 中以提高性能。正在使用的图标通常是自动推断的，但您可以通过在此处输入图标来包含其他图标。每行输入一个图标类。例如，输入 “fa-acorn” 可在默认变体中包含 Acorn 图标，或输入 “fas fa-acorn” 可在纯色变体中包含 Acorn 图标。]]></phrase>
   <phrase title="option_explain.facebookLike" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Facebook“支持”及“推荐”按钮将会显示各个主题网页中，允许Facebook用户“支持”指定的页面，并与其 Facebook 的好友分享。<br />
 <br />
 <b>此功能不需要 Facebook application ID 或者应用私密字段值即可完成。]]></phrase>
@@ -17377,7 +17377,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="style_property_definitions_must_be_unique_per_style" addon_id="XF" version_id="2000010" version_string="2.1.0 b6 "><![CDATA[样式属性定义必须是每个唯一样式。此样式中已使用指定的ID。]]></phrase>
   <phrase title="style_property_grouping" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[分组]]></phrase>
   <phrase title="style_property_groups_must_be_unique_per_style" addon_id="XF" version_id="2000010" version_string="2.1.0 b6 "><![CDATA[样式属性组必须是每种唯一样式。指定的ID已经在此或其父样式中使用。]]></phrase>
-  <phrase title="style_variation" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Style variation]]></phrase>
+  <phrase title="style_variation" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[风格变化]]></phrase>
   <phrase title="style_variation.alternate" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Alternate]]></phrase>
   <phrase title="style_variation.default" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Default]]></phrase>
   <phrase title="styles" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[风格列表]]></phrase>
