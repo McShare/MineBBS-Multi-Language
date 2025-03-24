@@ -8703,7 +8703,7 @@ This is the message they left:
   <phrase title="general_threads" addon_id="" version_id="0" version_string=""><![CDATA[常规主题]]></phrase>
   <phrase title="generate_new_backup_codes" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[生成新的备份代码]]></phrase>
   <phrase title="generated_by" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[生成于]]></phrase>
-  <phrase title="get_unmodified_phrases" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[未更改的短语]]></phrase>
+  <phrase title="get_unmodified_phrases" addon_id="XF" version_id="2030670" version_string="2.3.6"><![CDATA[包括未更改的短语]]></phrase>
   <phrase title="giphy_integration_is_not_currently_available_try_later" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[GIPHY集成当前不可用。请稍后再试。]]></phrase>
   <phrase title="giphy_own_api_key_explain" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[您必须从<a href="https://developers.giphy.com/dashboard/" target="_blank"> GIPHY开发人员仪表盘</a>获取自己的密钥，并将其升级为生产密钥。]]></phrase>
   <phrase title="giphy_rating_explain" addon_id="XF" version_id="2020032" version_string="2.2.0 Beta 2"><![CDATA[有关评级的说明，请访问<a href="https://developers.giphy.com/docs/optional-settings#rating" target="_blank"> GIPHY开发人员文档</a>。]]></phrase>
@@ -10910,14 +10910,14 @@ Multiple styles can be combined.
   <phrase title="names_and_surnames_by_themselves_easy_to_guess" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[姓名和姓氏本身很容易猜到。]]></phrase>
   <phrase title="native_device_emoji_where_supported" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[本机设备表情符号（支持的位置）]]></phrase>
   <phrase title="nav._default" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[默认（没有选中选项卡） ]]></phrase>
-  <phrase title="nav.activities" addon_id="" version_id="0" version_string=""><![CDATA[动态广场]]></phrase>
+  <phrase title="nav.activities" addon_id="" version_id="0" version_string=""><![CDATA[动态]]></phrase>
   <phrase title="nav.addonFlarePubAwards" addon_id="AddonFlare/AwardSystem" version_id="1000070" version_string="1.0.0"><![CDATA[勋章]]></phrase>
   <phrase title="nav.af_as_my_awards" addon_id="AddonFlare/AwardSystem" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[我的勋章]]></phrase>
   <phrase title="nav.af_as_pending_awards" addon_id="AddonFlare/AwardSystem" version_id="1000370" version_string="1.0.3"><![CDATA[待定勋章]]></phrase>
   <phrase title="nav.contributedThreads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[已回复主题]]></phrase>
   <phrase title="nav.currentVisitors" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[当前访客]]></phrase>
   <phrase title="nav.dbtShopNewItems" addon_id="DBTech/Shop" version_id="906010012" version_string="6.1.0 Alpha 2"><![CDATA[New items]]></phrase>
-  <phrase title="nav.dbtechShop" addon_id="DBTech/Shop" version_id="906041270" version_string="6.4.12"><![CDATA[道具工坊]]></phrase>
+  <phrase title="nav.dbtechShop" addon_id="DBTech/Shop" version_id="907000470" version_string="7.0.4"><![CDATA[道具]]></phrase>
   <phrase title="nav.dbtechShopBank" addon_id="DBTech/Shop" version_id="906040570" version_string="6.4.5"><![CDATA[银行]]></phrase>
   <phrase title="nav.dbtechShopInventory" addon_id="DBTech/Shop" version_id="906040970" version_string="6.4.9"><![CDATA[背包]]></phrase>
   <phrase title="nav.dbtechShopLottery" addon_id="DBTech/Shop" version_id="906040970" version_string="6.4.9"><![CDATA[彩票]]></phrase>
@@ -10932,7 +10932,7 @@ Multiple styles can be combined.
   <phrase title="nav.defaultYourAccount" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[您的帐户]]></phrase>
   <phrase title="nav.defaultYourProfile" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[个人空间]]></phrase>
   <phrase title="nav.diamond_checkout" addon_id="" version_id="0" version_string=""><![CDATA[购物车]]></phrase>
-  <phrase title="nav.donate" addon_id="" version_id="0" version_string=""><![CDATA[赞助我们]]></phrase>
+  <phrase title="nav.donate" addon_id="" version_id="0" version_string=""><![CDATA[支持我们]]></phrase>
   <phrase title="nav.entranceExam" addon_id="CnXFans/EntranceExam" version_id="1000000" version_string="1.0.0"><![CDATA[入站考试]]></phrase>
   <phrase title="nav.featured" addon_id="XF" version_id="2030470" version_string="2.3.4"><![CDATA[精选内容]]></phrase>
   <phrase title="nav.findThreads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[查找主题]]></phrase>
@@ -10942,7 +10942,7 @@ Multiple styles can be combined.
   <phrase title="nav.latestActivity" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[最新动态]]></phrase>
   <phrase title="nav.markForumsRead" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[标记论坛已读]]></phrase>
   <phrase title="nav.mc_download" addon_id="" version_id="0" version_string=""><![CDATA[MC下载]]></phrase>
-  <phrase title="nav.mcnav" addon_id="" version_id="0" version_string=""><![CDATA[MCNav导航]]></phrase>
+  <phrase title="nav.mcnav" addon_id="" version_id="0" version_string=""><![CDATA[MCNav]]></phrase>
   <phrase title="nav.members" addon_id="XF" version_id="2020270" version_string="2.2.2"><![CDATA[名人堂]]></phrase>
   <phrase title="nav.mjcCredits" addon_id="MJ/Credits" version_id="1020501" version_string="1.2.5"><![CDATA[积分]]></phrase>
   <phrase title="nav.mjcCreditsTransactions" addon_id="MJ/Credits" version_id="1020501" version_string="1.2.5"><![CDATA[交易大厅]]></phrase>
@@ -10975,7 +10975,7 @@ Multiple styles can be combined.
   <phrase title="nav.whatsNewPosts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[新帖]]></phrase>
   <phrase title="nav.whatsNewProfilePosts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[个人空间信息]]></phrase>
   <phrase title="nav.wiki" addon_id="" version_id="0" version_string=""><![CDATA[MineWiki]]></phrase>
-  <phrase title="nav.xfrm" addon_id="XFRM" version_id="2020170" version_string="2.2.1"><![CDATA[资源中心]]></phrase>
+  <phrase title="nav.xfrm" addon_id="XFRM" version_id="2030570" version_string="2.3.5"><![CDATA[资源]]></phrase>
   <phrase title="nav.xfrmLatestReviews" addon_id="XFRM" version_id="2020270" version_string="2.2.2"><![CDATA[最新评价]]></phrase>
   <phrase title="nav.xfrmNewResources" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[新资源]]></phrase>
   <phrase title="nav.xfrmSearchResources" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[搜索资源]]></phrase>
@@ -11962,6 +11962,7 @@ Note that if a CLI upgrade is recommended, you will be given an opportunity to u
   <phrase title="option.xv_collapse_button" addon_id="XV" version_id="2120" version_string="2.1.2"><![CDATA[Collapse Node, Sticky Thread]]></phrase>
   <phrase title="option.xv_convert_avif" addon_id="XV" version_id="2090" version_string="2.0.9"><![CDATA[Convert AVIF, JFIF To JPG / WEBP]]></phrase>
   <phrase title="option.xv_convert_external_image" addon_id="XV" version_id="1950" version_string="1.9.5"><![CDATA[转换外部图像]]></phrase>
+  <phrase title="option.xv_copy_button" addon_id="XV" version_id="2210" version_string="2.2.1"><![CDATA[Add Code Tag Copy Button]]></phrase>
   <phrase title="option.xv_default_waiting_time" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Default Waiting Time]]></phrase>
   <phrase title="option.xv_demo_user" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Demo Users]]></phrase>
   <phrase title="option.xv_dmca" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[DMCA Badges ID]]></phrase>
@@ -12809,6 +12810,7 @@ Once you have provided a unique path and hit the save button, the directory will
   <phrase title="option_explain.xv_collapse_button" addon_id="XV" version_id="2120" version_string="2.1.2"><![CDATA[Add buttons to collapse nodes, sticky threads]]></phrase>
   <phrase title="option_explain.xv_convert_avif" addon_id="XV" version_id="2180" version_string="2.1.8"><![CDATA[自动将 AVIF、JFIF 格式图片转换为 JPG/WEBP（如果支持）]]></phrase>
   <phrase title="option_explain.xv_convert_external_image" addon_id="XV" version_id="2180" version_string="2.1.8"><![CDATA[将外部图片转换为附件（适用于线程和资源）]]></phrase>
+  <phrase title="option_explain.xv_copy_button" addon_id="XV" version_id="2210" version_string="2.2.1"><![CDATA[Add button to copy the contents of BBCode Code tag to clipboard, for thread / resource / direct messages,...)]]></phrase>
   <phrase title="option_explain.xv_default_waiting_time" addon_id="XV" version_id="2180" version_string="2.1.8"><![CDATA[默认下载间隔时间，建议：5]]></phrase>
   <phrase title="option_explain.xv_demo_user" addon_id="XV" version_id="1920" version_string="1.9.2"><![CDATA[演示用户将受到限制：更改用户名、密码、电子邮件、输入用逗号 (,) 分隔的用户 ID]]></phrase>
   <phrase title="option_explain.xv_dmca" addon_id="XV" version_id="2180" version_string="2.1.8"><![CDATA[Allows administrators and moderators to enable DMCA badge. Enter your <a target="_blank" href="https://www.dmca.com/Badges.aspx">DMCA ID</a> code, leave blank to disable]]></phrase>
@@ -19480,6 +19482,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="widget.newthreaf" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.onlineuser" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.ozzmodz_tct_chapters" addon_id="" version_id="0" version_string=""><![CDATA[主题章节]]></phrase>
+  <phrase title="widget.partner_list" addon_id="" version_id="0" version_string=""><![CDATA[合作伙伴]]></phrase>
   <phrase title="widget.portanewthread" addon_id="" version_id="0" version_string=""><![CDATA[新主题]]></phrase>
   <phrase title="widget.post" addon_id="" version_id="0" version_string=""><![CDATA[回复]]></phrase>
   <phrase title="widget.qqgroup" addon_id="" version_id="0" version_string=""><![CDATA[加入QQ讨论群]]></phrase>
