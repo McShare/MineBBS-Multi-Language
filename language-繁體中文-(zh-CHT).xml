@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <language title="繁體中文 (zh-CHT)" date_format="Y/m/d" date_short_format="M 'y" date_short_recent_format="M j" time_format="A g:i" currency_format="{symbol}{value}" week_start="0" decimal_point="." thousands_separator="," label_separator="：" comma_separator=", " ellipsis="……" parenthesis_open="（" parenthesis_close="）" language_code="zh-Hant" text_direction="LTR" user_selectable="1" base_version_id="2030670" export_version="2">
-  <phrase title="10_character_id_that_is_associated_with_your_apple_developer_membership" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[The 10 character ID that is associated with your Apple Developer membership.]]></phrase>
+  <phrase title="10_character_id_that_is_associated_with_your_apple_developer_membership" addon_id="XF" version_id="2030670" version_string="2.3.6"><![CDATA[您的 Apple Developer 會員資格相關的 10 位字符 ID。]]></phrase>
   <phrase title="1_day_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[1 天前]]></phrase>
   <phrase title="1_month_ago" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[1 個月前]]></phrase>
   <phrase title="1_time" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[1 次]]></phrase>
@@ -26,12 +26,12 @@
   <phrase title="accept_all_cookies" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Accept all cookies]]></phrase>
   <phrase title="accept_future_messages" addon_id="XF" version_id="1000011" version_string="1.0.0 Alpha 1"><![CDATA[接收新訊息]]></phrase>
   <phrase title="accept_third_party_cookies" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Accept third party cookies]]></phrase>
-  <phrase title="accepted_privacy_policy" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Accepted privacy policy]]></phrase>
+  <phrase title="accepted_privacy_policy" addon_id="XF" version_id="2030670" version_string="2.3.6"><![CDATA[接受的隱私政策]]></phrase>
   <phrase title="accepted_terms_rules" addon_id="XF" version_id="2000631" version_string="2.0.6 Beta 1"><![CDATA[Accepted terms and rules]]></phrase>
   <phrase title="account_associated" addon_id="XF" version_id="2001270" version_string="2.0.12"><![CDATA[Account associated]]></phrase>
   <phrase title="account_details" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[帳號資訊]]></phrase>
   <phrase title="account_upgrade" addon_id="XF" version_id="2020270" version_string="2.2.2"><![CDATA[帳號升級]]></phrase>
-  <phrase title="account_upgrade_payment_change" addon_id="XF" version_id="2030032" version_string="2.3.0 Beta 2"><![CDATA[The request to change your payment has been received and will be processed shortly. You will receive an email once complete.]]></phrase>
+  <phrase title="account_upgrade_payment_change" addon_id="XF" version_id="2030670" version_string="2.3.6"><![CDATA[您的付款變更請求已收到，將會尽快處理。完成後您將收到一封電子郵件。]]></phrase>
   <phrase title="account_upgrades" addon_id="XF" version_id="2020270" version_string="2.2.2"><![CDATA[帳號升級]]></phrase>
   <phrase title="account_upgrades_cannot_be_purchased_account_unconfirmed" addon_id="XF" version_id="1040010" version_string="1.4.0 Alpha"><![CDATA[完成認證帳號之前無法購買帳號升級資格。]]></phrase>
   <phrase title="action" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[動作]]></phrase>
@@ -46,7 +46,7 @@
   <phrase title="active_reports" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[目前的檢舉]]></phrase>
   <phrase title="active_user_changed_reload_page" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[已變更啟用的使用者。請重新整理以更新頁面。]]></phrase>
   <phrase title="active_user_upgrades" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[啟用的會員升級資格]]></phrase>
-  <phrase title="activity_based_trigger" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Activity based trigger]]></phrase>
+  <phrase title="activity_based_trigger" addon_id="XF" version_id="2030670" version_string="2.3.6"><![CDATA[基於活動的觸發器]]></phrase>
   <phrase title="activity_log_metric.reaction_count" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Reaction count]]></phrase>
   <phrase title="activity_log_metric.reaction_score" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Reaction score]]></phrase>
   <phrase title="activity_log_metric.reply_count" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Reply count]]></phrase>
@@ -139,7 +139,7 @@
   <phrase title="add_content_type_field" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[新增內容類型欄位]]></phrase>
   <phrase title="add_cron_entry" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[新增排程項目]]></phrase>
   <phrase title="add_discouraged_ip" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[新增欲勸退的 IP]]></phrase>
-  <phrase title="add_dropdown" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Add dropdown]]></phrase>
+  <phrase title="add_dropdown" addon_id="XF" version_id="2030670" version_string="2.3.6"><![CDATA[加入下拉選單]]></phrase>
   <phrase title="add_email_ban" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[新增電子郵件封鎖]]></phrase>
   <phrase title="add_extension" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Add extension]]></phrase>
   <phrase title="add_feed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[新增新聞摘要]]></phrase>
@@ -156,7 +156,7 @@
   <phrase title="add_navigation" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[新增導航列]]></phrase>
   <phrase title="add_node" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[新增討論板]]></phrase>
   <phrase title="add_notice" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[新增通知訊息]]></phrase>
-  <phrase title="add_oauth2_client" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Add OAuth2 client]]></phrase>
+  <phrase title="add_oauth2_client" addon_id="XF" version_id="2030670" version_string="2.3.6"><![CDATA[添加 OAuth2 客戶端]]></phrase>
   <phrase title="add_on" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[附加元件]]></phrase>
   <phrase title="add_on_archives" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Add-on archive(s)]]></phrase>
   <phrase title="add_on_batch_result" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Add-on batch result]]></phrase>
@@ -167,7 +167,7 @@
   <phrase title="add_option" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[新增選項]]></phrase>
   <phrase title="add_option_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[新增選項群組]]></phrase>
   <phrase title="add_page" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[新增頁面]]></phrase>
-  <phrase title="add_passkey" addon_id="XF" version_id="2030032" version_string="2.3.0 Beta 2"><![CDATA[Add passkey]]></phrase>
+  <phrase title="add_passkey" addon_id="XF" version_id="2030670" version_string="2.3.6"><![CDATA[增加密钥]]></phrase>
   <phrase title="add_payment_profile" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[新增付款方式]]></phrase>
   <phrase title="add_permission" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[新增權限]]></phrase>
   <phrase title="add_phrase" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[新增詞句]]></phrase>
@@ -184,7 +184,7 @@
   <phrase title="add_route_filter" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[新增路由篩選]]></phrase>
   <phrase title="add_search_forum" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Add search forum]]></phrase>
   <phrase title="add_secondary_user_group" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[新增次級會員群組]]></phrase>
-  <phrase title="add_section" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Add section]]></phrase>
+  <phrase title="add_section" addon_id="XF" version_id="2030670" version_string="2.3.6"><![CDATA[添加部分]]></phrase>
   <phrase title="add_smilie" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[新增表情符號]]></phrase>
   <phrase title="add_smilie_category" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[新增表情符號分類]]></phrase>
   <phrase title="add_style" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[新增樣式]]></phrase>
@@ -199,7 +199,7 @@
   <phrase title="add_user_upgrade" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[新增會員升級資格]]></phrase>
   <phrase title="add_warning" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[新增警告]]></phrase>
   <phrase title="add_warning_action" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[新增警告動作]]></phrase>
-  <phrase title="add_webhook" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Add webhook]]></phrase>
+  <phrase title="add_webhook" addon_id="XF" version_id="2030670" version_string="2.3.6"><![CDATA[增加 webhook]]></phrase>
   <phrase title="add_widget" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[新增小工具]]></phrase>
   <phrase title="add_widget_definition" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[新增小工具定義]]></phrase>
   <phrase title="add_widget_position" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[新增小工具位置]]></phrase>
@@ -212,7 +212,7 @@
   <phrase title="addon_force_overwrite_hint" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[By default only the changed files will be copied from the add-on archive. To overwrite all existing files check this option.]]></phrase>
   <phrase title="admin" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[控制台]]></phrase>
   <phrase title="admin_add_passwordless_warning" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[This user is using a password-less method of logging in. A password reset email will be sent to them so that they may access the admin panel.]]></phrase>
-  <phrase title="admin_add_passwordless_warning_no_email" addon_id="XF" version_id="2021170" version_string="2.2.11"><![CDATA[This user is using a password-less method of logging in but has no associated email address. Either generate a password for them or associate an email address to their account.]]></phrase>
+  <phrase title="admin_add_passwordless_warning_no_email" addon_id="XF" version_id="2030670" version_string="2.3.6"><![CDATA[此用戶使用無密碼登錄方法，但沒有相關的電子郵件地址。無論是為他們生成密碼還是將電子郵件地址與其帳戶相關聯。]]></phrase>
   <phrase title="admin_control_panel" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[管理員控制台]]></phrase>
   <phrase title="admin_log" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[控制台記錄]]></phrase>
   <phrase title="admin_log_entry" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[控制台記錄項目]]></phrase>
@@ -604,8 +604,8 @@
   <phrase title="af_as_award_desc.17" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="af_as_award_desc.18" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS会员数破两万纪念]]></phrase>
   <phrase title="af_as_award_desc.19" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS社区认证新闻小组]]></phrase>
-  <phrase title="af_as_award_desc.2" addon_id="" version_id="0" version_string=""><![CDATA[对本站的建设发展作出重大贡献]]></phrase>
-  <phrase title="af_as_award_desc.20" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS会员数破三万纪念]]></phrase>
+  <phrase title="af_as_award_desc.2" addon_id="" version_id="0" version_string=""><![CDATA[對本站之建設發展作出重大貢獻]]></phrase>
+  <phrase title="af_as_award_desc.20" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS 會員數破三萬紀念]]></phrase>
   <phrase title="af_as_award_desc.21" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS成立四周年纪念勋章]]></phrase>
   <phrase title="af_as_award_desc.22" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS论坛2022年暑期对抗赛]]></phrase>
   <phrase title="af_as_award_desc.23" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS论坛2022年暑期对抗赛]]></phrase>
@@ -614,6 +614,7 @@
   <phrase title="af_as_award_desc.26" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS成立六周年纪念勋章]]></phrase>
   <phrase title="af_as_award_desc.27" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="af_as_award_desc.28" addon_id="" version_id="0" version_string=""><![CDATA[为NETSMC2025跨年活动定制纪念勋章]]></phrase>
+  <phrase title="af_as_award_desc.29" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS成立六周年纪念勋章]]></phrase>
   <phrase title="af_as_award_desc.3" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS社区认证搬运组]]></phrase>
   <phrase title="af_as_award_desc.4" addon_id="" version_id="0" version_string=""><![CDATA[在材质领域有优秀精华的原创作品或卓有名誉]]></phrase>
   <phrase title="af_as_award_desc.5" addon_id="" version_id="0" version_string=""><![CDATA[长期活跃在论坛中的积极分子]]></phrase>
@@ -621,7 +622,7 @@
   <phrase title="af_as_award_desc.7" addon_id="" version_id="0" version_string=""><![CDATA[从论坛建立以来一直陪伴着我们的人~]]></phrase>
   <phrase title="af_as_award_desc.8" addon_id="" version_id="0" version_string=""><![CDATA[大家所公认的技术大佬]]></phrase>
   <phrase title="af_as_award_desc.9" addon_id="" version_id="0" version_string=""><![CDATA[MineBBS建立一周年纪念]]></phrase>
-  <phrase title="af_as_award_points" addon_id="AddonFlare/AwardSystem" version_id="1010070" version_string="1.1.0"><![CDATA[Award points]]></phrase>
+  <phrase title="af_as_award_points" addon_id="AddonFlare/AwardSystem" version_id="1040170" version_string="1.4.1"><![CDATA[奖点]]></phrase>
   <phrase title="af_as_award_recommend_not_allowed" addon_id="AddonFlare/AwardSystem" version_id="1010070" version_string="1.1.0"><![CDATA[This award is not allowed to be recommended]]></phrase>
   <phrase title="af_as_award_request_not_allowed" addon_id="AddonFlare/AwardSystem" version_id="1010070" version_string="1.1.0"><![CDATA[This award is not allowed to be requested]]></phrase>
   <phrase title="af_as_award_title.1" addon_id="" version_id="0" version_string=""><![CDATA[正版用户]]></phrase>
@@ -645,6 +646,7 @@
   <phrase title="af_as_award_title.26" addon_id="" version_id="0" version_string=""><![CDATA[六周年纪念]]></phrase>
   <phrase title="af_as_award_title.27" addon_id="" version_id="0" version_string=""><![CDATA[愚人节限定勋章]]></phrase>
   <phrase title="af_as_award_title.28" addon_id="" version_id="0" version_string=""><![CDATA[NETSMC2025纪念勋章]]></phrase>
+  <phrase title="af_as_award_title.29" addon_id="" version_id="0" version_string=""><![CDATA[七周年纪念勋章]]></phrase>
   <phrase title="af_as_award_title.3" addon_id="" version_id="0" version_string=""><![CDATA[搬运工]]></phrase>
   <phrase title="af_as_award_title.4" addon_id="" version_id="0" version_string=""><![CDATA[材质专家]]></phrase>
   <phrase title="af_as_award_title.5" addon_id="" version_id="0" version_string=""><![CDATA[积极分子]]></phrase>
@@ -690,7 +692,7 @@ If not checked, any awards belonging to this category will be moved to the "Unca
   <phrase title="af_as_link_trophy" addon_id="AddonFlare/AwardSystem" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[Link trophy]]></phrase>
   <phrase title="af_as_lv_x" addon_id="AddonFlare/AwardSystem" version_id="1010170" version_string="1.1.1"><![CDATA[LV {level}]]></phrase>
   <phrase title="af_as_min_level" addon_id="AddonFlare/AwardSystem" version_id="1010170" version_string="1.1.1"><![CDATA[Min Level]]></phrase>
-  <phrase title="af_as_most_recent_awards_explain" addon_id="AddonFlare/AwardSystem" version_id="1000070" version_string="1.0.0"><![CDATA[The max amount of entries to show in the overlay before the "see more" button appears.]]></phrase>
+  <phrase title="af_as_most_recent_awards_explain" addon_id="AddonFlare/AwardSystem" version_id="1040170" version_string="1.4.1"><![CDATA[在出現「查看更多」按鈕之前，覆蓋層中顯示的最大條目數量。]]></phrase>
   <phrase title="af_as_most_recent_users" addon_id="AddonFlare/AwardSystem" version_id="1000070" version_string="1.0.0"><![CDATA[Most recent users]]></phrase>
   <phrase title="af_as_no_awards_added" addon_id="AddonFlare/AwardSystem" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[No awards added]]></phrase>
   <phrase title="af_as_no_awards_added_yet" addon_id="AddonFlare/AwardSystem" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[No awards have been added yet.]]></phrase>
@@ -751,7 +753,7 @@ If not checked, any awards belonging to this category will be moved to the "Unca
   <phrase title="af_as_x_user_already_rejected_x_times" addon_id="AddonFlare/AwardSystem" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[{username} has been reject too many times for this award.]]></phrase>
   <phrase title="af_as_x_user_has_no_awards" addon_id="AddonFlare/AwardSystem" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[{username} has no awards.]]></phrase>
   <phrase title="af_as_xs_awards" addon_id="AddonFlare/AwardSystem" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[{username}'s Awards]]></phrase>
-  <phrase title="af_as_you_have_been_awarded_an_award_x" addon_id="AddonFlare/AwardSystem" version_id="1000010" version_string="1.0.0 Alpha"><![CDATA[<strong class="subject">You</strong> have earned a new award: {award}]]></phrase>
+  <phrase title="af_as_you_have_been_awarded_an_award_x" addon_id="AddonFlare/AwardSystem" version_id="1040170" version_string="1.4.1"><![CDATA[<strong class=“subject”>您</strong>獲得了一個新的勛章：{award}]]></phrase>
   <phrase title="af_as_you_have_reached_level_x" addon_id="AddonFlare/AwardSystem" version_id="1010070" version_string="1.1.0"><![CDATA[Congratulations! You have reached {level_x}!]]></phrase>
   <phrase title="af_as_z" addon_id="AddonFlare/AwardSystem" version_id="1000270" version_string="1.0.2"><![CDATA[No license found for add-on: XF2 Awards System. <br>Please <a href="https://www.addonflare.com/xenforo-2-addons/xf2-awards-system.12/" rel="nofollow" target="_blank">purchase a license</a> or <a href="admin.php?add-ons/AddonFlare-AwardSystem/uninstall" rel="nofollow" target="_blank">uninstall</a> the add-on.<br>
 If you have a valid license, please <a href="admin.php?add-ons/" rel="nofollow" target="_blank">disable</a> the add-on to remove this message and <a href="https://www.addonflare.com/licenses/" rel="nofollow" target="_blank">submit a support ticket</a>.]]></phrase>
@@ -843,14 +845,14 @@ If you have a valid license, please <a href="admin.php?add-ons/" rel="nofollow" 
   <phrase title="all" addon_id="XF" version_id="1000016" version_string="1.0.0 Alpha 6"><![CDATA[全部]]></phrase>
   <phrase title="all_add_ons_in_this_batch_installed_upgraded_successfully" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[All add-ons in this batch installed/upgraded successfully.]]></phrase>
   <phrase title="all_alerts_marked_as_read" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[All alerts marked as read.]]></phrase>
-  <phrase title="all_asset_files_directly_associated_with_style_will_be_deleted" addon_id="XF" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[All asset files directly associated with this style will also be deleted.]]></phrase>
+  <phrase title="all_asset_files_directly_associated_with_style_will_be_deleted" addon_id="XF" version_id="2030670" version_string="2.3.6"><![CDATA[與此樣式直接關聯的所有資源檔也將被刪除。]]></phrase>
   <phrase title="all_automatically_mergeable_templates_have_been_processed" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[可自動合併的範本皆已處裡。其餘的範本則需要手動處裡。]]></phrase>
   <phrase title="all_categories" addon_id="XF" version_id="2000470" version_string="2.0.4"><![CDATA[所有分類]]></phrase>
   <phrase title="all_content_tagged_with_x_will_now_be_tagged_with_this_tag" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[有「{tag}」標籤的文章都會改標記為此標籤。]]></phrase>
   <phrase title="all_content_types" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[所有內容類型]]></phrase>
   <phrase title="all_data_has_now_been_imported_last_step_is_to_finalize_import" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[All data has now been imported. The last step is to finalize the import. This will trigger all actions necessary to ensure that the imported data is structured as expected. Until this is done, the imported data may not be properly viewable in all cases.]]></phrase>
   <phrase title="all_directories_under_x_must_be_writable" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[All directories under {directory} must be writable. Please change the permissions on these directories to be world writable (chmod 0777).]]></phrase>
-  <phrase title="all_files_known_to_be_associated_with_this_add_on_will_be_deleted" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[All files known to be associated with this add-on will be deleted (unless stated otherwise), but it may not be possible to delete some directories.]]></phrase>
+  <phrase title="all_files_known_to_be_associated_with_this_add_on_will_be_deleted" addon_id="XF" version_id="2030670" version_string="2.3.6"><![CDATA[所有與此附加元件相關的已知文件將被刪除（除非另有說明），但可能無法刪除某些目錄。]]></phrase>
   <phrase title="all_forums" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[所有看板]]></phrase>
   <phrase title="all_forums_marked_as_read" addon_id="XF" version_id="1010031" version_string="1.1.0 Beta 1"><![CDATA[將所有看板標示為已讀。]]></phrase>
   <phrase title="all_posts_from_other_threads_will_be_merged_into_this_thread" addon_id="XF" version_id="1000015" version_string="1.0.0 Alpha 5"><![CDATA[其他主題內的所有文章都會合併到這個主題下。]]></phrase>
@@ -1225,7 +1227,7 @@ If you have a valid license, please <a href="admin.php?add-ons/" rel="nofollow" 
   <phrase title="authy_api_key" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[Authy API key]]></phrase>
   <phrase title="authy_api_key_explain" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[To use Authy you must create an Authy API key in the <a href="https://www.twilio.com/console" target="_blank">Twilio console dashboard</a>.]]></phrase>
   <phrase title="authy_denied" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[The approval request was denied so we cannot log you in at this time.]]></phrase>
-  <phrase title="authy_no_approval_request" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[No approval request found with that UUID. Please try again later.]]></phrase>
+  <phrase title="authy_no_approval_request" addon_id="XF" version_id="2030670" version_string="2.3.6"><![CDATA[未找到包含該 UUID 的批准請求。請稍後重試。]]></phrase>
   <phrase title="authy_no_uuid" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[No approval request UUID. Please try again later.]]></phrase>
   <phrase title="authy_success" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[The approval request was successful and you have logged in successfully.]]></phrase>
   <phrase title="auto_embed_media_and_add_link_in_this_bb_code" addon_id="XF" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[用此 BB Code 自動內嵌媒體與新增連結到內文]]></phrase>
@@ -3061,6 +3063,8 @@ Message: {message}]]></phrase>
   <phrase title="dbtech_shop_item_is_exclusive" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Exclusive item]]></phrase>
   <phrase title="dbtech_shop_item_is_exclusive_hint" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Prevents buying this item if the user already owns an item of the same item type.]]></phrase>
   <phrase title="dbtech_shop_item_is_giftable" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Giftable]]></phrase>
+  <phrase title="dbtech_shop_item_is_only_for_oneself" addon_id="DBTech/Shop" version_id="907000470" version_string="7.0.4"><![CDATA[仅用于自己]]></phrase>
+  <phrase title="dbtech_shop_item_is_only_for_oneself_hint" addon_id="DBTech/Shop" version_id="907000470" version_string="7.0.4"><![CDATA[用户只能用于自己发布的内容]]></phrase>
   <phrase title="dbtech_shop_item_is_only_giftable" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Only giftable]]></phrase>
   <phrase title="dbtech_shop_item_is_only_giftable_hint" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[If checked, this item can only be gifted to someone else, not activated for the buyer themselves.]]></phrase>
   <phrase title="dbtech_shop_item_is_stealth_item" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Stealth item]]></phrase>
@@ -9891,7 +9895,6 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_event.2" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event.20" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event.21" addon_id="" version_id="0" version_string=""><![CDATA[回复被删除]]></phrase>
-  <phrase title="mjc_event.25" addon_id="" version_id="0" version_string=""><![CDATA[登录奖励]]></phrase>
   <phrase title="mjc_event.3" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event.34" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event.35" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -9905,8 +9908,8 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_event.45" addon_id="" version_id="0" version_string=""><![CDATA[收到回帖]]></phrase>
   <phrase title="mjc_event.46" addon_id="" version_id="0" version_string=""><![CDATA[失去回帖]]></phrase>
   <phrase title="mjc_event.47" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="mjc_event.48" addon_id="" version_id="0" version_string=""><![CDATA[发红包]]></phrase>
-  <phrase title="mjc_event.49" addon_id="" version_id="0" version_string=""><![CDATA[发红包]]></phrase>
+  <phrase title="mjc_event.48" addon_id="" version_id="0" version_string=""><![CDATA[红包]]></phrase>
+  <phrase title="mjc_event.49" addon_id="" version_id="0" version_string=""><![CDATA[领红包]]></phrase>
   <phrase title="mjc_event.5" addon_id="" version_id="0" version_string=""><![CDATA[初始资金]]></phrase>
   <phrase title="mjc_event.50" addon_id="" version_id="0" version_string=""><![CDATA[小水贴]]></phrase>
   <phrase title="mjc_event.51" addon_id="" version_id="0" version_string=""><![CDATA[大水贴]]></phrase>
@@ -9919,7 +9922,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_event.60" addon_id="" version_id="0" version_string=""><![CDATA[动态被删除]]></phrase>
   <phrase title="mjc_event.63" addon_id="" version_id="0" version_string=""><![CDATA[失去关注]]></phrase>
   <phrase title="mjc_event.67" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="mjc_event.69" addon_id="" version_id="0" version_string=""><![CDATA[测试签到]]></phrase>
+  <phrase title="mjc_event.69" addon_id="" version_id="0" version_string=""><![CDATA[每日签到]]></phrase>
   <phrase title="mjc_event.7" addon_id="" version_id="0" version_string=""><![CDATA[失去支持]]></phrase>
   <phrase title="mjc_event.70" addon_id="" version_id="0" version_string=""><![CDATA[服务器宣传贴被删除]]></phrase>
   <phrase title="mjc_event.9" addon_id="" version_id="0" version_string=""><![CDATA[发布新主题]]></phrase>
@@ -10072,7 +10075,6 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_event_desc.2" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_desc.20" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_desc.21" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="mjc_event_desc.25" addon_id="" version_id="0" version_string=""><![CDATA[欢迎登陆MineBBS~（更新奖励/七周年）]]></phrase>
   <phrase title="mjc_event_desc.3" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_desc.34" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_desc.35" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -10092,7 +10094,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="mjc_event_desc.50" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_desc.51" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_desc.54" addon_id="" version_id="0" version_string=""><![CDATA[发布了一条新空间动态]]></phrase>
-  <phrase title="mjc_event_desc.55" addon_id="" version_id="0" version_string=""><![CDATA[在新闻资讯板块发布了一条新闻贴]]></phrase>
+  <phrase title="mjc_event_desc.55" addon_id="" version_id="0" version_string=""><![CDATA[在新闻资讯版块发布了一条新闻贴]]></phrase>
   <phrase title="mjc_event_desc.57" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_desc.58" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_desc.59" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -10639,7 +10641,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="nav.defaultRegister" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Register]]></phrase>
   <phrase title="nav.defaultYourAccount" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Your account]]></phrase>
   <phrase title="nav.defaultYourProfile" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Your profile]]></phrase>
-  <phrase title="nav.donate" addon_id="" version_id="0" version_string=""><![CDATA[捐赠我们]]></phrase>
+  <phrase title="nav.donate" addon_id="" version_id="0" version_string=""><![CDATA[赞助]]></phrase>
   <phrase title="nav.entranceExam" addon_id="CnXFans/EntranceExam" version_id="1000000" version_string="1.0.0"><![CDATA[入站考试]]></phrase>
   <phrase title="nav.featured" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Featured content]]></phrase>
   <phrase title="nav.findThreads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[尋找主題]]></phrase>
@@ -10649,7 +10651,7 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="nav.latestActivity" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[最新動態]]></phrase>
   <phrase title="nav.markForumsRead" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[將看板標示為已讀]]></phrase>
   <phrase title="nav.mc_download" addon_id="" version_id="0" version_string=""><![CDATA[MC下载]]></phrase>
-  <phrase title="nav.mcnav" addon_id="" version_id="0" version_string=""><![CDATA[MCNav导航]]></phrase>
+  <phrase title="nav.mcnav" addon_id="" version_id="0" version_string=""><![CDATA[MCNav]]></phrase>
   <phrase title="nav.members" addon_id="XF" version_id="2011072" version_string="2.1.10 Patch 2"><![CDATA[名人堂]]></phrase>
   <phrase title="nav.mjcCredits" addon_id="MJ/Credits" version_id="1020800" version_string="1.2.8"><![CDATA[積分]]></phrase>
   <phrase title="nav.mjcCreditsTransactions" addon_id="MJ/Credits" version_id="1020501" version_string="1.2.5"><![CDATA[交易大厅]]></phrase>
@@ -10658,7 +10660,6 @@ The callback should return either <code>true</code> or <code>false</code>, where
   <phrase title="nav.newPosts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[最新文章]]></phrase>
   <phrase title="nav.newProfilePosts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[最新個人動態]]></phrase>
   <phrase title="nav.news" addon_id="" version_id="0" version_string=""><![CDATA[資訊]]></phrase>
-  <phrase title="nav.othersite" addon_id="" version_id="0" version_string=""><![CDATA[相关网站]]></phrase>
   <phrase title="nav.registeredMembers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[已註冊會員]]></phrase>
   <phrase title="nav.searchConversations" addon_id="XF" version_id="2030031" version_string="2.3.0 Beta 1"><![CDATA[Search direct messages]]></phrase>
   <phrase title="nav.searchForums" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[搜尋看板]]></phrase>
@@ -11231,6 +11232,7 @@ If a CLI upgrade is recommended, you will be given an opportunity to use that in
   <phrase title="option.imageProxyMaxSize" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[圖片快取單檔容量上限]]></phrase>
   <phrase title="option.includeCaptchaPrivacyPolicy" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Include CAPTCHA privacy policy]]></phrase>
   <phrase title="option.includeEmojiInTitles" addon_id="XF" version_id="2030037" version_string="2.3.0 Beta 7"><![CDATA[Include emoji in content title in URLs]]></phrase>
+  <phrase title="option.includeNewTitleInUrls" addon_id="CnXFans/NewRouter" version_id="1000000" version_string="1.0.0"><![CDATA[链接中包含内容新标题]]></phrase>
   <phrase title="option.includeTitleInUrls" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[在網址內加入文章標題]]></phrase>
   <phrase title="option.indexNow" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[Enable support for IndexNow]]></phrase>
   <phrase title="option.indexRoute" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[首頁路徑]]></phrase>
@@ -11664,21 +11666,25 @@ If a CLI upgrade is recommended, you will be given an opportunity to use that in
   <phrase title="option.xv_cf_analytics" addon_id="XV" version_id="2130" version_string="2.1.3"><![CDATA[Cloudflare Web Analytics]]></phrase>
   <phrase title="option.xv_change_post" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Change Author & Date]]></phrase>
   <phrase title="option.xv_collapse_button" addon_id="XV" version_id="2120" version_string="2.1.2"><![CDATA[Collapse Node, Sticky Thread]]></phrase>
+  <phrase title="option.xv_colorful_editor" addon_id="XV" version_id="2250" version_string="2.2.5"><![CDATA[Add Colorful Editor Button]]></phrase>
   <phrase title="option.xv_convert_avif" addon_id="XV" version_id="2090" version_string="2.0.9"><![CDATA[Convert AVIF, JFIF To JPG / WEBP]]></phrase>
   <phrase title="option.xv_convert_external_image" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Convert External Images]]></phrase>
+  <phrase title="option.xv_copy_button" addon_id="XV" version_id="2210" version_string="2.2.1"><![CDATA[Add Code Tag Copy Button]]></phrase>
+  <phrase title="option.xv_default_image" addon_id="XV" version_id="2260" version_string="2.2.6"><![CDATA[Default Thread / Resource Image]]></phrase>
   <phrase title="option.xv_default_waiting_time" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Default Waiting Time]]></phrase>
   <phrase title="option.xv_demo_user" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Demo Users]]></phrase>
   <phrase title="option.xv_dmca" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[DMCA Badges ID]]></phrase>
   <phrase title="option.xv_domain_ex" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Exclude Domains]]></phrase>
   <phrase title="option.xv_email_whitelist" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Email Whitelist]]></phrase>
   <phrase title="option.xv_extra_mod" addon_id="XV" version_id="2120" version_string="2.1.2"><![CDATA[Extra Mods For XF]]></phrase>
+  <phrase title="option.xv_force_like" addon_id="XV" version_id="2260" version_string="2.2.6"><![CDATA[Force Like]]></phrase>
   <phrase title="option.xv_forum_statistic" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Forum Statistics]]></phrase>
   <phrase title="option.xv_global_sticky_threads" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Global Sticky Threads]]></phrase>
   <phrase title="option.xv_group_icon" addon_id="XV" version_id="2200" version_string="2.2.0"><![CDATA[User Group Icon]]></phrase>
+  <phrase title="option.xv_hide_content" addon_id="XV" version_id="2240" version_string="2.2.4"><![CDATA[Hide Thread / Resource Content]]></phrase>
   <phrase title="option.xv_image_watermark" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Smart Image Watermark]]></phrase>
   <phrase title="option.xv_lazyload_ga" addon_id="XV" version_id="2130" version_string="2.1.3"><![CDATA[Lazyload Google Analytics]]></phrase>
   <phrase title="option.xv_license" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[XenVn License]]></phrase>
-  <phrase title="option.xv_like_view_code" addon_id="XV" version_id="2190" version_string="2.1.9"><![CDATA[Force Like To View Code Tag]]></phrase>
   <phrase title="option.xv_limit_category" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Forum / Resource Limit]]></phrase>
   <phrase title="option.xv_limit_create_new" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Limit Create Thread / Resource]]></phrase>
   <phrase title="option.xv_limit_download" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Attachment Download Limit]]></phrase>
@@ -11698,14 +11704,16 @@ If a CLI upgrade is recommended, you will be given an opportunity to use that in
   <phrase title="option.xv_related_statistic" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Related Thread / Resource]]></phrase>
   <phrase title="option.xv_remove_footer_copyright" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Remove Footer Copyright]]></phrase>
   <phrase title="option.xv_remove_route" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Remove Basic XF Routes]]></phrase>
+  <phrase title="option.xv_remove_tos" addon_id="XV" version_id="2260" version_string="2.2.6"><![CDATA[Remove TOS, Policy Links]]></phrase>
   <phrase title="option.xv_schedule_publishing" addon_id="XV" version_id="2060" version_string="2.0.6"><![CDATA[Schedule Publishing]]></phrase>
   <phrase title="option.xv_similar_limit_day" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Limit Date]]></phrase>
   <phrase title="option.xv_snackbar" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Snackbar Notification]]></phrase>
   <phrase title="option.xv_statistic_exclude" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Exclude Forums / Resources]]></phrase>
+  <phrase title="option.xv_statistic_tabs" addon_id="XV" version_id="2240" version_string="2.2.4"><![CDATA[Forum Statistics Tabs]]></phrase>
   <phrase title="option.xv_thread_detail" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Add Thread Detail]]></phrase>
   <phrase title="option.xv_thread_suffix" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Thread Suffix]]></phrase>
   <phrase title="option.xv_update_attachment" addon_id="XV" version_id="2040" version_string="2.0.4"><![CDATA[Update Attachments]]></phrase>
-  <phrase title="option.xv_upgrade_notification" addon_id="XV" version_id="2060" version_string="2.0.6"><![CDATA[Notification When User Upgrades]]></phrase>
+  <phrase title="option.xv_upgrade_notification" addon_id="XV" version_id="2260" version_string="2.2.6"><![CDATA[Notification When User Upgrades, Downgrades]]></phrase>
   <phrase title="option.xv_uptop_time" addon_id="XV" version_id="2040" version_string="2.0.4"><![CDATA[Uptop Time]]></phrase>
   <phrase title="option.xv_user_control_panel" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Display User Control Panel]]></phrase>
   <phrase title="option.xv_user_reputation_banner" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Add User Reputation Banner]]></phrase>
@@ -12012,6 +12020,7 @@ If you wish to optimize existing images, you can do this from within the <a href
   <phrase title="option_explain.imageProxyMaxSize" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[能透過代理系統快取的圖片大小。若圖片大於此限，則會使用替代圖片。填 0 停用此限制。]]></phrase>
   <phrase title="option_explain.includeCaptchaPrivacyPolicy" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[Some CAPTCHA providers may provide their own privacy policy that will be appended to the end of your site's privacy policy. You may wish to disable this if your privacy policy already covers the use of CAPTCHA.]]></phrase>
   <phrase title="option_explain.includeEmojiInTitles" addon_id="XF" version_id="2030038" version_string="2.3.0 Beta 8"><![CDATA[If 'Romanize titles in URLs' and 'Include content title in URLs' options are both enabled, you can control the behaviour of emoji used in titles with this option.]]></phrase>
+  <phrase title="option_explain.includeNewTitleInUrls" addon_id="CnXFans/NewRouter" version_id="1000000" version_string="1.0.0"><![CDATA[开启此选项，网址中的拼音字符将会被移除。例如:  <code>/threads/hello-xin-zhu-ti-xing-shi.128/</code> 将更改为 <code>/threads/hello.128/</code>]]></phrase>
   <phrase title="option_explain.includeTitleInUrls" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[停用後，/threads/my-thread.128/ 這類的網址就會去除原本的標題，變成 /threads/128/]]></phrase>
   <phrase title="option_explain.indexNow" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[IndexNow offers a way to inform supported search engines about new and updated content on your site allowing them to prioritise crawling the right content. You may learn more about IndexNow and supported search engines <a href="https://www.indexnow.org" target="_blank">here</a>.]]></phrase>
   <phrase title="option_explain.indexRoute" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[如果你想變更論壇的預設首頁，可以在此修改。路徑為論壇網址連結中的頁面部份，例如 forums/ 或 pages/page-name/。請不要在此使用路徑篩選。]]></phrase>
@@ -12488,7 +12497,7 @@ Requires XenForo Enhanced Search]]></phrase>
   <phrase title="option_explain.xv_ad_2" addon_id="XV" version_id="2150" version_string="2.1.5"><![CDATA[Add AD 2 code for Auto Ads with Smart Ad Blocker Detection (displayed at the Middle of: forums, threads, resources, redirects page). <i>Additional configuration in Groups & permissions</i>]]></phrase>
   <phrase title="option_explain.xv_ad_3" addon_id="XV" version_id="2150" version_string="2.1.5"><![CDATA[Add AD 3 code for Auto Ads with Smart Ad Blocker Detection (displayed at the Bottom of: forums, threads, resources, redirects page). <i>Additional configuration in Groups & permissions</i>]]></phrase>
   <phrase title="option_explain.xv_ad_4" addon_id="XV" version_id="2190" version_string="2.1.9"><![CDATA[Add AD 4 code for Auto Ads (displayed above attachment list of first post / resource view page). <i>Additional configuration in Groups & permissions</i>]]></phrase>
-  <phrase title="option_explain.xv_ad_blocker_detect" addon_id="XV" version_id="2190" version_string="2.1.9"><![CDATA[Enable smart ad blocker detection, works with ad codes in AD 1, AD 2, AD 3. <i>Additional configuration in Groups & permissions</i>]]></phrase>
+  <phrase title="option_explain.xv_ad_blocker_detect" addon_id="XV" version_id="2260" version_string="2.2.6"><![CDATA[Enable smart ad blocker detection, works with ad codes in AD 1, AD 2, AD 3]]></phrase>
   <phrase title="option_explain.xv_add_head_code" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Add code css, javascript, meta,... in between &lt;head&gt; & &lt;/head&gt; tag]]></phrase>
   <phrase title="option_explain.xv_add_redirect_page" addon_id="XV" version_id="2100" version_string="2.1.0"><![CDATA[Add redirect page for attachments, external links, resources. Additional configuration in User group permissions<br />
 <i>Phrases: xv_become_a_member_for_faster_access, xv_upgrade_your_account_for_faster_access</i>]]></phrase>
@@ -12498,7 +12507,7 @@ Requires XenForo Enhanced Search]]></phrase>
   <phrase title="option_explain.xv_attachment_prefix" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Add a prefix to attachment name when download, leave blank to disable]]></phrase>
   <phrase title="option_explain.xv_auto_delete_hidden_content" addon_id="XV" version_id="2080" version_string="2.0.8"><![CDATA[Enter the number of days that threads, posts, resources (updates, versions) hidden from the public will be deleted<br />
 <i>Set 0 to disable, recommend: 180, minimum: 30</i>]]></phrase>
-  <phrase title="option_explain.xv_auto_delete_users" addon_id="XV" version_id="2200" version_string="2.2.0"><![CDATA[Enter the number of days that inactive users & their direct messages will be deleted, excluding admin staff & banned users<br />
+  <phrase title="option_explain.xv_auto_delete_users" addon_id="XV" version_id="2260" version_string="2.2.6"><![CDATA[Enter the number of days that inactive users will be deleted, excluding admin staff & banned users<br />
 <i> Set 0 to disable, recommend: 180, minimum: 30</i>]]></phrase>
   <phrase title="option_explain.xv_avatar_circle_year" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Add a colored border to the avatar displaying the number of years of joining<br />
 <i>Enter the number of years for 1/4 corner, set 0 to disable, recommend: 1</i>]]></phrase>
@@ -12508,32 +12517,35 @@ Requires XenForo Enhanced Search]]></phrase>
   <phrase title="option_explain.xv_cf_analytics" addon_id="XV" version_id="2130" version_string="2.1.3"><![CDATA[Enter Cloudflare Web Analytics Token to Lazyload. Get it at: <i>Cloudflare -> Analytics & Logs -> Web Analytics -> Manage site -> JS Snippet (copy only your token code)</i>]]></phrase>
   <phrase title="option_explain.xv_change_post" addon_id="XV" version_id="2040" version_string="2.0.4"><![CDATA[Allows admins and moderators to change post author & date, resource date]]></phrase>
   <phrase title="option_explain.xv_collapse_button" addon_id="XV" version_id="2120" version_string="2.1.2"><![CDATA[Add buttons to collapse nodes, sticky threads]]></phrase>
+  <phrase title="option_explain.xv_colorful_editor" addon_id="XV" version_id="2260" version_string="2.2.6"><![CDATA[Add multi-color to buttons in editor toolbar, automatic color compatibility in XF 2.3 dark mode]]></phrase>
   <phrase title="option_explain.xv_convert_avif" addon_id="XV" version_id="2090" version_string="2.0.9"><![CDATA[Automatically convert AVIF, JFIF format images to JPG / WEBP if supported]]></phrase>
   <phrase title="option_explain.xv_convert_external_image" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Convert external images into attachments (applies to Thread and Resource)]]></phrase>
-  <phrase title="option_explain.xv_default_waiting_time" addon_id="XV" version_id="2190" version_string="2.1.9"><![CDATA[Default waiting time between downloads, recommend: 5. <i>Additional configuration in Groups & permissions</i>]]></phrase>
+  <phrase title="option_explain.xv_copy_button" addon_id="XV" version_id="2210" version_string="2.2.1"><![CDATA[Add button to copy the contents of BBCode Code tag to clipboard, for thread / resource / direct messages,...)]]></phrase>
+  <phrase title="option_explain.xv_default_image" addon_id="XV" version_id="2260" version_string="2.2.6"><![CDATA[Default image for Thread / Resource when it has no image, used for features: Optimal MetaData, Add Thread Detail. Leave blank to use default: styles/XV/no-image.webp]]></phrase>
+  <phrase title="option_explain.xv_default_waiting_time" addon_id="XV" version_id="2260" version_string="2.2.6"><![CDATA[Default waiting time between downloads, recommend: 5<br />
+<i>(Waiting Time = Default Waiting Time - [Limit] Reduce wait time between downloads)</i>]]></phrase>
   <phrase title="option_explain.xv_demo_user" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Demo users will not be able to change passwords and personal information. Enter user ids separated by commas (,)]]></phrase>
   <phrase title="option_explain.xv_dmca" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Allows administrators and moderators to enable DMCA badge. Enter your <a target="_blank" href="https://www.dmca.com/Badges.aspx">DMCA ID</a> code, leave blank to disable]]></phrase>
-  <phrase title="option_explain.xv_domain_ex" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Exclude domains for redirect page, no include www, one domain per line, example: xenvn.com]]></phrase>
+  <phrase title="option_explain.xv_domain_ex" addon_id="XV" version_id="2230" version_string="2.2.3"><![CDATA[Exclude domains / urls for redirect page, no include http / www, one domain per line, example: xenvn.com, t.me/adxenvn]]></phrase>
   <phrase title="option_explain.xv_email_whitelist" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Whitelist email domains, separated by comma, leave blank to disable, example: gmail.com,icloud.com,outlook.com]]></phrase>
-  <phrase title="option_explain.xv_extra_mod" addon_id="XV" version_id="2110" version_string="2.1.1"><![CDATA[Collection of customizations to optimize XF, compatible with default style, may not be compatible with some styles]]></phrase>
+  <phrase title="option_explain.xv_extra_mod" addon_id="XV" version_id="2250" version_string="2.2.5"><![CDATA[Collection of customizations to optimize XenForo including CSS tweaks and Template modifications]]></phrase>
+  <phrase title="option_explain.xv_force_like" addon_id="XV" version_id="2260" version_string="2.2.6"><![CDATA[Force users to Like to download attachments, view BBCode Code tag and prevents reaction removal]]></phrase>
   <phrase title="option_explain.xv_forum_statistic" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Display forum statistics at top forum page, set 0 to disable, recommend: 10]]></phrase>
-  <phrase title="option_explain.xv_global_sticky_threads" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Sticky these threads in all node forums, enter thread ids separated by commas (,)]]></phrase>
-  <phrase title="option_explain.xv_group_icon" addon_id="XV" version_id="2200" version_string="2.2.0"><![CDATA[Add icon next to username using fa-icon, example: <b>fa-badge-check</b>, <b>fad fa-badge-check</b>, leave blank to diable<br />
-<i>Icon is selected according to Display styling priority value. To customize colors, use CSS code: .group-icon { color: #ff0000; }<br />
-If you change the <b>User groups: Display styling priority</b> setting, you need to click Save again to update the priority order</i>]]></phrase>
+  <phrase title="option_explain.xv_global_sticky_threads" addon_id="XV" version_id="2240" version_string="2.2.4"><![CDATA[Sticky these threads in all node forums, selected threads must be sticky threads, enter thread ids separated by commas (,)]]></phrase>
+  <phrase title="option_explain.xv_group_icon" addon_id="XV" version_id="2250" version_string="2.2.5"><![CDATA[Add icon next to username using fa-icon, example: <b>fa-badge-check</b>, <b>fad fa-badge-check</b>, leave blank to diable<br />
+Username color is css code, for example: <b>#DB0000</b>, <b>#005A00</b>, <b>#AF3CAF</b>, leave blank for default color (for xf 2.3+ dark mode, colors will automatically lighten by 20%)<br />
+<i>Icon is selected according to Display styling priority value. If you change the <b>User groups: Display styling priority</b> setting, you need to click Save again to update the priority order</i>]]></phrase>
+  <phrase title="option_explain.xv_hide_content" addon_id="XV" version_id="2260" version_string="2.2.6"><![CDATA[Hide content and attachments of threads / resources from user groups, showing only an image and short description, users also cannot reply to threads or rate resources. <i>Additional configuration in Groups & permissions. Recommended to enable: Add Thread Detail, View All Image Attachments</i>]]></phrase>
   <phrase title="option_explain.xv_image_watermark" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Path of watermark image, leave blank to disable, recommended size 200 x 200px, example: styles/XV/watermark.webp]]></phrase>
   <phrase title="option_explain.xv_lazyload_ga" addon_id="XV" version_id="2130" version_string="2.1.3"><![CDATA[Enable Google Analytics Lazyload to Improve Page Performance]]></phrase>
   <phrase title="option_explain.xv_license" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[]]></phrase>
-  <phrase title="option_explain.xv_like_view_code" addon_id="XV" version_id="2190" version_string="2.1.9"><![CDATA[Force users to Like to view content in the Code tag, hidden from guests. <i>Additional configuration in Groups & permissions</i>]]></phrase>
-  <phrase title="option_explain.xv_limit_category" addon_id="XV" version_id="2190" version_string="2.1.9"><![CDATA[Select forums / resources to use download limit. Guest will not be able to download in selected. Prevents reaction removal]]></phrase>
+  <phrase title="option_explain.xv_limit_category" addon_id="XV" version_id="2260" version_string="2.2.6"><![CDATA[Select forums / resources to use download limit. Guest will not be able to download in selected<br />]]></phrase>
   <phrase title="option_explain.xv_limit_create_new" addon_id="XV" version_id="2190" version_string="2.1.9"><![CDATA[Limit the number of threads / resources a user can be created in 24 hours<br />
 <i>Count limit for All Forum / Resource Categories (use User group permissions) or for Each Forum / Resource Categories (use Node / Resource category permissions)</i>]]></phrase>
   <phrase title="option_explain.xv_limit_download" addon_id="XV" version_id="2060" version_string="2.0.6"><![CDATA[Limit the number of attachments (threads, resources) that members can download in a period of time<br />
 <i>Additional configuration in: User group permissions, Node permissions, Resource category permissions:</i><br />
 <i>(Cycle time for limit, Use time of user upgrade for cycle time, Number of attachments that can be downloaded,...)</i>]]></phrase>
-  <phrase title="option_explain.xv_limit_mode" addon_id="XV" version_id="2190" version_string="2.1.9"><![CDATA[Count limit for All Forum / Resource Categories (use User group permissions) or for Each Forum / Resource Categories (use Node / Resource category permissions)<br />
-The following setting will prioritize Node / Resource category permissions:<br />
-<i>Reduce wait time between downloads, Bypass Like to download attachments, view Code tag</i>]]></phrase>
+  <phrase title="option_explain.xv_limit_mode" addon_id="XV" version_id="2260" version_string="2.2.6"><![CDATA[Count limit for All Forum / Resource Categories (use User group permissions) or for Each Forum / Resource Categories (use Node / Resource category permissions)]]></phrase>
   <phrase title="option_explain.xv_login_security" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Enhanced security when logging in and registering, forcing captcha confirmation when login failed, block spam-like emails]]></phrase>
   <phrase title="option_explain.xv_max_file_size" addon_id="XV" version_id="2200" version_string="2.2.0"><![CDATA[Maximum upload attachment file size (KB) for admin staff & upgraded users, set 0 for default value]]></phrase>
   <phrase title="option_explain.xv_mention_button" addon_id="XV" version_id="2120" version_string="2.1.2"><![CDATA[Add user mention button at the bottom of each post]]></phrase>
@@ -12544,24 +12556,27 @@ The following setting will prioritize Node / Resource category permissions:<br /
   <phrase title="option_explain.xv_optimal_meta_data" addon_id="XV" version_id="2060" version_string="2.0.6"><![CDATA[Optimize description, og:image tags for threads / resources (Rebuild Threads / Resources Metadata)]]></phrase>
   <phrase title="option_explain.xv_optimize_xf" addon_id="XV" version_id="2001" version_string="2.0.0 (Final)"><![CDATA[Disable all XenVn template modifications, class extension support for XF 2.2 (does not affect other add-ons)]]></phrase>
   <phrase title="option_explain.xv_portal_statistic_widget" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Enable Statistic Widget]]></phrase>
-  <phrase title="option_explain.xv_prevent_copy" addon_id="XV" version_id="2200" version_string="2.2.0"><![CDATA[Prevent guests from copying your content (articles, messages > 30 characters) and pasting it outside<br />
-Users (except admin staff, upgraded users) when copying will add the source url to the end of the content, users can copy code tags]]></phrase>
-  <phrase title="option_explain.xv_redirect_time" addon_id="XV" version_id="2090" version_string="2.0.9"><![CDATA[Default waiting time for redirect page (countdown timeout), recommend: 30]]></phrase>
+  <phrase title="option_explain.xv_prevent_copy" addon_id="XV" version_id="2260" version_string="2.2.6"><![CDATA[Prevent guests from copying your content (article, message) > 30 characters and pasting it outside. Users when copying will add the source url to the end of the content, users can copy code tags. (exclude admin staff & upgraded users)]]></phrase>
+  <phrase title="option_explain.xv_redirect_time" addon_id="XV" version_id="2260" version_string="2.2.6"><![CDATA[Default waiting time for redirect page (countdown timeout), recommend: 30<br />
+<i>(Redirect Time = Default Redirect Time - Reduce wait time for redirect page)</i>]]></phrase>
   <phrase title="option_explain.xv_related_statistic" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Display related thead, resource at bottom thread view, resource view, redirect page, set 0 to disable, recommend: 5]]></phrase>
   <phrase title="option_explain.xv_remove_footer_copyright" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Remove copyright of Xenforo and some addons, styles in the footer]]></phrase>
-  <phrase title="option_explain.xv_remove_route" addon_id="XV" version_id="2020" version_string="2.0.2"><![CDATA[Remove /categories, /forums, /threads, /resources, /resources/categories, /attachments, /members routes in URL<br />
+  <phrase title="option_explain.xv_remove_route" addon_id="XV" version_id="2260" version_string="2.2.6"><![CDATA[Remove /categories, /forums, /threads, /resources, /resources/categories, /attachments, /members routes in URL. Requirement: Enable <u>Use full friendly URLs</u> feature<br />
 <i>(s: resources/categories/, c: categories/, f: forums/, t: threads/, r: resources/, a: attachments/, m: members/)</i><br />
 Example:<br />
 <i>site.com/forums/forum-title.1/ => site.com/forum-title.f1/, site.com/threads/thread-title.1/ => site.com/thread-title.t1/</i>]]></phrase>
+  <phrase title="option_explain.xv_remove_tos" addon_id="XV" version_id="2260" version_string="2.2.6"><![CDATA[Remove TOS, Policy links in footer, these links still exist in the Help section]]></phrase>
   <phrase title="option_explain.xv_schedule_publishing" addon_id="XV" version_id="2050" version_string="2.0.5"><![CDATA[Allow users to schedule thread / resource publishing]]></phrase>
   <phrase title="option_explain.xv_similar_limit_day" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Exclude similar threads older than this many days. Enter 0 to disable]]></phrase>
   <phrase title="option_explain.xv_snackbar" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Enable snackbar notifications, using Alerts Auto Refresh cycle time, only works when Alerts Auto Refresh is enabled]]></phrase>
   <phrase title="option_explain.xv_statistic_exclude" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Exclude Forums / Resources for Forum Statistics]]></phrase>
-  <phrase title="option_explain.xv_thread_detail" addon_id="XV" version_id="2060" version_string="2.0.6"><![CDATA[Add thread icon use thread image, thread description (Rebuild Threads Metadata)]]></phrase>
+  <phrase title="option_explain.xv_statistic_tabs" addon_id="XV" version_id="2240" version_string="2.2.4"><![CDATA[Customize forum statistics tabs, leave blank to disable<br />
+<i>List of phrases: xv_last_thread_name, xv_most_view_name, xv_stick_thread_name, xfrm_new_resources, xfrm_top_resources, xv_top_attachment_name, xv_new_member_name</i>]]></phrase>
+  <phrase title="option_explain.xv_thread_detail" addon_id="XV" version_id="2240" version_string="2.2.4"><![CDATA[Add thread icon use thread image, thread description (Rebuild Threads Metadata). <i>Recommended to enable: View All Image Attachments</i>]]></phrase>
   <phrase title="option_explain.xv_thread_suffix" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Enable suffix for thread title]]></phrase>
   <phrase title="option_explain.xv_update_attachment" addon_id="XV" version_id="2050" version_string="2.0.5"><![CDATA[Enable attachment updates for first post (thread) / resource]]></phrase>
-  <phrase title="option_explain.xv_upgrade_notification" addon_id="XV" version_id="2060" version_string="2.0.6"><![CDATA[Send notifications to users and administrators when users upgrade their accounts<br />
-<i>Phrases: xv_upgrade_notice_admin, xv_upgrade_notice_user</i>]]></phrase>
+  <phrase title="option_explain.xv_upgrade_notification" addon_id="XV" version_id="2260" version_string="2.2.6"><![CDATA[Send notifications to users and administrators when users upgrade their accounts or are downgraded<br />
+<i>Phrases: xv_upgrade_notice_admin, xv_upgrade_notice_user, xv_downgrade_notice_admin, xv_downgrade_notice_user</i>]]></phrase>
   <phrase title="option_explain.xv_uptop_time" addon_id="XV" version_id="2050" version_string="2.0.5"><![CDATA[Time between Uptop threads / resources, set 0 to disable, recommend: 24]]></phrase>
   <phrase title="option_explain.xv_user_control_panel" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Displays the User Control Panel at the top of the Forum Sidebar]]></phrase>
   <phrase title="option_explain.xv_user_reputation_banner" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Add user reputation banner, score is calculated based on number of posts, resources, question solution, reaction, trophy...<br />
@@ -12979,6 +12994,7 @@ Callback arguments:
   <phrase title="permission.dbtech_shop_viewModerated" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[View unapproved items]]></phrase>
   <phrase title="permission.dbtech_shop_warn" addon_id="DBTech/Shop" version_id="906010011" version_string="6.1.0 Alpha 1"><![CDATA[Give warnings on items]]></phrase>
   <phrase title="permission.forum_approveUnapprove" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[核准 / 撤銷 指定的 主題 / 文章]]></phrase>
+  <phrase title="permission.forum_bypass_hide_content" addon_id="XV" version_id="2260" version_string="2.2.6"><![CDATA[Bypass hide thread content feature]]></phrase>
   <phrase title="permission.forum_bypass_redirect_captcha" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Bypass captcha for redirect page]]></phrase>
   <phrase title="permission.forum_changePostDate" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Can change post date]]></phrase>
   <phrase title="permission.forum_changePostOwner" addon_id="TickTackk/ChangeContentOwner" version_id="2001370" version_string="2.0.13"><![CDATA[Can change post owner]]></phrase>
@@ -12989,7 +13005,6 @@ Callback arguments:
   <phrase title="permission.forum_deleteAnyThread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[刪除所有主題]]></phrase>
   <phrase title="permission.forum_deleteOwnPost" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[刪除自己的文章]]></phrase>
   <phrase title="permission.forum_deleteOwnThread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[刪除自己的主題]]></phrase>
-  <phrase title="permission.forum_disable_adblock_forum" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Disable smart ad blocker detection]]></phrase>
   <phrase title="permission.forum_disable_forum_ad" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Disable auto Ads for forum & redirect page]]></phrase>
   <phrase title="permission.forum_editAnyPost" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[編輯所有文章]]></phrase>
   <phrase title="permission.forum_editOwnPost" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[編輯自己的文章]]></phrase>
@@ -13026,7 +13041,7 @@ Callback arguments:
   <phrase title="permission.forum_viewOthers" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[檢視其他人的主題]]></phrase>
   <phrase title="permission.forum_votePoll" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[表決投票]]></phrase>
   <phrase title="permission.forum_warn" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[發送警告到指定文章]]></phrase>
-  <phrase title="permission.forum_xv_bypass_like_view" addon_id="XV" version_id="2001" version_string="2.0.0 (Final)"><![CDATA[[Limit] Bypass Like to download attachments, view Code tag]]></phrase>
+  <phrase title="permission.forum_xv_bypass_like_view" addon_id="XV" version_id="2260" version_string="2.2.6"><![CDATA[[Limit] Bypass Like to download, view Code tag]]></phrase>
   <phrase title="permission.forum_xv_limit_download_count" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[[Limit] Number of attachments that can be downloaded]]></phrase>
   <phrase title="permission.forum_xv_limit_download_time" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[[Limit] Cycle time for limit (hours, max 720)]]></phrase>
   <phrase title="permission.forum_xv_reduce_wait_time" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[[Limit] Reduce wait time between downloads (-minutes)]]></phrase>
@@ -13112,12 +13127,12 @@ Callback arguments:
   <phrase title="permission.profilePost_warn" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[發送警告到指定的個人動態]]></phrase>
   <phrase title="permission.resource_add" addon_id="XFRM" version_id="2000270" version_string="2.0.2"><![CDATA[創建資源]]></phrase>
   <phrase title="permission.resource_approveUnapprove" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Approve / unapprove resources]]></phrase>
+  <phrase title="permission.resource_bypass_hide_content" addon_id="XV" version_id="2260" version_string="2.2.6"><![CDATA[Bypass hide resource content feature]]></phrase>
   <phrase title="permission.resource_bypass_redirect_captcha" addon_id="XV" version_id="2020" version_string="2.0.2"><![CDATA[Bypass captcha for redirect page]]></phrase>
   <phrase title="permission.resource_contentVote" addon_id="XFRM" version_id="2020010" version_string="2.2.0 Alpha"><![CDATA[Vote on resource reviews]]></phrase>
   <phrase title="permission.resource_deleteAny" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Delete any resources]]></phrase>
   <phrase title="permission.resource_deleteAnyReview" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Delete any resource reviews]]></phrase>
   <phrase title="permission.resource_deleteOwn" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Delete own resources]]></phrase>
-  <phrase title="permission.resource_disable_adblock_resource" addon_id="XV" version_id="2020" version_string="2.0.2"><![CDATA[Disable smart ad blocker detection]]></phrase>
   <phrase title="permission.resource_disable_resource_ad" addon_id="XV" version_id="2020" version_string="2.0.2"><![CDATA[Disable auto Ads for resource & redirect page]]></phrase>
   <phrase title="permission.resource_discount" addon_id="MJ/ResourceCreditsPayment" version_id="1000600" version_string="1.0.6"><![CDATA[可优惠自己资源]]></phrase>
   <phrase title="permission.resource_download" addon_id="XFRM" version_id="2000270" version_string="2.0.2"><![CDATA[下載資源]]></phrase>
@@ -13148,7 +13163,7 @@ Callback arguments:
   <phrase title="permission.resource_viewModerated" addon_id="XFRM" version_id="2000035" version_string="2.0.0 Beta 5"><![CDATA[View unapproved resources]]></phrase>
   <phrase title="permission.resource_viewUpdateAttach" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[View resource images]]></phrase>
   <phrase title="permission.resource_warn" addon_id="XFRM" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[Give warnings on resources]]></phrase>
-  <phrase title="permission.resource_xv_bypass_like_view" addon_id="XV" version_id="2020" version_string="2.0.2"><![CDATA[[Limit] Bypass Like to download resources, view Code tag]]></phrase>
+  <phrase title="permission.resource_xv_bypass_like_view" addon_id="XV" version_id="2260" version_string="2.2.6"><![CDATA[[Limit] Bypass Like to download, view Code tag]]></phrase>
   <phrase title="permission.resource_xv_limit_download_count" addon_id="XV" version_id="2020" version_string="2.0.2"><![CDATA[[Limit] Number of attachments that can be downloaded]]></phrase>
   <phrase title="permission.resource_xv_limit_download_time" addon_id="XV" version_id="2020" version_string="2.0.2"><![CDATA[[Limit] Cycle time for limit (hours, max 720)]]></phrase>
   <phrase title="permission.resource_xv_reduce_wait_time" addon_id="XV" version_id="2020" version_string="2.0.2"><![CDATA[[Limit] Reduce wait time between downloads (-minutes)]]></phrase>
@@ -13272,8 +13287,8 @@ Callback arguments:
   <phrase title="permission_interface.th_uix" addon_id="ThemeHouse/UIX" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[UI.X Permissions]]></phrase>
   <phrase title="permission_interface.th_unco" addon_id="ThemeHouse/UserNameColor" version_id="1000170" version_string="1.0.1"><![CDATA[[OzzModz] User Name Color permissions]]></phrase>
   <phrase title="permission_interface.widgetTabs" addon_id="BassMan/WidgetTabs" version_id="1000170" version_string="1.0.1"><![CDATA[[cXF] Widget Tabs]]></phrase>
-  <phrase title="permission_interface.xv_0_forum" addon_id="XV" version_id="2060" version_string="2.0.6"><![CDATA[[XenVn] Forum Limit]]></phrase>
-  <phrase title="permission_interface.xv_1_resource" addon_id="XV" version_id="2060" version_string="2.0.6"><![CDATA[[XenVn] Resource Limit]]></phrase>
+  <phrase title="permission_interface.xv_0_forum" addon_id="XV" version_id="2260" version_string="2.2.6"><![CDATA[[XenVn] Forum Permissions]]></phrase>
+  <phrase title="permission_interface.xv_1_resource" addon_id="XV" version_id="2260" version_string="2.2.6"><![CDATA[[XenVn] Resource Permissions]]></phrase>
   <phrase title="permission_interface_group_ids_must_be_unique" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[權限介面群組 ID 不能重複。指定的 ID 已經使用在其他地方了。]]></phrase>
   <phrase title="permission_limit" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[權限限制]]></phrase>
   <phrase title="permission_limit_explain" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[如果在此設定權限，擁有該權限的會員才會顯示此狀態。]]></phrase>
@@ -14128,6 +14143,7 @@ Note: You must choose "reCAPTCHA v2" as the type when creating the key. If you w
   <phrase title="resource_prefix.142" addon_id="" version_id="0" version_string=""><![CDATA[PNX2]]></phrase>
   <phrase title="resource_prefix.143" addon_id="" version_id="0" version_string=""><![CDATA[Allay]]></phrase>
   <phrase title="resource_prefix.144" addon_id="" version_id="0" version_string=""><![CDATA[Dragonfly]]></phrase>
+  <phrase title="resource_prefix.145" addon_id="" version_id="0" version_string=""><![CDATA[二次开发]]></phrase>
   <phrase title="resource_prefix.22" addon_id="" version_id="0" version_string=""><![CDATA[插件]]></phrase>
   <phrase title="resource_prefix.23" addon_id="" version_id="0" version_string=""><![CDATA[内核]]></phrase>
   <phrase title="resource_prefix.24" addon_id="" version_id="0" version_string=""><![CDATA[軟件資源]]></phrase>
@@ -14235,6 +14251,7 @@ Note: You must choose "reCAPTCHA v2" as the type when creating the key. If you w
   <phrase title="resource_prefix_desc.142" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_desc.143" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_desc.144" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="resource_prefix_desc.145" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_desc.22" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_desc.23" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_desc.24" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -14306,7 +14323,7 @@ Note: You must choose "reCAPTCHA v2" as the type when creating the key. If you w
   <phrase title="resource_prefix_group.15" addon_id="" version_id="0" version_string=""><![CDATA[Java插件类型]]></phrase>
   <phrase title="resource_prefix_group.16" addon_id="" version_id="0" version_string=""><![CDATA[JAVA单机]]></phrase>
   <phrase title="resource_prefix_group.17" addon_id="" version_id="0" version_string=""><![CDATA[JE模组]]></phrase>
-  <phrase title="resource_prefix_group.18" addon_id="" version_id="0" version_string=""><![CDATA[来源]]></phrase>
+  <phrase title="resource_prefix_group.18" addon_id="" version_id="0" version_string=""><![CDATA[来源（纯转载资源勿选）]]></phrase>
   <phrase title="resource_prefix_group.19" addon_id="" version_id="0" version_string=""><![CDATA[收费状况]]></phrase>
   <phrase title="resource_prefix_group.20" addon_id="" version_id="0" version_string=""><![CDATA[是否开源]]></phrase>
   <phrase title="resource_prefix_group.21" addon_id="" version_id="0" version_string=""><![CDATA[Java多人游戏其他资源]]></phrase>
@@ -14363,6 +14380,7 @@ Note: You must choose "reCAPTCHA v2" as the type when creating the key. If you w
   <phrase title="resource_prefix_help.142" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_help.143" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_help.144" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="resource_prefix_help.145" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_help.22" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_help.23" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="resource_prefix_help.24" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -17086,6 +17104,13 @@ Use the following code in your "message_macros" template:<br>
   <phrase title="svSearchConstraint.users" addon_id="SV/SearchImprovements" version_id="2060300" version_string="2.6.3"><![CDATA[Users: {value}]]></phrase>
   <phrase title="svSearchImprov_lower_bound" addon_id="SV/SearchImprovements" version_id="2080400" version_string="2.8.4"><![CDATA[At least]]></phrase>
   <phrase title="svSearchImprov_reply_count" addon_id="SV/SearchImprovements" version_id="2080400" version_string="2.8.4"><![CDATA[Reply count]]></phrase>
+  <phrase title="svSearchImprov_search_boost_default" addon_id="SV/SearchImprovements" version_id="1735942965" version_string="2.17.0"><![CDATA[Default: {value}]]></phrase>
+  <phrase title="svSearchImprov_search_boost_key.default" addon_id="SV/SearchImprovements" version_id="1735942965" version_string="2.17.0"><![CDATA[Default field boost]]></phrase>
+  <phrase title="svSearchImprov_search_boost_key.exact" addon_id="SV/SearchImprovements" version_id="1735942965" version_string="2.17.0"><![CDATA[Exact field boost]]></phrase>
+  <phrase title="svSearchImprov_search_boost_key.ngram" addon_id="SV/SearchImprovements" version_id="1735942965" version_string="2.17.0"><![CDATA[Ngram field boost]]></phrase>
+  <phrase title="svSearchImprov_search_boost_key.prefix" addon_id="SV/SearchImprovements" version_id="1735942965" version_string="2.17.0"><![CDATA[Prefix match boost]]></phrase>
+  <phrase title="svSearchImprov_search_boost_key.prefix_default" addon_id="SV/SearchImprovements" version_id="1735942965" version_string="2.17.0"><![CDATA[Prefix default field boost]]></phrase>
+  <phrase title="svSearchImprov_search_boost_key.prefix_exact" addon_id="SV/SearchImprovements" version_id="1735942965" version_string="2.17.0"><![CDATA[Prefix exact field boost]]></phrase>
   <phrase title="svSearchImprov_search_container.conversation" addon_id="SV/SearchImprovements" version_id="1683240420" version_string="2.10.2"><![CDATA[Search titles and first messages only]]></phrase>
   <phrase title="svSearchImprov_search_container.thread" addon_id="SV/SearchImprovements" version_id="1683240420" version_string="2.10.2"><![CDATA[Search titles and first posts only]]></phrase>
   <phrase title="svSearchImprov_search_container.x_only" addon_id="SV/SearchImprovements" version_id="1683240420" version_string="2.10.2"><![CDATA[Search {containerType} only]]></phrase>
@@ -17674,6 +17699,7 @@ For example: if you set "orange" as a class on a category, each forum within tha
   <phrase title="this_template_does_not_have_parent_version" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[此範本沒有上級版本。]]></phrase>
   <phrase title="this_template_modification_does_not_match_any_templates" addon_id="XF" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[此範本修改與任何範本都不相符。]]></phrase>
   <phrase title="this_thread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[此主題]]></phrase>
+  <phrase title="this_thread_is_not_your_own_x" addon_id="DBTech/Shop" version_id="907000470" version_string="7.0.4"><![CDATA[此主题{thread_id}不是您的。这个道具仅用于自己的主题。]]></phrase>
   <phrase title="this_tool_helps_diagnose_errors_relating_to_url_unfurl_system" addon_id="XF" version_id="2010010" version_string="2.1.0 Alpha"><![CDATA[This tool helps diagnose errors relating to the URL unfurl system including which metadata can be fetched.]]></phrase>
   <phrase title="this_uniquely_identify_this_tag_in_url" addon_id="XF" version_id="1050010" version_string="1.5.0 Alpha"><![CDATA[此會用來當作唯一識別代號。只能輸入 a-z、0-9、 - 與 _。留空則會由系統自動產生。]]></phrase>
   <phrase title="this_user_is_already_banned" addon_id="XF" version_id="0" version_string=""><![CDATA[此會員已被封鎖。請改以修改或刪除封鎖紀錄。]]></phrase>
@@ -17799,6 +17825,13 @@ Please confirm that you are moving the thread to the correct forum.]]></phrase>
   <phrase title="thread_prefix.118" addon_id="" version_id="0" version_string=""><![CDATA[实习公示期]]></phrase>
   <phrase title="thread_prefix.119" addon_id="" version_id="0" version_string=""><![CDATA[站务探讨]]></phrase>
   <phrase title="thread_prefix.120" addon_id="" version_id="0" version_string=""><![CDATA[未过审]]></phrase>
+  <phrase title="thread_prefix.121" addon_id="" version_id="0" version_string=""><![CDATA[时评]]></phrase>
+  <phrase title="thread_prefix.122" addon_id="" version_id="0" version_string=""><![CDATA[官方博文]]></phrase>
+  <phrase title="thread_prefix.123" addon_id="" version_id="0" version_string=""><![CDATA[周边信息]]></phrase>
+  <phrase title="thread_prefix.124" addon_id="" version_id="0" version_string=""><![CDATA[更新报告]]></phrase>
+  <phrase title="thread_prefix.125" addon_id="" version_id="0" version_string=""><![CDATA[爆料]]></phrase>
+  <phrase title="thread_prefix.127" addon_id="" version_id="0" version_string=""><![CDATA[块讯]]></phrase>
+  <phrase title="thread_prefix.128" addon_id="" version_id="0" version_string=""><![CDATA[社区资讯]]></phrase>
   <phrase title="thread_prefix.20" addon_id="" version_id="0" version_string=""><![CDATA[资源]]></phrase>
   <phrase title="thread_prefix.31" addon_id="" version_id="0" version_string=""><![CDATA[更新日志]]></phrase>
   <phrase title="thread_prefix.32" addon_id="" version_id="0" version_string=""><![CDATA[Bug反馈]]></phrase>
@@ -17881,6 +17914,13 @@ Please confirm that you are moving the thread to the correct forum.]]></phrase>
   <phrase title="thread_prefix_desc.118" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_desc.119" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_desc.120" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="thread_prefix_desc.121" addon_id="" version_id="0" version_string=""><![CDATA[针对Minecraft近期热点事件进行评价与梳理的内容。]]></phrase>
+  <phrase title="thread_prefix_desc.122" addon_id="" version_id="0" version_string=""><![CDATA[从Minecraft.net翻译的官方文章，同时包含创艺文章和技术文章。]]></phrase>
+  <phrase title="thread_prefix_desc.123" addon_id="" version_id="0" version_string=""><![CDATA[与Minecraft并无强正相关，但仍然与Mojang等与Minecraft有关的组织、实体、个人与项目的内容，包括但不限于Mojang人事变动、抽奖信息、周边产品等。]]></phrase>
+  <phrase title="thread_prefix_desc.124" addon_id="" version_id="0" version_string=""><![CDATA[包含Minecraft Java版与基岩版的更新内容报告。不包含版本预告。]]></phrase>
+  <phrase title="thread_prefix_desc.125" addon_id="" version_id="0" version_string=""><![CDATA[包括但不限于泄露内容等 Mojang 未官方公布但已经有较为可信的爆料来源进行发布的内容。]]></phrase>
+  <phrase title="thread_prefix_desc.127" addon_id="" version_id="0" version_string=""><![CDATA[绝大多数与Minecraft直接相关的新闻资讯应当被归类至此，包括但不限于Minecraft Live、版本预告或功能更改等内容]]></phrase>
+  <phrase title="thread_prefix_desc.128" addon_id="" version_id="0" version_string=""><![CDATA[与Minecraft并无强正相关，但对Minecraft社区具有巨大影响力的内容。包括但不限于重点功能关闭、第三方内容创作社区关闭，模组加载器分叉等。]]></phrase>
   <phrase title="thread_prefix_desc.20" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_desc.31" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_desc.32" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -17981,6 +18021,13 @@ Please confirm that you are moving the thread to the correct forum.]]></phrase>
   <phrase title="thread_prefix_help.118" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_help.119" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_help.120" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="thread_prefix_help.121" addon_id="" version_id="0" version_string=""><![CDATA[针对Minecraft近期热点事件进行评价与梳理的内容应当使用此前缀。完全是客观描述的内容请选其他标签。]]></phrase>
+  <phrase title="thread_prefix_help.122" addon_id="" version_id="0" version_string=""><![CDATA[从Minecraft.net翻译的官方文章，同时包含创艺文章和技术文章。]]></phrase>
+  <phrase title="thread_prefix_help.123" addon_id="" version_id="0" version_string=""><![CDATA[与Minecraft并无强正相关，但仍然与Mojang等与Minecraft有关的组织、实体、个人与项目的内容，包括但不限于Mojang人事变动、抽奖信息、周边产品等。]]></phrase>
+  <phrase title="thread_prefix_help.124" addon_id="" version_id="0" version_string=""><![CDATA[包含Minecraft Java版与基岩版的更新内容报告。不包含版本预告。]]></phrase>
+  <phrase title="thread_prefix_help.125" addon_id="" version_id="0" version_string=""><![CDATA[包括但不限于泄露内容等 Mojang 未官方公布但已有较为可靠的信源进行发布的内容。]]></phrase>
+  <phrase title="thread_prefix_help.127" addon_id="" version_id="0" version_string=""><![CDATA[绝大多数与Minecraft直接相关的新闻资讯应当被归类至此，包括但不限于Minecraft Live、版本预告或功能更改等内容]]></phrase>
+  <phrase title="thread_prefix_help.128" addon_id="" version_id="0" version_string=""><![CDATA[与Minecraft并无强正相关，但对Minecraft社区具有巨大影响力的内容。包括但不限于重点功能关闭、第三方内容创作社区关闭，模组加载器分叉等。]]></phrase>
   <phrase title="thread_prefix_help.20" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_help.31" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefix_help.32" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -18046,7 +18093,7 @@ Please confirm that you are moving the thread to the correct forum.]]></phrase>
   <phrase title="thread_prompt.1" addon_id="" version_id="0" version_string=""><![CDATA[发布宣传贴前请确认已认证阅读【服务器宣传版规】]]></phrase>
   <phrase title="thread_prompt.2" addon_id="" version_id="0" version_string=""><![CDATA[分享资源请前往【资源中心】噢~]]></phrase>
   <phrase title="thread_prompt.3" addon_id="" version_id="0" version_string=""><![CDATA[提问时请使用悬赏，而不是红包！]]></phrase>
-  <phrase title="thread_prompt.4" addon_id="" version_id="0" version_string=""><![CDATA[申请成为【指定板块名称】版主]]></phrase>
+  <phrase title="thread_prompt.4" addon_id="" version_id="0" version_string=""><![CDATA[申请成为【指定版块名称】版主]]></phrase>
   <phrase title="thread_prompt.default" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[主題標題]]></phrase>
   <phrase title="thread_prompt_group.1" addon_id="" version_id="0" version_string=""><![CDATA[服务器]]></phrase>
   <phrase title="thread_prompts" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[主題提示]]></phrase>
@@ -19089,6 +19136,7 @@ Select the updates you want to install below. The selected updates will be downl
   <phrase title="widget.newthreaf" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.online_list_online_statistics" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.onlineuser" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="widget.partner_list" addon_id="" version_id="0" version_string=""><![CDATA[合作伙伴]]></phrase>
   <phrase title="widget.post" addon_id="" version_id="0" version_string=""><![CDATA[回复]]></phrase>
   <phrase title="widget.sidebar_ads" addon_id="" version_id="0" version_string=""><![CDATA[侧边栏广告]]></phrase>
   <phrase title="widget.similar" addon_id="" version_id="0" version_string=""><![CDATA[相似主题]]></phrase>
@@ -19851,7 +19899,7 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xfrm_resource_field_desc.minewiki" addon_id="" version_id="0" version_string=""><![CDATA[在此处填入您的项目文档地址。若无请留空。]]></phrase>
   <phrase title="xfrm_resource_field_desc.mod_loader" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="xfrm_resource_field_desc.platform" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="xfrm_resource_field_desc.source" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="xfrm_resource_field_desc.source" addon_id="" version_id="0" version_string=""><![CDATA[请先阅读<a href=""https://www.minebbs.com/threads/minebbs.353/>【MineBBS 内容版权规范及界定原则】</a>并按标准确定内容版权类型。]]></phrase>
   <phrase title="xfrm_resource_field_desc.version_java" addon_id="" version_id="0" version_string=""><![CDATA[请自行填写您的互通资源支持的游戏版本，如【Java-1.19；基岩-1.20】]]></phrase>
   <phrase title="xfrm_resource_field_desc.versions" addon_id="" version_id="0" version_string=""><![CDATA[您的基岩版资源经测试适配的MC游戏版本，可多选]]></phrase>
   <phrase title="xfrm_resource_field_title.CoresSupported_BC" addon_id="" version_id="0" version_string=""><![CDATA[支持的核心（代理端）]]></phrase>
@@ -20036,7 +20084,7 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xs_message_on_ys_profile" addon_id="XF" version_id="2030010" version_string="2.3.0 Alpha"><![CDATA[{usernamePoster}'s message on {usernameReceiver}'s profile.]]></phrase>
   <phrase title="xs_reported_content" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[{name} 被檢舉的內容]]></phrase>
   <phrase title="xv_accepted_email_domains" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[Accepted email domains]]></phrase>
-  <phrase title="xv_adblock_text" addon_id="XV" global_cache="1" version_id="2060" version_string="2.0.6"><![CDATA[<b>[Ad Blocker Detected]</b><br />Please disable Ad Blocker or VPN, DNS. We only use friendly ads. Thanks!]]></phrase>
+  <phrase title="xv_adblock_text" addon_id="XV" global_cache="1" version_id="2250" version_string="2.2.5"><![CDATA[<b>[Ad Blocker Detected]</b><br />Please disable Ad Blocker or VPN, DNS. We only use friendly advertising. Thanks!]]></phrase>
   <phrase title="xv_auto_generate_description_tags" addon_id="XV" global_cache="1" version_id="2040" version_string="2.0.4"><![CDATA[Auto Generate Description Tags]]></phrase>
   <phrase title="xv_become_a_member_for_faster_access" addon_id="XV" global_cache="1" version_id="2100" version_string="2.1.0"><![CDATA[Become a member for faster access]]></phrase>
   <phrase title="xv_change_author_and_date_for_post" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[Change author and date for post]]></phrase>
@@ -20046,6 +20094,8 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xv_convert_external_images_x" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[Convert external images: ({count} / {total})]]></phrase>
   <phrase title="xv_current" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[Current]]></phrase>
   <phrase title="xv_dmca" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[DMCA Protect]]></phrase>
+  <phrase title="xv_downgrade_notice_admin" addon_id="XV" global_cache="1" version_id="2260" version_string="2.2.6"><![CDATA[User upgrade for <a href="{link}">{user}</a> has expired: {title}]]></phrase>
+  <phrase title="xv_downgrade_notice_user" addon_id="XV" global_cache="1" version_id="2260" version_string="2.2.6"><![CDATA[Your user upgrade has expired: <a href="{link}">{title}</a>]]></phrase>
   <phrase title="xv_download" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[Download]]></phrase>
   <phrase title="xv_download_file" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[Download file]]></phrase>
   <phrase title="xv_download_limit_x" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[Download limit ({count}/{total})]]></phrase>
@@ -20063,7 +20113,7 @@ For more details, please see our <a href="https://xenforo.com/community/forums/a
   <phrase title="xv_incorrect_captcha" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[Incorrect Captcha]]></phrase>
   <phrase title="xv_invalid_or_incorrect_time_format" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[Invalid or incorrect time format]]></phrase>
   <phrase title="xv_key" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[Key]]></phrase>
-  <phrase title="xv_last_thread_name" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[Last thread]]></phrase>
+  <phrase title="xv_last_thread_name" addon_id="XV" global_cache="1" version_id="2240" version_string="2.2.4"><![CDATA[Last threads]]></phrase>
   <phrase title="xv_latest_version" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[Latest version]]></phrase>
   <phrase title="xv_license" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[License]]></phrase>
   <phrase title="xv_license_error" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[<b>Copyright error!</b><br />
@@ -20075,10 +20125,12 @@ XenVn is a copyrighted add-on and is officially released at <a target="_blank" h
   <phrase title="xv_license_is_active" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[License is active! Thank you!]]></phrase>
   <phrase title="xv_license_log" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[XenVn License Log]]></phrase>
   <phrase title="xv_limit_download_log" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[XenVn Limit Download Log]]></phrase>
+  <phrase title="xv_login_admin_to_forum_first" addon_id="XV" global_cache="1" version_id="2260" version_string="2.2.6"><![CDATA[For security reasons, please log in with your admin account to the <a href="{url}">Forum</a> first!]]></phrase>
   <phrase title="xv_login_to_view" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[You must log in to view]]></phrase>
   <phrase title="xv_malware_scanner" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[XenVn Malware Scanner]]></phrase>
   <phrase title="xv_mention" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[Mention]]></phrase>
   <phrase title="xv_most_view_name" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[Most view]]></phrase>
+  <phrase title="xv_new_member_name" addon_id="XV" global_cache="1" version_id="2240" version_string="2.2.4"><![CDATA[New members]]></phrase>
   <phrase title="xv_other_version" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[Other version]]></phrase>
   <phrase title="xv_please_enter_your_license" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[Please enter your license user and license key for <b>XenVn</b> add-on<br />
 <i>[<a target="_blank" href="https://xenvn.com/account/license" title="Get it here">Get it here</a>] (Use your account on XenVn.Com), [<a href="?xv/setting" title="Go to settings">Go to settings</a>]</i>]]></phrase>
@@ -20106,14 +20158,15 @@ XenVn is a copyrighted add-on and is officially released at <a target="_blank" h
   <phrase title="xv_title_exists_x" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[Title already exists, please choose another name! <a target="_blank" href="{link}" title="Click to view">(Click to view)</a>.
 ]]></phrase>
   <phrase title="xv_title_length_min_3" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[Title length must be 3 characters or more]]></phrase>
+  <phrase title="xv_top_attachment_name" addon_id="XV" global_cache="1" version_id="2240" version_string="2.2.4"><![CDATA[Top attachments]]></phrase>
   <phrase title="xv_unable_to_perform" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[Unable to perform]]></phrase>
   <phrase title="xv_up_top_this_resource" addon_id="XV" global_cache="1" version_id="2050" version_string="2.0.5"><![CDATA[Up Top this Resource]]></phrase>
   <phrase title="xv_up_top_this_thread" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[Up Top this Thread]]></phrase>
   <phrase title="xv_update_attachment" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[Update Attachment]]></phrase>
   <phrase title="xv_update_resource" addon_id="XV" global_cache="1" version_id="2050" version_string="2.0.5"><![CDATA[Update resource]]></phrase>
   <phrase title="xv_update_thread" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[Update thread]]></phrase>
-  <phrase title="xv_upgrade_notice_admin" addon_id="XV" global_cache="1" version_id="2060" version_string="2.0.6"><![CDATA[<a href="{link}">{user}</a> has upgraded his account: {title}]]></phrase>
-  <phrase title="xv_upgrade_notice_user" addon_id="XV" global_cache="1" version_id="2060" version_string="2.0.6"><![CDATA[Thanks for upgrading your account: <a href="{link}">{title}</a>]]></phrase>
+  <phrase title="xv_upgrade_notice_admin" addon_id="XV" global_cache="1" version_id="2260" version_string="2.2.6"><![CDATA[<a href="{link}">{user}</a> has upgraded his account: {title} (Expires: {date})]]></phrase>
+  <phrase title="xv_upgrade_notice_user" addon_id="XV" global_cache="1" version_id="2260" version_string="2.2.6"><![CDATA[Thanks for upgrading your account: <a href="{link}">{title}</a> (Expires: {date})]]></phrase>
   <phrase title="xv_upgrade_your_account_for_faster_access" addon_id="XV" global_cache="1" version_id="2100" version_string="2.1.0"><![CDATA[Upgrade your account for faster access]]></phrase>
   <phrase title="xv_use_current_time" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[Use current time]]></phrase>
   <phrase title="xv_verified_member" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[Verified member]]></phrase>
@@ -20127,6 +20180,7 @@ XenVn is a copyrighted add-on and is officially released at <a target="_blank" h
   <phrase title="xv_you_can_only_create_x_item_in_24_hours" addon_id="XV" global_cache="1" version_id="2060" version_string="2.0.6"><![CDATA[You can only create {count} {item} in 24 hours]]></phrase>
   <phrase title="xv_you_cannot_remove_reactions_to_this_content" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[You cannot remove reactions to this content!]]></phrase>
   <phrase title="xv_you_do_not_have_permission_download" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[You do not have permission to download<br />Please upgrade your account]]></phrase>
+  <phrase title="xv_you_do_not_have_permission_view" addon_id="XV" global_cache="1" version_id="2240" version_string="2.2.4"><![CDATA[You do not have permission to view<br />Please upgrade your account]]></phrase>
   <phrase title="xv_you_have_received_a_new_conversation_x" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[You have received a new conversation: {title}, created by {user}.]]></phrase>
   <phrase title="xv_you_must_like_the_content_to_download" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[You must Like the content to download]]></phrase>
   <phrase title="xv_you_must_like_the_content_to_view" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[You must Like the content to view]]></phrase>
