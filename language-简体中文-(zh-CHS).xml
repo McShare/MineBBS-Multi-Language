@@ -3299,6 +3299,7 @@ Message: {message}]]></phrase>
   <phrase title="dbtech_shop_item_tag.18" addon_id="" version_id="0" version_string=""><![CDATA[使用紫水晶提升你的主题！]]></phrase>
   <phrase title="dbtech_shop_item_tag.19" addon_id="" version_id="0" version_string=""><![CDATA[让你的主题粉起来！]]></phrase>
   <phrase title="dbtech_shop_item_tag.2" addon_id="" version_id="0" version_string=""><![CDATA[轻松置顶你的服务器宣传贴！]]></phrase>
+  <phrase title="dbtech_shop_item_tag.20" addon_id="" version_id="0" version_string=""><![CDATA[提升他人主题！]]></phrase>
   <phrase title="dbtech_shop_item_tag.4" addon_id="" version_id="0" version_string=""><![CDATA[不用充VIP也可以更改用户名？来看看！]]></phrase>
   <phrase title="dbtech_shop_item_tag.6" addon_id="" version_id="0" version_string=""><![CDATA[创建属于自己的兴趣版块！]]></phrase>
   <phrase title="dbtech_shop_item_tag.7" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -9577,7 +9578,7 @@ Multiple styles can be combined.
   <phrase title="last_action" addon_id="XF" version_id="2001070" version_string="2.0.10"><![CDATA[最近操作]]></phrase>
   <phrase title="last_activity" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[最近来访]]></phrase>
   <phrase title="last_administrator_cannot_be_deleted" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[无法删除最后一个管理员。]]></phrase>
-  <phrase title="last_day" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[最后一天]]></phrase>
+  <phrase title="last_day" addon_id="XF" version_id="2030670" version_string="2.3.6"><![CDATA[昨天]]></phrase>
   <phrase title="last_edited" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[最后编辑]]></phrase>
   <phrase title="last_edited_by_moderator" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[最后由版主编辑于]]></phrase>
   <phrase title="last_login" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[最后登录]]></phrase>
@@ -9605,6 +9606,7 @@ Multiple styles can be combined.
   <phrase title="latest_activity" addon_id="XF" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[最新动态]]></phrase>
   <phrase title="latest_member" addon_id="XF" version_id="2020270" version_string="2.2.2"><![CDATA[最新用户]]></phrase>
   <phrase title="latest_threads" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[最新主题]]></phrase>
+  <phrase title="latest_update_is_moderated" addon_id="" version_id="0" version_string=""><![CDATA[此资源有更新正在审核。]]></phrase>
   <phrase title="latest_updates" addon_id="XF" version_id="2020770" version_string="2.2.7"><![CDATA[最近更新]]></phrase>
   <phrase title="latest_x" addon_id="XF" version_id="2020970" version_string="2.2.9"><![CDATA[{name}]]></phrase>
   <phrase title="learn_more" addon_id="XF" version_id="2020570" version_string="2.2.5"><![CDATA[了解更多]]></phrase>
@@ -9699,7 +9701,7 @@ Multiple styles can be combined.
   <phrase title="liamw_accountdelete_this_scheduled_account_deletion_cannot_be_cancelled_as_it_is_not_pending" addon_id="LiamW/AccountDelete" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[此计划的帐户删除无法取消，因为它不是待处理的。]]></phrase>
   <phrase title="liamw_accountdelete_user_deletion_log" addon_id="LiamW/AccountDelete" version_id="1010010" version_string="1.1.0 Alpha"><![CDATA[用户删除日志]]></phrase>
   <phrase title="liamw_accountdelete_why_you_deleting_your_account" addon_id="LiamW/AccountDelete" version_id="2000597" version_string="2.0.5 Patch Level 7"><![CDATA[请简要描述您想要注销账户的原因~]]></phrase>
-  <phrase title="liamw_accountdelete_you_cannot_delete_your_account" addon_id="LiamW/AccountDelete" version_id="1020031" version_string="1.2.0 Beta 1"><![CDATA[您无法删除您的帐户。这可能是由于您的帐户年龄、您发布的内容量或各种其他原因。请联系 Board 管理员以获取更多信息。]]></phrase>
+  <phrase title="liamw_accountdelete_you_cannot_delete_your_account" addon_id="LiamW/AccountDelete" version_id="2000597" version_string="2.0.5 Patch Level 7"><![CDATA[您无法删除您的帐户。这可能是由于您的帐户年龄、您发布的内容量或各种其他原因。请联系网站管理员以获取更多信息。]]></phrase>
   <phrase title="liamw_accountdelete_you_cannot_delete_your_account_as_you_have_recently_cancelled_pending" addon_id="LiamW/AccountDelete" version_id="2000597" version_string="2.0.5 Patch Level 7"><![CDATA[由于您近期撤销了一次注销申请，您将无法在三十天内再次申请注销账户噢~]]></phrase>
   <phrase title="liamw_accountdelete_you_cannot_delete_your_account_using_this_system_as_you_member_of" addon_id="LiamW/AccountDelete" version_id="2000597" version_string="2.0.5 Patch Level 7"><![CDATA[您无法使用此系统删除您的账户，因为您是管理团队成员。如果您想删除账户，请联系网站管理员。]]></phrase>
   <phrase title="liamw_accountdelete_you_viewing_these_options_via_add_on_link" addon_id="LiamW/AccountDelete" version_id="1010035" version_string="1.1.0 Beta 5"><![CDATA[您正在通过附加组件链接查看这些选项。要查看用户标准控件，您必须通过 <a href=“{groupLink}”>选项组访问选项</a>。]]></phrase>
@@ -10184,7 +10186,6 @@ Multiple styles can be combined.
   <phrase title="mjc_event" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[事件]]></phrase>
   <phrase title="mjc_event.10" addon_id="" version_id="0" version_string=""><![CDATA[收到支持]]></phrase>
   <phrase title="mjc_event.11" addon_id="" version_id="0" version_string=""><![CDATA[失去支持]]></phrase>
-  <phrase title="mjc_event.13" addon_id="" version_id="0" version_string=""><![CDATA[宣传服务器]]></phrase>
   <phrase title="mjc_event.16" addon_id="" version_id="0" version_string=""><![CDATA[回帖]]></phrase>
   <phrase title="mjc_event.19" addon_id="" version_id="0" version_string=""><![CDATA[主题被置顶]]></phrase>
   <phrase title="mjc_event.2" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -10234,6 +10235,7 @@ Multiple styles can be combined.
   <phrase title="mjc_event.80" addon_id="" version_id="0" version_string=""><![CDATA[版主津贴]]></phrase>
   <phrase title="mjc_event.83" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event.86" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="mjc_event.87" addon_id="" version_id="0" version_string=""><![CDATA[发布服务器宣传贴]]></phrase>
   <phrase title="mjc_event.9" addon_id="" version_id="0" version_string=""><![CDATA[发布新主题]]></phrase>
   <phrase title="mjc_event_attachment_extension_explain" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[列出允许应用于此事件的文件扩展名。在扩展之间使用空格或分行符。]]></phrase>
   <phrase title="mjc_event_def_desc.adjust" addon_id="MJ/Credits" version_id="1030500" version_string="1.3.5"><![CDATA[]]></phrase>
@@ -10432,6 +10434,7 @@ Multiple styles can be combined.
   <phrase title="mjc_event_desc.80" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_desc.83" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_desc.86" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
+  <phrase title="mjc_event_desc.87" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_desc.9" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="mjc_event_description_explain" addon_id="MJ/Credits" version_id="1000400" version_string="1.0.4"><![CDATA[你可以选择输入此活动的特定描述。 如果您未输入，则将显示系统默认说明。]]></phrase>
   <phrase title="mjc_event_state" addon_id="MJ/Credits" version_id="1000034" version_string="1.0.0"><![CDATA[事件状态]]></phrase>
@@ -11913,6 +11916,9 @@ Multiple styles can be combined.
   <phrase title="option.upgradeUserGroup" addon_id="CnXFans/RegisterSMS" version_id="1000300" version_string="1.0.3"><![CDATA[验证后加入用户组]]></phrase>
   <phrase title="option.upgrade_by_resources_count_downgrade_check" addon_id="DaXue/UpgradeByResourcesCount" version_id="1000000" version_string="1.0.0"><![CDATA[降级回撤]]></phrase>
   <phrase title="option.upgrade_by_resources_count_enabled_user_groups" addon_id="DaXue/UpgradeByResourcesCount" version_id="1000000" version_string="1.0.0"><![CDATA[适用用户组]]></phrase>
+  <phrase title="option.upgrade_by_resources_count_exclude_categories" addon_id="DaXue/UpgradeByResourcesCount" version_id="1000000" version_string="1.0.0"><![CDATA[排除资源类别]]></phrase>
+  <phrase title="option.upgrade_by_resources_count_groups_change_sender_id" addon_id="DaXue/UpgradeByResourcesCount" version_id="1000001" version_string="1.0.1"><![CDATA[通知发送者]]></phrase>
+  <phrase title="option.upgrade_by_resources_count_only_free" addon_id="DaXue/UpgradeByResourcesCount" version_id="1000001" version_string="1.0.1"><![CDATA[仅限免费资源]]></phrase>
   <phrase title="option.upgrade_by_resources_count_resource_count" addon_id="DaXue/UpgradeByResourcesCount" version_id="1000000" version_string="1.0.0"><![CDATA[升级所需的资源数量]]></phrase>
   <phrase title="option.upgrade_by_resources_count_upgrade_user_groups" addon_id="DaXue/UpgradeByResourcesCount" version_id="1000000" version_string="1.0.0"><![CDATA[目标用户组]]></phrase>
   <phrase title="option.upgrade_user_group" addon_id="CnXFans/EntranceExam" version_id="1000000" version_string="1.0.0"><![CDATA[升级用户组]]></phrase>
@@ -11991,6 +11997,7 @@ Multiple styles can be combined.
   <phrase title="option.xv_captcha_new_users" addon_id="XV" version_id="2180" version_string="2.1.8"><![CDATA[Force Captcha Validation For New Users]]></phrase>
   <phrase title="option.xv_cf_analytics" addon_id="XV" version_id="2130" version_string="2.1.3"><![CDATA[Cloudflare Web Analytics]]></phrase>
   <phrase title="option.xv_change_post" addon_id="XV" version_id="1920" version_string="1.9.2"><![CDATA[更改作者和日期]]></phrase>
+  <phrase title="option.xv_chunked_attachment_range" addon_id="XV" version_id="2340" version_string="2.3.4"><![CDATA[Chunked Attachment Range Support]]></phrase>
   <phrase title="option.xv_collapse_button" addon_id="XV" version_id="2220" version_string="2.2.2"><![CDATA[折叠节点，置顶主题]]></phrase>
   <phrase title="option.xv_colorful_editor" addon_id="XV" version_id="2250" version_string="2.2.5"><![CDATA[Add Colorful Editor Button]]></phrase>
   <phrase title="option.xv_convert_avif" addon_id="XV" version_id="2090" version_string="2.0.9"><![CDATA[Convert AVIF, JFIF To JPG / WEBP]]></phrase>
@@ -12003,6 +12010,16 @@ Multiple styles can be combined.
   <phrase title="option.xv_dmca" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[DMCA Badges ID]]></phrase>
   <phrase title="option.xv_domain_ex" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Exclude Domains]]></phrase>
   <phrase title="option.xv_email_whitelist" addon_id="XV" version_id="2180" version_string="2.1.8"><![CDATA[邮箱白名单]]></phrase>
+  <phrase title="option.xv_external_storage" addon_id="XV" version_id="2330" version_string="2.3.3"><![CDATA[Enable External Storage Connection]]></phrase>
+  <phrase title="option.xv_external_storage_category" addon_id="XV" version_id="2330" version_string="2.3.3"><![CDATA[Apply Forum / Resource]]></phrase>
+  <phrase title="option.xv_external_storage_cron" addon_id="XV" version_id="2330" version_string="2.3.3"><![CDATA[External Storage Cron Job]]></phrase>
+  <phrase title="option.xv_external_storage_ext" addon_id="XV" version_id="2330" version_string="2.3.3"><![CDATA[Apply Attachment Extensions]]></phrase>
+  <phrase title="option.xv_external_storage_key" addon_id="XV" version_id="2330" version_string="2.3.3"><![CDATA[Connection Key Code]]></phrase>
+  <phrase title="option.xv_external_storage_maxsize" addon_id="XV" version_id="2330" version_string="2.3.3"><![CDATA[Apply Maximum Attachment Size]]></phrase>
+  <phrase title="option.xv_external_storage_message" addon_id="XV" version_id="2330" version_string="2.3.3"><![CDATA[Apply Direct Message]]></phrase>
+  <phrase title="option.xv_external_storage_minsize" addon_id="XV" version_id="2330" version_string="2.3.3"><![CDATA[Apply Minimum Attachment Size]]></phrase>
+  <phrase title="option.xv_external_storage_profile" addon_id="XV" version_id="2340" version_string="2.3.4"><![CDATA[Apply Profile Post]]></phrase>
+  <phrase title="option.xv_external_storage_url" addon_id="XV" version_id="2330" version_string="2.3.3"><![CDATA[External Storage URL]]></phrase>
   <phrase title="option.xv_extra_mod" addon_id="XV" version_id="2120" version_string="2.1.2"><![CDATA[Extra Mods For XF]]></phrase>
   <phrase title="option.xv_force_like" addon_id="XV" version_id="2260" version_string="2.2.6"><![CDATA[Force Like]]></phrase>
   <phrase title="option.xv_forum_statistic" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Forum Statistics]]></phrase>
@@ -12753,6 +12770,9 @@ JS最近更新（Unix时间），更改后强制刷新 JS缓存，即使不更�
   <phrase title="option_explain.upgradeUserGroup" addon_id="CnXFans/RegisterSMS" version_id="1000300" version_string="1.0.3"><![CDATA[]]></phrase>
   <phrase title="option_explain.upgrade_by_resources_count_downgrade_check" addon_id="DaXue/UpgradeByResourcesCount" version_id="1000000" version_string="1.0.0"><![CDATA[在可见资源数少于指定数量时取消用户组。]]></phrase>
   <phrase title="option_explain.upgrade_by_resources_count_enabled_user_groups" addon_id="DaXue/UpgradeByResourcesCount" version_id="1000000" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="option_explain.upgrade_by_resources_count_exclude_categories" addon_id="DaXue/UpgradeByResourcesCount" version_id="1000000" version_string="1.0.0"><![CDATA[选择<strong>不</strong>计入资源数量的资源类别。]]></phrase>
+  <phrase title="option_explain.upgrade_by_resources_count_groups_change_sender_id" addon_id="DaXue/UpgradeByResourcesCount" version_id="1000001" version_string="1.0.1"><![CDATA[在此处输入通知发送者的用户id。用户组变更通知将以该用户的身份进行发送。为0则表示以系统身份发送。]]></phrase>
+  <phrase title="option_explain.upgrade_by_resources_count_only_free" addon_id="DaXue/UpgradeByResourcesCount" version_id="1000001" version_string="1.0.1"><![CDATA[仅统计无需现实货币购买的资源。]]></phrase>
   <phrase title="option_explain.upgrade_by_resources_count_resource_count" addon_id="DaXue/UpgradeByResourcesCount" version_id="1000000" version_string="1.0.0"><![CDATA[]]></phrase>
   <phrase title="option_explain.upgrade_by_resources_count_upgrade_user_groups" addon_id="DaXue/UpgradeByResourcesCount" version_id="1000000" version_string="1.0.0"><![CDATA[满足条件后升级到的用户组。]]></phrase>
   <phrase title="option_explain.upgrade_user_group" addon_id="CnXFans/EntranceExam" version_id="1000000" version_string="1.0.0"><![CDATA[满足得分后可升级的用户组。]]></phrase>
@@ -12838,6 +12858,7 @@ JS最近更新（Unix时间），更改后强制刷新 JS缓存，即使不更�
 <i>设置为 0 禁用，建议：1，（排除管理员和升级用户）</i>]]></phrase>
   <phrase title="option_explain.xv_cf_analytics" addon_id="XV" version_id="2200" version_string="2.2.0"><![CDATA[输入 Cloudflare Web Analytics Token 进行 Lazyload。获取方式： <i>Cloudflare -> Analytics & Logs -> Web Analytics -> Manage site -> JS Snippet（仅复制您的令牌代码）</i>]]></phrase>
   <phrase title="option_explain.xv_change_post" addon_id="XV" version_id="2220" version_string="2.2.2"><![CDATA[允许管理员和版主更改帖子作者和日期、资源日期]]></phrase>
+  <phrase title="option_explain.xv_chunked_attachment_range" addon_id="XV" version_id="2340" version_string="2.3.4"><![CDATA[Enable chunked attachment downloads with HTTP Range support, allowing users to resume and download files partially]]></phrase>
   <phrase title="option_explain.xv_collapse_button" addon_id="XV" version_id="2220" version_string="2.2.2"><![CDATA[添加按钮以折叠节点、置顶主题]]></phrase>
   <phrase title="option_explain.xv_colorful_editor" addon_id="XV" version_id="2300" version_string="2.3.0"><![CDATA[为编辑器工具栏中的按钮添加多种颜色，在XF 2.3深色模式下自动兼容颜色]]></phrase>
   <phrase title="option_explain.xv_convert_avif" addon_id="XV" version_id="2180" version_string="2.1.8"><![CDATA[自动将 AVIF、JFIF 格式图片转换为 JPG/WEBP（如果支持）]]></phrase>
@@ -12850,6 +12871,16 @@ JS最近更新（Unix时间），更改后强制刷新 JS缓存，即使不更�
   <phrase title="option_explain.xv_dmca" addon_id="XV" version_id="2180" version_string="2.1.8"><![CDATA[Allows administrators and moderators to enable DMCA badge. Enter your <a target="_blank" href="https://www.dmca.com/Badges.aspx">DMCA ID</a> code, leave blank to disable]]></phrase>
   <phrase title="option_explain.xv_domain_ex" addon_id="XV" version_id="2180" version_string="2.1.8"><![CDATA[排除重定向页面域名，不包含 www，每行一个域名，例如：xenvn.com]]></phrase>
   <phrase title="option_explain.xv_email_whitelist" addon_id="XV" version_id="2220" version_string="2.2.2"><![CDATA[将电子邮件域列入白名单，以逗号分隔，留空以禁用，例如：gmail.com，icloud.com，outlook.com]]></phrase>
+  <phrase title="option_explain.xv_external_storage" addon_id="XV" version_id="2330" version_string="2.3.3"><![CDATA[Download the <a href="?xv/external-storage&download=1" title="Download the storage.php file" download>storage.php</a> file, open it and set 2 parameters CONNECTION_KEY_CODE, FOLDER and then upload it to your external storage server at any location (the server must support PHP, you can rename the file). After completing the setup below, <a href="?xv/external-storage" target="_blank" title="Check connection to External Storage">click here to test the connection</a>]]></phrase>
+  <phrase title="option_explain.xv_external_storage_category" addon_id="XV" version_id="2330" version_string="2.3.3"><![CDATA[Select which forums / resources will use external storage]]></phrase>
+  <phrase title="option_explain.xv_external_storage_cron" addon_id="XV" version_id="2330" version_string="2.3.3"><![CDATA[Set up automatic processing every hour via cron job, or run manually at [XenVn] Rebuild Data Tool]]></phrase>
+  <phrase title="option_explain.xv_external_storage_ext" addon_id="XV" version_id="2330" version_string="2.3.3"><![CDATA[Select file formats for external storage]]></phrase>
+  <phrase title="option_explain.xv_external_storage_key" addon_id="XV" version_id="2330" version_string="2.3.3"><![CDATA[Generate a secure connection key, and you must also set it in the storage.php file (CONNECTION_KEY_CODE)]]></phrase>
+  <phrase title="option_explain.xv_external_storage_maxsize" addon_id="XV" version_id="2330" version_string="2.3.3"><![CDATA[Maximum attachment size for external storage]]></phrase>
+  <phrase title="option_explain.xv_external_storage_message" addon_id="XV" version_id="2330" version_string="2.3.3"><![CDATA[Use external storage for direct messages]]></phrase>
+  <phrase title="option_explain.xv_external_storage_minsize" addon_id="XV" version_id="2330" version_string="2.3.3"><![CDATA[Minimum attachment size for external storage]]></phrase>
+  <phrase title="option_explain.xv_external_storage_profile" addon_id="XV" version_id="2340" version_string="2.3.4"><![CDATA[Use external storage for profile post]]></phrase>
+  <phrase title="option_explain.xv_external_storage_url" addon_id="XV" version_id="2330" version_string="2.3.3"><![CDATA[The path to the storage.php file on your external storage server, which can be a domain name or an ip address. For example: https://your-storage.com/folder/storage.php]]></phrase>
   <phrase title="option_explain.xv_extra_mod" addon_id="XV" version_id="2180" version_string="2.1.8"><![CDATA[自定义优化 XF 的集合，与默认样式兼容，可能不兼容某些主题]]></phrase>
   <phrase title="option_explain.xv_force_like" addon_id="XV" version_id="2260" version_string="2.2.6"><![CDATA[Force users to Like to download attachments, view BBCode Code tag and prevents reaction removal]]></phrase>
   <phrase title="option_explain.xv_forum_statistic" addon_id="XV" version_id="2000" version_string="2.0.0"><![CDATA[Display forum statistics at top forum page, set 0 to disable, recommend: 10]]></phrase>
@@ -13352,7 +13383,7 @@ If you change the <b>User groups: Display styling priority</b> setting, you need
   <phrase title="permission.forum_lockUnlockThread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[锁定/解锁主题]]></phrase>
   <phrase title="permission.forum_manageAnyTag" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[管理任何标签]]></phrase>
   <phrase title="permission.forum_manageAnyThread" addon_id="XF" version_id="2000010" version_string="2.0.0 Alpha"><![CDATA[管理任何主题（移动、合并等）]]></phrase>
-  <phrase title="permission.forum_manageIndexing" addon_id="XF" version_id="2030170" version_string="2.3.1"><![CDATA[Manage thread search engine indexing]]></phrase>
+  <phrase title="permission.forum_manageIndexing" addon_id="XF" version_id="2030670" version_string="2.3.6"><![CDATA[管理主题搜索引擎索引]]></phrase>
   <phrase title="permission.forum_manageOthersTagsOwnThread" addon_id="XF" version_id="2021370" version_string="2.2.13"><![CDATA[让他人管理自己资源中的标签]]></phrase>
   <phrase title="permission.forum_mandatorySMS" addon_id="CnXFans/RegisterSMS" version_id="1000300" version_string="1.0.3"><![CDATA[发帖需认证手机号]]></phrase>
   <phrase title="permission.forum_markSolution" addon_id="XF" version_id="2021171" version_string="2.2.11"><![CDATA[将帖子标记为自己的问题主题的解决方案（适用时）]]></phrase>
@@ -13510,7 +13541,7 @@ If you change the <b>User groups: Display styling priority</b> setting, you need
   <phrase title="permission.resource_view" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[查看资源]]></phrase>
   <phrase title="permission.resource_viewDeleted" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[查看删除的资源]]></phrase>
   <phrase title="permission.resource_viewModerated" addon_id="XFRM" version_id="2020570" version_string="2.2.5"><![CDATA[查看待审资源]]></phrase>
-  <phrase title="permission.resource_viewUpdateAttach" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[查看资源图片]]></phrase>
+  <phrase title="permission.resource_viewUpdateAttach" addon_id="XFRM" version_id="2030570" version_string="2.3.5"><![CDATA[查看资源图片]]></phrase>
   <phrase title="permission.resource_warn" addon_id="XFRM" version_id="2000031" version_string="2.0.0 Beta 1"><![CDATA[对资源发出警告]]></phrase>
   <phrase title="permission.resource_xv_bypass_like_view" addon_id="XV" version_id="2220" version_string="2.2.2"><![CDATA[[限制] 绕过点赞下载资源，查看代码标签]]></phrase>
   <phrase title="permission.resource_xv_limit_download_count" addon_id="XV" version_id="2020" version_string="2.0.2"><![CDATA[[Limit] Number of attachments that can be downloaded]]></phrase>
@@ -18545,6 +18576,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="trophy_description.3" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="trophy_description.30" addon_id="" version_id="0" version_string=""><![CDATA[累计获得10个采纳解答]]></phrase>
   <phrase title="trophy_description.31" addon_id="" version_id="0" version_string=""><![CDATA[或许这样说不太合适，但你也算是一个老古董了！]]></phrase>
+  <phrase title="trophy_description.32" addon_id="" version_id="0" version_string=""><![CDATA[感谢您陪伴MineBBS的十年！]]></phrase>
   <phrase title="trophy_description.6" addon_id="" version_id="0" version_string=""><![CDATA[你的信息已经被人赞了50次。]]></phrase>
   <phrase title="trophy_description.7" addon_id="" version_id="0" version_string=""><![CDATA[你发布的内容吸引了100个赞。]]></phrase>
   <phrase title="trophy_description.8" addon_id="" version_id="0" version_string=""><![CDATA[你的内容已经被喜欢250次了。]]></phrase>
@@ -18573,6 +18605,7 @@ To include only the URL query, use the <b>{query}</b> placeholder. ]]></phrase>
   <phrase title="trophy_title.3" addon_id="" version_id="0" version_string=""><![CDATA[停不下来了！]]></phrase>
   <phrase title="trophy_title.30" addon_id="" version_id="0" version_string=""><![CDATA[乐于助人]]></phrase>
   <phrase title="trophy_title.31" addon_id="" version_id="0" version_string=""><![CDATA[五年老用户啦！]]></phrase>
+  <phrase title="trophy_title.32" addon_id="" version_id="0" version_string=""><![CDATA[十年老古董]]></phrase>
   <phrase title="trophy_title.6" addon_id="" version_id="0" version_string=""><![CDATA[很喜欢你~]]></phrase>
   <phrase title="trophy_title.7" addon_id="" version_id="0" version_string=""><![CDATA[超级受欢迎！]]></phrase>
   <phrase title="trophy_title.8" addon_id="" version_id="0" version_string=""><![CDATA[人气明星~]]></phrase>
@@ -20453,7 +20486,7 @@ XenVn is a copyrighted add-on and is officially released at <a target="_blank" h
   <phrase title="xv_related_attachments" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[Related attachments]]></phrase>
   <phrase title="xv_reputation_x" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[Reputation: {percent}]]></phrase>
   <phrase title="xv_reputation_x_score_x" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[Reputation: {percent}, Total score: {score}]]></phrase>
-  <phrase title="xv_resource_image" addon_id="XV" global_cache="1" version_id="2220" version_string="2.2.2"><![CDATA[资源图片]]></phrase>
+  <phrase title="xv_resource_image" addon_id="XV" version_id="2320" version_string="2.3.2"><![CDATA[资源 Meta 图片]]></phrase>
   <phrase title="xv_retry_in_x" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[Retry in {time}]]></phrase>
   <phrase title="xv_schedule_publishing" addon_id="XV" global_cache="1" version_id="2050" version_string="2.0.5"><![CDATA[Schedule publishing]]></phrase>
   <phrase title="xv_search_in_this_category" addon_id="XV" version_id="2200" version_string="2.2.0"><![CDATA[在本分类中搜索……]]></phrase>
@@ -20473,8 +20506,8 @@ XenVn is a copyrighted add-on and is officially released at <a target="_blank" h
   <phrase title="xv_up_top_this_resource" addon_id="XV" global_cache="1" version_id="2220" version_string="2.2.2"><![CDATA[上浮该资源]]></phrase>
   <phrase title="xv_up_top_this_thread" addon_id="XV" version_id="1950" version_string="1.9.5"><![CDATA[上浮该主题]]></phrase>
   <phrase title="xv_update_attachment" addon_id="XV" global_cache="1" version_id="2000" version_string="2.0.0"><![CDATA[Update Attachment]]></phrase>
-  <phrase title="xv_update_resource" addon_id="XV" global_cache="1" version_id="2220" version_string="2.2.2"><![CDATA[升级资源]]></phrase>
-  <phrase title="xv_update_thread" addon_id="XV" version_id="1920" version_string="1.9.2"><![CDATA[更新主题]]></phrase>
+  <phrase title="xv_update_resource" addon_id="XV" version_id="2320" version_string="2.3.2"><![CDATA[更新资源SEO信息]]></phrase>
+  <phrase title="xv_update_thread" addon_id="XV" version_id="2320" version_string="2.3.2"><![CDATA[更新主题SEO信息]]></phrase>
   <phrase title="xv_upgrade_notice_admin" addon_id="XV" global_cache="1" version_id="2060" version_string="2.0.6"><![CDATA[<a href="{link}">{user}</a> has upgraded his account: {title}]]></phrase>
   <phrase title="xv_upgrade_notice_user" addon_id="XV" global_cache="1" version_id="2060" version_string="2.0.6"><![CDATA[Thanks for upgrading your account: <a href="{link}">{title}</a>]]></phrase>
   <phrase title="xv_upgrade_your_account_for_faster_access" addon_id="XV" global_cache="1" version_id="2100" version_string="2.1.0"><![CDATA[Upgrade your account for faster access]]></phrase>
